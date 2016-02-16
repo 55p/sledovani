@@ -1,0 +1,530 @@
+
+
+/* laky vozidel */
+.lakVozidla {
+  padding: 0.2ex 1ex;
+  display: inline-block;
+  margin-bottom: 0.3ex;
+}
+/*
+br + .lakVozidla {
+    margin-top: 0.5ex;
+}
+*/
+
+.najbrt2 {
+  color: white;
+  background-color: #28C8FD;
+}
+
+.najbrt2_sachy {
+  color: #001C9D;
+  background-color: #28C8FD;
+}
+
+.najbrt1 {
+  color: black;
+  background-color: #6D99CF;/*#4A81C4;*/
+}
+
+.najbrt1bila {
+  color: white;
+  background-color: #6D99CF;
+}
+
+.seda_lok {
+  color: black;
+  background-color: #E0E0E0;
+}
+
+.zelena_svetla {
+  color: #FCED87;
+  background-color: #2CC87C;
+  color: #FDF5C1;
+  background-color: #019C53;
+}
+
+.zelena_svetla_retro { /* 151 023 */
+  color: #FFED0F;
+  background-color: #019C53;
+  border-left: 1ex solid #FF8000;
+  border-right: 1ex solid #FF8000;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
+}
+
+.zelena_pruh { /*163 234*/
+  border-top: 0.6ex solid #FEFBC7;
+  border-bottom: 0.6ex solid #FEFBC7;
+  color: #F8DC16;
+  background-color: #219824;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.modre_eso {
+  background: #003584;
+  color: #FFF791;
+}
+
+.modre_eso_zluty_pruh {
+  background: #003584;
+  color: #F4D600;
+}
+
+.modre_eso_uzky_pruh {
+  background: #003584;
+  color: white;
+}
+
+.modre_eso_svetly_pruh {
+  border-top: 0.6ex solid #97D2FF;
+  border-bottom: 0.6ex solid #97D2FF;
+  
+  padding-top: 0;
+  padding-bottom: 0;
+  
+  background: #003584;
+  color: #FFF791;
+}
+.retro_eso {
+  background: #FFA953;
+  color: #001C9D;
+}
+.eso_okay {
+  background: #1573FF;
+  color: white;
+}
+.eso_slovenska_pojistovna {
+  color: #003584;
+  background: white;
+  border-bottom: 0.6ex solid #003584;
+  padding-bottom: 0;
+}
+.eso_euro {
+  background: #F06D4D;
+  color: white;
+}
+.eso_078 {
+  color: #039AD3;
+  background: #FBE64D;
+}
+
+.euro2012 {
+  color: #000080;
+  background-color: #FF0000;
+}
+.euro2012_380 {
+/*
+  color: #fff;
+  background-color: #FF0000;
+  */
+  color: #006;
+  background-color: #FF6C6C;
+  /*color: #016BBA ;*/
+  
+  background: #D50000;
+  color: #9FCBFF;
+}
+
+.nostalgicka_380 {
+  color: #7A9CEB;
+  background-color: #ededed;
+}
+
+.blonski {
+  color: #fff;
+  background-color: #FF0000;
+}
+
+.kakadu {
+  color: #fff;
+  background-color: #2361C7;
+}
+
+.gorila_retro {
+  color: #fff;
+  background-color: #868686;
+}
+
+.gorila_retro_hugo {
+  background-color: #04ABFB;
+  color: #EFE976;
+}
+
+.zelena {
+  color: #F8DC16;
+  background-color: #005900;
+}
+.zelena_pastelova { /*zssk*/
+  color: #FBEA4F;
+  background-color: #01AD4F;
+}
+
+.cez {
+  color: #E0E0E0;
+  background-color: #FF8000;
+}
+
+.sysel_pruh {
+  border-top: 0.4ex solid #0C3A94;
+  padding-top: 0;
+}
+
+.cyklohracek {
+  color: #FFFFFF;
+  background-color: #5BD23E;
+}
+
+.regionova {
+  color: #008000;
+  background-color: #FDF002;
+}
+.regionova_modra_polep {
+  color: #001C9D;
+  background-color: #28C8FD;
+  border-bottom: 0.5ex solid #001C9D;
+  padding-bottom: 0;
+}
+.regionova_modra {
+  color: #02ADE6;
+  background-color: white;
+  border-bottom: 0.5ex solid #001C9D;
+  padding-bottom: 0;
+  border-top: 0.5ex solid #28C8FD;
+  padding-top: 0;
+}
+
+
+.pendolino {
+  color: #FEF763;
+  background-color: #747474 ;
+  border-bottom: 0.5ex solid #75BAFF;
+  padding-bottom: 0;
+  border-top: 0.5ex solid #75BAFF;
+  padding-top: 0;
+}
+
+.postovka {
+  color: #DF0000;
+  background-color: #FEDF2E;
+}
+
+.sedy_pantograf {
+  color: #F2410D;
+  background-color: #C2CDCF;
+  border-top: 0.5ex solid #3F98BA;
+  padding-top: 0;
+  border-bottom: 0.5ex solid #3F98BA;
+  padding-bottom: 0;
+}
+
+.sedy_pantograf_prouzek {
+  color: #F2410D;
+  background-color: #C2CDCF;
+  border-top: 0.5ex solid #3F98BA;
+  padding-top: 0;
+  border-bottom: 0.5ex solid #3F98BA;
+  padding-bottom: 0;
+  border-left: 1ex solid #FFD540;
+}
+
+.sedy_pantograf_retro {
+  color: #35839F;
+  background-color: #C2CDCF;
+  border-top: 0.5ex solid #3F98BA;
+  padding-top: 0;
+  border-bottom: 0.5ex solid #3F98BA;
+  padding-bottom: 0;
+}
+
+.zbt_451001 {
+  background: #005575;
+  color: #FF7979;
+}
+.zbt_451025 {
+  background: #00FFFF;
+  color: #BF0000;
+}
+
+.cervena560 {
+  color: #FDF5C1;
+  background-color: #DD0000;
+}
+
+.sukafon_zluty_pruh {
+  color: #FED801;
+  background-color: #CC0909;
+}
+
+.sukafon_slon_pruh {
+  color: #FFF1A6;
+  background-color: #DC565C;
+}
+
+.sukafon_polomaceny {
+  color: #F8E8B8;
+  background-color: #A80004;
+  border-top: 0.6ex solid #F8BC07;
+  padding-top: 0;
+}
+
+.sukafon_najbrt2 {
+  border-top: 0.6ex solid #0C3A94;
+  padding-top: 0;
+  color: white;
+  background-color: #6D99CF;
+}
+
+.br_modry {
+  background: #003584;
+  color: #ddd;
+}
+.br_najbrt1_bily {
+  color: #338FDB;
+}
+
+.br_najbrt2 {
+  color: #1C2E4A;
+  background-color: #59A4E1;
+}
+
+.br_najbrt2_bily {
+  color: #fff;
+  background-color: #59A4E1;
+}
+
+.br_zeleny {
+  color: #1f753a;
+}
+
+.br_zeleny {
+  background-color: #019C53;
+  color: #fff;
+}
+
+.br_oranzovy {
+  background: #FFAC00;
+  color: #5C5C5C;
+}
+
+.br_zeleny_blesk {
+  background: #238341;
+  color: #e5e500;
+}
+
+.sportovni {
+  color: #e51616;
+  background: white;
+}
+
+.br_cerveny {
+  color: #e51616;
+}
+
+.br_rudy_blesk {
+  background: #FF5151;
+  color: #000;
+}
+
+.br_cerveny_pruh {
+  background: #e51616;
+  color: #ffcf17;
+}
+
+.br_modry_blesk {
+  background: #004DFF;
+  color: #FCDD03;
+} 
+
+.br_cerny {
+  background: #000;
+  color: #fff;
+}
+
+.br_svetle_modre {
+  color: #6493FF;
+  background: #FEF29C;
+}
+
+.kapsch {
+  color: #000;
+  background: #FEF218;
+}
+
+.taurus {
+  color: #000;
+  background: #FF4A4A;
+}
+
+.rj_obb {
+  color: #FF8484;
+  background: #303030;
+}
+
+.rj_cd {
+  color: #00f;
+  background-color: #28C8FD;
+}
+
+.leo_express {
+  background: #393C46;
+  color: #FFCA28;
+}
+
+.regiojet {
+  background: #FFC90F;
+  color: #075EC7;
+}
+.regiojet_italka {
+  border-left: 0.6ex solid red;
+  border-right: 0.6ex solid red;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
+  background: #FFC90F;
+  color: #0632C8;
+}
+.regiojet_193 {
+  border-left: 0.6ex solid black;
+  border-right: 0.6ex solid black;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
+  background: #FFC90F;
+  color: black;
+}
+.regiojet_193_zelena {
+  border-left: 1ex solid #00CA00;
+  border-right: 1ex solid #00CA00;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
+  background: #545454;
+  color: white;
+}
+.regiojet_193_bila {
+  background: white;
+  color: black;
+}
+
+.vlajka {
+  background: #0000A0;
+  color: #FF5353;
+}
+
+.bastard_kremovy {
+  background: #FF4646;
+  color: #FFF791;
+}
+
+.bastard_zluty {
+  background: #FF2B2B;
+  color: #F4D600;
+}
+
+.vt650_modre {
+  color: #FFE635;
+  background: #0000A0;
+}
+.vt650 {
+  background: #F9DA00;
+  color: #6E6E6E;
+}
+
+.motorak_najbrt {
+  color: white;
+  background-color: #6D99CF;
+}
+
+.motorak_najbrt_2 {
+  border-top: 0.6ex solid #0C3A94;
+  padding-top: 0;
+  color: white;
+  background-color: #6D99CF;
+}
+
+.motorak_kremovy {
+  color: #FFF1A6;
+  background-color: #DC565C;
+}
+.motorak_854_retro {
+  color: #DC565C;
+  background-color: #FFE682;
+}
+
+.elefant_2_cerveny {
+  background: #A7CDF3;
+  color: #FF0000;
+}
+
+.elefant_3_n1 {
+  color: white;
+  background-color: #6D99CF;
+}
+.elefant_4_n2 {
+  border-top: 0.6ex solid #0C3A94;
+  padding-top: 0;
+  color: white;
+  background-color: #6D99CF;
+}
+
+.elefant_4_polep {
+  background: #000080;
+  color: #FFFF00;
+}
+
+.vesela_krava {
+  background: #FF9F40;
+  background: #FF7040;
+  background: #FF7B4F; 
+  color: #0000A0;
+}
+
+.sukafon_cerveny_pismo {
+  color: #DD0000;
+}
+
+.sukafon_najbrt_pismo {
+  color: #0000DF ;
+}
+
+.plechac_oranzovy {
+  background: #E9A31F;
+  color: white;
+}
+.plechac_polomaceny {
+  background: #EBA930;
+  color: black;
+}
+.plechac_zlute_celo {
+  background: yellow;
+  color: red;
+}
+.plechac_prouzek {
+  background: red;
+  color: yellow;
+}
+
+
+.slon_ova_24 {
+  color: #ff00ff;
+}
+.slon_ova_25 {
+  color: #ff6600;
+}
+.slon_ova_35 {
+  color: #008000;
+}
+.slon_ova_54 {
+  color: #327dcc;
+}
+.slon_ova_55 {
+  color: #ff0000;
+}
+.slon_ova_56 {
+  color: #0000ff;
+}
+.slon_ova_57 {
+  color: #993366;
+}
+.slon_ova_58 {
+  color: #674ea7;
+}
