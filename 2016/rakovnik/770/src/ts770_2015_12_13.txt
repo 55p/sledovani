@@ -1,0 +1,8 @@
+1221pk: X6: Rakovník;5:16,Praha Masarykovo nádraží;6:46
+1232: X6: Praha Masarykovo nádraží;7:02,Rakovník;8:32
+1225pk: : Rakovník;9:22,Praha Masarykovo nádraží;10:52
+1228: : Praha Masarykovo nádraží;13:02,Rakovník;14:32
+1229pk: : Rakovník;15:22,Praha Masarykovo nádraží;16:52
+1224: : Praha Masarykovo nádraží;17:02,Rakovník;18:32
+1233pk: T: Rakovník;19:22,Praha Masarykovo nádraží;20:52
+1220: T: Praha Masarykovo nádraží;21:02,Rakovník;22:32

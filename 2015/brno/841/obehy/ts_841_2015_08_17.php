@@ -1,0 +1,103 @@
+<?php 
+$zacatekPlatnosti = '1.8.2015';
+$konecPlatnosti = null; //'x.x.201x 23:59:59';
+$obeh[1] = array('4823_1', '4808_1', '4876_1', '24881_1', '1869_1', '4831_1', '4808_2', '4813_1', '4840_1', '4847_1', '4840_2', '4847_2', '4850_1');
+$obeh[2] = array('4825_1', '4824_1', '4807_1', '4832_1', '4841_1', '4801_1', '4806_1', '4811_1', '4834_1', '4841_2', '4844_1', '4844_2');
+$obeh[3] = array('4829_1', '4826_1', '4833_1', '4826_2', '4833_2', '4810_1', '4879_1', '4815_1', '4815_2', '4848_1');
+
+$omezeni['1869_1'] = '6';
+$omezeni['24881_1'] = '6';
+$omezeni['4801_1'] = '25';
+$omezeni['4806_1'] = 'T';
+$omezeni['4807_1'] = 'X';
+$omezeni['4808_1'] = 'X';
+$omezeni['4808_2'] = '25';
+$omezeni['4811_1'] = 'T';
+$omezeni['4815_1'] = 'X';
+$omezeni['4815_2'] = '25';
+$omezeni['4823_1'] = 'X';
+$omezeni['4824_1'] = 'X';
+$omezeni['4825_1'] = 'X';
+$omezeni['4826_1'] = 'X';
+$omezeni['4826_2'] = '25';
+$omezeni['4831_1'] = 'T';
+$omezeni['4832_1'] = 'X';
+$omezeni['4833_1'] = 'X';
+$omezeni['4833_2'] = '25';
+$omezeni['4834_1'] = '25';
+$omezeni['4840_1'] = 'X';
+$omezeni['4840_2'] = '25';
+$omezeni['4841_1'] = 'X';
+$omezeni['4841_2'] = '25';
+$omezeni['4844_1'] = 'X1,X2,X3,X4,25';
+$omezeni['4844_2'] = 'X5';
+$omezeni['4847_1'] = 'X';
+$omezeni['4847_2'] = '25';
+$omezeni['4876_1'] = 'X';
+$omezeni['4879_1'] = 'X';
+
+$trasa['1869_1'] = array('Náměšť nad Oslavou;6:45', 'Brno hl.n.;7:37');
+$trasa['24881_1'] = array('Okříšky;5:52', 'Náměšť nad Oslavou;6:43');
+$trasa['4848_1'] = array('Brno hl.n.;18:39', 'Okříšky;20:34');
+$trasa['4801_1'] = array('Náměšť nad Oslavou;6:13', 'Brno hl.n.;7:10');
+$trasa['4806_1'] = array('Brno hl.n.;7:39', 'Jihlava;10:21');
+$trasa['4807_1'] = array('Třebíč;8:39', 'Brno hl.n.;10:12');
+$trasa['4808_1'] = array('Brno hl.n.;9:39', 'Třebíč;11:15');
+$trasa['4808_2'] = array('Brno hl.n.;9:39', 'Jihlava;12:21');
+$trasa['4810_1'] = array('Brno hl.n.;11:39', 'Jihlava;14:23');
+$trasa['4811_1'] = array('Jihlava;11:30', 'Brno hl.n.;14:14');
+$trasa['4813_1'] = array('Jihlava;13:30', 'Brno hl.n.;16:14');
+$trasa['4815_1'] = array('Třebíč;16:39', 'Brno hl.n.;18:14');
+$trasa['4815_2'] = array('Jihlava;15:30', 'Brno hl.n.;18:14');
+$trasa['4823_1'] = array('Okříšky;3:55', 'Brno hl.n.;5:37');
+$trasa['4824_1'] = array('Brno hl.n.;6:39', 'Třebíč;8:15');
+$trasa['4825_1'] = array('Náměšť nad Oslavou;5:08', 'Brno hl.n.;6:10');
+$trasa['4826_1'] = array('Brno hl.n.;8:39', 'Náměšť nad Oslavou;9:43');
+$trasa['4826_2'] = array('Brno hl.n.;8:39', 'Náměšť nad Oslavou;9:43');
+$trasa['4829_1'] = array('Náměšť nad Oslavou;7:13', 'Brno hl.n.;8:13');
+$trasa['4831_1'] = array('Okříšky;7:15', 'Brno hl.n.;9:13');
+$trasa['4832_1'] = array('Brno hl.n.;14:06', 'Náměšť nad Oslavou;15:11');
+$trasa['4833_1'] = array('Náměšť nad Oslavou;10:13', 'Brno hl.n.;11:12');
+$trasa['4833_2'] = array('Náměšť nad Oslavou;10:13', 'Brno hl.n.;11:12');
+$trasa['4834_1'] = array('Brno hl.n.;14:39', 'Náměšť nad Oslavou;15:43');
+$trasa['4840_1'] = array('Brno hl.n.;16:39', 'Náměšť nad Oslavou;17:43');
+$trasa['4840_2'] = array('Brno hl.n.;16:39', 'Náměšť nad Oslavou;17:43');
+$trasa['4841_1'] = array('Náměšť nad Oslavou;16:13', 'Brno hl.n.;17:14');
+$trasa['4841_2'] = array('Náměšť nad Oslavou;16:13', 'Brno hl.n.;17:14');
+$trasa['4844_1'] = array('Brno hl.n.;17:39', 'Náměšť nad Oslavou;18:44');
+$trasa['4844_2'] = array('Brno hl.n.;17:39', 'Třebíč;19:15');
+$trasa['4847_1'] = array('Náměšť nad Oslavou;18:13', 'Brno hl.n.;19:12');
+$trasa['4847_2'] = array('Náměšť nad Oslavou;18:13', 'Brno hl.n.;19:12');
+$trasa['4850_1'] = array('Brno hl.n.;19:39', 'Náměšť nad Oslavou;20:44');
+$trasa['4876_1'] = array('Třebíč;12:07', 'Jihlava;13:03');
+$trasa['4879_1'] = array('Jihlava;14:53', 'Třebíč;15:52');
+
+$poznamkaObehu[101722] = array('pk', 'postrk v úseku Uherské Hradiště - Veselí nad Moravou');
+$poznamkaObehu[101724] = array('pk', 'postrk');
+$poznamkaObehu[104314] = array('pk', 'postrk');
+$poznamkaObehu[12255] = array('pk', 'postrk');
+$poznamkaObehu[4303] = array('pk', 'postrk');
+$poznamkaObehu[4806] = array('pk', 'postrk');
+$poznamkaObehu[4808] = array('pk', 'postrk');
+$poznamkaObehu[4810] = array('pk', 'postrk');
+$poznamkaObehu[4824] = array('pk', 'postrk');
+$poznamkaObehu[4826] = array('pk', 'postrk');
+$poznamkaObehu[4832] = array('pk', 'postrk');
+$poznamkaObehu[4834] = array('pk', 'postrk');
+$poznamkaObehu[4840] = array('pk', 'postrk');
+$poznamkaObehu[4844] = array('pk', 'postrk');
+$poznamkaObehu[4848] = array('pk', 'postrk');
+$poznamkaObehu[4850] = array('pk', 'postrk');
+$poznamkaObehu[4876] = array('pk', 'postrk');
+
+@$ts841 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
+
+unset($obeh); 
+unset($trasa); 
+unset($omezeni); 
+unset($zacatekPlatnosti); 
+unset($konecPlatnosti);
+unset($poznamkaObehu);
+
+
+ ?>

@@ -1,0 +1,32 @@
+9801: X: Rakovník;5:41,Praha Masarykovo nádraží;7:35
+1650: X: Praha Masarykovo nádraží;16:23,Louny;18:25
+
+1651: X: Louny;5:29,Praha Masarykovo nádraží;7:32
+1894: X: Praha Masarykovo nádraží;18:02,Kladno-Ostrovec;18:49
+9877: X: Kladno-Ostrovec;19:21,Kladno;19:27
+
+19860pk: X: Kladno;6:21,Kladno-Dubí;6:35
+19861: X: Kladno-Dubí;6:55,Kladno;7:08
+1883: X: Kladno;7:15,Praha Masarykovo nádraží;7:52
+9011: X: Praha hl.n.;14:25,Čerčany;16:52
+9016: X: Čerčany;17:06,Praha hl.n.;19:21
+9850: 3112: Praha Masarykovo nádraží;20:30,Kladno;21:22
+1906: 23: Praha Masarykovo nádraží;21:02,Kladno;21:42
+
+19886: X: Kladno;4:39,Kladno-Dubí;4:48
+1879: X: Kladno-Dubí;5:16,Praha Masarykovo nádraží;6:20
+1888: X: Praha Masarykovo nádraží;16:02,Kladno-Ostrovec;16:49
+1895: X: Kladno-Ostrovec;17:03,Praha Masarykovo nádraží;17:52
+1896: X: Praha Masarykovo nádraží;18:18,Kladno-Ostrovec;19:16
+19893: X: Kladno-Ostrovec;19:36,Kladno;19:41
+
+19890: X: Kladno;5:49,Kladno-Dubí;6:02
+1881: X: Kladno-Dubí;6:20,Praha Masarykovo nádraží;7:22
+1890: X: Praha Masarykovo nádraží;16:18,Rakovník;18:04
+
+
+1:5,6:1
+2:5,6:2
+3:5,6:3
+4:5,6:4
+5:5,6:5

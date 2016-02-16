@@ -1,0 +1,9 @@
+477::Bratislava hl.st.;5:48,Budapest-Keleti;8:35
+276
+
+273
+272
+
+100477::Praha hl.n.;0:00,Bratislava hl.st.;5:36
+725::Bratislava hl.st.;14:39,Leopoldov;15:28
+726::Leopoldov;18:43,Bratislava hl.st.;19:33

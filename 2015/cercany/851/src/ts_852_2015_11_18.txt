@@ -1,0 +1,11 @@
+9031: 1112: Vrané nad Vltavou;0:51,Èerèany;1:51
+9231: X: Èerèany;3:35,Zruè nad Sázavou;5:17
+9236: X: Zruè nad Sázavou;6:01,Èerèany;7:54
+9207: 6,T: Èerèany;9:12,Svìtlá nad Sázavou;12:46
+9206: 6,T: Svìtlá nad Sázavou;13:46,Èerèany;16:49
+9209: X: Èerèany;11:12,Svìtlá nad Sázavou;14:44
+9208: X: Svìtlá nad Sázavou;15:46,Èerèany;18:49
+9020: X,-1012,-1112: Èerèany;20:06,Vrané nad Vltavou;21:26
+9021: X,-1012,-1112: Vrané nad Vltavou;21:28,Èerèany;22:57
+9020: 1012: Èerèany;20:06,Praha hl.n.;22:30
+2041: 1012: Praha hl.n.;22:41,Vrané nad Vltavou;23:27

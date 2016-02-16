@@ -1,0 +1,54 @@
+<?php
+$obeh[1] = array('823_1', '834_1', '843_1');
+$obeh[2] = array('848_1', '827_1', '836_1', '841_1', '820_1', '844_1', '829_1', '832_1', '845_1');
+$obeh[3] = array('825_1', '838_1', '837_1', '824_1', '827_2', '836_2', '841_2', '820_2');
+$obeh[4] = array('821_1', '840_1', '833_1', '828_1', '849_1');
+
+$omezeni['820_1'] = 'X,T';
+$omezeni['820_2'] = '6';
+$omezeni['821_1'] = 'X,6';
+$omezeni['823_1'] = 'X,6';
+$omezeni['824_1'] = 'X,T';
+$omezeni['825_1'] = 'X,T';
+$omezeni['827_1'] = 'X,T';
+$omezeni['827_2'] = '6';
+$omezeni['829_1'] = '6';
+$omezeni['832_1'] = '6';
+$omezeni['836_1'] = 'X,T';
+$omezeni['836_2'] = '6';
+$omezeni['837_1'] = 'X,T';
+$omezeni['838_1'] = 'X,T';
+$omezeni['841_1'] = 'X,T';
+$omezeni['841_2'] = '6';
+$omezeni['843_1'] = 'X,T';
+$omezeni['844_1'] = '6';
+$omezeni['845_1'] = '6';
+$omezeni['848_1'] = 'X';
+$omezeni['849_1'] = '6';
+
+$trasa['820_1'] = array('Bohumín;20:35', 'Brno hl.n.;22:56');
+$trasa['820_2'] = array('Bohumín;20:35', 'Brno hl.n.;22:56');
+$trasa['821_1'] = array('Brno hl.n.;5:02', 'Bohumín;7:34');
+$trasa['823_1'] = array('Brno hl.n.;6:02', 'Bohumín;8:34');
+$trasa['824_1'] = array('Bohumín;18:35', 'Brno hl.n.;20:57');
+$trasa['825_1'] = array('Brno hl.n.;7:02', 'Bohumín;9:39');
+$trasa['827_1'] = array('Brno hl.n.;9:02', 'Bohumín;11:39');
+$trasa['827_2'] = array('Brno hl.n.;9:02', 'Bohumín;11:39');
+$trasa['828_1'] = array('Bohumín;16:35', 'Brno hl.n.;18:59');
+$trasa['829_1'] = array('Brno hl.n.;11:02', 'Bohumín;13:34');
+$trasa['832_1'] = array('Bohumín;14:35', 'Brno hl.n.;16:59');
+$trasa['833_1'] = array('Brno hl.n.;13:02', 'Bohumín;15:34');
+$trasa['834_1'] = array('Bohumín;13:35', 'Brno hl.n.;15:59');
+$trasa['836_1'] = array('Bohumín;12:35', 'Brno hl.n.;14:59');
+$trasa['836_2'] = array('Bohumín;12:35', 'Brno hl.n.;14:59');
+$trasa['837_1'] = array('Brno hl.n.;15:02', 'Bohumín;17:34');
+$trasa['838_1'] = array('Bohumín;10:35', 'Brno hl.n.;12:57');
+$trasa['840_1'] = array('Bohumín;8:35', 'Brno hl.n.;10:57');
+$trasa['841_1'] = array('Brno hl.n.;17:02', 'Bohumín;19:39');
+$trasa['841_2'] = array('Brno hl.n.;17:02', 'Bohumín;19:39');
+$trasa['843_1'] = array('Brno hl.n.;18:02', 'Bohumín;20:34');
+$trasa['844_1'] = array('Bohumín;6:35', 'Brno hl.n.;8:57');
+$trasa['845_1'] = array('Brno hl.n.;19:02', 'Bohumín;21:34');
+$trasa['848_1'] = array('Bohumín;4:35', 'Brno hl.n.;6:59');
+$trasa['849_1'] = array('Brno hl.n.;21:02', 'Bohumín;23:34');
+?>

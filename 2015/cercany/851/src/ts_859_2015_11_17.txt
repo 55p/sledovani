@@ -1,0 +1,8 @@
+9031: X2345,6,1711,-1811: Vrané nad Vltavou;0:51,Èerèany;1:51
+9030: 1711,6: Èerèany;4:36,Týnec nad Sázavou;4:51
+9035: 1711,6: Týnec nad Sázavou;5:38,Èerèany;5:57
+9054: 1711,6: Èerèany;6:26,Vrané nad Vltavou;7:31
+9053: 1711,6: Vrané nad Vltavo;7:32,Èerèany;8:57
+9016: X: Èerèany;17:06,Vrané nad Vltavou;18:27
+9019: X: Vrané nad Vltavou;19:28,Èerèany;20:57
+9022: X,-1711: Èerèany;22:06,Vrané nad Vltavou;23:31

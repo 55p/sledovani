@@ -1,0 +1,6 @@
+9231: X: Èerèany;3:35,Zruè nad Sázavou;5:17
+9236: X: Zruè nad Sázavou;6:01,Èerèany;7:54
+9207: 6,T: Èerèany;9:12,Svìtlá nad Sázavou;12:46
+9206: 6,T: Svìtlá nad Sázavou;13:46,Èerèany;16:49
+9209: X: Èerèany;11:12,Svìtlá nad Sázavou;14:44
+9208: X: Svìtlá nad Sázavou;15:46,Èerèany;18:49

@@ -1,0 +1,8 @@
+444::Žilina;0:05,Bohumín;1:30
+445::Bohumín;2:49,Žilina;4:14
+220
+129
+
+702:1:Žilina;4:19,Bratislava hl.st.;7:05
+704:2,3,4,5,6,7:Žilina;5:19,Bratislava hl.st.;8:05
+709::Bratislava hl.st.;19:55,Žilina;22:41

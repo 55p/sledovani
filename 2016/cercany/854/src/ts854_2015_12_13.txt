@@ -1,0 +1,40 @@
+26101: X: Sedlčany;4:26,Olbramovice;4:56
+26100: X: Olbramovice;5:13,Sedlčany;5:50
+26103: X6,2412,0507,2809,2810,1711,-2612,-0201,-2910: Sedlčany;5:50,Olbramovice;6:22
+26104: 6,2412,0507,2809,2810,1711,-2612,-0201,-2910: Olbramovice;6:39,Sedlčany;7:07
+26109: 25: Sedlčany;4:54,Olbramovice;8:24
+26108: X: Olbramovice;8:37,Sedlčany;9:05
+26111: 25: Sedlčany;9:54,Olbramovice;10:24
+26110: 25: Olbramovice;10:28,Sedlčany;10:56
+26113: : Sedlčany;10:59,Olbramovice;11:29
+26112: X,T: Olbramovice;12:39,Sedlčany;13:07
+26115: X: Sedlčany;13:54,Olbramovice;14:24
+26117: T: Sedlčany;14:54,Olbramovice;15:24
+26130: T: Olbramovice;15:35,Sedlčany;16:03
+26119: T: Sedlčany;16:54,Olbramovice;17:24
+26118: T: Olbramovice;17:35,Sedlčany;18:03
+26121: T,10: Sedlčany;18:54,Olbramovice;19:24
+26120: T: Olbramovice;19:35,Sedlčany;20:05
+26122: 6,2512,0101,2703,0507,2810: Olbramovice;20:39,Sedlčany;21:07
+26123: T,-2412,-2512,-2612,-0101,-2703,-0507,-2810: Sedlčany;20:54,Olbramovice;21:24
+26124: T,-2412,-2512,-2612,-0101,-2703,-0507,-2810: Olbramovice;21:35,Sedlčany;22:03
+
+26102: X: Olbramovice;5:45,Sedlčany;6:20
+26105: X: Sedlčany;6:25,Olbramovice;6:55
+26106: X: Olbramovice;7:02,Sedlčany;7:30
+26107: X: Sedlčany;7:45,Benešov u Prahy;8:33
+26151: X: Benešov u Prahy;14:45,Heřmaničky;15:10
+26130: X: Heřmaničky;15:14,Sedlčany;16:03
+26130: 6: Olbramovice;15:35,Sedlčany;16:03
+26112: 6: Olbramovice;12:39,Sedlčany;13:07
+26117: 6: Sedlčany;14:54,Olbramovice;15:24
+26119: X6: Sedlčany;16:54,Olbramovice;17:24
+26118: X6: Olbramovice;17:35,Sedlčany;18:03
+26121: X6,-3112: Sedlčany;18:54,Olbramovice;19:24
+26120: X: Olbramovice;19:35,Sedlčany;20:05
+26123: 23: Sedlčany;20:54,Olbramovice;21:24
+26124: 23: Olbramovice;21:35,Sedlčany;22:03
+
+
+1:6,7:1
+2:6,7:2

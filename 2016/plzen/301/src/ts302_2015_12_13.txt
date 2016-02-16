@@ -1,0 +1,46 @@
+601: X:Ústí nad Labem hl.n.;6:13,Praha Masarykovo nádraží;7:28
+354::Praha hl.n.;9:12,Plzeň hl.n.;10:48
+
+351:T:Plzeň hl.n.;9:07,Praha hl.n.;10:41
+352:T:Praha hl.n.;13:12,Plzeň hl.n.;14:48
+355::Plzeň hl.n.;17:07,Praha hl.n.;18:41
+672:zX
+71263:zX:Děčín;22:42,Ústí nad Labem hl.n.;23:02
+
+616: X:Ústí nad Labem hl.n.;6:47,Cheb;9:29
+609: X:Cheb;10:27,Ústí nad Labem hl.n.;13:07
+1694: X
+
+605::Cheb;16:25,Ústí nad Labem hl.n.;9:07
+612::Ústí nad Labem hl.n.;10:47,Cheb;13:29
+613::Cheb;14:27,Ústí nad Labem hl.n.;17:07
+604::Ústí nad Labem hl.n.;18:47,Cheb;21:31
+
+7000: X
+607::Cheb;8:27,Ústí nad Labem hl.n.;11:07
+610::Ústí nad Labem hl.n.;12:47,Cheb;15:29
+615::Cheb;16:27,Ústí nad Labem hl.n.;19:07
+602::Ústí nad Labem hl.n.;20:47,Chomutov;21:48
+
+603: 6, T::Chomutov;6:04,Ústí nad Labem hl.n.;7:07
+7021: X
+1695: X
+614::Ústí nad Labem hl.n.;8:47,Cheb;11:29
+611::Cheb;12:27,Ústí nad Labem hl.n.;15:07
+606::Ústí nad Labem hl.n.;16:47,Cheb;19:29
+
+1691: X
+603: X:Chomutov;6:04,Ústí nad Labem hl.n.;7:07
+616: 6, T::Ústí nad Labem hl.n.;6:47,Cheb;9:29
+609: 6,T::Cheb;10:27,Ústí nad Labem hl.n.;13:07
+608::Ústí nad Labem hl.n.;14:47,Cheb;17:29
+617::Cheb;18:27,Ústí nad Labem hl.n.;21:07
+
+
+2:5,6:1
+4:5,6:5
+4::6
+5:5,6:6
+5::5
+6:5,6:4
+7:5,6:7

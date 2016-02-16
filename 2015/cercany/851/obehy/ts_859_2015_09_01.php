@@ -1,0 +1,128 @@
+<?php 
+$zacatekPlatnosti = '1.9.2015';
+//$konecPlatnosti = '17.10.2015 23:59:59';
+$konecPlatnosti = NULL;
+
+$obeh[1] = array('9000_1', '9033_1', '9002_1', '9035_1', '9004_1', '9001_1', '9006_1', '9003_1', '9096_1', '9005_1', '9008_1', '9007_1', '9010_1', '9009_1', '9012_1', '9099_1', '9014_1', '9011_1', '9014_2', '9013_1', '9032_1', '9015_1', '9018_1', '9017_1', '9020_1', '9019_1', '9022_1', '9021_1', '9052_1', '9035_2', '9054_1', '9051_1', '9056_1', '9053_1', '9092_1', '9055_1', '9058_1', '9061_1', '9060_1', '9063_1', '9062_1', '9093_1', '9064_1', '9065_1', '9066_1', '9037_1', '9068_1', '9067_1', '9070_1', '9069_1', '9022_2', '9071_1');
+
+$omezeni['9000_1'] = 'X';
+$omezeni['9001_1'] = 'X';
+$omezeni['9002_1'] = 'X';
+$omezeni['9003_1'] = 'X';
+$omezeni['9004_1'] = 'X';
+$omezeni['9005_1'] = 'X';
+$omezeni['9006_1'] = 'X';
+$omezeni['9007_1'] = 'X';
+$omezeni['9008_1'] = 'X';
+$omezeni['9009_1'] = 'X';
+$omezeni['9010_1'] = 'X';
+$omezeni['9011_1'] = 'X';
+$omezeni['9012_1'] = 'X';
+$omezeni['9013_1'] = 'X';
+$omezeni['9014_1'] = 'X';
+$omezeni['9014_2'] = '25';
+$omezeni['9015_1'] = 'X';
+$omezeni['9017_1'] = 'X';
+$omezeni['9018_1'] = 'X';
+$omezeni['9019_1'] = 'X';
+$omezeni['9020_1'] = 'X';
+$omezeni['9021_1'] = 'X';
+$omezeni['9022_1'] = 'X';
+$omezeni['9022_2'] = '25';
+$omezeni['9032_1'] = 'X';
+$omezeni['9033_1'] = 'X';
+$omezeni['9035_1'] = 'X';
+$omezeni['9035_2'] = '25';
+$omezeni['9037_1'] = '25';
+$omezeni['9051_1'] = '25';
+$omezeni['9052_1'] = '25';
+$omezeni['9053_1'] = '25';
+$omezeni['9054_1'] = '25';
+$omezeni['9055_1'] = '25';
+$omezeni['9056_1'] = '25';
+$omezeni['9058_1'] = '25';
+$omezeni['9060_1'] = '25';
+$omezeni['9061_1'] = '25';
+$omezeni['9062_1'] = '25';
+$omezeni['9063_1'] = '25';
+$omezeni['9064_1'] = '25';
+$omezeni['9065_1'] = '25';
+$omezeni['9066_1'] = '25';
+$omezeni['9067_1'] = '25';
+$omezeni['9068_1'] = '25';
+$omezeni['9069_1'] = '25';
+$omezeni['9070_1'] = '25';
+$omezeni['9071_1'] = '25';
+$omezeni['9092_1'] = '25';
+$omezeni['9093_1'] = '25';
+$omezeni['9096_1'] = 'X';
+$omezeni['9099_1'] = 'X';
+
+$typ['9092_1'] = $typ['9093_1'] = $typ['9096_1'] = $typ['9099_1'] = 'Sv';
+$poznamkaObehu[9096] = array('', 'Sv 109006');
+$poznamkaObehu[9099] = array('', 'Sv 109009');
+$poznamkaObehu[9092] = array('', 'Sv 109052');
+$poznamkaObehu[9093] = array('', 'Sv 109063');
+
+$trasa['9000_1'] = array('Čerčany;3:47', 'Týnec nad Sázavou;4:03');
+$trasa[9002] = array('Čerčany;5:06', 'Týnec nad Sázavou;5:22');
+$trasa[9004] = array('Čerčany;6:26', 'Týnec nad Sázavou;6:42');
+$trasa[9006] = array('Čerčany;8:06', 'Týnec nad Sázavou;8:22');
+$trasa[9008] = array('Čerčany;11:06', 'Týnec nad Sázavou;11:22');
+$trasa[9010] = array('Čerčany;13:36', 'Týnec nad Sázavou;13:52');
+$trasa[9012] = array('Čerčany;14:36', 'Týnec nad Sázavou;14:42');
+$trasa[9014] = array('Čerčany;16:06', 'Týnec nad Sázavou;16:22');
+$trasa[9018] = array('Čerčany;19:06', 'Týnec nad Sázavou;19:22');
+$trasa[9020] = array('Čerčany;20:06', 'Týnec nad Sázavou;20:22');
+$trasa[9022] = array('Čerčany;22:06', 'Týnec nad Sázavou;22:22');
+$trasa[9032] = array('Čerčany;18:06', 'Týnec nad Sázavou;18:22');
+$trasa[9052] = array('Čerčany;5:06', 'Týnec nad Sázavou;5:22');
+$trasa[9054] = array('Čerčany;6:26', 'Týnec nad Sázavou;6:43');
+$trasa[9056] = array('Čerčany;8:06', 'Týnec nad Sázavou;8:22');
+$trasa[9058] = array('Čerčany;11:12', 'Týnec nad Sázavou;11:28');
+$trasa[9060] = array('Čerčany;14:06', 'Týnec nad Sázavou;14:23');
+$trasa[9062] = array('Čerčany;15:40', 'Týnec nad Sázavou;15:57');
+$trasa[9064] = array('Čerčany;16:36', 'Týnec nad Sázavou;16:53');
+$trasa[9066] = array('Čerčany;18:20', 'Týnec nad Sázavou;18:36');
+$trasa[9068] = array('Čerčany;19:06', 'Týnec nad Sázavou;19:22');
+$trasa[9070] = array('Čerčany;20:06', 'Týnec nad Sázavou;20:22');
+$trasa[9092] = array('Čerčany;9:15', 'Týnec nad Sázavou;9:33');
+$trasa[9096] = array('Čerčany;10:10', 'Týnec nad Sázavou;10:25');
+$trasa[9001] = array('Týnec nad Sázavou;7:30', 'Čerčany;7:47');
+$trasa[9003] = array('Týnec nad Sázavou;8:40', 'Čerčany;8:57');
+$trasa[9005] = array('Týnec nad Sázavou;10:40', 'Čerčany;10:57');
+$trasa[9007] = array('Týnec nad Sázavou;12:40', 'Čerčany;12:57');
+$trasa[9009] = array('Týnec nad Sázavou;14:40', 'Čerčany;14:27');
+$trasa[9011] = array('Týnec nad Sázavou;16:40', 'Čerčany;16:57');
+$trasa[9013] = array('Týnec nad Sázavou;17:40', 'Čerčany;17:57');
+$trasa[9015] = array('Týnec nad Sázavou;18:40', 'Čerčany;18:57');
+$trasa[9017] = array('Týnec nad Sázavou;19:40', 'Čerčany;19:57');
+$trasa[9019] = array('Týnec nad Sázavou;20:40', 'Čerčany;20:57');
+$trasa[9021] = array('Týnec nad Sázavou;22:40', 'Čerčany;22:57');
+$trasa[9033] = array('Týnec nad Sázavou;4:10', 'Čerčany;4:27');
+$trasa[9035] = array('Týnec nad Sázavou;5:41', 'Čerčany;5:58');
+$trasa[9037] = array('Týnec nad Sázavou;18:40', 'Čerčany;18:57');
+$trasa[9051] = array('Týnec nad Sázavou;7:40', 'Čerčany;7:57');
+$trasa[9053] = array('Týnec nad Sázavou;8:40', 'Čerčany;8:57');
+$trasa[9055] = array('Týnec nad Sázavou;9:55', 'Čerčany;10:11');
+$trasa[9061] = array('Týnec nad Sázavou;12:23', 'Čerčany;12:39');
+$trasa[9063] = array('Týnec nad Sázavou;15:23', 'Čerčany;15:39');
+$trasa[9065] = array('Týnec nad Sázavou;17:53', 'Čerčany;18:09');
+$trasa[9067] = array('Týnec nad Sázavou;19:42', 'Čerčany;19:57');
+$trasa[9069] = array('Týnec nad Sázavou;21:42', 'Čerčany;21:57');
+$trasa[9071] = array('Týnec nad Sázavou;22:42', 'Čerčany;22:57');
+$trasa[9093] = array('Týnec nad Sázavou;16:10', 'Čerčany;16:27');
+$trasa[9099] = array('Týnec nad Sázavou;15:00', 'Čerčany;15:15');
+
+$typ['9022_2'] = $typ [9037] = $typ [9093] = $typ [9099] = $typ [9096] = $typ [9092] = 'Sv'; 
+
+@$ts859 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
+
+unset($obeh); 
+unset($trasa); 
+unset($omezeni); 
+unset($zacatekPlatnosti); 
+unset($konecPlatnosti);
+
+
+?>

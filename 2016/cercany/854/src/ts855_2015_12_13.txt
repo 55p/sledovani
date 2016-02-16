@@ -1,0 +1,55 @@
+19101: X: Benešov u Prahy;4:17,Trhový Štěpánov;5:31
+19104: X: Trhový Štěpánov;5:50,Benešov u Prahy;6:47
+19143: X: Benešov u Prahy;7:06,Vlašim;7:47
+19110: X: Vlašim;9:01,Benešov u Prahy;9:40
+19111: X: Benešov u Prahy;10:17,Trhový Štěpánov;11:14
+19116: X: Trhový Štěpánov;12:35,Benešov u Prahy;13:50
+19115: X: Benešov u Prahy;14:17,Trhový Štěpánov;15:14
+19122: X: Trhový Štěpánov;15:51,Benešov u Prahy;16:50
+19128: X: Trhový Štěpánov;18:35,Benešov u Prahy;19:40
+19125: X: Benešov u Prahy;21:17,Trhový Štěpánov;22:14
+19123: 25: Benešov u Prahy;20:17,Trhový Štěpánov;21:14
+
+19102: : Trhový Štěpánov;4:50,Benešov u Prahy;5:47
+19103: X: Benešov u Prahy;6:13,Trhový Štěpánov;7:14
+19108: X: Trhový Štěpánov;7:26,Benešov u Prahy;8:47
+19145: X: Benešov u Prahy;13:17,Vlašim;13:55
+19140: X: Vlašim;15:09,Benešov u Prahy;15:50
+19117: X: Benešov u Prahy;16:17,Trhový Štěpánov;17:14
+19126: X: Trhový Štěpánov;17:35,Benešov u Prahy;18:50
+19127: X: Benešov u Prahy;22:17,Trhový Štěpánov;23:14
+19105: 25: Benešov u Prahy;6:17,Trhový Štěpánov;7:14
+19110: 25: Trhový Štěpánov;8:35,Benešov u Prahy;9:40
+19111: 25: Benešov u Prahy;10:17,Trhový Štěpánov;11:14
+19114: 25: Trhový Štěpánov;12:35,Benešov u Prahy;13:40
+19115: 25: Benešov u Prahy;14:17,Trhový Štěpánov;15:14
+19124: 25: Trhový Štěpánov;16:35,Benešov u Prahy;17:40
+19121: 25: Benešov u Prahy;18:17,Trhový Štěpánov;19:14
+19132: 25: Trhový Štěpánov;20:35,Benešov u Prahy;21:40
+19127: 25: Benešov u Prahy;22:17,Trhový Štěpánov;23:14
+
+19100: X: Trhový Štěpánov;3:53,Benešov u Prahy;4:50
+19141: X: Benešov u Prahy;5:13,Vlašim;5:55
+19106: X: Vlašim;7:01,Benešov u Prahy;7:40
+19107: X: Benešov u Prahy;8:13,Trhový Štěpánov;9:14
+19112: X: Trhový Štěpánov;10:35,Benešov u Prahy;11:40
+19113: X: Benešov u Prahy;12:17,Trhový Štěpánov;13:14
+19118: X: Trhový Štěpánov;13:51,Benešov u Prahy;14:50
+19147: X: Benešov u Prahy;15:17,Vlašim;15:55
+19142: X: Vlašim;17:09,Benešov u Prahy;17:50
+19121: X: Benešov u Prahy;18:17,Trhový Štěpánov;19:14
+19130: X: Trhový Štěpánov;19:43,Benešov u Prahy;20:40
+19106: 25: Trhový Štěpánov;6:35,Benešov u Prahy;7:40
+19109: 25: Benešov u Prahy;8:17,Trhový Štěpánov;9:14
+19112: 25: Trhový Štěpánov;10:35,Benešov u Prahy;11:40
+19113: 25: Benešov u Prahy;12:17,Trhový Štěpánov;13:14
+19120: 25: Trhový Štěpánov;14:35,Benešov u Prahy;15:40
+19117: 25: Benešov u Prahy;16:17,Trhový Štěpánov;17:14
+19128: 25: Trhový Štěpánov;18:35,Benešov u Prahy;19:40
+
+
+1:6:3
+2:6:1
+2:7:1
+3:6:2
+3:7:3

@@ -1,0 +1,3 @@
+﻿29099:X1:Praha ONJ;4:40,Praha-Vysočany;4:58
+99999:X:Záloha O11, Praha-Vysočany;5:00;20:00
+29098:X5:Praha-Vysočany;19:47,Praha ONJ;20:10

@@ -1,0 +1,101 @@
+8942: X1234
+663: 6, T:Plzeň;8:02,České Budějovice;9:55
+668: 6, T:České Budějovice;12:05,Plzeň;13:57
+7516: X5
+777: X5:Klatovy;14:06,Plzeň hl.n.;14:56
+625::Plzeň;16:02,České Budějovice;17:55
+1253: zX
+
+1254: X
+626 : :České Budějovice;8:05,Plzeň;9:57
+667 :: Plzeň;12:02,České Budějovice;13:55
+8030: X
+71851:X5:Protivín;17:03,České Budějovice;17:46
+664: T:České Budějovice;16:06,Plzeň;17:57
+626: T:Plzeň;20:02,České Budějovice;21:55
+
+71850:X1:České Budějovice;3:03,Protivín;3:46
+8021: X
+100661: X5, 6, T:České Budějovice;8:12,Jihlava;10:33
+100666: X5, 6, T:Jihlava;11:25,České Budějovice;13:48
+8012: X
+8011: X
+662 : :České Budějovice;18:05,Plzeň;19:57
+
+99999: :Údržba DKV;0:01;23:59
+
+661 :: Plzeň;6:02,České Budějovice;7:55
+624 :: České Budějovice;10:05,Plzeň;11:57
+669 :: Plzeň;14:02,České Budějovice;15:55
+99998: :Záloha za ř. 650;16:00;24:00
+
+199998::Záloha za ř. 650;0:01;16:00
+100669 : :České Budějovice;16:12,Jihlava;18:33
+100622: X5, T:Jihlava;19:34,České Budějovice;22:02
+8216: X5
+
+100621: X1:České Budějovice;4:12,Jihlava;6:33
+14870: X
+14865: X
+8362: X
+14867: X
+
+100626: X:Jihlava;5:25,České Budějovice;7:48
+100661 : X1234:České Budějovice;8:12,Jihlava;10:33
+100663 : X5:České Budějovice;10:12,Jihlava;12:33
+100664: X:Jihlava;13:25,České Budějovice;15:48
+100625 : X1234:České Budějovice;18:12,Jihlava;20:31
+100625 : X5:České Budějovice;18:12,Havlíčkův Brod;20:58
+
+100624 : X1, 6:Havlíčkův Brod;7:00,České Budějovice;9:48
+100624: X2345, T:Jihlava;7:25,České Budějovice;9:48
+8208: X
+8213: X
+8212: X
+100663 : 6, T:České Budějovice;10:12,Jihlava;12:33
+100664 : 6, T:Jihlava;13:25,České Budějovice;15:48
+8216: 6
+100625 : T:České Budějovice;18:12,Havlíčkův Brod;20:58
+
+8203: 
+100665 : 6, T:České Budějovice;12:12,Jihlava;14:33
+100662 : 6, T:Jihlava;15:25,České Budějovice;17:48
+664 : X:České Budějovice;16:05,Plzeň;17:57
+629: X:Plzeň;20:02,České Budějovice;21:55
+8212: T:
+
+8201: X1
+100623: :České Budějovice;6:12,Jihlava;8:33
+100668 :: Jihlava;10:25,České Budějovice;11:48
+666 : :České Budějovice;14:05,Plzeň;15:57
+627 :: Plzeň;18:02,České Budějovice;29:55
+
+628: :České Budějovice;6:05,Plzeň;7:57
+665 : :Plzeň;10:02,České Budějovice;11:55
+100667 : :České Budějovice;14:12,Jihlava;16:33
+100660 : :Jihlava;17:25,České Budějovice;19:48
+8220: T
+
+8230: X
+8233: X
+71821:X1234:Veselí nad Lužnicí;15:37,České Budějovice;16:37
+8016: zX
+
+8221: 6
+8003: X
+100665 : X:České Budějovice;12:12,Jihlava;14:33
+100662 : X:Jihlava;15:25,České Budějovice;17:48
+664 : 6:České Budějovice;16:05,Plzeň;17:57
+8210: T
+8215: T
+660: X, T:České Budějovice;20:05,Plzeň;21:57
+8955: X1,X2,X3
+
+
+6:5:10
+6:6:9
+8:6:8
+8:7:10
+9:5:8
+9:7:9
+7:5,6:7

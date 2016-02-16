@@ -1,0 +1,12 @@
+409:5:Bohumín;9:00,Břeclav;10:47
+99999::záloha Břeclav;8:20;19:30
+408:7:Břeclav;18:10,Bohumín;19:59
+
+99998::záloha Praha;8:15;19:45
+
+99997::záloha Česká Třebová;5:00;21:00
+
+
+1a::1a
+1b::1b
+1c::1c

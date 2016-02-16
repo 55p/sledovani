@@ -1,0 +1,6 @@
+1223pk: : Rakovník;7:22,Praha Masarykovo nádraží;8:52
+1230: : Praha Masarykovo nádraží;9:02,Rakovník;10:32
+1227pk: : Rakovník;13:22,Praha Masarykovo nádraží;14:52
+1226: : Praha Masarykovo nádraží;15:02,Rakovník;16:32
+1231pk: : Rakovník;17:22,Praha Masarykovo nádraží;18:52
+1222: : Praha Masarykovo nádraží;19:02,Rakovník;20:32

@@ -1,0 +1,39 @@
+11480: : Svìtlá nad Sázavou;4:14,Èáslav;4:58
+5940: : Èáslav;5:08,Kolín;5:23
+11481: X: Kolín;5:50,Golèùv Jeníkov;6:21
+5903: 25: Kolín;6:05,Golèùv Jeníkov;6:37
+105904: : Golèùv Jeníkov;6:51,Kolín;7:23
+5808: X: Kolín;7:29,Nymburk hl.n.;7:56
+109483: X: Nymburk hl.n.;8:01,Kolín;8:28
+5905: : Kolín;10:05,Havlíèkùv Brod;11:32
+11486: : Havlíèkùv Brod;13:11,Golèùv Jeníkov;14:04
+5910: : Golèùv Jeníkov;14:06,Kolín;14:38
+5911: X: Kolín;15:08,Havlíèkùv Brod;16:35
+5916: X: Havlíèkùv Brod;17:15,Kolín;18:38
+5963: X1,X2,X3,X4: Kolín;19:38,Èáslav;19:59
+5959: 25: Kolín;15:15,Èáslav;15:37
+5958: 25: Èáslav;15:58,Kolín;16:19
+5915: 25: Kolín;18:21,ïár nad Sázavou;20:47
+
+5931: X: Èáslav;3:37,Havlíèkùv Brod;4:38
+5902: X: Havlíèkùv Brod;5:01,Kolín;6:23
+5953:X
+5952:X
+5904: 25: ïár nad Sázavou;5:17,Vlkaneè;6:40
+105903: 25: Vlkaneè;6:48,Havlíèkùv Brod;7:34
+5906: 25: Havlíèkùv Brod;8:54,Kolín;10:19
+5909: : Kolín;13:42,Havlíèkùv Brod;15:06
+5914: X: Havlíèkùv Brod;15:20,Kolín;16:42
+5915: X: Kolín;18:21,ïár nad Sázavou;20:47
+5916: 25: Havlíèkùv Brod;17:15,Kolín;18:38
+5963: T: Kolín;19:38,Èáslav;19:59
+
+5904: X: ïár nad Sázavou;5:17,Vlkaneè;6:40
+5903: X: Vlkaneè;6:48,Havlíèkùv Brod;7:34
+5906: X: Havlíèkùv Brod;8:54,Kolín;10:19
+5907: X: Kolín;11:42,Havlíèkùv Brod;13:07
+11488: X: Havlíèkùv Brod;14:28,Golèùv Jeníkov;15:21
+5912: X: Golèùv Jeníkov;15:23,Kolín;15:55
+5913: : Kolín;16:21,Havlíèkùv Brod;17:45
+5918: : Havlíèkùv Brod;19:23,Kolín;20:50
+5941: : Kolín;21:49,Svìtlá nad Sázavou;22:55

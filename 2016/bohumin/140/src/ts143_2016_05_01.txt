@@ -1,0 +1,5 @@
+1306:3:Bohumín;5:40,Odstavné nádraží Praha-Jih;16:29
+1307:4:Odstavné nádraží Praha-Jih;3:28,Bohumín;14:16
+
+
+1:3,7:1

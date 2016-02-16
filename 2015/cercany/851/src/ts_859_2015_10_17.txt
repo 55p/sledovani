@@ -1,0 +1,74 @@
+9000: X: Čerčany;3:47,Týnec nad Sázavou;4:03
+9033: X: Týnec nad Sázavou;4:10,Čerčany;4:27
+9002: X: Čerčany;5.06,Týnec nad Sázavou;5:22
+9035: X: Týnec nad Sázavou;5:38,Čerčany;5:57
+9004: X: Čerčany;6:26,Týnec nad Sázavou;6:42
+9001: X: Týnec nad Sázavou;7:30,Čerčany;8:40
+9006: X: Čerčany;8:06,Týnec nad Sázavou;8:22
+9003: X: Týnec nad Sázavou;8:40,Čerčany;8:57
+19006: X: Čerčany;10:10,Týnec nad Sázavou;10:26
+9005: X: Týnec nad Sázavou;10:40,Čerčany;10:57
+9008: X: Čerčany;11:06,Týnec nad Sázavou;11:22
+9007: X: Týnec nad Sázavou;12:40,Čerčany;12:57
+9010: X: Čerčany;13:36,Týnec nad Sázavou;13:52
+9009: X: Týnec nad Sázavou;14:10,Čerčany;14:27
+9012: X: Čerčany;14:36,Týnec nad Sázavou;14:52
+19009: X: Týnec nad Sázavou;15:00,Čerčany;15:17
+9014: X: Čerčany;16:06,Týnec nad Sázavou;16:22
+9011: X: Týnec nad Sázavou;16:40,Čerčany;16:57
+9016: X: Čerčany;17:06,Týnec nad Sázavou;17:22
+9013: X: Týnec nad Sázavou;17:40,Čerčany;17:57
+9032: X: Čerčany;18:06,Týnec nad Sázavou;18:22
+9015: X: Týnec nad Sázavou;18:40,Čerčany;18:57
+9018: X: Čerčany;19:06,Týnec nad Sázavou;19:22
+9017: X: Týnec nad Sázavou;19:40,Čerčany;19:57
+9020: X: Čerčany;20:06,Týnec nad Sázavou;20:22
+9019: X: Týnec nad Sázavou;20:40,Čerčany;20:57
+9022: X: Čerčany;22:06,Týnec nad Sázavou;22:22
+9021: X: Týnec nad Sázavou;22:40,Čerčany;22:57
+9052: 6 ,2810: Čerčany;5:06,Týnec nad Sázavou;5:22
+9035: 6 ,2810: Týnec nad Sázavou;5:38,Čerčany;5:57
+9054: 6 ,2810: Čerčany;6:26,Týnec nad Sázavou;6:42
+9051: 6 ,2810: Týnec nad Sázavou;7:40,Čerčany;7:57
+9056: 6 ,2810: Čerčany;8:06,Týnec nad Sázavou;8:22
+9053: 6 ,2810: Týnec nad Sázavou;8:40,Čerčany;8:57
+19052: 6 ,2810: Čerčany;9:15,Týnec nad Sázavou;9:31
+9055: 6 ,2810: Týnec nad Sázavou;9:52,Čerčany;10:11
+9058: 6 ,2810: Čerčany;11:12,Týnec nad Sázavou;11:28
+9061: 6 ,2810: Týnec nad Sázavou;12:21,Čerčany;12:39
+9060: 6 ,2810: Čerčany;14:06,Týnec nad Sázavou;14:22
+9063: 6 ,2810: Týnec nad Sázavou;15:21,Čerčany;15:39
+9062: 6 ,2810: Čerčany;15:40,Týnec nad Sázavou;15:57
+19063: 6 ,2810: Týnec nad Sázavou;16:10,Čerčany;16:26
+9064: 6 ,2810: Čerčany;16:36,Týnec nad Sázavou;16:53
+9065: 6 ,2810: Týnec nad Sázavou;17:21,Čerčany;17:39
+9066: 6 ,2810: Čerčany;18:20,Týnec nad Sázavou;18:36
+9037: 6 ,2810: Týnec nad Sázavou;18:40,Čerčany;18:56
+9068: 6 ,2810: Čerčany;19:06,Týnec nad Sázavou;19:22
+9067: 6 ,2810: Týnec nad Sázavou;19:40,Čerčany;19:57
+9070: 6 ,2810: Čerčany;20:06,Týnec nad Sázavou;20:22
+9069: 6 ,2810: Týnec nad Sázavou;21:40,Čerčany;21:57
+19022: 6 ,2810: Čerčany;22:06,Týnec nad Sázavou;22:22
+9071: 6 ,2810: Týnec nad Sázavou;22:40,Čerčany;22:57
+9052: 7: Čerčany;5:06,Týnec nad Sázavou;5:22
+9051: 7: Týnec nad Sázavou;7:40,Čerčany;7:57
+9056: 7: Čerčany;8:06,Týnec nad Sázavou;8:22
+9053: 7: Týnec nad Sázavou;8:40,Čerčany;8:57
+19052: 7: Čerčany;9:15,Týnec nad Sázavou;9:31
+9055: 7: Týnec nad Sázavou;9:52,Čerčany;10:11
+9058: 7: Čerčany;11:12,Týnec nad Sázavou;11:28
+9061: 7: Týnec nad Sázavou;12:21,Čerčany;12:39
+9060: 7: Čerčany;14:06,Týnec nad Sázavou;14:22
+9063: 7: Týnec nad Sázavou;15:21,Čerčany;15:39
+9062: 7: Čerčany;15:40,Týnec nad Sázavou;15:57
+19063: 7: Týnec nad Sázavou;16:10,Čerčany;16:26
+9064: 7: Čerčany;16:36,Týnec nad Sázavou;16:53
+9065: 7: Týnec nad Sázavou;17:21,Čerčany;17:39
+9066: 7: Čerčany;18:20,Týnec nad Sázavou;18:36
+9037: 7: Týnec nad Sázavou;18:40,Čerčany;18:56
+9068: 7: Čerčany;19:06,Týnec nad Sázavou;19:22
+9067: 7: Týnec nad Sázavou;19:40,Čerčany;19:57
+9070: 7: Čerčany;20:06,Týnec nad Sázavou;20:22
+9069: 7: Týnec nad Sázavou;21:40,Čerčany;21:57
+9022: 7: Čerčany;22:06,Týnec nad Sázavou;22:22
+9071: 7: Týnec nad Sázavou;22:40,Čerčany;22:57
