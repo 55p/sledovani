@@ -7,7 +7,7 @@ function predpoklad_1_TS142 ($timestamp) {
   if ($den == 6) {
     return 1;
   }
-  return 2;
+  return 1;
 }
 
 ?>

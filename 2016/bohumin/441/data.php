@@ -1,6 +1,7 @@
 <?php
 $skupiny[] = $ts441 = new TS ('TS 441');
 $skupiny[] = $ts442 = new TS ('TS 442');
+$skupiny[] = $ts442a = new TS ('TS 442a');
 $skupiny[] = $ts443 = new TS ('TS 443');
 $skupiny[] = $ts641 = new TS ('TS 641');
 
