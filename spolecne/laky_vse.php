@@ -146,8 +146,8 @@ $lak['br_cerveny_pruh'] = array(754062, 754044, 754078);
 $lak['leo_express'] = array(480001, 480002, 480003, 480004, 480005);
 $lak['regiojet'] = array(162113, 162114, 162115, 162116, 162117, 162118, 162119, 162120);
 $lak['regiojet_italka'] = array(162112);
-$lak['regiojet_193'] = array(193205, 193206, 193214, 193226, 193227);
-//$lak['regiojet_193_zelena'] = array();
+$lak['regiojet_193'] = array(193205, 193206, 193214, 193226);
+$lak['regiojet_193_zelena'] = array(193227);
 //$lak['regiojet_193_bila'] = array(193821);
 
 $lak['vt650_modre'] = array(650065);
