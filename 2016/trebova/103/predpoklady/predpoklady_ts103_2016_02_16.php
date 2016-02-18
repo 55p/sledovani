@@ -38,7 +38,7 @@ function predpoklad_5_TS103 ($timestamp) {
 }
 
 function predpoklad_6_TS103 ($timestamp) {
-  return 7;
+  return 6;
 }
 
 function predpoklad_7_TS103 ($timestamp) {
