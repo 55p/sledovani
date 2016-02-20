@@ -1,17 +1,9 @@
 <?php 
-function predpoklad_1_TS1 ($timestamp) {
+function predpoklad_1_TS101 ($timestamp) {
   return 2;
 }
 
-function predpoklad_2_TS1 ($timestamp) {
-  return 3;
-}
-
-function predpoklad_3_TS1 ($timestamp) {
-  return 4;
-}
-
-function predpoklad_4_TS1 ($timestamp) {
+function predpoklad_2_TS101 ($timestamp) {
   return 1;
 }
 

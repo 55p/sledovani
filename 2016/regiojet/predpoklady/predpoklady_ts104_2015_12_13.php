@@ -1,5 +1,5 @@
 <?php 
-function predpoklad_1_TS4 ($timestamp) {
+function predpoklad_1_TS104 ($timestamp) {
   return 1;
 }
 

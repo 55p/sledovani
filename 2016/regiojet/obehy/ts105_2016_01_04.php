@@ -2,10 +2,8 @@
 $zacatekPlatnosti = '4.1.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
-$obeh[1] = array('1001_1', '1010_1', '1010_2', '1015_1');
-$obeh[2] = array('1002_1', '1009_1', '1018_1');
-//$obeh[3] = array('1004_1', '1007_1', '1016_1', '1021_1');
-//$obeh[4] = array('101021_1', '1012_1', '1017_1');
+$obeh[1] = array('1004_1', '1007_1', '1016_1', '1021_1');
+$obeh[2] = array('101021_1', '1012_1', '1017_1');
 
 $omezeni['1001_1'] = 'X6';
 $omezeni['1010_1'] = 'X6';
@@ -27,7 +25,7 @@ $trasa['1018_1'] = array('Havířov;18:11', 'Praha hl.n.;21:58');
 $trasa['1021_1'] = array('Praha hl.n.;21:46', 'Olomouc;0:06');
 $trasa['101021_1'] = array('Olomouc;0:06', 'Košice;6:41');
 
-@$ts101 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
+@$ts105 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 
 unset($obeh); 
 unset($trasa); 
