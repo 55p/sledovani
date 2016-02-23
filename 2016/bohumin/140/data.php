@@ -49,7 +49,8 @@ $skupiny[] = $ts140 = new TS ('TS 140');
 $skupiny[] = $ts141 = new TS ('TS 141');
 $skupiny[] = $ts142 = new TS ('TS 142');
 $skupiny[] = $ts143 = new TS ('TS 143');
-$skupiny[] = $ts149 = new TS ('TS 149');
+//$skupiny[] = $ts149 = new TS ('TS 149');
+$skupiny[] = $ts170 = new TS ('TS 170');
 
 require __DIR__.$includePath.'/spolecne/obehy_2015_11_22.php';
 @require __DIR__.$includePath.'/spolecne/laky_vse.php';
