@@ -203,11 +203,10 @@ $lak['plechac_oranzovy'] = array(242273);
 // -------------------------------
 
 
-
 $lak['sukafon_zluty_pruh'] = array(809281);
-$lak['sukafon_slon_pruh'] = array(809080, 809208, 810213, 810310, 810560, 810599, 810528);
+$lak['sukafon_slon_pruh'] = array(809080, 809208, 810059, 810213, 810289, 810297, 810298, 810310, 810351, 810540, 810560, 810599, 810528);
 $lak['najbrt1bila'] = array_merge(array(809140, 809249, 809345, 809495, 809502, 809657, 809677), $lak['najbrt1bila']);
-$lak['sukafon_najbrt2'] = array(809163, 809342, 809350, 809434, 810561);
+$lak['sukafon_najbrt2'] = array(809163, 809342, 809350, 809434, 810296, 810561);
 $lak['sukafon_polomaceny'] = array(809534);
 
 $lak['sukafon_cerveny_pismo'] = array(810007, 810184, 810217, 810326, 810327, 810340, 810436, 810446, 810501, 810511, 810549, 810587);
