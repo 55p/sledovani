@@ -50,7 +50,7 @@ function predpoklad_6_TS301 ($timestamp) {
 }
 
 function predpoklad_7_TS301 ($timestamp) {
-  return 8;
+  return 0;
 }
 
 function predpoklad_8_TS301 ($timestamp) {
