@@ -1,0 +1,6 @@
+9231: X: Čerčany;3:34,Zruč nad Sázavou;5:15
+9236: X: Zruč nad Sázavou;6:06,Čerčany;7:50
+9207: 6,T: Čerčany;9:12,Světlá nad Sázavou;12:45
+9206: 6,T: Světlá nad Sázavou;13:46,Čerčany;16:49
+9209: X: Čerčany;11:15,Světlá nad Sázavou;14:44
+9208: X: Světlá nad Sázavou;15:46,Čerčany;18:49
