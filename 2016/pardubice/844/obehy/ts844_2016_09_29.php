@@ -116,6 +116,8 @@ $trasa['5573_1'] = array('Pardubice-Rosice n.L.;17:08', 'Slatiňany;17:33');
 $trasa['5357_1'] = array('Pardubice hl.n.;14:27', 'Slatiňany;14:54');
 $trasa['5346_1'] = array('Slatiňany;15:14', 'Pardubice hl.n.;15:40');
 $trasa['5312_1'] = array('Slatiňany;15:47', 'Pardubice hl.n.;16:24');
+$trasa['5316_1'] = array('Chrudim;19:52', 'Pardubice hl.n.;20:07');
+
 
 $poznamkaObehu['5316_1'] = array('př', 'přípřež');
 
