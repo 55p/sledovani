@@ -113,7 +113,11 @@ $trasa['5356_1'] = array('Slatiňany;18:31', 'Pardubice hl.n.;19:02');
 $trasa['5357_1'] = array('Pardubice hl.n.;14:27', 'Borová u Poličky;15:59');
 $trasa['5361_1'] = array('Pardubice-Rosice n.L.;1:16', 'Chrudim;1:31');
 $trasa['5573_1'] = array('Pardubice-Rosice n.L.;17:08', 'Slatiňany;17:33');
+$trasa['5357_1'] = array('Pardubice hl.n.;14:27', 'Slatiňany;14:54');
+$trasa['5346_1'] = array('Slatiňany;15:14', 'Pardubice hl.n.;15:40');
+$trasa['5312_1'] = array('Slatiňany;15:47', 'Pardubice hl.n.;16:24');
 
+$poznamkaObehu['5316_1'] = array('př', 'přípřež');
 
 @$ts844 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 
