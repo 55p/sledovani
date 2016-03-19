@@ -8,7 +8,6 @@ $obeh[5] = array('5361_1', '25040_1', '25041_1', '25044_1', '25045_1', '25336_1'
 
 $omezeni['105305_1'] = '6,-0204,-0904,-1604';
 $omezeni['25000_1'] = 'X';
-$omezeni['5357_1'] = '5,7';
 $omezeni['25001_1'] = 'X';
 $omezeni['25002_1'] = 'X';
 $omezeni['25002_2'] = '6';
@@ -132,7 +131,7 @@ $trasa['5346_1'] = array('Slatiňany;15:14', 'Pardubice hl.n.;15:40');
 $trasa['5312_1'] = array('Slatiňany;15:47', 'Pardubice hl.n.;16:24');
 $trasa['5316_1'] = array('Chrudim;19:52', 'Pardubice hl.n.;20:07');
 
-$trasa['105305'] = array('Pardubice hl.n.;9:52', 'Hlinsko v Čechách;11:00')
+$trasa['105305'] = array('Pardubice hl.n.;9:52', 'Hlinsko v Čechách;11:00');
 
 $poznamkaObehu['5316_1'] = array('př', 'přípřež');
 
