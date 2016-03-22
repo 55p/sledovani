@@ -80,11 +80,12 @@ $trasa['25378_1'] = array('Holice;16:24', 'Borohrádek;16:35');
 $trasa['25379_1'] = array('Borohrádek;16:42', 'Holice;16:53');
 $trasa['25380_1'] = array('Holice;17:04', 'Borohrádek;17:15');
 $trasa['25381_1'] = array('Borohrádek;17:22', 'Holice;17:34');
-$trasa['5050_1'] = array('Choceň;19:38', 'Pardubice hl.n.;20:22');
 $trasa['5060_1'] = array('Moravany;21:26', 'Pardubice hl.n.;21:43');
 $trasa['5061_1'] = array('Pardubice hl.n.;5:05', 'Moravany;5:22');
 $trasa['105051_1'] = array('Pardubice hl.n.;22:49', 'Moravany;23:05');
 
+$trasa['5050_1'] = array('Moravany;20:05', 'Pardubice hl.n.;20:22');
+$poznamkaObehu['5050_1'] = array('př', 'přípřež');
 
 @$ts845 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 

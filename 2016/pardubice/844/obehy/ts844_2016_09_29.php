@@ -120,6 +120,7 @@ $trasa['5312_1'] = array('Slatiňany;15:47', 'Pardubice hl.n.;16:24');
 $trasa['5316_1'] = array('Chrudim;19:52', 'Pardubice hl.n.;20:07');
 
 
+$poznamkaObehu['25336_1'] = array('vl', 'vlaková');
 $poznamkaObehu['5316_1'] = array('př', 'přípřež');
 
 @$ts844 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
