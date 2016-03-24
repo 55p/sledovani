@@ -65,6 +65,10 @@ $trasa['898_1'] = array('Pardubice hl.n.;5:01', 'Praha hl.n.;6:06');
 $trasa['899_1'] = array('Praha hl.n.;22:02', 'Pardubice hl.n.;23:07');
 $trasa['899_2'] = array('Praha hl.n.;22:02', 'Pardubice hl.n.;23:07');
 
+for ($i = 861; $i < 900; $i++) {
+  $typ[$i] = 'R';
+}
+
 @$ts606 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 
 unset($obeh); 
