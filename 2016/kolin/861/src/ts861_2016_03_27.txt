@@ -1,0 +1,18 @@
+122200:X1:Kolín;4:11,Uhlířské Janovice;4:54
+22221:X
+22202:X
+22205:X
+22203:6
+22204:6,T
+22206:X
+22207
+22220:X
+22223:X
+22212:X
+22213:X
+22216:X1234
+22216:X5
+102461pk:6,2703,0507,2810:Kolín;16:12,Kutná Hora město;16:42
+102428př:=:Kutná Hora město;16:44,Kutná Hora hl.n.;16:52
+102425pk:=:Kutná Hora hl.n.;17:04,Kutná Hora město;17:11
+102462:=:Kutná Hora město;17:32,Kolín;17:52
