@@ -3,6 +3,7 @@ $skupiny[] = $ts861 = new TS ('TS 861');
 $skupiny[] = $ts862 = new TS ('TS 862');
 $skupiny[] = $ts863 = new TS ('TS 863');
 $skupiny[] = $ts864 = new TS ('TS 864');
+$skupiny[] = $ts868 = new TS ('TS 868');
 $skupiny[] = $ts869 = new TS ('TS 869');
 
 $typ[-1] = 'Os';

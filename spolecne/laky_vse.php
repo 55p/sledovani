@@ -70,6 +70,7 @@ $lak['modre_eso_uzky_pruh'] = array(362165);
 $lak['cz']['retro_eso'] = array(362001);
 
 $lak['zelena_svetla'] = array(150209, 
+162006, //zssk
 163035, 163041, 163044, 163045, 163046, 163072, 163247, 163250
 );
 
@@ -204,8 +205,8 @@ $lak['plechac_oranzovy'] = array(242273);
 
 
 $lak['sukafon_zluty_pruh'] = array(809281);
-$lak['sukafon_slon_pruh'] = array(809080, 809208, 810059, 810098, 810213, 810229, 810289, 810297, 810298, 810310, 810351, 810540, 810560, 810599, 810528, 810631);
-$lak['najbrt1bila'] = array_merge(array(809140, 809249, 809345, 809495, 809502, 809657, 809677), $lak['najbrt1bila']);
+$lak['sukafon_slon_pruh'] = array(809080, 809208, 810059, 810098, 810100, 810213, 810229, 810289, 810297, 810298, 810310, 810351, 810540, 810560, 810599, 810528, 810631, 810654);
+$lak['najbrt1bila'] = array_merge(array(809140, 809249, 809345, 809495, 809502, 809657, 809677, 810635), $lak['najbrt1bila']);
 $lak['sukafon_najbrt2'] = array(809163, 809342, 809350, 809434, 810296, 810561, 810632);
 $lak['sukafon_polomaceny'] = array(809534);
 
