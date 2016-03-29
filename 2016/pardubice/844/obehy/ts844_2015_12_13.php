@@ -10,6 +10,7 @@ $omezeni['125025_1'] = '7,2803,1711,-2703';
 $omezeni['25000_1'] = 'X';
 $omezeni['25001_1'] = 'X';
 $omezeni['25002_1'] = 'X';
+$omezeni['5357_1'] = '5,7';
 $omezeni['25002_2'] = '6,2810,1711,-2910';
 $omezeni['25003_1'] = 'X';
 $omezeni['25004_1'] = 'X';
@@ -44,7 +45,7 @@ $omezeni['5082_1'] = 'XT';
 $omezeni['5083_1'] = '6,2703,2810';
 $omezeni['5083_2'] = 'XT';
 $omezeni['5312_1'] = 'T,-2703,-2810,-1711';
-$omezeni['5346_1'] = '5,2710,1811,-2810';
+$omezeni['5346_1'] = 'X5,2710,1811,-2810';
 $omezeni['5356_1'] = 'X';
 $omezeni['5573_1'] = 'X';
 
@@ -116,6 +117,7 @@ $trasa['5573_1'] = array('Pardubice-Rosice n.L.;17:08', 'Slatiňany;17:33');
 $trasa['5316_1'] = array('Chrudim;19:52', 'Pardubice hl.n.;20:07');
 
 
+$poznamkaObehu['25336_1'] = array('vl', 'vlaková');
 $poznamkaObehu['5316_1'] = array('př', 'přípřež');
 
 @$ts844 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 

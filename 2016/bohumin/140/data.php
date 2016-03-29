@@ -43,12 +43,16 @@ $typ[514] = 'IC';
 $typ[540] = 'Ex';
 $typ[541] = 'Ex';
 
+$typ[242] = 'EC';
+$typ[243] = 'EC';
+
 $typ[1306] = $typ[1307] = 'Sv';
 
 $skupiny[] = $ts140 = new TS ('TS 140');
 $skupiny[] = $ts141 = new TS ('TS 141');
 $skupiny[] = $ts142 = new TS ('TS 142');
 $skupiny[] = $ts143 = new TS ('TS 143');
+$skupiny[] = $ts147 = new TS ('TS 147');
 //$skupiny[] = $ts149 = new TS ('TS 149');
 $skupiny[] = $ts170 = new TS ('TS 170');
 

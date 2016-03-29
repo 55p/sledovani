@@ -12,7 +12,7 @@ $omezeni['25331_1'] = 'X';
 $omezeni['25332_1'] = 'X';
 $omezeni['25333_1'] = 'X6';
 $omezeni['25335_1'] = 'X';
-$omezeni['25336'] = '25';
+$omezeni['25336_1'] = '25';
 $omezeni['25339_1'] = '25';
 $omezeni['25344_1'] = 'X';
 $omezeni['25345_1'] = 'X';
@@ -44,7 +44,7 @@ $trasa['25332_1'] = array('Moravany;5:15', 'Holice;5:28');
 $trasa['25333_1'] = array('Holice;4:56', 'Moravany;5:09');
 $trasa['25334_1'] = array('Moravany;5:59', 'Holice;6:12');
 $trasa['25335_1'] = array('Holice;5:37', 'Moravany;5:50');
-$trasa['25336_1'] = array('Moravany;7:03', 'Holice;7:17');
+$trasa['25336'] = array('Moravany;7:03', 'Holice;7:17');
 $trasa['25337_1'] = array('Holice;6:42', 'Moravany;6:55');
 $trasa['25338_1'] = array('Moravany;9:06', 'Holice;9:19');
 $trasa['25339_1'] = array('Holice;8:41', 'Moravany;8:55');
@@ -85,7 +85,8 @@ $trasa['5060_1'] = array('Moravany;21:26', 'Pardubice hl.n.;21:43');
 $trasa['5061_1'] = array('Pardubice hl.n.;5:05', 'Moravany;5:22');
 $trasa['105051_1'] = array('Pardubice hl.n.;22:49', 'Moravany;23:05');
 
-
+$trasa['5050_1'] = array('Moravany;20:05', 'Pardubice hl.n.;20:22');
+$poznamkaObehu['5050_1'] = array('př', 'přípřež');
 
 @$ts845 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 

@@ -149,7 +149,11 @@ br + .lakVozidla {
 
 .gorila_retro_hugo {
   background-color: #04ABFB;
-  color: #EFE976;
+  color: white;
+  border-left: 1ex solid #F0DC2B;
+  border-right: 1ex solid #F0DC2B;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
 }
 
 .zelena {

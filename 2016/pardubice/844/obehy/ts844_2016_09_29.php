@@ -42,6 +42,7 @@ $omezeni['25336_1'] = 'X';
 $omezeni['25339_1'] = 'X';
 $omezeni['5082_1'] = 'XT';
 $omezeni['5083_1'] = '6,2703,2810';
+$omezeni['5357_1'] = '5,7';
 $omezeni['5083_2'] = 'XT';
 $omezeni['5312_1'] = 'T,-2703,-2810,-1711';
 $omezeni['5346_1'] = '5,2710,1811,-2810';
@@ -119,6 +120,7 @@ $trasa['5312_1'] = array('Slatiňany;15:47', 'Pardubice hl.n.;16:24');
 $trasa['5316_1'] = array('Chrudim;19:52', 'Pardubice hl.n.;20:07');
 
 
+$poznamkaObehu['25336_1'] = array('vl', 'vlaková');
 $poznamkaObehu['5316_1'] = array('př', 'přípřež');
 
 @$ts844 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
