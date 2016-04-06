@@ -5,6 +5,7 @@ $skupiny[] = $ts703 = new TS ('TS 703');
 $skupiny[] = $ts704 = new TS ('TS 704');
 $skupiny[] = $ts705 = new TS ('TS 705');
 $skupiny[] = $ts706 = new TS ('TS 706');
+$skupiny[] = $ts707 = new TS ('TS 707');
 $skupiny[] = $mimor = new TS('mimořádný oběh');
 
 $mimor->obeh(new Obeh(array('-' => array('1','2','3','4','5','6')), array(), array(), array('1' => '', '2' => '', '3' => '', '4' => '', '5' => '', '6' => ''), array()));
