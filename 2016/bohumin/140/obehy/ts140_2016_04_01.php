@@ -11,7 +11,7 @@ $obeh[6] = array('154_1', '154_2', '117_1');
 
 $omezeni['100553_1'] = 'X6';
 $omezeni['154_1'] = 'X6';
-$omezeni['154_2'] = 'XT';
+$omezeni['154_2'] = 'T';
 $omezeni['155_1'] = '6';
 $omezeni['155_2'] = 'XT';
 $omezeni['552_1'] = 'X6';
