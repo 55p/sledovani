@@ -532,3 +532,60 @@ br + .lakVozidla {
 .slon_ova_58 {
   color: #674ea7;
 }
+
+
+.cd_cargo {
+  background: #9BE3FF;
+  color: #181892;
+}
+
+.ponorka_cervena {
+  background: #E72525;
+  color: #FFF200;
+}
+
+.kocour_zeleny {
+  background: #9B2424;
+  color: #FFF200;
+}
+
+.kocour_tmavecerveny {
+  background: #9B2424;
+  color: #FFF200;
+}
+
+.kocour_cervenohnedy {
+  background: #973100;
+  color: #FFF200;
+}
+
+.kocour_cerveny {
+  background: #E72525;
+  color: #FED77A;
+}
+
+.kocour_hokejka {
+  background: #E72525;
+  color: #FED77A;
+  border-left: 1ex solid #FED77A;
+  border-right: 1ex solid #FED77A;
+}
+
+.kocour_zluty {
+  background: #FED77A;
+  color: #E72525;
+}
+
+.lego_8 {
+  background: #DDDDDD;
+  color: #CC0000;
+  border-left: 1ex solid #0000A0;
+  border-right: 1ex solid #0000A0;
+}
+
+.lego_10 {
+  background: #D8BCA0;
+  color: #B30000;
+  border-left: 1ex solid #0000A0;
+  border-right: 1ex solid #0000A0;
+}

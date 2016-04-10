@@ -214,5 +214,15 @@ $lak['sukafon_cerveny_pismo'] = array(810007, 810184, 810217, 810326, 810327, 81
 $lak['sukafon_najbrt_pismo'] = array(810349, 810472, 810487, 810608, 810621);
  
 
+$lak['cd_cargo'] = array(731017, 742442);
+$lak['ponorka_cervena'] = array(731010, 731056, 731057, 731058);
+$lak['kocour_zeleny'] = array(742129);
+$lak['kocour_tmavecerveny'] = array(742239, 742370);
+$lak['kocour_cervenohnedy'] = array(742170);
+$lak['kocour_cerveny'] = array(742013, 742081, 742140, 742200, 742201, 742217, 742316);
+$lak['kocour_hokejka'] = array(742317);
+$lak['kocour_zluty'] = array(742434);
+$lak['lego_8'] = array(708008);
+$lak['lego_10'] = array(708010);
 
 ?>
