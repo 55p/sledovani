@@ -1,0 +1,63 @@
+709203pk: X1: Čerčany;5:05,Světlá nad Sázavou;8:09
+719200: X2345: Havlíčkův Brod;7:50,Světlá nad Sázavou;8:08
+709200: X: Světlá nad Sázavou;8:13,Sázava-Černé Budy;10:17
+709209: X: Sázava-Černé Budy;11:59,Světlá nad Sázavou;14:44
+709208: X1234: Světlá nad Sázavou;15:46,Sázava-Černé Budy;18:10
+709208: X5: Světlá nad Sázavou;15:46,Čerčany;18:49
+709217: X1234: Sázava-Černé Budy;19:52,Světlá nad Sázavou;22:46
+709276: X1234: Světlá nad Sázavou;22:54,Ledeč nad Sázavou;23:19
+719211: X1234: Světlá nad Sázavou;23:30,Havlíčkův Brod;23:48
+
+809000: X: Čerčany;3:44,Týnec nad Sázavou;4:00
+809033: X: Týnec nad Sázavou;4:04,Čerčany;4:21
+809002: : Čerčany;5:06,Týnec nad Sázavou;5:22
+809035: X,6: Týnec nad Sázavou;5:34,Čerčany;5:53
+809004: X,6: Čerčany;6:21,Týnec nad Sázavou;6:37
+809051: 25: Týnec nad Sázavou;7:34,Čerčany;7:51
+809056: 25: Čerčany;8:06,Týnec nad Sázavou;8:23
+809053: 25: Týnec nad Sázavou;8:34,Čerčany;8:51
+810300: 25: Čerčany;9:15,Týnec nad Sázavou;9:33
+809055: 25: Týnec nad Sázavou;9:52,Čerčany;10:11
+809058: 25: Čerčany;11:12,Týnec nad Sázavou;11:28
+809061: 25: Týnec nad Sázavou;12:21Čerčany;12:39
+809060: 25: Čerčany;14:06,Týnec nad Sázavou;14:22
+809063: 25: Týnec nad Sázavou;15:21,Čerčany;15:39
+809062: 25: Čerčany;15:40,Týnec nad Sázavou;15:57
+810301: 25: Týnec nad Sázavou;16:10,Čerčany;16:28
+809064: 25: Čerčany;16:36,Týnec nad Sázavou;16:53
+809065: 25: Týnec nad Sázavou;17:49,Čerčany;18:07
+809066: 25: Čerčany;18:14,Týnec nad Sázavou;18:30
+810303: 25: Týnec nad Sázavou;18:40,Čerčany;18:58
+809068: 25: Čerčany;19.06,Týnec nad Sázavou;19:22
+809067: 25: Týnec nad Sázavou;19:34,Čerčany;19:51
+809070: 25: Čerčany;20:06,Týnec nad Sázavou;20:22
+809069: 25: Týnec nad Sázavou;21:34,Čerčany;21:51
+810302: 25: Čerčany;22:06,Týnec nad Sázavou;22:23
+809071: 25: Týnec nad Sázavou;22:34,Čerčany;22:51
+809001: X: Týnec nad Sázavou;7:30,Čerčany;7:47
+809006: X: Čerčany;8:06,Týnec nad Sázavou;8:22
+809003: X: Týnec nad Sázavou;8:34,Čerčany;8:51
+810304: X: Čerčany;10:10,Týnec nad Sázavou;10:28
+809005: X: Týnec nad Sázavou;10:34,Čerčany;10:51
+809008: X: Čerčany;11:06,Týnec nad Sázavou;11:22
+809007: X: Týnec nad Sázavou;12:34,Čerčany;12:51
+809010: X: Čerčany;13:36,Týnec nad Sázavou;14:36
+809009: X: Týnec nad Sázavou;14:04,Čerčany;14:21
+809012: X: Čerčany;14:36,Týnec nad Sázavou;14:52
+810305: X: Týnec nad Sázavou;15:00,Čerčany;15:18
+809014: X: Čerčany;16:06,Týnec nad Sázavou;16:22
+809011: X: Týnec nad Sázavou;16:34,Čerčany;16:52
+809016: X: Čerčany;17:06,Týnec nad Sázavou;17:22
+809013: X: Týnec nad Sázavou;17:34,Čerčany;17:51
+809032: X: Čerčany;18:08,Týnec nad Sázavou;18:22
+809015: X: Týnec nad Sázavou;18:34,Čerčany;18:51
+809018: X: Čerčany;19:06,Týnec nad Sázavou;19:22
+809017: X: Týnec nad Sázavou;19:34,Čerčany;19:51
+809020: X: Čerčany;20:06,Týnec nad Sázavou;20:22
+809019: X: Týnec nad Sázavou;20:34,Čerčany;20:51
+809022: X: Čerčany;22:06,Týnec nad Sázavou;22:22
+809021: X: Týnec nad Sázavou;22:34,Čerčany;22:51
+
+
+1::1
+2::2
