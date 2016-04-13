@@ -22,8 +22,8 @@ $trasa['100934_1'] = array('Letohrad;5:34','Hradec Králové hl.n.;6:53');
 $trasa['100935_1'] = array('Hradec Králové hl.n.;17:05','Letohrad;18:31');
 $trasa['199999_1'] = array('záloha Letohrad;0:00;23:59');
 
-$poznamkaObehu['100934_1'] = array('pk', 'postrk');
-$poznamkaObehu['100935_1'] = array('pk', 'postrk');
+$poznamkaObehu['100934_1'] = array('záv', 'závěs');
+$poznamkaObehu['100935_1'] = array('záv', 'závěs');
 
 $trasa['5018_1'] = array('Lichkov;5:42', 'Letohrad;6:08');
 $trasa['5019_1'] = array('Letohrad;17:06', 'Lichkov;17:35');
