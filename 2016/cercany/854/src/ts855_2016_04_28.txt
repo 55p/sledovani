@@ -1,0 +1,19 @@
+19101: 2804: Benešov u Prahy;4:12,Trhový Štěpánov;5:33
+19104: 2804: Trhový Štěpánov;5:44,Benešov u Prahy;6:41
+19143: 2804: Benešov u Prahy;7:08,Vlašim;7:47
+119108př: 2804: Vlašim;8:02,Benešov u Prahy;;8:41
+19125: 2705: Benešov u Prahy;21:18,Trhový Štěpánov;22:15
+
+19102: 2804: Trhový Štěpánov;4:44,Benešov u Prahy;5:41
+19103: 2804: Benešov u Prahy;6:08,Trhový Štěpánov;7:06
+19108: 2804: Trhový Štěpánov;7:27,Benešov u Prahy;8:41
+19127: 2705: Benešov u Prahy;22:18,Trhový Štěpánov;23:15
+
+19100: 2804: Trhový Štěpánov;3:48,Benešov u Prahy;4:45
+19141: 2804: Benešov u Prahy;5:08,Vlašim;5:47
+19106: 2804: Vlašim;7:02,Benešov u Prahy;7:41
+
+
+1::0
+2::0
+3::0
