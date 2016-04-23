@@ -2,6 +2,7 @@
 $skupiny[] = $ts601 = new TS ('TS 601');
 $skupiny[] = $ts602 = new TS ('TS 602');
 $skupiny[] = $ts606 = new TS ('TS 606');
+$skupiny[] = $ts607 = new TS ('TS 607');
 
 $typ[800] = 'Rx';
 $typ[801] = 'Rx';
