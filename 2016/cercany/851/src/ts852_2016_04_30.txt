@@ -1,0 +1,15 @@
+9031: X2345,0407: Vrané nad Vltavou;0:51,Čerčany;1:51
+2001: 6,0507: Praha hl.n.;0:16,Dobříš;1:39
+209231: X1,0707: Praha-Vršovice;2:48,Čerčany;3:22
+2000: 6,0507: Dobříš;3:35,Praha hl.n.;5:05
+2029800: 6,0507: Praha hl.n.;5:17,Praha-Vršovice;5:47
+9231: X: Čerčany;3:34,Zruč nad Sázavou;5:15
+9236: X: Zruč nad Sázavou;6:06,Čerčany;7:50
+9209: X: Čerčany;11:15,Světlá nad Sázavou;14:44
+9208: X: Světlá nad Sázavou;15:46,Čerčany;18:49
+9020: X1234,-0407: Čerčany;20:06,Praha hl.n.;22:05
+9022: X5,0407: Čerčany;22:06,Praha hl.n.;0:05
+2041: X1234,-0407: Praha hl.n.;22:55,Vrané nad Vltavou;23:27
+
+
+1::1
