@@ -21,7 +21,7 @@ $trasa['620_1'] = array('Brno hl.n.;19:20', 'Jihlava;21:17');
 $trasa['622_1'] = array('Brno hl.n.;17:20', 'Jihlava;19:18');
 $trasa['660_1'] = array('Brno hl.n.;15:20', 'Jihlava;17:18');
 $trasa['662_1'] = array('Brno hl.n.;13:20', 'Jihlava;15:18');
-$trasa['664_1'] = array('Brno hl.n.;11:20', 'Jihlava;12:18');
+$trasa['664_1'] = array('Brno hl.n.;11:20', 'Jihlava;13:18');
 $trasa['666_1'] = array('Brno hl.n.;9:20', 'Jihlava;11:18');
 $trasa['668_1'] = array('Brno hl.n.;7:20', 'Jihlava;9:18');
 
