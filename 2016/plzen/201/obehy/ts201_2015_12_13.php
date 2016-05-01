@@ -44,9 +44,6 @@ $omezeni['8961_1'] = 'X';
 $trasa['663_1'] = array('Plzeň hl.n.;8:02','České Budějovice;9:55');
 $trasa['668_1'] = array('České Budějovice;12:05','Plzeň hl.n.;13:57');
 
-$trasa[1982] = array('Plzeň hl.n.;8:59', 'Mariánské Lázně;10:07');
-$trasa[1991] = array('Mariánské Lázně;17:47', 'Plzeň hl.n.;18:58');
-
 $trasa['1969_1'] = array('Plzeň hl.n.;14:58', 'Horažďovice předměstí;15:56');
 $trasa['8901_1'] = array('Plzeň hl.n.;7:08', 'Horažďovice předměstí;8:16');
 $trasa['8902_1'] = array('Horažďovice předměstí;4:48', 'Plzeň hl.n.;5:55');
