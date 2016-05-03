@@ -5,8 +5,8 @@ $konecPlatnosti = null; //'x.x.201x 23:59:59';
 $obeh[1] = array('123_1', '122_1', '443_1');
 $obeh[2] = array('442_1', '125_1', '120_1');
 
-$trasa['442_1'] = array('Ostrava hl.n.;3:49', 'Praha hl.n.;7:39');
-$trasa['443_1'] = array('Praha hl.n.;23:09', 'Ostrava hl.n.;2:58');
+$trasa['442_1'] = array('Bohumín;3:40', 'Praha hl.n.;7:39');
+$trasa['443_1'] = array('Praha hl.n.;23:09', 'Bohumín;3:07');
 $trasa['120_1'] = array('Žilina;17:31', 'Praha hl.n.;22:52');
 $trasa['122_1'] = array('Žilina;15:31', 'Praha hl.n.;20:39');
 $trasa['123_1'] = array('Praha hl.n.;7:24', 'Žilina;12:29');
