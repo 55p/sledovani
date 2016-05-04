@@ -50,7 +50,7 @@ function predpoklad_6_TS301 ($timestamp) {
   if ($den == 6) {
     return 6;
   }
-  return 7;
+  return 0;
 }
 
 function predpoklad_7_TS301 ($timestamp) {
