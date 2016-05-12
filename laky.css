@@ -589,3 +589,13 @@ br + .lakVozidla {
   border-left: 1ex solid #0000A0;
   border-right: 1ex solid #0000A0;
 }
+
+.berta_seda {
+  background: #DDDDDD;
+  color: #800000;
+}
+
+.berta_zelena {
+  background: #005E00;
+  color: #D6D1A3;
+}
