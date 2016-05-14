@@ -280,6 +280,15 @@ br + .lakVozidla {
   background-color: #6D99CF;
 }
 
+.sukafon_ods {
+  background-color: white;
+  color: #000080;
+  border-left: 1ex solid #FFE009;
+  border-right: 1ex solid #FFE009;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
+}
+
 .br_modry {
   background: #003584;
   color: #ddd;
