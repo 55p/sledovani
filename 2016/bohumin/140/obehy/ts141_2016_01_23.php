@@ -1,7 +1,8 @@
 <?php 
 $zacatekPlatnosti = '23.1.2016';
 $zacatekPlatnosti2 = '16.2.2016';
-$zacatekPlatnosti2 = '3.5.2016';
+$zacatekPlatnosti3 = '3.5.2016';
+$zacatekPlatnosti4 = '16.5.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
 $obeh[1] = array('143_1', '143_2', '150_1', '541_1', '541_2');
@@ -45,6 +46,7 @@ $trasa['541_2'] = array('Praha hl.n.;18:24', 'Bohumín;22:03');
 @$ts141 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti)); 
 @$ts141 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti2)); 
 @$ts141 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti3)); 
+@$ts141 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti4)); 
 
 unset($obeh); 
 unset($trasa); 
