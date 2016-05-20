@@ -82,13 +82,13 @@ $omezeni['8283_1'] = 'X';
 $trasa['171710_1'] = array('Plzeň hl.n.;4:11','Klatovy;5:31');
 $trasa['623_1'] = array('Strakonice;5:01','České Budějovice;5:55');
 
-$trasa['1540_1'] = array('České Budějocice;14:03', 'Praha-Holešovice;16:38');
-$trasa['1540_2'] = array('České Budějocice;14:03', 'Praha-Holešovice;16:38');
-$trasa['1541_1'] = array('Praha hl.n.;5:34', 'České Budějocice;7:57');
-$trasa['1542_1'] = array('České Budějocice;18:03', 'Praha hl.n.;20:26');
-$trasa['1543_1'] = array('Praha-Holešovice;9:16', 'České Budějocice;11:57');
-$trasa['1545_1'] = array('Praha-Holešovice;13:16', 'České Budějocice;15:57');
-$trasa['1545_2'] = array('Praha-Holešovice;13:16', 'České Budějocice;15:57');
+$trasa['1540_1'] = array('České Budějovice;14:03', 'Praha-Holešovice;16:38');
+$trasa['1540_2'] = array('České Budějovice;14:03', 'Praha-Holešovice;16:38');
+$trasa['1541_1'] = array('Praha hl.n.;5:34', 'České Budějovice;7:57');
+$trasa['1542_1'] = array('České Budějovice;18:03', 'Praha hl.n.;20:26');
+$trasa['1543_1'] = array('Praha-Holešovice;9:16', 'České Budějovice;11:57');
+$trasa['1545_1'] = array('Praha-Holešovice;13:16', 'České Budějovice;15:57');
+$trasa['1545_2'] = array('Praha-Holešovice;13:16', 'České Budějovice;15:57');
 
 $trasa['1830_1'] = array('Tábor;5:17', 'Praha hl.n.;6:58');
 $trasa['1831_1'] = array('Praha hl.n.;8:25', 'Tábor;10:16');
