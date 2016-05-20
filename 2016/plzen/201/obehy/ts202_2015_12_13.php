@@ -21,21 +21,20 @@ $omezeni['7522_1'] = 'X, T';
 
 $trasa['1960'] = array('Plzeň hl.n.;7:02', 'Klatovy;7:52');
 $trasa['1961'] = array('Klatovy;8:06', 'Plzeň hl.n.;8:56');
-$trasa['1962_1'] = array('Plzeň hl.n.;11:02', 'Klatovy;11:52');
-$trasa['1963_1'] = array('Klatovy;12:06', 'Plzeň hl.n.;12:56');
-$trasa['1964_1'] = array('Plzeň hl.n.;15:02', 'Klatovy;15:52');
-$trasa['1965_1'] = array('Klatovy;16:06', 'Plzeň hl.n.;16:56');
-$trasa['7501_1'] = array('Klatovy;16:46', 'Plzeň hl.n.;17:46');
-$trasa['7512_1'] = array('Plzeň hl.n.;6:07', 'Klatovy;7:11');
-$trasa['7513_1'] = array('Klatovy;4:46', 'Plzeň hl.n.;5:46');
-$trasa['7514_1'] = array('Plzeň hl.n.;10:11', 'Klatovy;11:11');
-$trasa['7515_1'] = array('Klatovy;5:30', 'Plzeň hl.n.;6:30');
-$trasa['7518_1'] = array('Plzeň hl.n.;14:11', 'Klatovy;15:11');
-$trasa['7519_1'] = array('Klatovy;8:46', 'Plzeň hl.n.;9:46');
-$trasa['7519_2'] = array('Klatovy;8:46', 'Plzeň hl.n.;9:46');
-$trasa['7521_1'] = array('Klatovy;12:46', 'Plzeň hl.n.;13:46');
-$trasa['7522_1'] = array('Plzeň hl.n.;18:11', 'Klatovy;19:11');
-$trasa['7524_1'] = array('Plzeň hl.n.;19:11', 'Klatovy;20:11');
+$trasa['1962'] = array('Plzeň hl.n.;11:02', 'Klatovy;11:52');
+$trasa['1963'] = array('Klatovy;12:06', 'Plzeň hl.n.;12:56');
+$trasa['1964'] = array('Plzeň hl.n.;15:02', 'Klatovy;15:52');
+$trasa['1965'] = array('Klatovy;16:06', 'Plzeň hl.n.;16:56');
+$trasa['7501'] = array('Klatovy;16:46', 'Plzeň hl.n.;17:46');
+$trasa['7512'] = array('Plzeň hl.n.;6:07', 'Klatovy;7:11');
+$trasa['7513'] = array('Klatovy;4:46', 'Plzeň hl.n.;5:46');
+$trasa['7514'] = array('Plzeň hl.n.;10:11', 'Klatovy;11:11');
+$trasa['7515'] = array('Klatovy;5:30', 'Plzeň hl.n.;6:30');
+$trasa['7518'] = array('Plzeň hl.n.;14:11', 'Klatovy;15:11');
+$trasa['7519'] = array('Klatovy;8:46', 'Plzeň hl.n.;9:46');
+$trasa['7521'] = array('Klatovy;12:46', 'Plzeň hl.n.;13:46');
+$trasa['7522'] = array('Plzeň hl.n.;18:11', 'Klatovy;19:11');
+$trasa['7524'] = array('Plzeň hl.n.;19:11', 'Klatovy;20:11');
 
 @$ts202 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 
