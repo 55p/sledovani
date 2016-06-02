@@ -1,0 +1,16 @@
+5018:X6:Lichkov;5:42,Letohrad;6:08
+6281::Letohrad;7:14,Wroclaw Glowny;10:03
+6288:X6,-2606:Wroclaw Glowny;16:36,Lichkov;19:14
+6288:T:Wroclaw Glowny;16:36,Letohrad;19:47
+6288:2606:Wroclaw Glowny;16:36,Pardubice hl.n.;21:18
+7187:X:Letohrad;20:34,Lichkov;21:01
+
+100934pk:6:Letohrad;5:34,Hradec Králové hl.n.;6:53
+100935pk:6:Hradec Králové hl.n.;17:05,Letohrad;18:31
+199999:XT:záloha Letohrad;0:00;23:59
+
+
+1:6:2
+1::1
+2:6:1
+2::2

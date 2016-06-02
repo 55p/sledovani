@@ -2,13 +2,13 @@
 $zacatekPlatnosti = '10.5.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
-$obeh[1] = array('7502_1', '7518_1', '778_1', '101963_1', '776_1', '7523_1', '774_1', '7503_1', '772_1');
-$obeh[2] = array('7511_1', '7512_1', '1961_1', '7514_1', '1963_1', '7518_2', '17518_1', '1965_1', '7522_1');
+$obeh[1] = array('7502_1', '7517', '778_1', '101963_1', '776_1', '7523_1', '774_1', '7503_1', '772_1');
+$obeh[2] = array('7511_1', '7512_1', '1961_1', '7514_1', '1963_1', '7518_2', '17517', '1965_1', '7522_1');
 $obeh[3] = array('7511_2', '7515_1', '1960_1', '7519_1', '1962_1', '7521_1', '1964_1', '7501_1', '779_1', '7524_1');
 $obeh[4] = array('773_1', '7504_1', '775_1', '7516_1', '777_1', '101964_1', '7520_1', '7501_2', '779_2', '7524_2');
 
 $omezeni['101964_1'] = '6';
-$omezeni['17518_1'] = '25';
+$omezeni['17517'] = '25';
 $omezeni['1961_1'] = 'X';
 $omezeni['7501_1'] = 'X, T';
 $omezeni['7501_2'] = '6';
@@ -31,7 +31,7 @@ $poznamkaObehu['101964_1'] = array('pk', 'postrk');
 
 $poznamkaObehu['1963_1'] = array('vl', 'vlaková');
 
-$poznamkaObehu['17518_1'] = array('Sv 107518', '');
+$poznamkaObehu['17517'] = array('Sv 107518', '');
 
 $trasa['1960'] = array('Plzeň hl.n.;7:02', 'Klatovy;7:52');
 $trasa['1961'] = array('Klatovy;8:06', 'Plzeň hl.n.;8:56');
@@ -44,7 +44,8 @@ $trasa['7512'] = array('Plzeň hl.n.;6:07', 'Klatovy;7:11');
 $trasa['7513'] = array('Klatovy;4:46', 'Plzeň hl.n.;5:46');
 $trasa['7514'] = array('Plzeň hl.n.;10:11', 'Klatovy;11:11');
 $trasa['7515'] = array('Klatovy;5:30', 'Plzeň hl.n.;6:30');
-$trasa['17518_1'] = $trasa['7518'] = array('Plzeň hl.n.;14:11', 'Klatovy;15:11');
+$trasa['7517'] = array('Klatovy;6:46', 'Plzeň hl.n.;7:46');
+$trasa['17517'] = $trasa['7518'] = array('Plzeň hl.n.;14:11', 'Klatovy;15:11');
 $trasa['7519'] = array('Klatovy;8:46', 'Plzeň hl.n.;9:46');
 $trasa['7521'] = array('Klatovy;12:46', 'Plzeň hl.n.;13:46');
 $trasa['7522'] = array('Plzeň hl.n.;18:11', 'Klatovy;19:11');
