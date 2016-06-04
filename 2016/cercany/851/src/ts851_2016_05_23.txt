@@ -6,22 +6,22 @@
 109213: 2305: Čerčany;15:08,Český Šternberk;16:11
 109208: 2305: Český Šternberk;17:36,Čerčany;18:49
 109217: 2305: Čerčany;19:08,Český Šternberk;20:19
-109238: 2305: Český Šternberk;20:30,Sázava-Černé Budy;20:50
+10109238sv: 2305: Český Šternberk;20:30,Sázava-Černé Budy;20:50
 109240: 2305: Sázava-Černé Budy;22:16,Čerčany;22:46
 109249: 2305: Čerčany;23:05,Ledečko;23:44
 109207pk: X234: Čerčany;9:12,Český Šternberk;10:21
 109202: X234: Český Šternberk;11:57,Čerčany;12:55
 109243: X234: Čerčany;14:05,Ledečko;14:48
-109211: X234: Ledečko;14:55,Český Šternberk;15:20
+10109211sv: X234: Ledečko;14:55,Český Šternberk;15:20
 109206pk: X234: Český Šternberk;15:43,Čerčany;16:49
 109235: X234: Čerčany;17:08,Český Šternberk;18:12
 109238: X234: Český Šternberk;19:53,Čerčany;20:46
 109239: X234: Čerčany;21:08,Český Šternberk;22:37
-109240: X234: Český Šternberk;22:45,Ledečko;22:57
+10109240sv: X234: Český Šternberk;22:45,Ledečko;22:57
 109207pk: 2705,0306: Čerčany;9:12,Český Šternberk;10:21
 109202: 2705,0306: Český Šternberk;11:57,Čerčany;12:55
 109243: 2705,0306: Čerčany;14:05,Ledečko;14:48
-109211: 2705,0306: Ledečko;14:55,Český Šternberk;15:20
+10109211sv: 2705,0306: Ledečko;14:55,Český Šternberk;15:20
 109206pk: 2705,0306: Český Šternberk;15:43,Čerčany;16:49
 109213pk: 2705,0306: Čerčany;15:08,Český Šternberk;16:11
 109208: 2705,0306: Český Šternberk;17:36,Čerčany;18:49
@@ -39,20 +39,20 @@
 109205: 2905,0506: Čerčany;8:08,Kácov:9:21
 109202: 2905,0506: Kácov;11:42,Čerčany;12:55
 109217: 2905,0506: Čerčany;19:08,Kácov:20:36
-109208: 2905,0506: Kácov;20:50,Čerčany;22:12
+10109208sv: 2905,0506: Kácov;20:50,Čerčany;22:12
 109207pk: 3005,0606: Čerčany;9:12,Český Šternberk;10:21
 109202: 3005,0606: Český Šternberk;11:57,Čerčany;12:55
 109243: 3005,0606: Čerčany;14:05,Ledečko;14:48
-10109211: 3005,0606: Ledečko;14:55,Český Šternberk;15:20
+10109211sv: 3005,0606: Ledečko;14:55,Český Šternberk;15:20
 109206pk: 3005,0606: Český Šternberk;15:43,Čerčany;16:49
 109235: 3005,0606: Čerčany;17:08,Český Šternberk;18:12
 109238: 3005,0606: Český Šternberk;19:53,Čerčany;20:46
 109239: 3005,0606: Čerčany;21:08,Český Šternberk;22:37
-109240: 3005,0606: Český Šternberk;22:45,Ledečko;22:57
+10109240sv: 3005,0606: Český Šternberk;22:45,Ledečko;22:57
 109207pk: 1006: Čerčany;9:12,Český Šternberk;10:21
 109202: 1006: Český Šternberk;11:57,Čerčany;12:55
 109243: 1006: Čerčany;14:05,Ledečko;14:48
-109211: 1006: Ledečko;14:55,Český Šternberk;15:20
+10109211sv: 1006: Ledečko;14:55,Český Šternberk;15:20
 109206pk: 1006: Český Šternberk;15:43,Čerčany;16:49
 109235: 1006: Čerčany;17:08,Zruč nad Sázavou;18:53
 109238: 1006: Zruč nad Sázavou;19:16,Čerčany;20:47
@@ -66,7 +66,7 @@
 209200: 2305: Český Šternberk;9:53,Čerčany;10:53
 209211: 2305: Čerčany;13:08,Český Šternberk;14:13
 209220pk: 2305: Český Šternberk;14:45,Ledečko;14:59
-209211pk: 2305: Ledečko;15:10,Český Šternberk;15:25
+20109211pksv: 2305: Ledečko;15:10,Český Šternberk;15:25
 209206: 2305: Český Šternberk;15:43,Čerčany;16:49  
 209242: X234: Ledečko;4:44,Čerčany;5:27
 209241: X234: Čerčany;5:34,Sázava-Černé Budy;6:07
@@ -75,7 +75,7 @@
 209200: X234: Český Šternberk;9:53,Čerčany;10:53 
 209211: X234: Čerčany;13:08,Český Šternberk;14:13
 209220pk: X234: Český Šternberk;14:45,Ledečko;14:59
-209211pk: X234: Ledečko;15:20,Český Šternberk;15:32
+20109211pksv: X234: Ledečko;15:20,Český Šternberk;15:32
 209206: X234: Český Šternberk;15:43,Čerčany;16:49
 209242: 2705,0306: Ledečko;4:44,Čerčany;5:27
 209241: 2705,0306: Čerčany;5:34,Sázava-Černé Budy;6:07
@@ -84,7 +84,7 @@
 209200: 2705,0306: Český Šternberk;9:53,Čerčany;10:53
 209211: 2705,0306: Čerčany;13:08,Český Šternberk;14:13
 209220pk: 2705,0306: Český Šternberk;14:45,Ledečko;14:59
-209211pk: 2705,0306: Ledečko;15:10,Český Šternberk;15:25
+20109211pksv: 2705,0306: Ledečko;15:10,Český Šternberk;15:25
 209206: 2705,0306: Český Šternberk;15:43,Čerčany;16:49
 209235: 2705,0306: Čerčany;17:08,Kácov;18:31
 209238: 2705,0306: Kácov;19:38,Čerčany;20:46
@@ -108,7 +108,7 @@
 209200: 3005,0606: Český Šternberk;9:53,Čerčany;10:53
 209211: 3005,0606: Čerčany;13:08,Český Šternberk;14:13
 209220pk: 3005,0606: Český Šternberk;14:45,Ledečko;14:59
-209211pk: 3005,0606: Ledečko;15:20,Český Šternberk;15:32
+20109211pksv: 3005,0606: Ledečko;15:20,Český Šternberk;15:32
 209206: 3005,0606: Český Šternberk;15:43,Čerčany;16:49
 209242: 1006: Ledečko;4:44,Čerčany;5:27
 209241: 1006: Čerčany;5:34,Sázava-Černé Budy;6:07
@@ -117,7 +117,7 @@
 209200: 1006: Český Šternberk;9:53,Čerčany;10:53
 209211: 1006: Čerčany;13:08,Český Šternberk;14:13
 209220pk: 1006: Český Šternberk;14:45,Ledečko;14:59
-209211pk: 1006: Ledečko;15:20,Český Šternberk;15:32
+20109211pksv: 1006: Ledečko;15:20,Český Šternberk;15:32
 209206: 1006: Český Šternberk;15:43,Čerčany;16:49
 209247: 1006: Čerčany;18:08,Sázava-Černé Budy;18:41
 209248: 1006: Sázava-Černé Budy;19:13,Čerčany;19:51
@@ -133,7 +133,7 @@
 309268: 2305: Ledeč nad Sázavou;17:40,Zruč nad Sázavou;18:08
 309271: 2305: Zruč nad Sázavou;18:34,Světlá nad Sázavou;19:41
 309272: 2305: Světlá nad Sázavou;17:46,Zruč nad Sázavou;20:47
-309231: X234: Ledečko;3:35,Český Šternberk;4:00
+30109231sv: X234: Ledečko;3:35,Český Šternberk;4:00
 309230: X234: Český Šternberk;4:04,Čerčany;4:57
 309203: X234: Čerčany;5:05,Český Šternberk;6:11
 309236: X234: Český Šternberk;6:45,Čerčany;7:50
@@ -144,10 +144,10 @@
 309245: X234: Čerčany;16:08,Sázava-Černé Budy;16:41
 309246: X234: Sázava-Černé Budy;17:13,Čerčany;17:51
 309247: X234: Čerčany;18:08,Sázava-Černé Budy;18:41
-309248: X234: Sázava-Černé Budy;19:13,Čerčany;19:51
+309248sv: X234: Sázava-Černé Budy;19:13,Čerčany;19:51
 309020: X234: Čerčany;20:06,Praha hl.n.;22:05
 302041: X234: Praha hl.n.;22:55,Vrané nad Vltavou;23:28
-30109231: 2705,0306: Ledečko;3:35,Český Šternberk;4:00
+30109231sv: 2705,0306: Ledečko;3:35,Český Šternberk;4:00
 309230: 2705,0306: Český Šternberk;4:04,Čerčany;4:57
 309203: 2705,0306: Čerčany;5:05,Český Šternberk;6:11
 309236: 2705,0306: Český Šternberk;6:45,Čerčany;7:50
@@ -158,12 +158,12 @@
 309245: 2705,0306: Čerčany;16:08,Sázava-Černé Budy;16:41
 309246: 2705,0306: Sázava-Černé Budy;17:13,Čerčany;17:51
 309247: 2705,0306: Čerčany;18:08,Sázava-Černé Budy;18:41
-309248: 2705,0306: Sázava-Černé Budy;19:13,Čerčany;19:51
+309248sv: 2705,0306: Sázava-Černé Budy;19:13,Čerčany;19:51
 309020: 2705,0306: Čerčany;20:06,Praha hl.n.;22:05
 302041: 2705,0306: Praha hl.n.;22:55,Vrané nad Vltavou;23:28
 309235: 2805,0406: Čerčany;17:08,Kácov;18:28
 309238: 2805,0406: Kácov;19:38,Čerčany;20:46
-309230: 3005,0606: Kácov;3:49,Český Šternberk;4:04
+309230sv: 3005,0606: Kácov;3:49,Český Šternberk;4:04
 309230: 3005,0606: Český Šternberk;4:04,Čerčany;4:57
 309203: 3005,0606: Čerčany;5:05,Kácov;6:30
 309236: 3005,0606: Kácov;6:30,Čerčany;7:50
@@ -174,10 +174,10 @@
 309245: 3005,0606: Čerčany;16:08,Sázava-Černé Budy;16:41
 309246: 3005,0606: Sázava-Černé Budy;17:13,Čerčany;17:51
 309247: 3005,0606: Čerčany;18:08,Sázava-Černé Budy;18:41
-309248: 3005,0606: Sázava-Černé Budy;19:13,Čerčany;19:51
+309248sv: 3005,0606: Sázava-Černé Budy;19:13,Čerčany;19:51
 309020: 3005,0606: Čerčany;20:06,Praha hl.n.;22:05
 302041: 3005,0606: Praha hl.n.;22:55,Vrané nad Vltavou;23:28
-309231: 1006: Ledečko;3:35,Český Šternberk;4:00
+30109231sv: 1006: Ledečko;3:35,Český Šternberk;4:00
 309230: 1006: Český Šternberk;4:04,Čerčany;4:57
 309203: 1006: Čerčany;5:05,Český Šternberk;6:11
 309236: 1006: Český Šternberk;6:45,Čerčany;7:50
@@ -195,7 +195,7 @@
 409203pk: 2305: Zruč nad Sázavou;7:08,Světlá nad Sázavou;8:09
 409200: 2305: Světlá nad Sázavou;8:13,Zruč nad Sázavou;9:12
 409205: 2305: Zruč nad Sázavou;10:14,Světlá nad Sázavou;11
-40109203: 2305: Světlá nad Sázavou;11:20,Havlíčkův Brod;11:35
+40109203sv: 2305: Světlá nad Sázavou;11:20,Havlíčkův Brod;11:35
 409261: X234: Zruč nad Sázavou;4:16,Světlá nad Sázavou;5:09
 409262: X234: Světlá nad Sázavou;5:59,Zruč nad Sázavou;6:53
 409203pk: X234: Zruč nad Sázavou;7:08,Světlá nad Sázavou;8:09
@@ -260,7 +260,7 @@
 509208: 2305: Světlá nad Sázavou;15:46,Zruč nad Sázavou;16:47
 509213: 2305: Zruč nad Sázavou;17:00,Ledeč nad Sázavou;17:28
 509269pk: 2305: Ledeč nad Sázavou;17:41,Havlíčkův Brod;18:09
-509270: 2305: Havlíčkův Brod;19:15,Světlá nad Sázavou;19:30
+50109270sv: 2305: Havlíčkův Brod;19:15,Světlá nad Sázavou;19:30
 509272pk: 2305: Světlá nad Sázavou;19:46,Zruč nad Sázavou;20:47
 509217: 2305: Zruč nad Sázavou;21:03,Světlá nad Sázavou;22:46
 509276: 2305: Světlá nad Sázavou;22:54,Ledeč nad Sázavou;23:19
@@ -309,14 +309,14 @@
 609265: X234: Zruč nad Sázavou;5:53,Světlá nad Sázavou;6:58
 609264: X234: Světlá nad Sázavou;7:12,Zruč nad Sázavou;8:14
 609221: X234: Zruč nad Sázavou;8:48,Ledeč nad Sázavou;9:19
-609200: X234: Ledeč nad Sázavou;9:30,Zruč nad Sázavou;9:55
+60109200sv: X234: Ledeč nad Sázavou;9:30,Zruč nad Sázavou;9:55
 609205: X234: Zruč nad Sázavou;10:14,Světlá nad Sázavou;11:11
 609204: X234: Světlá nad Sázavou;11:46,Zruč nad Sázavou;12:43
 609209: X234: Zruč nad Sázavou;13:37,Světlá nad Sázavou;14:44
 609208: X234: Světlá nad Sázavou;15:46,Zruč nad Sázavou;16:47
 609213: X234: Zruč nad Sázavou;17:00,Ledeč nad Sázavou;17:28
 609269pk: X234: Ledeč nad Sázavou;17:41,Havlíčkův Brod;18:09 
-609270: X234: Havlíčkův Brod;19:15,Světlá nad Sázavou;19:30
+60109270sv: X234: Havlíčkův Brod;19:15,Světlá nad Sázavou;19:30
 609272pk: X234: Světlá nad Sázavou;19:46,Zruč nad Sázavou;20:47
 609217: X234: Zruč nad Sázavou;21:03,Světlá nad Sázavou;22:46
 609276: X234: Světlá nad Sázavou;22:54,Ledeč nad Sázavou;23:19
@@ -324,14 +324,14 @@
 609265: 2705,0306: Zruč nad Sázavou;5:53,Světlá nad Sázavou;6:58
 609264: 2705,0306: Světlá nad Sázavou;7:12,Zruč nad Sázavou;8:14
 609221: 2705,0306: Zruč nad Sázavou;8:48,Ledeč nad Sázavou;9:19
-609200: 2705,0306: Ledeč nad Sázavou;9:30,Zruč nad Sázavou;9:55
+60109200sv: 2705,0306: Ledeč nad Sázavou;9:30,Zruč nad Sázavou;9:55
 609205: 2705,0306: Zruč nad Sázavou;10:14,Světlá nad Sázavou;11:11
 609204: 2705,0306: Světlá nad Sázavou;11:46,Zruč nad Sázavou;12:43
 609209: 2705,0306: Zruč nad Sázavou;13:37,Světlá nad Sázavou;14:44
 609208: 2705,0306: Světlá nad Sázavou;15:46,Zruč nad Sázavou;16:47
 609213: 2705,0306: Zruč nad Sázavou;17:00,Ledeč nad Sázavou;17:28
 609269pk: 2705,0306: Ledeč nad Sázavou;17:41,Havlíčkův Brod;18:09
-609270: 2705,0306: Havlíčkův Brod;19:15,Světlá nad Sázavou;19:30
+60109270sv: 2705,0306: Havlíčkův Brod;19:15,Světlá nad Sázavou;19:30
 609272: 2705,0306: Světlá nad Sázavou;19:46,Zruč nad Sázavou;20:47
 609258: 2805,0406: Ledeč nad Sázavou;4:44,Zruč nad Sázavou;5:12
 609263: 2805,0406: Zruč nad Sázavou;5:16,Havlíčkův Brod;6:36
@@ -359,14 +359,14 @@
 609265: 3005,0606: Zruč nad Sázavou;5:53,Světlá nad Sázavou;6:58
 609264: 3005,0606: Světlá nad Sázavou;7:12,Zruč nad Sázavou;8:14
 609221: 3005,0606: Zruč nad Sázavou;8:48,Ledeč nad Sázavou;9:19
-609200: 3005,0606: Ledeč nad Sázavou;9:30,Zruč nad Sázavou;9:55
+60109200sv: 3005,0606: Ledeč nad Sázavou;9:30,Zruč nad Sázavou;9:55
 609205: 3005,0606: Zruč nad Sázavou;10:14,Světlá nad Sázavou;11:11
 609204: 3005,0606: Světlá nad Sázavou;11:46,Zruč nad Sázavou;12:43
 609209: 3005,0606: Zruč nad Sázavou;13:37,Světlá nad Sázavou;14:44
 609208: 3005,0606: Světlá nad Sázavou;15:46,Zruč nad Sázavou;16:47
 609213: 3005,0606: Zruč nad Sázavou;17:00,Ledeč nad Sázavou;17:28
 609269pk: 3005,0606: Ledeč nad Sázavou;17:41,Havlíčkův Brod;18:09 
-609270: 3005,0606: Havlíčkův Brod;19:15,Světlá nad Sázavou;19:30
+60109270sv: 3005,0606: Havlíčkův Brod;19:15,Světlá nad Sázavou;19:30
 609272pk: 3005,0606: Světlá nad Sázavou;19:46,Zruč nad Sázavou;20:47
 609217: 3005,0606: Zruč nad Sázavou;21:03,Světlá nad Sázavou;22:46
 609276: 3005,0606: Světlá nad Sázavou;22:54,Ledeč nad Sázavou;23:19
@@ -374,7 +374,7 @@
 609265: 1006: Zruč nad Sázavou;5:53,Světlá nad Sázavou;6:58
 609264: 1006: Světlá nad Sázavou;7:12,Zruč nad Sázavou;8:14
 609221: 1006: Zruč nad Sázavou;8:48,Ledeč nad Sázavou;9:19
-609200: 1006: Ledeč nad Sázavou;9:30,Zruč nad Sázavou;9:55
+60109200sv: 1006: Ledeč nad Sázavou;9:30,Zruč nad Sázavou;9:55
 609205: 1006: Zruč nad Sázavou;10:14,Světlá nad Sázavou;11:11
 609204: 1006: Světlá nad Sázavou;11:46,Zruč nad Sázavou;12:43
 609209: 1006: Zruč nad Sázavou;13:37,Světlá nad Sázavou;14:44
