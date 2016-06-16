@@ -1,0 +1,132 @@
+572: X: Brno hl.n.;7:08,Praha hl.n.;9:42
+985: X: Praha hl.n.;15:06,Brno hl.n.;18:41
+845: X: Brno hl.n.;19:02,Bohumín;21:34
+903: 6: Brno hl.n.;6:28,Šumperk;8:42
+909: T: Brno hl.n.;11:18,Olomouc hl.n.;12:51
+908: T: Olomouc hl.n.;13:07,Brno hl.n.;14:43
+906: 6: Šumperk;14:09,Brno hl.n.;16:43
+915: 25: Brno hl.n.;17:18,Šumperk;19:42
+900: 25: Šumperk;20:15,Brno hl.n.;22:39
+
+844: : Bohumín;6:35,Brno hl.n.;8:57
+829: : Brno hl.n.;11:02,Bohumín;13:34
+832: : Bohumín;14:35,Brno hl.n.;16:59
+845: 25: Brno hl.n.;19:02,Bohumín;21:34
+974: X: Brno hl.n.;17:20,Havlíčkův Brod;18:54
+5918:X
+5941:X
+
+5940:X6
+5903:X6
+5906:X6
+5909:6
+5916:6
+5907:X
+5912:X
+5913:XT
+5918:T
+5941:T
+
+990: X1: Brno hl.n.;5:20,Praha hl.n.;8:51
+990: X2345: Žďár nad Sázavou;6:30,Praha hl.n.;8:51
+990: 6: Havlíčkův Brod;6:55,Praha hl.n.;8:51
+961: XT: Praha hl.n.;17:06,Jihlava;19:23
+
+960: X6: Jihlava;5:32,Praha hl.n.;7:51
+960: T: Havlíčkův Brod;5:55,Praha hl.n.;7:51
+979: : Praha hl.n.;10:06,Brno hl.n.;13:41
+835: : Brno hl.n.;14:02,Bohumín;16:34
+826: XT: Bohumín;17:35,Brno hl.n.;19:57
+849: T: Brno hl.n.;21:02,Bohumín;23:34
+
+823: X6: Brno hl.n.;6:02,Bohumín;8:34
+834: : Bohumín;13:35,Brno hl.n.;15:59
+976: : Brno hl.n.;16:20,Praha hl.n.;19:51
+965: z25: Praha hl.n.;22:06,Havlíčkův Brod;0:03
+
+975: X: Praha hl.n.;6:06,Brno hl.n.;9:41
+982: X: Brno hl.n.;12:20,Praha hl.n.;15:51
+989: X: Praha hl.n.;18:06,Brno hl.n.;21:44
+973: 6: Havlíčkův Brod;6:04,Brno hl.n.;7:43
+841: T: Brno hl.n.;17:02,Bohumín;19:34
+820: T: Bohumín;20:35,Brno hl.n.;22:56
+
+99999: : Údržba DKV;0:01;23:59
+
+988: : Brno hl.n.;6:20,Praha hl.n.;9:51
+981: : Praha hl.n.;12:06,Brno hl.n.;15:41
+839: : Brno hl.n.;16:02,Bohumín;18:34
+822: T: Bohumín;19:35,Brno hl.n.;21:56
+
+842: : Bohumín;7:35,Brno hl.n.;9:57
+984: : Brno hl.n.;10:20,Praha hl.n.;13:51
+987: : Praha hl.n.;16:06,Brno hl.n.;19:41
+847: T: Brno hl.n.;20:02,Bohumín;22:34
+849: X6: Brno hl.n.;21:02,Bohumín;23:34
+
+973: T: Havlíčkův Brod;6:04,Brno hl.n.;7:43
+846: X6: Bohumín;5:35,Brno hl.n.;7:57
+986: : Brno hl.n.;8:20,Praha hl.n.;11:51
+983: : Praha hl.n.;14:06,Brno hl.n.;17:41
+843: XT: Brno hl.n.;18:02,Bohumín;20:34
+
+848: X6: Bohumín;4:35,Brno hl.n.;6:59
+827: : Brno hl.n.;9:02,Bohumín;11:34
+836: : Bohumín;12:35,Brno hl.n.;14:59
+978: XT: Brno hl.n.;15:20,Praha hl.n.;18:51
+963: XT: Praha hl.n.;20:06,Havlíčkův Brod;22:03
+841: 6: Brno hl.n.;17:02,Bohumín;19:34
+820: 6: Bohumín;20:35,Brno hl.n.;22:56
+
+962: X6: Havlíčkův Brod;4:55,Praha hl.n.;6:51
+977: : Praha hl.n.;8:06,Brno hl.n.;11:41
+831: : Brno hl.n.;12:02,Bohumín;14:34
+830: : Bohumín;15:35,Brno hl.n.;17:59
+972: : Brno hl.n.;18:20,Praha hl.n.;21:51
+
+571: X: Praha hl.n.;4:52,Brno hl.n.;7:22
+841: X: Brno hl.n.;17:02,Bohumín;19:34
+820: X: Bohumín;20:35,Brno hl.n.;22:56
+975: 6: Praha hl.n.;6:06,Brno hl.n.;9:41
+975: T: Havlíčkův Brod;8:04,Brno hl.n.;9:41
+982: 25: Brno hl.n.;12:20,Praha hl.n.;15:51
+989: 25: Praha hl.n.;18:06,Brno hl.n.;21:44
+
+821: X6: Brno hl.n.;5:02,Bohumín;7:34
+840: : Bohumín;8:35,Brno hl.n.;10:57
+833: : Brno hl.n.;13:02,Bohumín;15:34
+828: : Bohumín;16:35,Brno hl.n.;18:59
+817: XT: Brno hl.n.;20:36,Břeclav;21:20
+970: 6: Brno hl.n.;20:20,Havlíčkův Brod;21:54
+
+816: X6: Břeclav;6:40,Brno hl.n.;7:24
+980: : Brno hl.n.;14:20,Praha hl.n.;17:51
+991: zX: Praha hl.n.;19:06,Havlíčkův Brod;21:03
+991: 5: Praha hl.n.;19:06,Brno hl.n.;22:36
+963: 6: Praha hl.n.;20:06,Havlíčkův Brod;22:03
+
+971: X: Havlíčkův Brod;5:02,Brno hl.n.;6:46
+825: : Brno hl.n.;7:02,Bohumín;9:34
+838: : Bohumín;10:35,Brno hl.n.;12:57
+837: : Brno hl.n.;15:02,Bohumín;17:34
+824: : Bohumín;18:35,Brno hl.n.;20:56
+
+
+1:6:1
+1:7:4
+2:6,7:2
+3:6,7:3
+4:6:4
+5:7:10
+6:6:11
+16:6:5
+9:7:6
+7:6:7
+16:6:9
+11:6:16
+12:6:12
+13:6:13
+15:6:14
+16:6:5
+10:6:15
+17:6:17

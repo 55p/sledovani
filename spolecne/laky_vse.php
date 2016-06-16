@@ -138,14 +138,14 @@ $lak['br_oranzovy'] = array(754050);
 $lak['br_modry'] = array(754060);
 $lak['najbrt1bila'] = array_merge(array(754037, 754067, 754068, 754075, 754086), $lak['najbrt1bila']);
 $lak['najbrt1'] = array_merge(array(754046, 754058, 750701, 750702, 750703, 750704, 750705, 750706, 750707, 750708, 750709, 750710, 750711), $lak['najbrt1']);
-$lak['najbrt2'] = array_merge(array(750712, 750713, 750714, 750715, 750716, 750717, 750718, 750719, 754006, 754007, 754008, 754009, 754015, 754021, 754028, 754040, 754041, 754076), $lak['najbrt2']);
+$lak['najbrt2'] = array_merge(array(750712, 750713, 750714, 750715, 750716, 750717, 750718, 750719, 754006, 754007, 754008, 754009, 754015, 754021, 754028, 754040, 754041, 754062, 754076, 754078), $lak['najbrt2']);
 $lak['br_svetle_modre'] = array(754013);
 $lak['br_cerveny'] = array(754012);
 $lak['br_cerny'] = array(754018);
 $lak['br_zeleny_blesk'] = array(754023, 754045);
 $lak['br_rudy_blesk'] = array(754049, 754066);
 $lak['br_modry_blesk'] = array(754019, 754029, 754020, 754024, 754027, 754057, 754059);
-$lak['br_cerveny_pruh'] = array(754062, 754044, 754078);
+$lak['br_cerveny_pruh'] = array(754044);
 
 $lak['leo_express'] = array(480001, 480002, 480003, 480004, 480005);
 $lak['regiojet'] = array(162113, 162114, 162115, 162116, 162117, 162118, 162119, 162120);
