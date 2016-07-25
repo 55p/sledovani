@@ -2,11 +2,11 @@
 $zacatekPlatnosti = '1.7.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
-$obeh[1] = array('9230_1', '9234_1', '9207_1', '9209_1', '9220_1', '1832_1', '9235_1', '9238_1', '9239_1', '9247_1', '9248_1', '9020_1', '2041_1', '9217_1');
-$obeh[2] = array('9231_1', '9242_1', '9241_1', '9232_1', '9234_2', '9244_1', '9221_1', '9221_2', '9202_1', '9243_1', '9220_2', '9245_1', '9246_1', '9217_2', '9274_1', '9207_2', '9206_1', '9220_3', '9235_2', '9238_2', '9237_1');
-$obeh[3] = array('9031_1', '9230_2', '9203_1', '9203_2', '9264_1', '9250_1', '9205_1', '9202_2', '9204_1', '9213_1', '9268_1', '9271_1', '9270_1', '9273_1', '9272_1', '9240_1', '9249_1', '9274_2');
+$obeh[1] = array('9230_1', '9234_1', '9207_1', '109209_1', '9220_1', '1832_1', '9235_1', '9238_1', '9239_1', '9247_1', '9248_1', '9020_1', '2041_1', '9217_1');
+$obeh[2] = array('109231_1', '9242_1', '9241_1', '9232_1', '9234_2', '9244_1', '9221_1', '9221_2', '9202_1', '9243_1', '109220_2', '9245_1', '9246_1', '9217_2', '9274_1', '9207_2', '9206_1', '9220_3', '9235_2', '9238_2', '9237_1');
+$obeh[3] = array('9031_1', '9230_2', '9203_1', '109203_2', '9264_1', '9250_1', '9205_1', '9202_2', '9204_1', '9213_1', '9268_1', '9271_1', '9270_1', '9273_1', '9272_1', '9240_1', '9249_1', '9274_2');
 $obeh[4] = array('9261_1', '9260_1', '9263_1', '9265_1', '9262_1', '9251_1', '9203_3', '9200_1', '9211_1', '9208_1', '9268_2', '9271_2', '9020_2', '2041_2', '9022_1');
-$obeh[5] = array('2001_1', '9031_2', '9231_2', '2000_1', '29800_1', '9231_3', '9236_1', '9209_2', '9206_2', '9235_3', '9238_3', '9239_2', '9247_2', '9240_2', '9249_2');
+$obeh[5] = array('2001_1', '9031_2', '209231', '2000_1', '29800_1', '9231_3', '9236_1', '9209_2', '9206_2', '9235_3', '9238_3', '9239_2', '9247_2', '9240_2', '9249_2');
 $obeh[6] = array('9258_1', '9265_2', '9236_2', '9205_2', '9204_2', '9209_3', '9208_2');
 
 $omezeni['1832_1'] = '6,0507';
@@ -23,7 +23,7 @@ $omezeni['9031_2'] = 'X2345,0407';
 $omezeni['9202_1'] = 'X';
 $omezeni['9202_2'] = '25';
 $omezeni['9203_1'] = 'X';
-$omezeni['9203_2'] = 'X';
+$omezeni['109203_2'] = 'X';
 $omezeni['9203_3'] = 'X';
 $omezeni['9204_1'] = 'X';
 $omezeni['9204_2'] = 'T,-0507';
@@ -35,20 +35,20 @@ $omezeni['9207_1'] = 'X';
 $omezeni['9207_2'] = '6,0507';
 $omezeni['9208_1'] = 'X';
 $omezeni['9208_2'] = '6,0507';
-$omezeni['9209_1'] = '6,0507';
+$omezeni['109209_1'] = '6,0507';
 $omezeni['9209_2'] = 'X';
 $omezeni['9209_3'] = '6,0507';
 $omezeni['9217_1'] = '25';
 $omezeni['9217_2'] = 'X';
 $omezeni['9220_1'] = 'X';
-$omezeni['9220_2'] = 'X';
+$omezeni['109220_2'] = 'X';
 $omezeni['9220_3'] = 'T,-0507';
 $omezeni['9221_1'] = 'X';
 $omezeni['9221_2'] = '25';
 $omezeni['9230_1'] = '6,0507';
 $omezeni['9230_2'] = 'X';
-$omezeni['9231_1'] = 'X1,0707';
-$omezeni['9231_2'] = 'X1,0707';
+$omezeni['109231_1'] = 'X1,0707';
+$omezeni['209231'] = 'X1,0707';
 $omezeni['9231_3'] = 'X';
 $omezeni['9232_1'] = 'T,-0507';
 $omezeni['9234_1'] = 'X';
@@ -110,7 +110,7 @@ $trasa['9200_1'] = array('Ledeč nad Sázavou;8:43','Čerčany;10:53');
 $trasa['9202_1'] = array('Ledeč nad Sázavou;10:45','Čerčany;12:55');
 $trasa['9202_2'] = array('Ledeč nad Sázavou;10:45','Čerčany;12:55');
 $trasa['9203_1'] = array('Čerčany;5:05','Zruč nad Sázavou;6:50');
-$trasa['9203_2'] = array('Zruč nad Sázavou;7:08','Ledeč nad Sázavou;7:36');
+$trasa['109203_2'] = array('Zruč nad Sázavou;7:08','Ledeč nad Sázavou;7:36');
 $trasa['9203_3'] = array('Zruč nad Sázavou;7:08','Ledeč nad Sázavou;7:36');
 $trasa['9204_1'] = array('Ledeč nad Sázavou;12:14','Čerčany;14:27');
 $trasa['9204_2'] = array('Ledeč nad Sázavou;12:14','Čerčany;14:27');
@@ -122,7 +122,7 @@ $trasa['9207_1'] = array('Čerčany;9:12','Ledeč nad Sázavou;12:09');
 $trasa['9207_2'] = array('Zruč nad Sázavou;11:41','Ledeč nad Sázavou;12:09');
 $trasa['9208_1'] = array('Ledeč nad Sázavou;16:18','Čerčany;18:49');
 $trasa['9208_2'] = array('Ledeč nad Sázavou;16:18','Čerčany;18:49');
-$trasa['9209_1'] = array('Čerčany;11:15','Zruč nad Sázavou;13:34');
+$trasa['109209_1'] = array('Čerčany;11:15','Zruč nad Sázavou;13:34');
 $trasa['9209_2'] = array('Čerčany;11:15','Ledeč nad Sázavou;14:05');
 $trasa['9209_3'] = array('Čerčany;11:15','Ledeč nad Sázavou;14:05');
 $trasa['9211_1'] = array('Čerčany;13:08','Ledeč nad Sázavou;16:12');
@@ -130,14 +130,14 @@ $trasa['9213_1'] = array('Čerčany;15:08','Ledeč nad Sázavou;17:28');
 $trasa['9217_1'] = array('Čerčany;19:08','Zruč nad Sázavou;20:58');
 $trasa['9217_2'] = array('Čerčany;19:08','Ledeč nad Sázavou;21:29');
 $trasa['9220_1'] = array('Ledeč nad Sázavou;13:26','Čerčany;15:49');
-$trasa['9220_2'] = array('Ledečko;15:04','Čerčany;15:49');
+$trasa['109220_2'] = array('Ledečko;15:04','Čerčany;15:49');
 $trasa['9220_3'] = array('Zruč nad Sázavou;14:03','Čerčany;15:49');
 $trasa['9221_1'] = array('Čerčany;7:09','Ledeč nad Sázavou;9:19');
 $trasa['9221_2'] = array('Čerčany;7:09','Zruč nad Sázavou;8:47');
 $trasa['9230_1'] = array('Ledečko;4:17','Čerčany;4:57');
 $trasa['9230_2'] = array('Zruč nad Sázavou;3:28','Čerčany;4:57');
-$trasa['9231_1'] = array('Čerčany;3:34','Ledečko;4:13');
-$trasa['9231_2'] = array('Praha-Vršovice;2:48','Čerčany;3:22');
+$trasa['109231_1'] = array('Čerčany;3:34','Ledečko;4:13');
+$trasa['209231'] = array('Praha-Vršovice;2:48','Čerčany;3:22');
 $trasa['9231_3'] = array('Čerčany;3:34','Zruč nad Sázavou;5:15');
 $trasa['9232_1'] = array('Zruč nad Sázavou;4:19','Čerčany;5:48');
 $trasa['9234_1'] = array('Zruč nad Sázavou;4:31','Čerčany;6:20');
@@ -186,13 +186,13 @@ $trasa['9273_1'] = array('Zruč nad Sázavou;19:48','Ledeč nad Sázavou;20:14')
 $trasa['9274_1'] = array('Ledeč nad Sázavou;22:10','Kácov;22:59');
 $trasa['9274_2'] = array('Ledeč nad Sázavou;22:10','Kácov;22:59');
 
-$poznamkaObehu['9209_1'] = array('pk', 'postrk');
-$poznamkaObehu['9231_1'] = array('pk', 'postrk');
-$poznamkaObehu['9220_2'] = array('pk', 'postrk');
-$poznamkaObehu['9203_2'] = array('pk', 'postrk');
+$poznamkaObehu['109209_1'] = array('pk', 'postrk');
+$poznamkaObehu['109231_1'] = array('pk', 'postrk');
+$poznamkaObehu['109220_2'] = array('pk', 'postrk');
+$poznamkaObehu['109203_2'] = array('pk', 'postrk');
 
-
-
+$typ['209231'] = 'Sv';
+$typ['29800'] = 'Sv';
 
 
 @$ts851 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
