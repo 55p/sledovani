@@ -3,9 +3,9 @@ $zacatekPlatnosti = '12.6.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
 $obeh[1] = array('671_1', '692_1', '681_1', '686_1', '687_1', '678_1', '676_1', '6967_1', '6957_1');
-$obeh[2] = array('6930_1', '6963_1', '679_1', '688_1', '685_1', '1903_1', '21810_1');
+$obeh[2] = array('6930_1', '6963_1', '679_1', '688_1', '685_1', '1903_1', '21810_1', '71201_1', '9206_1');
 $obeh[3] = array('21811_1', '1900_1', '1901_1');
-$obeh[4] = array('1902_1', '690_1', '683_1', '684_1', '689_1', '674_1', '6957_2', '682_1');
+$obeh[4] = array('1902_1', '690_1', '683_1', '684_1', '689_1', '674_1', '6957_2', '678_2', '676_2');
 $obeh[5] = array('673_1', '690_2', '683_2', '684_2', '689_2', '674_2', '6964_1');
 $obeh[6] = array('675_1', '680_1', '691_1', '670_1');
 $obeh[7] = array('616_1', '603_1', '612_1', '607_1', '608_1', '611_1', '604_1', '615_1', '670_2');
@@ -24,11 +24,12 @@ $omezeni['674_1'] = 'X5';
 $omezeni['674_2'] = 'X1234';
 $omezeni['675_1'] = 'X';
 $omezeni['676_1'] = 'X1234';
+$omezeni['676_2'] = 'T';
 $omezeni['678_1'] = 'X5';
 $omezeni['679_1'] = 'X';
 $omezeni['680_1'] = 'X';
 $omezeni['681_1'] = 'X';
-$omezeni['682_1'] = 'X1234';
+$omezeni['678_2'] = 'X1234';
 $omezeni['683_1'] = 'X5';
 $omezeni['683_2'] = 'X1234';
 $omezeni['684_1'] = 'X5';
@@ -49,7 +50,11 @@ $omezeni['6957_2'] = 'X5';
 $omezeni['6963_1'] = 'X';
 $omezeni['6964_1'] = 'X1234';
 $omezeni['6967_1'] = 'X1234';
+$omezeni['71201_1'] = '7,0607';
+$omezeni['9206_1'] = '7,0607';
 
+$trasa['71201_1'] = array('Praha-Vršovice;16:05','Čerčany;16:45');
+$trasa['9206_1'] = array('Čerčany;16:55','Praha hl.n.;17:37');
 
 $trasa['1900_1'] = array('Kolín;5:34', 'Praha Masarykovo nádraží;6:28');
 $trasa['1901_1'] = array('Praha Masarykovo nádraží;16:14', 'Kolín;17:00');
@@ -75,12 +80,12 @@ $trasa['673_1'] = array('Děčín hl.n.;5:24', 'Praha Masarykovo nádraží;7:02
 $trasa['674_1'] = array('Praha Masarykovo nádraží;19:53', 'Ústí nad Labem hl.n.;21:16');
 $trasa['674_2'] = array('Praha Masarykovo nádraží;19:53', 'Ústí nad Labem hl.n.;21:16');
 $trasa['675_1'] = array('Děčín hl.n.;6:24', 'Praha Masarykovo nádraží;8:02');
-$trasa['676_1'] = array('Praha Masarykovo nádraží;18:53', 'Děčín hl.n.;20:32');
-$trasa['678_1'] = array('Praha Masarykovo nádraží;17:53', 'Děčín hl.n.;19:32');
+$trasa['676'] = array('Praha Masarykovo nádraží;18:53', 'Děčín hl.n.;20:32');
+$trasa['678'] = array('Praha Masarykovo nádraží;17:53', 'Děčín hl.n.;19:32');
 $trasa['679_1'] = array('Ústí nad Labem hl.n.;8:41', 'Praha Masarykovo nádraží;10:02');
 $trasa['680_1'] = array('Praha Masarykovo nádraží;16:53', 'Děčín hl.n.;18:32');
 $trasa['681_1'] = array('Děčín hl.n.;9:24', 'Praha Masarykovo nádraží;11:02');
-$trasa['682_1'] = array('Praha Masarykovo nádraží;15:53', 'Ústí nad Labem hl.n.;17:16');
+$trasa['682'] = array('Praha Masarykovo nádraží;15:53', 'Ústí nad Labem hl.n.;17:16');
 $trasa['683_1'] = array('Děčín hl.n.;11:24', 'Praha Masarykovo nádraží;13:02');
 $trasa['683_2'] = array('Děčín hl.n.;11:24', 'Praha Masarykovo nádraží;13:02');
 $trasa['684_1'] = array('Praha Masarykovo nádraží;14:53', 'Děčín hl.n.;16:32');
@@ -89,8 +94,7 @@ $trasa['685_1'] = array('Děčín hl.n.;13:24', 'Praha Masarykovo nádraží;15:
 $trasa['686_1'] = array('Praha Masarykovo nádraží;12:53', 'Děčín hl.n.;14:32');
 $trasa['687_1'] = array('Děčín hl.n.;15:24', 'Praha Masarykovo nádraží;17:02');
 $trasa['688_1'] = array('Praha Masarykovo nádraží;10:53', 'Děčín hl.n.;12:32');
-$trasa['689_1'] = array('Děčín hl.n.;17:24', 'Praha Masarykovo nádraží;19:02');
-$trasa['689_2'] = array('Děčín hl.n.;17:24', 'Praha Masarykovo nádraží;19:02');
+$trasa['689'] = array('Děčín hl.n.;17:24', 'Praha Masarykovo nádraží;19:02');
 $trasa['690_1'] = array('Praha Masarykovo nádraží;8:53', 'Děčín hl.n.;10:32');
 $trasa['690_2'] = array('Praha Masarykovo nádraží;8:53', 'Děčín hl.n.;10:32');
 $trasa['691_1'] = array('Děčín hl.n.;19:24', 'Praha hl.n.;21:08');
@@ -101,7 +105,6 @@ $trasa['6957_2'] = array('Ústí nad Labem hl.n.;22:13', 'Roudnice nad Labem;22:
 $trasa['6963_1'] = array('Děčín hl.n.;6:58', 'Ústí nad Labem hl.n.;7:27');
 $trasa['6964_1'] = array('Ústí nad Labem západ;22:24', 'Děčín hl.n.;22:55');
 $trasa['6967_1'] = array('Děčín hl.n.;21:20', 'Ústí nad Labem hl.n.;21:43');
-
 
 @$ts121 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 

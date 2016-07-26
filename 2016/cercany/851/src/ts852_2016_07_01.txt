@@ -1,0 +1,6 @@
+709263: 25: Světlá nad Sázavou;6:17,Havlíčkův Brod;6:36
+709200: 25: Havlíčkův Brod;7:49,Světlá nad Sázavou;8:07
+709203: : Světlá nad Sázavou;8:13,Havlíčkův Brod;8:33
+709202: : Havlíčkův Brod;9:48,Světlá nad Sázavou;10:07
+709211: X: Světlá nad Sázavou;16:53,Havlíčkův Brod;17:15
+709270: X: Havlíčkův Brod;18:20,Světlá nad Sázavou;18:38

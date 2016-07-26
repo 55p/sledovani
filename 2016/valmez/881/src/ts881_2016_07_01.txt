@@ -1,0 +1,40 @@
+3101: X: Valašské Meziříčí;3:48,Ostrava hl.n.;5:37
+3152: X: Ostrava hl.n.;6:23,Frýdlant nad Ostravicí;7:14
+3153: X: Frýdlant nad Ostravicí;7:47,Ostrava hl.n.;8:37
+3104: X: Ostrava hl.n.;13:23,Valašské Meziříčí;15:17
+3107: X: Valašské Meziříčí;15:30,Ostrava hl.n.;17:37
+3182: X: Ostrava hl.n.;18:23,Frýdek-Místek;18:56
+3109: 25: Valašské Meziříčí;19:24,Ostrava hl.n.;21:07
+3186: 25: Ostrava hl.n.;21:50,Frýdek-Místek;22:23
+
+3183: 25: Frýdek-Místek;4:33,Ostrava hl.n.;5:07
+3122: X: Ostrava hl.n.;5:53,Frenštát pod Radhoštěm město;7:17
+3127: X: Frenštát pod Radhoštěm město;8:47,Ostrava hl.n.;10:07
+3122: 25: Frýdek-Místek;6:30,Frenštát pod Radhoštěm město;7:17
+3125: 25: Frýdek-Místek;7:33,Ostrava hl.n.;8:07
+3102: : Ostrava hl.n.;10:53,Valašské Meziříčí;12:45
+3171: X: Valašské Meziříčí;13:24,Frenštát pod Radhoštěm;13:56
+3139: X: Frenštát pod Radhoštěm;14:18,Ostrava hl.n.;15:37
+3110: X: Ostrava hl.n.;16:23,Valašské Meziříčí;18:24
+3109: X: Valašské Meziříčí;19:24,Ostrava hl.n.;21:07
+3186: X: Ostrava hl.n.;21:50,Frýdek-Místek;22:23
+3107: 25: Valašské Meziříčí;15:30,Ostrava hl.n.;17:37
+3112: 25: Ostrava hl.n.;17:53,Frýdek-Místek;18:26
+
+3181: : Frýdek-Místek;3:17,Ostrava hl.n.;3:49
+3100: : Ostrava hl.n.;4:53,Valašské Meziříčí;7:00
+3105: : Valašské Meziříčí;7:13,Ostrava hl.n.;9:07
+3130: XT: Ostrava hl.n.;9:53,Frenštát pod Radhoštěm město;11:17
+3130: 6: Ostrava hl.n.;9:53,Frenštát pod Radhoštěm;11:11
+3133: : Frenštát pod Radhoštěm;11:48,Ostrava hl.n.;13:07
+3136: X: Ostrava hl.n.;13:53,Frenštát pod Radhoštěm město;15:17
+3143: X: Frenštát pod Radhoštěm;15:48,Ostrava hl.n.;17:07
+3112: X: Ostrava hl.n.;17:53,Valašské Meziříčí;20:07
+3156: 25: Ostrava hl.n.;14:23,Frýdlant nad Ostravicí;15:14
+3170: 25: Frýdlant nad Ostravicí;15:17,Valašské Meziříčí;16:17
+
+3103: X: Valašské Meziříčí;4:35,Ostrava hl.n.;6:37
+1642:X
+3155:X
+3156:X
+3170:X
