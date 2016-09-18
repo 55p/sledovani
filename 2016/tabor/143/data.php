@@ -1,6 +1,8 @@
 <?php
 $skupiny[] = $ts143 = new TS ('TS 143');
 $skupiny[] = $ts243 = new TS ('TS 243');
+$skupiny[] = $ts243a = new TS ('TS 243a');
+$skupiny[] = $ts243b = new TS ('TS 243b');
 $skupiny[] = $ts244 = new TS ('TS 244');
 $skupiny[] = $ts299 = new TS ('mimořádný oběh');
 

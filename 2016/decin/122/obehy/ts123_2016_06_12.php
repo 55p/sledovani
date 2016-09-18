@@ -22,6 +22,9 @@ $omezeni['6967_1'] = 'T';
 $omezeni['9460_1'] = 'X';
 
 
+$poznamkaObehu['6402_5'] = array();
+$poznamkaObehu['6404_5'] = array();
+$poznamkaObehu['6967_5'] = array();
 $poznamkaObehu['5870_1'] = array('pk', 'postrk');
 
 

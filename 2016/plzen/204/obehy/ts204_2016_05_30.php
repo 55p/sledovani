@@ -156,6 +156,18 @@ $trasa['8955_1'] = array('Plzeň hl.n.;22:54', 'Nepomuk;23:31');
 
 
 
+$typ[777] = 'Rx';
+$typ[1253] = $typ[1254] = 'R';
+for ($i = 620; $i < 630; $i++) {
+  $typ[$i] = 'R';
+  $poznamkaObehu[$i] = array(' Pl','');
+  $poznamkaObehu[100000 + $i] = array(' Ji','');
+}
+for ($i = 660; $i < 670; $i++) {
+  $typ[$i] = 'R';
+  $poznamkaObehu[$i] = array(' Pl','');
+  $poznamkaObehu[100000 + $i] = array(' Ji','');
+}
 
 @$ts204 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 

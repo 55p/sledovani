@@ -114,15 +114,7 @@ br + .lakVozidla {
   color: #000080;
   background-color: #FF0000;
 }
-.euro2012_380 {
-/*
-  color: #fff;
-  background-color: #FF0000;
-  */
-  color: #006;
-  background-color: #FF6C6C;
-  /*color: #016BBA ;*/
-  
+.euro2012_380 { 
   background: #D50000;
   color: #9FCBFF;
 }
@@ -130,6 +122,11 @@ br + .lakVozidla {
 .nostalgicka_380 {
   color: #7A9CEB;
   background-color: #ededed;
+}
+
+.slovenska_strela_380 {
+  background: #A44446;
+  color: #AEF1FF;
 }
 
 .blonski {

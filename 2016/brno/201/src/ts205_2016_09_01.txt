@@ -1,0 +1,13 @@
+4921pk: X
+4932vl: X
+4929pk: X
+4924vl: X
+4965pk: X
+4966vl: X
+4943pk: X
+4972vl: X
+4969pk: X
+4940vl: X
+4973pk: X
+4980vl: X
+411483sv:X:Brno-Královo Pole;19:21,Tišnov;19:51

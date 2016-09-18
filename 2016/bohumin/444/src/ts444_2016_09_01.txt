@@ -1,0 +1,41 @@
+2993sv:1:Bohumín;4:30,Český Těšín;5:01
+3404:X:Český Těšín;5:17,Opava východ;6:39
+1605:X:Opava východ;7:10,Ostrava střed;7:54
+3380:X:Ostrava střed;8:12,Ostrava-Svinov;8:26
+2875:X:Ostrava-Svinov;10:45,Ostrava-Kunčice;10:57
+2856:X:Ostrava-Kunčice;12:55,Ostrava-Svinov;13:07
+2843:X:Ostrava-Svinov;13:52,Český Těšín;14:41
+2834:X:Český Těšín;15:17,Ostrava-Svinov;16:07
+2881:X:Ostrava-Svinov;16:45,Ostrava-Kunčice;16:57
+2862:X:Ostrava-Kunčice;18:55,Ostrava-Svinov;19:07
+3072:X:Ostrava-Svinov;19:26,Mošnov,airport;19:49
+3073:X:Mošnov,airport;20:14,Bohumín;20:57
+2913::Bohumín;21:43,Čadca;23:09
+
+2900::Čadca;4:30,Český Těšín;5:26
+2962:X:Český Těšín;5:47,Bohumín;6:25
+2960:25:Český Těšín;5:30,Bohumín;6:07
+28910sv:X:Bohumín;6:28,Ostrava-Svinov;6:42
+2871:X:Ostrava-Svinov;6:45,Ostrava-Kunčice;6:57
+2852:X:Ostrava-Kunčice;8:55,Ostrava-Svinov;9:07 
+3381:X:Ostrava-Svinov;9:16,Ostrava hl.n.;9:23
+3364:X:Ostrava hl.n.;9:30,Ostrava-Svinov;9:37
+3070:X:Ostrava-Svinov;10:44,Mošnov,airport;11:07
+3070:25:Bohumín;10:29,Mošnov,airport;11:07
+3071:X:Mošnov,airport;11:14,Ostrava-Svinov;11:44
+3071:25:Mošnov,airport;11:14,Bohumín;11:59
+2877:X:Ostrava-Svinov;12:45,Ostrava-Kunčice;12:57
+2858:X:Ostrava-Kunčice;14:55,Ostrava-Svinov;15:07
+2845:X:Ostrava-Svinov;15:52,Český Těšín;16:40
+2994sv:X5:Český Těšín;16:54,Bohumín;17:27
+
+2991sv:X1:Bohumín;4:15,Návsí;5:02
+2970:X:Návsí;5:11,Český Těšín;5:35
+2973:X:Český Těšín;5:53,Návsí;6:17
+2972:X:Návsí;6:47,Český Těšín;7:11
+2975:X:Český Těšín;14:08,Návsí;14:32
+2992sv:X5:Návsí;14:40,Bohumín;15:29
+
+
+2::1
+3::3

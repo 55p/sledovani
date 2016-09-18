@@ -55,9 +55,9 @@ $trasa['6964_1'] = array('Ústí nad Labem západ;22:24', 'Děčín hl.n.;22:55'
 $trasa['6967_5'] = array('Děčín hl.n.;21:20', 'Ústí nad Labem hl.n.;21:43');
 $trasa['9460_1'] = array('Nymburk hl.n.;5:31', 'Lysá nad Labem;5:48');
 
-$poznamkaObehu['6402_5'] = array();
-$poznamkaObehu['6404_5'] = array();
-$poznamkaObehu['6967_5'] = array();
+$poznamkaObehu['6402_1'] = array();
+$poznamkaObehu['6404_1'] = array();
+$poznamkaObehu['6967_1'] = array();
 
 
 @$ts123 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
