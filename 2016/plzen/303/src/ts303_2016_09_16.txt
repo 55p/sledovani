@@ -1,0 +1,123 @@
+7504: :Plzeň hl.n.;8:11,Klatovy;9:11
+775: :Klatovy;10:06,Praha hl.n.;12:41
+758
+767
+
+778:X6:Praha hl.n.;7:12,Klatovy;9:52
+100775:X:Klatovy;10:06,Plzeň hl.n.;10:55
+1963:6
+757:T
+352:T:Praha hl.n.;13:12,Plzeň hl.n.;14:48
+355
+752:XT
+
+753:X6
+354::Praha hl.n.;9:12,Plzeň hl.n.;10:48
+7516
+777::Klatovy;14:06,Plzeň hl.n.;14:56
+754
+
+71710:X6:Plzeň hl.n.;4:11,Klatovy;5:31
+773:X6
+762:X6
+778:T:Praha hl.n.;7:12,Klatovy;9:52
+100775:T:Klatovy;10:06,Plzeň hl.n.;10:55
+353::Plzeň hl.n.;13:07,Praha hl.n.;14:41
+756
+357::Plzeň hl.n.;21:09,Praha hl.n.;22:41
+
+1541::Praha hl.n.;5:34,České Budějovice;7:57
+648:X
+643:X
+638
+655
+
+8200:X
+1839:X
+650
+641
+640
+653:XT
+8018:XT
+
+623: X, 6:Strakonice;5:01,České Budějovice;5:55
+652: X, 6
+645
+1542::České Budějovice;18:03,Praha hl.n.;20:26
+899:z25
+965:zX
+
+964:X
+898:25
+633: X, 6
+646: X, 6
+1545: X, 6:Praha-Holešocice;13:16,České Budějovice;15:57
+636: X, 6
+657: X, 6
+635: T
+1540: T:České Budějovice;14:03,Praha-Holešovice;16:38
+651: T
+
+656: X, 6
+637: X, 6
+644
+647
+632
+659:X,6
+659:T
+
+8259: X, 6
+8258:X,6
+658: X, 6
+635: X, 6
+1540: X, 6:České Budějovice;14:03,Praha-Holešovice;16:38
+651: X, 6
+8216: X1234
+646: T
+1545: T:Praha-Holešocice;13:16,České Budějovice;15:57
+636: T
+657: T
+
+8260: X
+8207: X
+8206: X
+8276: X
+8283: X
+
+1830: X, 6
+1831: 6
+1833: X
+
+8201: X2345
+654
+1543::Praha-Holešocice;9:16,České Budějovice;11:57
+642
+649
+630
+
+356::Praha hl.n.;5:12,Plzeň hl.n.;6:48
+755
+776::Praha hl.n.;11:12,Klatovy;13:52
+7523
+7520:XT
+71712:6:Plzeň hl.n.;15:12,Klatovy;16:32
+779::Klatovy;18:06, Praha hl.n.;20:41
+750:XT
+
+751:X6
+766
+759
+774::Praha hl.n.;15:12,Klatovy;17:52
+7503::Klatovy;18:46,Plzeň hl.n.;19:46
+
+99999::Údržba DKV;0:00;23:59
+
+
+1:6:4
+2:1,2,3,4,5,7:4
+3:1,2,3,4,5,7:3
+3:6:2
+10:6,7:13
+12:5:11
+11:6,7:11
+12:6,7:12
