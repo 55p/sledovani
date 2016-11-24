@@ -1,0 +1,4 @@
+1306:3:Bohumín;5:51,Praha odstavné nádraží;16:17
+1307:4:Praha odstavné nádraží;3:23,Bohumín;13:18
+1300:1,5:Bohumín;0:00, Nymburk hl.n.;7:47
+1301:4,7:Nymburk hl.n.;18:07,Bohumín;2:36

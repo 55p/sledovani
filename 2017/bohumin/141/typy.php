@@ -1,0 +1,41 @@
+<?php
+$typ[116] = 'IC';
+$typ[117] = 'EC';
+$typ[144] = 'Ex';
+$typ[145] = 'EC';
+$typ[540] = 'Ex';
+$typ[541] = 'Ex';
+$typ[140] = 'Ex';
+$typ[141] = 'Ex';
+$typ[142] = 'Ex';
+$typ[143] = 'Ex';
+$typ[340] = 'R';
+$typ[341] = 'R';
+$typ[444] = 'EN';
+$typ[445] = 'EN';
+$typ[544] = 'Ex';
+$typ[545] = 'Ex';
+$typ[546] = 'Ex';
+$typ[547] = 'Ex';
+$typ[880] = 'Rx';
+$typ[881] = 'Rx';
+$typ[882] = 'Rx';
+$typ[883] = 'Rx';
+$typ[884] = 'Rx';
+$typ[885] = 'Rx';
+$typ[886] = 'Rx';
+$typ[887] = 'Rx';
+$typ[888] = 'Rx';
+$typ[889] = 'Rx';
+$typ[890] = 'Rx';
+$typ[891] = 'Rx';
+$typ[892] = 'Rx';
+$typ[893] = 'Rx';
+$typ[894] = 'Rx';
+$typ[895] = 'Rx';
+$typ[896] = 'Rx';
+$typ[897] = 'Rx';
+$typ[957] = 'R';
+$typ[9994] = 'Sv';
+
+?>

@@ -1,0 +1,41 @@
+100445::Bohumín;2:45,Košice;7:41
+100444::Košice;20:24,Bohumín;1:41
+
+444:X:Bohumín;2:12,Praha hl.n.;6:33
+614::Praha hl.n.;7:28,Ústí nad Labem hl.n.;8:40
+605::Ústí nad Labem hl.n.;9:15,Praha hl.n.;10:27
+610::Praha hl.n.;11:28,Ústí nad Labem hl.n.;12:40
+609::Ústí nad Labem hl.n.;13:15,Praha hl.n.;14:27
+606::Praha hl.n.;15:28,Ústí nad Labem hl.n.;16:40
+613::Ústí nad Labem hl.n.;17:15,Praha hl.n.;18:27
+602:10:Praha hl.n.;19:28,Ústí nad Labem hl.n.;20:40
+617:10:Ústí nad Labem hl.n.;21:15,Praha hl.n.;22:27
+
+616:11:Praha hl.n.;5:18,Ústí nad Labem hl.n.;6:40
+603:11:Ústí nad Labem hl.n.;7:15,Praha hl.n.;8:27
+612::Praha hl.n.;9:28,Ústí nad Labem hl.n.;10:40
+607::Ústí nad Labem hl.n.;11:15,Praha hl.n.;12:27
+608::Praha hl.n.;13:28,Ústí nad Labem hl.n.;14:40
+611::Ústí nad Labem hl.n.;15:15,Praha hl.n.;16:27
+604::Praha hl.n.;17:28,Ústí nad Labem hl.n.;18:40
+615::Ústí nad Labem hl.n.;19:15,Praha hl.n.;20:27
+445:zX:Praha hl.n.;22:00,Bohumín;2:26
+
+343::Ostrava-Svinov;8:43,Žilina;10:33
+344::Žilina;11:27,Ostrava-Svinov;13:17
+347::Ostrava-Svinov;16:43,Žilina;18:33
+3439::Žilina;21:50,Liptovský Mikuláš;23:21
+
+3404::Liptovský Mikuláš;5:04,Žilina:6:34
+3413:25:Žilina;8:24,Liptovský Mikuláš;10:13
+3416:25:Liptovský Mikuláš;11:28,Žilina:13:00
+3908:X:Žilina;8:48,Čadca;9:28
+3917:X:Čadca;10:35,Žilina;11:13
+342::Žilina;15:27,Ostrava-Svinov;17:17
+640:X
+
+641:vX
+
+
+3:5,6:2
+1:5,6:4
