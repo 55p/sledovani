@@ -1,0 +1,30 @@
+29903sv:X1:Praha-Libeň;5:06, Praha hl.n.;5:11
+9903sv:X2345:Praha-ONJ;5:09, Praha hl.n.;5:17
+9903:X
+9908:X
+9925:X
+9926:X
+29201sv:X:Praha-Smíchov;12:39, Praha hl.n.;12:46
+9940:X
+9941:X
+9950:X
+9953:X
+9962:X
+9965:X
+9998sv:5:Český Brod;20:51, Praha-ONJ;21:40
+99999:6:Operativní záloha, Praha-Libeň;7:00;18:00
+
+9999sv:X1:Praha-ONJ;4:33, Český Brod;5:08
+9902:X
+109917pk:X
+9922:X
+109935pk:X
+9935sv:X:Praha hl.n.;10:32, Praha-ONJ;10:43
+8846sv:X:Praha-ONJ;14:52, Praha hl.n.;15:00
+108846pk:X
+8851:X
+108854pk:X
+8859:X
+29859sv:X5:Praha hl.n.;19:16, Praha-Libeň;19:21
+8859sv:X1234:Praha hl.n.;19:21, Praha-ONJ;19:29
+99999:T:Operativní záloha, Praha-Libeň;8:00;19:00

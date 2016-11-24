@@ -16,16 +16,16 @@ $omezeni['8818_1'] = 'X';
 $omezeni['8819_1'] = 'X';
 $omezeni['8823_1'] = 'X';
 
-$trasa['8802_1'] = array('Praha hlavní nádraží; 4:17','Beroun; 5:07');
-$trasa['8806_1'] = array('Praha hlavní nádraží; 5:17','Beroun; 6:07');
-$trasa['8807_1'] = array('Beroun; 5:15','Praha hlavní nádraží; 6:06');
-$trasa['8810_1'] = array('Praha hlavní nádraží; 6:17','Beroun; 7:07');
-$trasa['8811_1'] = array('Beroun; 6:15','Praha hlavní nádraží; 7:06');
-$trasa['8814_1'] = array('Praha hlavní nádraží; 7:17','Beroun; 8:07');
-$trasa['8815_1'] = array('Beroun; 7:15','Praha hlavní nádraží; 8:06');
-$trasa['8818_1'] = array('Praha hlavní nádraží; 8:17','Beroun; 9:07');
-$trasa['8819_1'] = array('Beroun; 8:15','Praha hlavní nádraží; 9:06');
-$trasa['8823_1'] = array('Beroun; 9:15','Praha hlavní nádraží; 10:06');
+$trasa['8802_1'] = array('Praha hlavní nádraží;4:17','Beroun;5:07');
+$trasa['8806_1'] = array('Praha hlavní nádraží;5:17','Beroun;6:07');
+$trasa['8807_1'] = array('Beroun;5:15','Praha hlavní nádraží;6:06');
+$trasa['8810_1'] = array('Praha hlavní nádraží;6:17','Beroun;7:07');
+$trasa['8811_1'] = array('Beroun;6:15','Praha hlavní nádraží;7:06');
+$trasa['8814_1'] = array('Praha hlavní nádraží;7:17','Beroun;8:07');
+$trasa['8815_1'] = array('Beroun;7:15','Praha hlavní nádraží;8:06');
+$trasa['8818_1'] = array('Praha hlavní nádraží;8:17','Beroun;9:07');
+$trasa['8819_1'] = array('Beroun;8:15','Praha hlavní nádraží;9:06');
+$trasa['8823_1'] = array('Beroun;9:15','Praha hlavní nádraží;10:06');
 
 $poznamkaObehu['8802_1'] = array('pk', 'postrk');
 $poznamkaObehu['8810_1'] = array('pk', 'postrk');
