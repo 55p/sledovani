@@ -36,9 +36,22 @@ $trasa['476_1'] = array('Budapest-Keleti pu;20:05','Břeclav;23:56');
 $trasa['816_1'] = array('Hodonín;6:18','Břeclav;6:32');
 $trasa['817_1'] = array('Břeclav;21:28','Hodonín;21:41');
 
-
-
-
+$trasa['270_1'] = array('Budapest-Keleti;17:25', 'Brno hl.n.;21:36');
+$trasa['271_1'] = array('Brno hl.n.;6:22', 'Budapest-Keleti;10:35');
+$trasa['274_1'] = array('Budapest-Keleti;13:25', 'Praha hl.n.;20:06');
+$trasa['275_1'] = array('Praha hl.n.;7:52', 'Budapest-Keleti;14:35');
+$trasa['277_1'] = array('Praha hl.n.;9:52', 'Budapest-Keleti;16:35');
+$trasa['278_1'] = array('Budapest-Keleti;9:25', 'Praha hl.n.;16:06');
+$trasa['279_1'] = array('Praha hl.n.;11:52', 'Budapest-Keleti;18:35');
+$trasa['280_1'] = array('Budapest-Keleti;5:25', 'Praha hl.n.;12:06');
+$trasa['281_1'] = array('Praha hl.n.;15:52', 'Budapest-Keleti;22:35');
+$trasa['282_1'] = array('Bratislava hl.st.;6:10', 'Praha hl.n.;10:06');
+$trasa['283_1'] = array('Praha hl.n.;17:52', 'Bratislava hl.st.;21:50');
+$trasa['574_1'] = array('Břeclav;6:07', 'Praha hl.n.;9:06');
+$trasa['575_1'] = array('Praha hl.n.;17:19', 'Břeclav;20:22');
+$trasa['578_1'] = array('Brno hl.n.;5:38', 'Praha hl.n.;8:06');
+$trasa['590_1'] = array('Břeclav;7:11', 'Bohumín;9:08');
+$trasa['591_1'] = array('Bohumín;18:50', 'Břeclav;20:50');
 
 
 @$ts301 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 

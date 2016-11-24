@@ -21,6 +21,13 @@ $trasa['242_1'] = array('Ostrava-Svinov;16:24','Praha hl.n.;19:22');
 $trasa['243_1'] = array('Praha hl.n.;13:02','Ostrava-Svinov;16:27');
 $trasa['5839_1'] = array('Praha odstavné nádraží;4:24','Nymburk hl.n.;5:23');
 $trasa['5891_1'] = array('Praha odstavné nádraží;3:30','Nymburk hl.n.;4:30');
+$trasa['1904_1'] = array('Nymburk hl.n.;5:44', 'Praha Masarykovo nádraží;6:45');
+$trasa['513_1'] = array('Praha hl.n.;16:37', 'Opava východ;19:59');
+$trasa['514_1'] = array('Opava východ;6:02', 'Praha hl.n.;9:22');
+$trasa['525_1'] = array('Praha hl.n.;0:01', 'Pardubice hl.n.;1:04');
+$trasa['542_1'] = array('Opava východ;15:53', 'Ostrava-Svinov;16:14');
+$trasa['543_1'] = array('Ostrava-Svinov;16:30', 'Opava východ;16:50');
+$trasa['898_1'] = array('Pardubice hl.n.;5:58', 'Praha hl.n.;7:03');
 
 
 

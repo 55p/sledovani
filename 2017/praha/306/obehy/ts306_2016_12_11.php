@@ -16,10 +16,8 @@ $trasa['378_1'] = array('Praha hl.n.;12:28','Dresden Hbf;14:43');
 $trasa['379_1'] = array('Dresden Hbf;13:08','Praha hl.n.;15:27');
 $trasa['476_1'] = array('Praha hl.n.;4:06','Dresden Hbf;6:27');
 $trasa['477_1'] = array('Dresden Hbf;21:08','Praha hl.n.;23:27');
-
-
-
-
+$trasa['524_1'] = array('Pardubice hl.n.;5:33', 'Praha hl.n.;6:39');
+$trasa['525_1'] = array('Praha hl.n.;0:01', 'Pardubice hl.n.;1:04');
 
 
 @$ts306 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
