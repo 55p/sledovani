@@ -1,0 +1,3 @@
+Sv29099: X1: Praha-Libeň; 4:55, Praha-Vysočany; 4:59
+99999:X:Záloha Praha-Vysočany;5:00;20:00
+Sv29098: X5: Praha-Vysočany; 20:18, Praha-Libeň; 20:22
