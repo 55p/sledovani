@@ -16,7 +16,7 @@ X5;6957
 1698:X
 
 601:X:Kadaň-Prunéřov;5:55,Ústí nad Labem hl.n.;6:09
-71260:X:Ústí nad Labem hl.n.,6:14;Děčín hl.n.;6:39
+71260:X:Ústí nad Labem hl.n.;6:14,Děčín hl.n.;6:39
 677:X
 680:X
 691:X

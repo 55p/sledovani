@@ -26,7 +26,7 @@
 347::Ostrava-Svinov;16:43,Žilina;18:33
 3439::Žilina;21:50,Liptovský Mikuláš;23:21
 
-3404::Liptovský Mikuláš;5:04,Žilina:6:34
+3404::Liptovský Mikuláš;5:04,Žilina;6:34
 3413:25:Žilina;8:24,Liptovský Mikuláš;10:13
 3416:25:Liptovský Mikuláš;11:28,Žilina:13:00
 3908:X:Žilina;8:48,Čadca;9:28

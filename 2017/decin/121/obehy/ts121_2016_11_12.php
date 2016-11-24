@@ -49,7 +49,7 @@ $omezeni['71260_1'] = 'X';
 $trasa['21810_1'] = array('Kolín;18:35','Praha odstavné nádraží;19:29');
 $trasa['21811_1'] = array('Praha odstavné nádraží;4:11','Kolín;5:05');
 $trasa['601_1'] = array('Kadaň-Prunéřov;5:55','Ústí nad Labem hl.n.;6:09');
-$trasa['71260_1'] = array('Ústí nad Labem hl.n.','6:14;Děčín hl.n.;6:39');
+$trasa['71260_1'] = array('Ústí nad Labem hl.n.;6:14','Děčín hl.n.;6:39');
 
 $typ[-1] = 'R';
 
