@@ -1,0 +1,42 @@
+19101: X: Benešov u Prahy; 4:18, Trhový Štěpánov; 5:34
+19104: X: Trhový Štěpánov; 5:53, Benešov u Prahy; 6:45
+19143: X: Benešov u Prahy; 7:04, Vlašim; 7:41
+19142: X: Vlašim; 9:09, Benešov u Prahy; 9:45
+19111: X: Benešov u Prahy; 10:14, Trhový Štěpánov; 11:07
+19116: X: Trhový Štěpánov; 11:53, Benešov u Prahy; 12:45
+19145: X: Benešov u Prahy; 13:14, Vlašim; 13:51
+19144: X: Vlašim; 15:09, Benešov u Prahy; 15:45
+19117: X: Benešov u Prahy; 16:14, Trhový Štěpánov; 17:07
+19124: X: Trhový Štěpánov; 17:33, Benešov u Prahy; 18:45
+19123: 25,-2412,-3112: Benešov u Prahy; 20:04, Trhový Štěpánov; 21:07
+19125: X: Benešov u Prahy; 21:04, Trhový Štěpánov; 22:05
+
+19102: : Trhový Štěpánov; 4:53, Benešov u Prahy; 5:45
+19103: : Benešov u Prahy; 6:14, Trhový Štěpánov; 7:07
+19108: X: Trhový Štěpánov; 7:28, Benešov u Prahy; 8:45
+19110: 25: Trhový Štěpánov; 7:53, Benešov u Prahy; 8:45
+19111: 25: Benešov u Prahy; 10:14, Trhový Štěpánov; 11:07
+19116: 25: Trhový Štěpánov; 11:53, Benešov u Prahy; 12:45
+19115: : Benešov u Prahy; 14:14, Trhový Štěpánov; 15:07
+19122: : Trhový Štěpánov; 15:53, Benešov u Prahy; 16:45
+19119: X: Benešov u Prahy; 17:17, Trhový Štěpánov; 18:07
+19128: X: Trhový Štěpánov; 18:33, Benešov u Prahy; 19:45
+19121: 25: Benešov u Prahy; 18:14, Trhový Štěpánov; 19:07
+19130: 25,-2412,-3112: Trhový Štěpánov; 19:53, Benešov u Prahy; 20:45
+19127: X1234,-1304,-0407,-2709,-1611: Benešov u Prahy; 22:14, Trhový Štěpánov; 23:05
+19129: X5,25,1304,0407,2709,1611,-2412,-3112: Benešov u Prahy; 22:44, Trhový Štěpánov; 23:35
+
+19100: X: Trhový Štěpánov; 3:57, Benešov u Prahy; 4:49
+19141: X: Benešov u Prahy; 5:14, Vlašim; 5:30
+19104: 25: Trhový Štěpánov; 5:53, Benešov u Prahy; 6:45
+19140: X: Vlašim; 6:59, Benešov u Prahy; 7:35
+19107: : Benešov u Prahy; 8:14, Trhový Štěpánov; 9:07
+19112: : Trhový Štěpánov; 9:53, Benešov u Prahy; 10:45
+19113: : Benešov u Prahy; 12:14, Trhový Štěpánov; 13:07
+19118: : Trhový Štěpánov; 13:53, Benešov u Prahy; 14:45
+19147: X: Benešov u Prahy; 15:14, Vlašim; 15:51
+19117: 25: Benešov u Prahy; 16:14, Trhový Štěpánov; 17:07
+19146: X: Vlašim; 17:09, Benešov u Prahy; 17:45
+19121: X: Benešov u Prahy; 18:14, Trhový Štěpánov; 19:07
+19126: 25,-2412,-3112: Trhový Štěpánov; 17:53, Benešov u Prahy; 18:45
+19130: X: Trhový Štěpánov; 19:53, Benešov u Prahy; 20:45
