@@ -1,0 +1,9 @@
+70pk:
+77:1,2,3,4,5
+77:6,7
+1277:6,7:Wien Hbf;16:58,Graz Hbf;19:33
+758pk::Graz Hbf;20:25,Wien Hbf;23:02
+
+553::Wien Hbf;6:58,Graz Hbf;9:33
+76pk:
+373:

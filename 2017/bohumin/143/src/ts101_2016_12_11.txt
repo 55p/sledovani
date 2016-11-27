@@ -1,0 +1,2 @@
+346::Žilina;7:27,Ostrava-Svinov;9:17
+345::Ostrava-Svinov;14:43,Žilina;16:33
