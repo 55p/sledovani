@@ -10,7 +10,7 @@ $omezeni['525_1'] = 'X';
 
 $trasa['170_1'] = array('Praha hl.n.;16:28','Dresden Hbf;18:43');
 $trasa['171_1'] = array('Dresden Hbf;9:08','Praha hl.n.;11:27');
-$trasa['176_1'] = array('Praha hl.n.8:28','Dresden Hbf;10:43');
+$trasa['176_1'] = array('Praha hl.n.;8:28','Dresden Hbf;10:43');
 $trasa['177_1'] = array('Dresden Hbf;17:08','Praha hl.n.;19:27');
 $trasa['378_1'] = array('Praha hl.n.;12:28','Dresden Hbf;14:43');
 $trasa['379_1'] = array('Dresden Hbf;13:08','Praha hl.n.;15:27');
