@@ -1,0 +1,17 @@
+7502::Klatovy;6:58,Železná Ruda-Alžbětín;8:04
+775::Železná Ruda-Alžbětín;8:45,Klatovy;9:53
+1962::Klatovy;12:04,Železná Ruda-Alžbětín;13:12
+1965::Železná Ruda-Alžbětín;14:45,Klatovy;15:54
+
+1960:25:Klatovy;8:04,Železná Ruda-Alžbětín;9:12
+7547:25:Železná Ruda-Alžbětín;10:45,Klatovy;11:53
+776::Klatovy;14:04,Železná Ruda-Alžbětín;15:12
+779::Železná Ruda-Alžbětín;16:45,Klatovy;17:53
+
+7504::Klatovy;9:19,Železná Ruda-Alžbětín;10:28
+7501::Železná Ruda-Alžbětín;15:32,Klatovy;16:39
+
+778::Klatovy;10:04,Železná Ruda-Alžbětín;11:12
+777::Železná Ruda-Alžbětín;12:45,Klatovy;13:53
+1964::Klatovy;16:04,Železná Ruda-Alžbětín;17:12
+7503::Železná Ruda-Alžbětín;17:32,Klatovy;18:39

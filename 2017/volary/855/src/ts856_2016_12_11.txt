@@ -1,0 +1,55 @@
+8100: X: Volary; 4:35, České Budějovice; 6:56
+18076: 25: Volary; 8:21, Nové Údolí; 8:45
+8106: 25: Nové Údolí; 9:19, České Budějovice; 11:37
+8103: X: České Budějovice; 8:09, Nové Údolí; 10:42
+8108: X: Nové Údolí; 11:19, České Budějovice; 13:45
+8109: : České Budějovice; 14:22, Nové Údolí; 16:42
+8114: : Nové Údolí; 17:19, České Budějovice; 19:36
+
+8701: 25: Veselí nad Lužnicí; 4:52, České Velenice; 5:55
+8704: 25: České Velenice; 6:07, Veselí nad Lužnicí; 7:10
+2153: X: České Budějovice; 6:32, České Velenice; 7:26
+8705: 25: Veselí nad Lužnicí; 7:25, České Velenice; 8:24
+8710: : České Velenice; 9:21, Veselí nad Lužnicí; 10:21
+8709: : Veselí nad Lužnicí; 11:37, České Velenice; 12:36
+8714: : České Velenice; 13:21, Veselí nad Lužnicí; 14:21
+8713: : Veselí nad Lužnicí; 15:37, České Velenice; 16:36
+8718: : České Velenice; 17:21, Veselí nad Lužnicí; 18:21
+8717: : Veselí nad Lužnicí; 19:37, České Velenice; 20:36
+8722: : České Velenice; 22:16, Veselí nad Lužnicí; 23:10
+
+8701: X: Veselí nad Lužnicí; 4:52, České Velenice; 5:55
+8706: X: České Velenice; 6:45, Veselí nad Lužnicí; 8:17
+8708: 25: České Velenice; 7:34, Veselí nad Lužnicí; 8:33
+8707: : Veselí nad Lužnicí; 9:37, České Velenice; 10:36
+8712: X: České Velenice; 11:21, Veselí nad Lužnicí; 12:21
+8711: X: Veselí nad Lužnicí; 13:37, České Velenice; 14:36
+8716: : České Velenice; 15:21, Veselí nad Lužnicí; 16:21
+8715: : Veselí nad Lužnicí; 17:37, České Velenice; 18:36
+8720: : České Velenice; 19:21, Veselí nad Lužnicí; 20:21
+8719: 25: Veselí nad Lužnicí; 21:55, České Velenice; 22:53
+21929sv: X: Veselí nad Lužnicí; 22:00, Suchdol nad Lužnicí; 22:26
+8719: X: Suchdol nad Lužnicí; 22:34, České Velenice; 22:53
+
+2152: X: České Velenice; 5:00, České Budějovice; 5:55
+8101: X: České Budějovice; 6:07, Volary; 8:41
+8103: 25: České Budějovice; 8:09, Nové Údolí; 10:42
+8190sv: X: Volary; 8:55, Černý Kříž; 9:03
+8106: X: Černý Kříž; 9:36, České Budějovice; 11:37
+18009: 25: Nové Údolí; 12:15, Volary; 12:37
+18006: 25: Volary; 13:21, Nové Údolí; 13:45
+8107: X: České Budějovice; 12:11, Nové Údolí; 14:42
+8112: : Nové Údolí; 15:19, České Budějovice; 17:41
+8113: : České Budějovice; 18:22, Volary; 20:47
+
+8102: X: Volary; 6:40, České Budějovice; 8:56
+8104: 25: Volary; 7:25, České Budějovice; 9:43
+8105: : České Budějovice; 10:23, Černý Kříž; 12:25
+8110: : Černý Kříž; 13:36, České Budějovice; 15:35
+8111: : České Budějovice; 16:11, Černý Kříž; 18:25
+18017pk: : Černý Kříž; 18:29, Volary; 18:37
+
+
+1:5,6:4
+2:5,6:2
+3:5,6:3
