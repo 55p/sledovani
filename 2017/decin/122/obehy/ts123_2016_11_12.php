@@ -2,7 +2,7 @@
 $zacatekPlatnosti = '11.12.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
-$obeh[1] = array('6823_1', '6802_1', '6805_1', '71261_1', '1657_1', '1658_1', '6431_1');
+$obeh[1] = array('6823_1', '6802_1', '6805_1', '71261_1', '1657_1', '1656_1', '6431_1');
 $obeh[2] = array('6443_1', '5904_1', '5879_1', '5874_1', '1310_1', '1311_1');
 $obeh[3] = array('6402_1', '6968_1', '6969_1');
 $obeh[4] = array('6401_1', '5872_1');
@@ -13,7 +13,7 @@ $omezeni['1311_1'] = 'X1,X5';
 $omezeni['1654_1'] = 'X';
 $omezeni['1655_1'] = 'X';
 $omezeni['1657_1'] = 'X';
-$omezeni['1658_1'] = 'X';
+$omezeni['1656_1'] = 'X';
 $omezeni['1696_1'] = 'X';
 $omezeni['5872_1'] = 'X';
 $omezeni['5874_1'] = 'X';
@@ -45,7 +45,7 @@ $typ['1311_1'] = 'Sv';
 $trasa['1654_1'] = array('Roudnice nad Labem;14:26', 'Ústí nad Labem hl.n.;14:56');
 $trasa['1655_1'] = array('Ústí nad Labem hl.n.;12:41', 'Roudnice nad Labem;13:11');
 $trasa['1657_1'] = array('Ústí nad Labem hl.n.;14:41', 'Lovosice;14:56');
-$trasa['1658_1'] = array('Roudnice nad Labem;22:20', 'Ústí nad Labem hl.n.;22:51');
+$trasa['1656_1'] = array('Lovosice;15:17', 'Ústí nad Labem západ;15:33');
 $trasa['1696_1'] = array('Ústí nad Labem hl.n.;15:46', 'Chomutov;16:49');
 $trasa['5872_1'] = array('Kolín;8:29', 'Nymburk hl.n.;8:56');
 $trasa['5874_1'] = array('Kolín;9:29', 'Nymburk hl.n.;9:56');
