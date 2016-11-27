@@ -15,4 +15,3 @@ $jmenaVlaku['76_1'] = 'Antonín Dvořák';
 $jmenaVlaku['77_1'] = 'Antonín Dvořák';
 $jmenaVlaku['78_1'] = 'Johann Strauss';
 $jmenaVlaku['79_1'] = 'Johann Strauss';
-
