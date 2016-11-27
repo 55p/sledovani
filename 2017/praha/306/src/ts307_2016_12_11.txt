@@ -1,6 +1,6 @@
 259:7
-259:1,2,3,4,5,7:Dresden Hbf;7:08,Praha hl.n.;9:27
+259
 174::Praha hl.n.;10:28,Dresden Hbf;12:43
 175::Dresden Hbf;15:08,Praha hl.n.;17:27
-258:1,2,3,4,5,7:Praha hl.n.;18:28,Dresden Hbf;20:45
+258:1,2,3,4,5,7
 258:6
