@@ -1,4 +1,4 @@
-100445::Bohumín;2:45,Košice;7:41
+﻿100445::Bohumín;2:45,Košice;7:41
 100444::Košice;20:24,Bohumín;1:41
 
 444:X:Bohumín;2:12,Praha hl.n.;6:33
@@ -28,7 +28,7 @@
 
 3404::Liptovský Mikuláš;5:04,Žilina;6:34
 3413:25:Žilina;8:24,Liptovský Mikuláš;10:13
-3416:25:Liptovský Mikuláš;11:28,Žilina:13:00
+3416:25:Liptovský Mikuláš;11:28,Žilina;13:00
 3908:X:Žilina;8:48,Čadca;9:28
 3917:X:Čadca;10:35,Žilina;11:13
 342::Žilina;15:27,Ostrava-Svinov;17:17
