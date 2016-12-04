@@ -1,0 +1,24 @@
+668::Brno hl.n.;7:20,Jihlava;9:18
+661::Jihlava;10:40,Brno hl.n.;12:36
+662::Brno hl.n.;13:20,Jihlava;15:18
+667::Jihlava;16:40,Brno hl.n.;18:36
+650:XT:Brno hl.n.;19:20,Jihlava;21:17
+
+653::Jihlava;8:40,Brno hl.n.;10:36
+664::Brno hl.n.;11:20,Jihlava;13:18
+665::Jihlava;14:40,Brno hl.n.;16:36
+652::Brno hl.n.;17:20,Jihlava;19:18
+
+4801:X
+4816:X
+
+651:X6:Jihlava;6:40,Brno hl.n.;8:36
+666:X5,25:Brno hl.n.;9:20,Jihlava;11:18
+663:X5,25:Jihlava;12:40,Brno hl.n.;14:36
+660::Brno hl.n.;15:20,Jihlava;17:18
+669::Jihlava;18:40,Brno hl.n.;20:36
+
+
+3::3
+1:6:4
+2:6:2

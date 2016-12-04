@@ -1,0 +1,17 @@
+1722:X:Bylnice;5:07,Uherské Hradiště;6:27
+894:6:Zlín střed;5:28, Otrokovice;5:41
+101722:6:Uherské Hradiště;6:35, Brno hl.n.;8:34
+881:X:Staré Město u Uherského Hradiště;6:32,Luhačovice;7:23
+890:=:Luhačovice;8:38, Staré Město u Uherského Hradiště;9:28
+885:=:Staré Město u Uherského Hradiště;10:32,Luhačovice;11:23
+886:=:Luhačovice;12:38, Staré Město u Uherského Hradiště;13:28
+889:=:Staré Město u Uherského Hradiště;14:32,Luhačovice;15:23
+882:=:Luhačovice;16:38, Staré Město u Uherského Hradiště;17:28
+4343:X
+
+1720:X
+1731:X5
+12277pk:X5:Uherské Hradiště;17:27,Kunovice;17:32
+12262:=:Kunovice;17:37, Staré Město u Uherského Hradiště;17:49
+892:X5:Otrokovice;22:15, Zlín střed;22:28
+1733:zX
