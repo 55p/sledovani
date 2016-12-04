@@ -32,16 +32,30 @@ $omezeni['7522_2'] = '6, N';
 $omezeni['7524_1'] = '6, N';
 $omezeni['7524_2'] = 'X';
 
-$trasa['1962_2'] = ['Plzeň hl.n.;11:02','Klatovy;11:52'];
-$trasa['1964_2'] = ['Plzeň hl.n.;15:02','Klatovy;15:52'];
+$trasa['1962'] = ['Plzeň hl.n.;11:02','Klatovy;11:52'];
+$trasa['1964'] = ['Plzeň hl.n.;15:02','Klatovy;15:52'];
 $trasa['1965_1'] = ['Klatovy;16:05','Plzeň hl.n.;16:56'];
 $trasa['1965_2'] = ['Klatovy;16:05','Plzeň hl.n.;16:56'];
 $trasa['7501_1'] = ['Klatovy;16:46','Plzeň hl.n.;17:46'];
 $trasa['7501_2'] = ['Klatovy;16:46','Plzeň hl.n.;17:46'];
 
-
-
-
+$trasa['1960'] = ['Plzeň hl.n.;7:02', 'Klatovy;7:52'];
+$trasa['1961_1'] = ['Klatovy;8:06', 'Plzeň hl.n.;8:56'];
+$trasa['1963_1'] = ['Klatovy;12:06', 'Plzeň hl.n.;12:56'];
+$trasa['1963_2'] = ['Klatovy;12:06', 'Plzeň hl.n.;12:56'];
+$trasa['7512_1'] = ['Plzeň hl.n.;6:07', 'Klatovy;7:11'];
+$trasa['7513_1'] = ['Klatovy;4:46', 'Plzeň hl.n.;5:46'];
+$trasa['7514_1'] = ['Plzeň hl.n.;10:11', 'Klatovy;11:11'];
+$trasa['7515_1'] = ['Klatovy;5:30', 'Plzeň hl.n.;6:30'];
+$trasa['7518_1'] = ['Plzeň hl.n.;14:11', 'Klatovy;15:11'];
+$trasa['7519_1'] = ['Klatovy;8:46', 'Plzeň hl.n.;9:46'];
+$trasa['7519_2'] = ['Klatovy;8:46', 'Plzeň hl.n.;9:46'];
+$trasa['7521_1'] = ['Klatovy;12:46', 'Plzeň hl.n.;13:46'];
+$trasa['7521_2'] = ['Klatovy;12:46', 'Plzeň hl.n.;13:46'];
+$trasa['7522_1'] = ['Plzeň hl.n.;18:11', 'Klatovy;19:11'];
+$trasa['7522_2'] = ['Plzeň hl.n.;18:11', 'Klatovy;19:11'];
+$trasa['7524_1'] = ['Plzeň hl.n.;19:11', 'Klatovy;20:11'];
+$trasa['7524_2'] = ['Plzeň hl.n.;19:11', 'Klatovy;20:11'];
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
