@@ -1,4 +1,4 @@
-8642:X1234
+﻿8942:X1234
 663:25:Plzeň hl.n.;8:02,České Budějovice;9:55
 668:25:České Budějovice;12:04,Plzeň hl.n.;13:57
 655::Plzeň;16:02,České Budějovice;17:55

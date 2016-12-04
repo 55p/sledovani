@@ -2,7 +2,7 @@
 $zacatekPlatnosti = '11.12.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
-$obeh[1] = ['8642_1', '663_1', '668_1', '655_1', '1253_1'];
+$obeh[1] = ['8942_1', '663_1', '668_1', '655_1', '1253_1'];
 $obeh[2] = ['1254_1', '656_1', '667_1', '8030_1', '100655_1', '100662_1', '8016_1'];
 $obeh[3] = ['8003_1', '8021_1', '100655_2', '100662_2', '8012_1', '8011_1', '662_1'];
 $obeh[4] = ['99999_1'];
@@ -67,7 +67,7 @@ $omezeni['8230_1'] = 'X';
 $omezeni['8232_1'] = 'X';
 $omezeni['8233_1'] = 'X';
 $omezeni['8362_1'] = 'X';
-$omezeni['8642_1'] = 'X1234';
+$omezeni['8942_1'] = 'X1234';
 $omezeni['8955_1'] = 'X1,X2,X3';
 
 $trasa['100651_1'] = ['České Budějovice;4:13','Jihlava;6:33'];
@@ -115,9 +115,36 @@ $trasa['668_2'] = ['České Budějovice;10:04','Plzeň hl.n.;11:57'];
 $trasa['668_3'] = ['České Budějovice;14:04','Plzeň hl.n.;15:57'];
 $trasa['99998_1'] = ['záloha za ř. 650;16:00;24:00'];
 $trasa['99999_1'] = ['Údržba DKV;0:01;23:59'];
+$trasa['8942_1'] = ['Nepomuk;5:38', 'Plzeň hl.n.;6:25'];
+$trasa['1253_1'] = ['České Budějovice;19:09', 'Písek;19:53'];
+$trasa['1254_1'] = ['Písek;5:55', 'České Budějovice;6:43'];
+$trasa['14865_1'] = ['Havlíčkův Brod;14:05', 'Jihlava město;14:45'];
+$trasa['14867_1'] = ['Havlíčkův Brod;17:12', 'Jihlava;17:42'];
+$trasa['14870_1'] = ['Jihlava;12:37', 'Havlíčkův Brod;13:05'];
+$trasa['1835_1'] = ['Chotoviny;6:08', 'České Budějovice;7:20'];
+$trasa['1836_1'] = ['České Budějovice;14:30', 'Tábor;15:38'];
+$trasa['8003_1'] = ['Strakonice;6:07', 'České Budějovice;7:25'];
+$trasa['8011_1'] = ['Strakonice;16:24', 'České Budějovice;17:35'];
+$trasa['8012_1'] = ['České Budějovice;14:28', 'Strakonice;15:33'];
+$trasa['8016_1'] = ['České Budějovice;18:28', 'Strakonice;19:33'];
+$trasa['8021_1'] = ['Ražice;5:02', 'České Budějovice;6:26'];
+$trasa['8030_1'] = ['České Budějovice;15:40', 'Protivín;16:38'];
+$trasa['8205_1'] = ['Tábor;4:58', 'České Budějovice;6:44'];
+$trasa['8210_1'] = ['České Budějovice;16:24', 'Tábor;17:55'];
+$trasa['8212_1'] = ['České Budějovice;18:23', 'Tábor;19:40'];
+$trasa['8213_1'] = ['Tábor;16:21', 'České Budějovice;17:43'];
+$trasa['8215_1'] = ['Tábor;18:16', 'České Budějovice;19:31'];
+$trasa['8216_1'] = ['České Budějovice;22:32', 'Veselí nad Lužnicí;23:16'];
+$trasa['8230_1'] = ['Veselí nad Lužnicí;5:01', 'Chotoviny;5:37'];
+$trasa['8232_1'] = ['Veselí nad Lužnicí;6:01', 'Tábor;6:30'];
+$trasa['8233_1'] = ['Tábor;14:31', 'Veselí nad Lužnicí;15:01'];
+$trasa['8362_1'] = ['Jihlava město;15:11', 'Havlíčkův Brod;15:50'];
+$trasa['8955_1'] = ['Plzeň hl.n.;22:57', 'Nepomuk;23:34'];
 
-
-
+for ($i = 650; $i < 670; $i++) {
+  $poznamkaObehu[$i] = array(' Pl','');
+  $poznamkaObehu[100000 + $i] = array(' Ji','');
+}
 
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
