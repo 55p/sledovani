@@ -1,5 +1,5 @@
 <?php 
-$zacatekPlatnosti = '11.12.2016';
+$zacatekPlatnosti = '3.1.2017';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
 $obeh[1] = array('600_1', '600_2', '609_1', '442_1');
@@ -9,8 +9,6 @@ $obeh[4] = array('100443_1', '606_1', '613_1', '613_2');
 
 $omezeni['600_1'] = 'X6';
 $omezeni['600_2'] = 'T';
-$omezeni['613_1'] = 'XT';
-$omezeni['613_2'] = '6';
 
 $trasa['100442_1'] = array('Žilina;1:34','Praha hl.n.;7:22');
 $trasa['100443_1'] = array('Bohumín;3:36','Košice;8:39');

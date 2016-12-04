@@ -1,0 +1,35 @@
+<?php
+$jmenaVlaku['120_1'] = 'Hradčany';
+$jmenaVlaku['121_1'] = 'Hradčany';
+$jmenaVlaku['122_1'] = 'Fatra';
+$jmenaVlaku['123_1'] = 'Fatra';
+$jmenaVlaku['123_1'] = 'Fatra';
+$jmenaVlaku['124_1'] = 'Radhošť';
+$jmenaVlaku['125_1'] = 'Radhošť';
+$jmenaVlaku['126_1'] = 'Bečva';
+$jmenaVlaku['127_1'] = 'Bečva';
+$jmenaVlaku['128_1'] = 'Vsacan';
+$jmenaVlaku['129_1'] = 'Vsacan';
+$jmenaVlaku['220_1'] = 'Súľov';
+$jmenaVlaku['221_1'] = 'Súľov';
+$jmenaVlaku['272_1'] = 'Csárdás';
+$jmenaVlaku['273_1'] = 'Csárdás';
+$jmenaVlaku['276_1'] = 'Slovan';
+$jmenaVlaku['442_1'] = 'Bohemia';
+$jmenaVlaku['443_1'] = 'Bohemia';
+$jmenaVlaku['476_1'] = 'Metropol';
+$jmenaVlaku['477_1'] = 'Metropol';
+$jmenaVlaku['520_1'] = 'Portáš';
+$jmenaVlaku['521_1'] = 'Portáš';
+$jmenaVlaku['522_1'] = 'Helfštýn';
+$jmenaVlaku['523_1'] = 'Helfštýn';
+$jmenaVlaku['581_1'] = 'Leoš Janáček';
+$jmenaVlaku['600_1'] = 'MILA SEDITA';
+$jmenaVlaku['600_2'] = 'MILA SEDITA';
+$jmenaVlaku['606_1'] = 'Salubia';
+$jmenaVlaku['609_1'] = 'Bílina';
+$jmenaVlaku['613_1'] = 'Svatava';
+$jmenaVlaku['613_2'] = 'Svatava';
+$jmenaVlaku['704_1'] = 'Svět';
+$jmenaVlaku['717_1'] = 'Lužnice';
+
