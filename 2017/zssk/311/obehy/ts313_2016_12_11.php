@@ -13,7 +13,7 @@ $omezeni['522_1'] = '-2512,-2612,-0101';
 $omezeni['523_1'] = '-2412,-2512,-3112';
 
 $trasa['3902_1'] = array('Žilina;5:48','Čadca;6:26');
-$trasa['3909_1'] = array('Čadca;6:56','Žilina:7:36');
+$trasa['3909_1'] = array('Čadca;6:56','Žilina;7:36');
 $trasa['704_1'] = array('Žilina;5:19','Bratislava hl.st.;8:05');
 $trasa['717_1'] = array('Bratislava hl.st.;19:55','Žilina;22:41');
 

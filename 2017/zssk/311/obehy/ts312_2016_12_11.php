@@ -18,8 +18,8 @@ $trasa['442_1'] = array('Košice;22:08','Žilina;1:15');
 $trasa['443_1'] = array('Praha hl.n.;23:09','Bohumín;3:09');
 $trasa['600_1'] = array('Košice;4:06','Bratislava hl.st.;10:05');
 $trasa['600_2'] = array('Žilina;7:19','Bratislava hl.st.;10:05');
-$trasa['606_1'] = array('Košice;10:06','Bratislava hl.st.','16:05');
-$trasa['609_1'] = array('Bratislava hl.st.','13:55;Košice;19:52');
+$trasa['606_1'] = array('Košice;10:06','Bratislava hl.st.;16:05');
+$trasa['609_1'] = array('Bratislava hl.st.;13:55', 'Košice;19:52');
 $trasa['613_1'] = array('Bratislava hl.st.;17:56','Košice;23:52');
 $trasa['613_2'] = array('Bratislava hl.st.;17:56','Žilina;20:41');
 
