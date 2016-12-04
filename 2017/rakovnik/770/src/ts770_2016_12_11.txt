@@ -1,0 +1,10 @@
+1221pk: X,6,1404,0507,2809,1711,-1504,-1811: Rakovník; 5:16, Praha Masarykovo n.; 6:50
+1232:=: Praha Masarykovo n.; 7:02, Rakovník; 8:32
+1225pk: : Rakovník; 9:22, Praha Masarykovo n.; 10:52
+1906: 25: Praha Masarykovo n.; 11:02, Kladno-Ostrovec; 11:49
+1907pk: 25: Kladno-Ostrovec; 12:05, Praha Masarykovo n.; 12:52
+1228: : Praha Masarykovo n.; 13:02, Rakovník; 14:32
+1229pk: : Rakovník; 15:22, Praha Masarykovo n.; 16:52
+1224: : Praha Masarykovo n.; 17:02, Rakovník; 18:32
+1233pk: T,-2412,-2512,-2612,-1404,-1604,-3004,-0705,-0507,-0607,-2809,-2810,-1711: Rakovník; 19:22, Praha Masarykovo n.; 20:52
+1220: T,-2412,-2512,-2612,-1404,-1604,-3004,-0705,-0507,-0607,-2809,-2810,-1711: Praha Masarykovo n.; 21:02, Rakovník; 22:32
