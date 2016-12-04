@@ -26,7 +26,10 @@ $trasa['522_1'] = ['Vsetín;4:55', 'Praha hl.n.;8:39'];
 $trasa['523_1'] = ['Praha hl.n.;19:22', 'Vsetín;23:05'];
 
 
-@$ts313 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
+if (empty($jmenaVlaku)) $jmenaVlaku = [];
+if (empty($zeme)) $zeme = [];
+
+@$ts313 -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
 
 unset($obeh); 
 unset($trasa); 
