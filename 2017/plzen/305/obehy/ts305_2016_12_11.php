@@ -1,0 +1,144 @@
+<?php 
+$zacatekPlatnosti = '11.12.2016';
+$konecPlatnosti = null; //'x.x.201x 23:59:59';
+
+$obeh[1] = ['353_1', '350_1', '357_1'];
+$obeh[2] = ['701_1', '720_1', '713_1', '708_1', '727_1', '718_1', '715_1', '530_1', '727_2', '8018_1'];
+$obeh[3] = ['653_1', '534_1', '533_1', '705_1', '704_1', '731_1'];
+$obeh[4] = ['726_1', '721_1', '709_1', '712_1', '723_1'];
+$obeh[5] = ['724_1', '717_1', '721_2'];
+$obeh[6] = ['728_1', '728_2', '707_1', '716_1', '719_1', '8016_1', '702_1', '733_1', '8259_1', '1834_1', '728_3', '721_3'];
+$obeh[7] = ['8021_1', '8003_1', '8205_1', '722_1', '711_1', '710_1', '725_1', '8216_1'];
+$obeh[8] = ['730_1', '531_1', '532_1', '676_1', '670_1'];
+$obeh[9] = ['673_1', '354_1', '355_1', '672_1', '71263_1'];
+$obeh[10] = ['100601_1', '537_1', '700_1', '733_2'];
+$obeh[11] = ['8259_2', '8200_1', '732_1', '705_2', '531_2', '8206_1', '8276_1', '8283_1', '708_2', '727_3', '708_3', '539_1'];
+$obeh[12] = ['1830_1', '1831_1', '1833_1', '8213_1', '8212_1'];
+$obeh[13] = ['8260_1', '8207_1', '712_2', '723_2'];
+$obeh[14] = ['538_1', '709_2', '714_1', '535_1', '720_2', '717_2', '716_2', '719_2', '702_2', '965_1'];
+$obeh[15] = ['964_1', '703_1', '718_2', '715_2', '706_1', '724_2', '717_3', '706_2'];
+$obeh[16] = ['356_1', '755_1', '762_1', '353_2', '350_2', '764_1', '761_1', '756_1'];
+
+$omezeni['100601_1'] = 'X';
+$omezeni['1830_1'] = 'X6';
+$omezeni['1831_1'] = '6';
+$omezeni['1833_1'] = 'X';
+$omezeni['1834_1'] = 'T';
+$omezeni['350_1'] = 'T';
+$omezeni['350_2'] = 'X6';
+$omezeni['353_1'] = 'T';
+$omezeni['353_2'] = 'X6';
+$omezeni['356_1'] = 'X6';
+$omezeni['530_1'] = 'T';
+$omezeni['531_1'] = 'X6';
+$omezeni['531_2'] = 'T';
+$omezeni['533_1'] = 'X';
+$omezeni['534_1'] = 'X';
+$omezeni['535_1'] = 'X';
+$omezeni['538_1'] = 'X';
+$omezeni['539_1'] = 'T';
+$omezeni['653_1'] = 'X6';
+$omezeni['670_1'] = 'T';
+$omezeni['672_1'] = 'zX';
+$omezeni['673_1'] = 'X';
+$omezeni['676_1'] = 'X1234';
+$omezeni['701_1'] = 'X6';
+$omezeni['702_1'] = '6';
+$omezeni['702_2'] = 'XT';
+$omezeni['703_1'] = 'X6';
+$omezeni['705_1'] = 'T';
+$omezeni['705_2'] = 'X6';
+$omezeni['706_1'] = 'X6';
+$omezeni['706_2'] = 'T';
+$omezeni['707_1'] = 'X6';
+$omezeni['708_1'] = 'X';
+$omezeni['708_2'] = '6';
+$omezeni['708_3'] = 'T';
+$omezeni['709_1'] = '25';
+$omezeni['709_2'] = 'X';
+$omezeni['71263_1'] = 'zX';
+$omezeni['712_1'] = '25';
+$omezeni['712_2'] = 'X';
+$omezeni['713_1'] = 'X';
+$omezeni['714_1'] = 'X';
+$omezeni['715_1'] = 'T';
+$omezeni['715_2'] = 'X6';
+$omezeni['716_1'] = 'X6';
+$omezeni['716_2'] = 'T';
+$omezeni['717_1'] = 'X';
+$omezeni['717_2'] = '6';
+$omezeni['717_3'] = 'T';
+$omezeni['718_1'] = 'T';
+$omezeni['718_2'] = 'X6';
+$omezeni['719_1'] = 'X6';
+$omezeni['719_2'] = 'T';
+$omezeni['720_1'] = 'X';
+$omezeni['720_2'] = '6';
+$omezeni['721_1'] = 'X';
+$omezeni['721_2'] = '6';
+$omezeni['721_3'] = 'T';
+$omezeni['723_1'] = '25';
+$omezeni['723_2'] = 'X';
+$omezeni['724_1'] = 'X6';
+$omezeni['724_2'] = 'T';
+$omezeni['727_1'] = 'X';
+$omezeni['727_2'] = 'T';
+$omezeni['727_3'] = '6';
+$omezeni['728_1'] = 'X1';
+$omezeni['728_2'] = 'X2345,6';
+$omezeni['728_3'] = 'T';
+$omezeni['730_1'] = 'X6';
+$omezeni['732_1'] = 'X6';
+$omezeni['733_1'] = '6';
+$omezeni['733_2'] = 'XT';
+$omezeni['755_1'] = 'X6';
+$omezeni['756_1'] = 'T';
+$omezeni['761_1'] = 'T';
+$omezeni['762_1'] = 'X6';
+$omezeni['764_1'] = 'T';
+$omezeni['8003_1'] = 'X2345';
+$omezeni['8016_1'] = 'X1234';
+$omezeni['8018_1'] = 'XT';
+$omezeni['8021_1'] = 'X1';
+$omezeni['8200_1'] = 'X1,6';
+$omezeni['8205_1'] = '25';
+$omezeni['8206_1'] = 'X';
+$omezeni['8207_1'] = 'X';
+$omezeni['8212_1'] = '25';
+$omezeni['8213_1'] = '25';
+$omezeni['8216_1'] = 'z25';
+$omezeni['8259_1'] = 'T';
+$omezeni['8259_2'] = 'X1,6';
+$omezeni['8260_1'] = 'X';
+$omezeni['8276_1'] = 'X';
+$omezeni['8283_1'] = 'X';
+$omezeni['964_1'] = 'X';
+$omezeni['965_1'] = 'zX';
+
+$trasa['100601_1'] = ['Ústí n/L hl.n.;6:15','Praha Masarykovo n.;7:27'];
+$trasa['350_2'] = ['Praha hl.n.;17:12','Plzeň hl.n.;18:49'];
+$trasa['353_2'] = ['Plzeň hl.n.;13:06','Praha hl.n.;14:41'];
+$trasa['354_1'] = ['Praha hl.n.;9:12','Plzeň hl.n.;10:49'];
+$trasa['355_1'] = ['Plzeň hl.n.;17:06','Praha hl.n.;18:41'];
+$trasa['356_1'] = ['Praha hl.n.;5:12','Plzeň hl.n.;6:49'];
+$trasa['531_1'] = ['Praha-Holešovice;7:42','České Budějovice;10:02'];
+$trasa['531_2'] = ['Praha hl.n.;8:02','České Budějovice;10:02'];
+$trasa['532_1'] = ['České Budějovice;14:53','Praha-Holešovice;17:19'];
+$trasa['71263_1'] = ['Děčín hl.n.;22:45','Ústí n/L hl.n.;23:06'];
+
+
+
+
+
+if (empty($jmenaVlaku)) $jmenaVlaku = [];
+if (empty($zeme)) $zeme = [];
+
+@$ts305 -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
+
+unset($obeh); 
+unset($trasa); 
+unset($omezeni); 
+unset($zacatekPlatnosti); 
+unset($konecPlatnosti);
+
+

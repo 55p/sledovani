@@ -1,0 +1,54 @@
+7831:X
+1966:X
+768:X6
+X6;757,760,765
+752:X
+351:T:Plzeň hl.n.;9:06,Praha hl.n.;10:41
+352:T:Praha hl.n.;13:12,Plzeň hl.n.;14:49
+
+356:T:Praha hl.n.;5:12,Plzeň hl.n.;6:49
+755:T
+762:T
+763:T
+351:X6:Plzeň hl.n.;9:06,Praha hl.n.;10:41
+352:X6:Praha hl.n.;13:12,Plzeň hl.n.;14:49
+763:X6
+754
+
+605:: Cheb;6:25, Ústí nad Labem hl.n.;9:09
+612:: Ústí nad Labem hl.n.;10:46, Cheb;13:30
+613:: Cheb;14:27, Ústí nad Labem hl.n.;17:09
+604:: Ústí nad Labem hl.n.;18:46, Cheb;21:32
+
+7000:X
+607:: Cheb;8:27, Ústí nad Labem hl.n.;11:09
+610:: Ústí nad Labem hl.n.;12:46, Cheb;15:30
+615:: Cheb;16:27, Ústí nad Labem hl.n.;19:09
+602:: Ústí nad Labem hl.n.;20:46,Chomutov;21:49
+
+603:25: Chomutov;6:05, Ústí nad Labem hl.n.;7:09
+7021:X
+1695:X
+614:: Ústí nad Labem hl.n.;8:46, Cheb;11:30
+611:: Cheb;12:27, Ústí nad Labem hl.n.;15:09
+606:: Ústí nad Labem hl.n.;16:46, Cheb;19:30
+
+1691:X
+603:X: Chomutov;6:05, Ústí nad Labem hl.n.;7:09
+616:25: Ústí nad Labem hl.n.;6:46, Cheb;9:30
+609:=: Cheb;10:27, Ústí nad Labem hl.n.;13:09
+608:: Ústí nad Labem hl.n.;14:46, Cheb;17:30
+617:: Cheb;18:27, Ústí nad Labem hl.n.;21:09
+
+616:X: Ústí nad Labem hl.n.;6:46, Cheb;9:30
+609:=: Cheb;10:27, Ústí nad Labem hl.n.;13:09
+1694:X
+
+X6;753,764,761,756
+T;757,760,765, 752
+
+
+4:1,2,3,4,7:4
+3:1,2,3,4,7:5
+5:5,6:7
+6:5,6:6

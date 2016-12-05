@@ -1,0 +1,15 @@
+71710:Plzeň hl.n.;4:11, Klatovy;5:31
+773::Klatovy;6:06,Praha hl.n.;8:41
+776::Praha hl.n.;11:12,Klatovy;13:52
+7523
+7520:XT
+71712:6:Plzeň hl.n.;16:11, Klatovy;17:31
+779::Klatovy;18:06,Praha hl.n.;20:41
+770::
+
+7502::Plzeň hl.n.;5:25, Klatovy;6:27
+7517
+7504::Plzeň hl.n.;8:11, Klatovy;9:11
+775::Klatovy;10:06,Praha hl.n.;12:41
+774::Praha hl.n.;15:12,Klatovy;17:52
+7503::Klatovy;18:46;Plzeň hl.n.;19:46
