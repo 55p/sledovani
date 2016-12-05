@@ -11,7 +11,7 @@ if (file_exists(__DIR__.'/jmena_vlaku.php')) {
   include __DIR__.'/jmena_vlaku.php';
 }
 
-$mimor->obeh(new Obeh(array('1' => array('1'), '2' => array('2'), '3' => array('3'), '4' => array('4'), '5' => array('5')), array(), array(), array('1' => '', '2' => '', '3' => ''), array()));
+$mimor->obeh(new Obeh(array('1' => array('1'), '2' => array('2'), '3' => array('3'), '4' => array('4'), '5' => array('5')), array(), array(), array('1' => '', '2' => '', '3' => '', '4' => '', '5' => ''), array()));
 
 require __DIR__.$includePath.'/spolecne/obehy_2015_11_22.php';
 @require __DIR__.$includePath.'/spolecne/laky_vse.php';
