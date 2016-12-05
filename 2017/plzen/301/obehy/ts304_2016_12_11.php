@@ -72,6 +72,31 @@ $trasa['616_1'] = ['Ústí nad Labem hl.n.;6:46','Cheb;9:30'];
 $trasa['616_2'] = ['Ústí nad Labem hl.n.;6:46','Cheb;9:30'];
 $trasa['617_1'] = ['Cheb;18:27','Ústí nad Labem hl.n.;21:09'];
 
+$trasa['1691_1'] = ['Cheb;4:00', 'Chomutov;5:58'];
+$trasa['1695_1'] = ['Karlovy Vary;5:58', 'Ústí nad Labem hl.n.;8:08'];
+$trasa['7000_1'] = ['Chomutov;5:08', 'Cheb;7:22'];
+$trasa['752_2'] = ['Praha hl.n.;20:12', 'Plzeň hl.n.;21:49'];
+$trasa['754_1'] = ['Praha hl.n.;18:12', 'Cheb;21:26'];
+$trasa['756_1'] = ['Praha hl.n.;16:12', 'Plzeň hl.n.;17:49'];
+$trasa['757_2'] = ['Cheb;8:34', 'Praha hl.n.;11:41'];
+$trasa['760_2'] = ['Praha hl.n.;12:12', 'Cheb;15:23'];
+$trasa['762_1'] = ['Praha hl.n.;10:12', 'Mariánské Lázně;12:46'];
+$trasa['763_2'] = ['Plzeň hl.n.;16:06', 'Praha hl.n.;17:41'];
+$trasa['765_1'] = ['Cheb;16:34', 'Praha hl.n.;19:41'];
+$trasa['768_1'] = ['Plzeň hl.n.;6:04', 'Cheb;7:24'];
+$trasa['1694_1'] = ['Ústí nad Labem hl.n.;13:45', 'Cheb;17:07'];
+$trasa['1966_1'] = ['Rokycany;5:27', 'Plzeň hl.n.;5:49'];
+$trasa['7021_1'] = ['Cheb;4:25', 'Karlovy Vary;5:20'];
+$trasa['752_1'] = ['Praha hl.n.;20:12', 'Plzeň hl.n.;21:49'];
+$trasa['753_1'] = ['Cheb;4:32', 'Praha hl.n.;7:41'];
+$trasa['755_1'] = ['Plzeň hl.n.;8:06', 'Praha hl.n.;9:41'];
+$trasa['757_1'] = ['Cheb;8:34', 'Praha hl.n.;11:41'];
+$trasa['760_1'] = ['Praha hl.n.;12:12', 'Cheb;15:23'];
+$trasa['761_1'] = ['Cheb;12:34', 'Praha hl.n.;15:41'];
+$trasa['763_1'] = ['Mariánské Lázně;15:06', 'Praha hl.n.;17:41'];
+$trasa['764_1'] = ['Praha hl.n.;8:12', 'Cheb;11:28'];
+$trasa['765_2'] = ['Cheb;16:34', 'Praha hl.n.;19:41'];
+$trasa['7831_1'] = ['Plzeň hl.n.;4:41', 'Rokycany;5:07'];
 
 
 

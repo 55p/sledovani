@@ -1,4 +1,4 @@
-71710:Plzeň hl.n.;4:11, Klatovy;5:31
+﻿71710::Plzeň hl.n.;4:11, Klatovy;5:31
 773::Klatovy;6:06,Praha hl.n.;8:41
 776::Praha hl.n.;11:12,Klatovy;13:52
 7523

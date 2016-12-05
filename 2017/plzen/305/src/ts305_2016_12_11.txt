@@ -1,13 +1,13 @@
-353:T
-350:T
-357
+﻿353:T:Plzeň hl.n.;13:06,Praha hl.n.;14:41
+350:T:Praha hl.n.;17:12,Plzeň hl.n.;18:49
+357:::Plzeň hl.n.;21:06,Praha hl.n.;22:41
 
 701:X6
 X;720,713,708,727
 T;718,715,530,727
 8018:XT
 
-653:X6
+653:X6:Strakonice;4:57,České Budějovice;5:51
 534:X
 533:X
 705:T

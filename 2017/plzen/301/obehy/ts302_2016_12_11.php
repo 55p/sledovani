@@ -11,11 +11,11 @@ $trasa['100775_1'] = ['Klatovy;10:06','Plzeň hl.n.;10:56'];
 $trasa['772_1'] = ['Praha hl.n.;19:12','Klatovy;21:52'];
 $trasa['777_1'] = ['Klatovy;14:06','Praha hl.n.;16:41'];
 $trasa['778_1'] = ['Praha hl.n.;7:12','Klatovy;9:52'];
+$trasa['7516_1'] = ['Plzeň hl.n.;12:11', 'Klatovy;13:11'];
+$trasa['771_1'] = ['Plzeň hl.n.;5:06', 'Praha hl.n.;6:41'];
+$trasa['7511_1'] = ['Klatovy;4:00', 'Plzeň hl.n.;4:59'];
 
 $poznamkaObehu['100775_1'] = ['pk', 'postrk'];
-
-
-
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
