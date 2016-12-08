@@ -1,9 +1,11 @@
 <?php 
 function predpoklad_1_TS303 ($timestamp) {
-  return 2;
+  $den = date('N', $timestamp);
+  return 1;
 }
 
 function predpoklad_2_TS303 ($timestamp) {
-  return 1;
+  $den = date('N', $timestamp);
+  return 2;
 }
 

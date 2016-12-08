@@ -2,20 +2,19 @@
 $zacatekPlatnosti = '11.12.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
-$obeh[1] = ['7511_1', '771_1', '778_1', '100775_1', '7516_1', '777_1', '772_1'];
+$obeh[1] = ['7502_1', '7517_1', '7504_1', '775_1', '774_1', '7503_1'];
 
-$omezeni['100775_1'] = 'XT';
-$omezeni['7516_1'] = 'XT';
 
-$trasa['100775_1'] = ['Klatovy;10:06','Plzeň hl.n.;10:56'];
-$trasa['772_1'] = ['Praha hl.n.;19:12','Klatovy;21:52'];
-$trasa['777_1'] = ['Klatovy;14:06','Praha hl.n.;16:41'];
-$trasa['778_1'] = ['Praha hl.n.;7:12','Klatovy;9:52'];
-$trasa['7516_1'] = ['Plzeň hl.n.;12:11', 'Klatovy;13:11'];
-$trasa['771_1'] = ['Plzeň hl.n.;5:06', 'Praha hl.n.;6:41'];
-$trasa['7511_1'] = ['Klatovy;4:00', 'Plzeň hl.n.;4:59'];
+$trasa['7502_1'] = ['Plzeň hl.n.;5:25','Klatovy;6:27'];
+$trasa['7503_1'] = ['Klatovy;18:46','Plzeň hl.n.;19:46'];
+$trasa['7504_1'] = ['Plzeň hl.n.;8:11','Klatovy;9:11'];
+$trasa['7517_1'] = ['Klatovy;6:46','Plzeň hl.n.;7:46'];
+$trasa['774_1'] = ['Praha hl.n.;15:12','Klatovy;17:52'];
+$trasa['775_1'] = ['Klatovy;10:06','Praha hl.n.;12:41'];
 
-$poznamkaObehu['100775_1'] = ['pk', 'postrk'];
+
+
+
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
