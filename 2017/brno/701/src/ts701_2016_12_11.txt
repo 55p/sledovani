@@ -1,24 +1,23 @@
-668::Brno hl.n.;7:20,Jihlava;9:18
-661::Jihlava;10:40,Brno hl.n.;12:36
-662::Brno hl.n.;13:20,Jihlava;15:18
-667::Jihlava;16:40,Brno hl.n.;18:36
-650:XT:Brno hl.n.;19:20,Jihlava;21:17
+621:X6:Jihlava;6:40,Okříšky;7:06
+668::Okříšky;8:47,Jihlava;9:18
+661::Jihlava;10:40,Okříšky;11:06
+664::Okříšky;12:47,Jihlava;13:18
+665::Jihlava;14:40,Okříšky;15:06
+660::Okříšky;15:47,Jihlava;16:18
+669::Jihlava;18:40,Okříšky;19:06
+620:XT:Okříšky;20:47,Jihlava;21:18
 
-653::Jihlava;8:40,Brno hl.n.;10:36
-664::Brno hl.n.;11:20,Jihlava;13:18
-665::Jihlava;14:40,Brno hl.n.;16:36
-652::Brno hl.n.;17:20,Jihlava;19:18
+623::Jihlava;8:40,Okříšky;9:06
+666::Okříšky;10:47,Jihlava;11:18
+663::Jihlava;12:40,Okříšky;13:06
+662::Okříšky;14:47,Jihlava;15:18
+667::Jihlava;16:40,Okříšky;17:06
+622::Okříšky;18:47,Jihlava;19:18
 
-4801:X
-4816:X
-
-651:X6:Jihlava;6:40,Brno hl.n.;8:36
-666:X5,25:Brno hl.n.;9:20,Jihlava;11:18
-663:X5,25:Jihlava;12:40,Brno hl.n.;14:36
-660::Brno hl.n.;15:20,Jihlava;17:18
-669::Jihlava;18:40,Brno hl.n.;20:36
+4801:X:Náměšť nad Oslavou; 6:13 , Brno hl.n.;7:10
+4816:X:Brno hl.n.; 15:39, Náměšť nad Oslavou;16:44
 
 
+1::2
+2::1
 3::3
-1:6:4
-2:6:2

@@ -62,7 +62,7 @@ $omezeni['4034_1'] = 'X';
 $omezeni['4045_1'] = '';
 
 $trasa['103822_1'] = ['Přerov;13:02','Olomouc hl.n.;13:25'];
-$trasa['103835_1'] = ['Olomouc hl.n.;18:33;Přerov;18:52'];
+$trasa['103835_1'] = ['Olomouc hl.n.;18:33','Přerov;18:52'];
 $trasa['2990_1'] = ['Český Těšín;16:12','Bohumín;16:44'];
 
 $poznamkaObehu['103822_1'] = ['pk', 'postrk'];
