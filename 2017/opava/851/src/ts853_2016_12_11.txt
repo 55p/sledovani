@@ -1,0 +1,17 @@
+1600:X6
+1661:T
+1660:11
+1663
+1662
+1665:X6
+1664:X6
+1667:X6
+3473:X
+1666:6
+1665:T:Jeseník; 13:25, Jindřichov ve Slezsku;14:25
+1665pk:T:Jindřichov ve Slezsku;14:32, Krnov; 14:58
+1664pk:T:Krnov;15:04, Glucholazy;15:53
+1664:T:Glucholazy; 16:00, Jeseník;16:37
+1667pk:T: Jeseník; 17:25, Glucholazy; 17:59
+1667:T: Glucholazy;18:08, Krnov; 18:58
+1133:T:Krnov; 19:06, Opava východ; 19:33
