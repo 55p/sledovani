@@ -1,15 +1,15 @@
-621:X6:Jihlava;6:40,Okříšky;7:06
+651:X6:Jihlava;6:40,Okříšky;7:06
 668::Okříšky;8:47,Jihlava;9:18
 661::Jihlava;10:40,Okříšky;11:06
 664::Okříšky;12:47,Jihlava;13:18
 665::Jihlava;14:40,Okříšky;15:06
 660::Okříšky;15:47,Jihlava;16:18
 669::Jihlava;18:40,Okříšky;19:06
-620:XT:Okříšky;20:47,Jihlava;21:18
+650:XT:Okříšky;20:47,Jihlava;21:18
 
 623::Jihlava;8:40,Okříšky;9:06
-666::Okříšky;10:47,Jihlava;11:18
-663::Jihlava;12:40,Okříšky;13:06
+666:X5,25:Okříšky;10:47,Jihlava;11:18
+663:X5,25:Jihlava;12:40,Okříšky;13:06
 662::Okříšky;14:47,Jihlava;15:18
 667::Jihlava;16:40,Okříšky;17:06
 622::Okříšky;18:47,Jihlava;19:18
