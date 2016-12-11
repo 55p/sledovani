@@ -1,6 +1,7 @@
 <?php
 // sem patri definice skupin. 
 $skupiny[] = $ts813 = new TS ('TS 813');
+$skupiny[] = $mimor = new TS('mimořádný oběh');
 
 $mimor->obeh(new Obeh(array('1' => array('6'), '2' => array('7'), '3' => array('8')), array(), array(), array('6' => '', '7' => '', '8' => '', '9' => '', '10' => ''), array()));
 

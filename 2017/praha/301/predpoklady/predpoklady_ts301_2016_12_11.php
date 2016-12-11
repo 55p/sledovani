@@ -44,7 +44,6 @@ function predpoklad_11_TS301 ($timestamp) {
 }
 
 function predpoklad_12_TS301 ($timestamp) {
-  return 1;
+  return 13;
 }
 
-?>

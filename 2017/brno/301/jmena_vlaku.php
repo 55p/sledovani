@@ -1,7 +1,6 @@
 <?php
 $jmenaVlaku['571_1'] = 'Johann Gregor Mendel';
 $jmenaVlaku['572_1'] = 'Josef Ressel';
-$jmenaVlaku['573_1'] = 'Josef Ressel';
 $jmenaVlaku['824_1'] = 'Radegast';
 $jmenaVlaku['825_1'] = 'Radegast';
 $jmenaVlaku['847_1'] = 'Hron';
@@ -14,8 +13,9 @@ $jmenaVlaku['963_2'] = 'Karel Havlíček Borovský';
 $jmenaVlaku['970_1'] = 'Gustav Brom';
 $jmenaVlaku['971_1'] = 'Gustav Brom';
 $jmenaVlaku['974_1'] = 'Jan Blažej Santini';
-$jmenaVlaku['975'] = 'Jan Blažej Santini';
-$jmenaVlaku['976'] = 'Porta coeli';
+$jmenaVlaku['975_1'] = 'Jan Blažej Santini';
+$jmenaVlaku['975_2'] = 'Jan Blažej Santini';
+$jmenaVlaku['976_1'] = 'Porta coeli';
 $jmenaVlaku['977_1'] = 'Porta coeli';
 $jmenaVlaku['978_1'] = 'Barbora';
 $jmenaVlaku['979_1'] = 'Barbora';
@@ -30,8 +30,6 @@ $jmenaVlaku['984_1'] = 'Svratka';
 $jmenaVlaku['985_1'] = 'Svratka';
 $jmenaVlaku['986_1'] = 'Sázava';
 $jmenaVlaku['987_1'] = 'Sázava';
-$jmenaVlaku['988_1'] = 'Doubrava';
 $jmenaVlaku['988_2'] = 'Doubrava';
-$jmenaVlaku['989_1'] = 'Doubrava';
 $jmenaVlaku['989_2'] = 'Doubrava';
 

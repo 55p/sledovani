@@ -1,6 +1,8 @@
 <?php
-$skupiny[] = $ts103 = new TS ('TS 103 + 903', '163 + 961');
-$skupiny[] = $ts301 = new TS ('TS 301 + 901', '362 + 961');
+// $skupiny[] = $ts103 = new TS ('TS 103 + 903', '163 + 961');
+// $skupiny[] = $ts301 = new TS ('TS 301 + 901', '362 + 961');
+$skupiny[] = $ts103 = new TS ('TS 103', '163 + 961');
+$skupiny[] = $ts301 = new TS ('TS 301', '362 + 961');
 $skupiny[] = $ts102 = new TS ('TS 102', '163');
 
 if (file_exists(__DIR__.'/typy.php')) {

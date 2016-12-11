@@ -14,7 +14,7 @@ $trasa['1247_1'] = array('České Budějovice;13:09', 'Praha hl.n.;16:11');
 $trasa['1251_1'] = array('České Budějovice;17:09', 'Praha hl.n.;20:11');
 $trasa['1252_1'] = array('Praha hl.n.;5:42', 'České Budějovice;8:43');
 
-@$ts855 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
+@$ts833 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 
 unset($obeh); 
 unset($trasa); 

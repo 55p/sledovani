@@ -1,5 +1,5 @@
 <?php 
-function predpoklad_1_TS856 ($timestamp) {
+function predpoklad_1_TS834 ($timestamp) {
   $den = date('N', $timestamp);
   if ($den == 5) {
     return 4;
@@ -10,7 +10,7 @@ function predpoklad_1_TS856 ($timestamp) {
   return 2;
 }
 
-function predpoklad_2_TS856 ($timestamp) {
+function predpoklad_2_TS834 ($timestamp) {
   $den = date('N', $timestamp);
   if ($den == 5) {
     return 2;
@@ -21,7 +21,7 @@ function predpoklad_2_TS856 ($timestamp) {
   return 3;
 }
 
-function predpoklad_3_TS856 ($timestamp) {
+function predpoklad_3_TS834 ($timestamp) {
   $den = date('N', $timestamp);
   if ($den == 5) {
     return 3;
@@ -32,11 +32,11 @@ function predpoklad_3_TS856 ($timestamp) {
   return 4;
 }
 
-function predpoklad_4_TS856 ($timestamp) {
+function predpoklad_4_TS834 ($timestamp) {
   return 5;
 }
 
-function predpoklad_5_TS856 ($timestamp) {
+function predpoklad_5_TS834 ($timestamp) {
   return 1;
 }
 

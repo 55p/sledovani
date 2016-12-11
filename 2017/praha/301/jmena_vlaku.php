@@ -1,0 +1,31 @@
+<?php
+$jmenaVlaku['100'] = 'Moravia';
+$jmenaVlaku['101'] = 'Moravia';
+$jmenaVlaku['102'] = 'Polonia';
+$jmenaVlaku['103'] = 'Polonia';
+$jmenaVlaku['104'] = 'Sobieski';
+$jmenaVlaku['105'] = 'Sobieski';
+$jmenaVlaku['130'] = 'Varsovia';
+$jmenaVlaku['131'] = 'Varsovia';
+$jmenaVlaku['172'] = 'Hungaria';
+$jmenaVlaku['173'] = 'Hungaria';
+$jmenaVlaku['270'] = 'Petrov';
+$jmenaVlaku['271'] = 'Petrov';
+$jmenaVlaku['274'] = 'Jaroslav Hašek';
+$jmenaVlaku['275'] = 'Jaroslav Hašek';
+$jmenaVlaku['277'] = 'Slovan';
+$jmenaVlaku['278'] = 'Danubius';
+$jmenaVlaku['279'] = 'Danubius';
+$jmenaVlaku['280'] = 'Jan Jesenius';
+$jmenaVlaku['281'] = 'Jan Jesenius';
+$jmenaVlaku['282'] = 'Slovenská strela';
+$jmenaVlaku['283'] = 'Slovenská strela';
+$jmenaVlaku['406'] = 'Chopin';
+$jmenaVlaku['407'] = 'Chopin';
+$jmenaVlaku['476'] = 'Metropol';
+$jmenaVlaku['573'] = 'Josef Ressel';
+$jmenaVlaku['574'] = 'Zdeněk Fibich';
+$jmenaVlaku['578'] = 'František Kmoch';
+$jmenaVlaku['590'] = 'Slezan';
+$jmenaVlaku['591'] = 'Slezan';
+

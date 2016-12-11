@@ -1,4 +1,4 @@
-651:X6:Jihlava;6:40,Okříšky;7:06
+﻿651:X6:Jihlava;6:40,Okříšky;7:06
 668::Okříšky;8:47,Jihlava;9:18
 661::Jihlava;10:40,Okříšky;11:06
 664::Okříšky;12:47,Jihlava;13:18
@@ -7,17 +7,21 @@
 669::Jihlava;18:40,Okříšky;19:06
 650:XT:Okříšky;20:47,Jihlava;21:18
 
-623::Jihlava;8:40,Okříšky;9:06
+653::Jihlava;8:40,Okříšky;9:06
 666:X5,25:Okříšky;10:47,Jihlava;11:18
 663:X5,25:Jihlava;12:40,Okříšky;13:06
 662::Okříšky;14:47,Jihlava;15:18
 667::Jihlava;16:40,Okříšky;17:06
-622::Okříšky;18:47,Jihlava;19:18
+652::Okříšky;18:47,Jihlava;19:18
 
 4801:X:Náměšť nad Oslavou; 6:13 , Brno hl.n.;7:10
 4816:X:Brno hl.n.; 15:39, Náměšť nad Oslavou;16:44
+4847:X
+4850:X1234
+4856:T
 
 
-1::2
+1:6:1
+2:6:2
 2::1
 3::3

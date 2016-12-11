@@ -1,44 +1,44 @@
-275
-270
+275: : Praha hl.n.;7:52, Budapest-Keleti;14:35
+270: : Budapest-Keleti;17:25, Brno hl.n.;21:36
 
-578
-277
-476::Budapest-Keleti pu;20:05,Břeclav;23:56
+578: : Brno hl.n.;5:38, Praha hl.n.;8:06
+277: : Praha hl.n.;9:52, Budapest-Keleti;16:35
+476: : Budapest-Keleti pu;20:05, Břeclav;23:56
 
-406::Břeclav;0:13,Bohumín;2:03
-101::Bohumín;6:50,Wien Hbf;9:49
-102::Wien Hbf;14:09,Bohumín;17:08
-591
-817:XT:Břeclav;21:28,Hodonín;21:41
+406: : Břeclav;0:13, Bohumín;2:03
+101: : Bohumín;6:50, Wien Hbf;9:49
+102: : Wien Hbf;14:09, Bohumín;17:08
+591: : Bohumín;18:50, Břeclav;20:50
+817: XT: Břeclav;21:28, Hodonín;21:41
 
-816:X6:Hodonín;6:18,Břeclav;6:32
-590
-103::Bohumín;10:50,Wien Hbf;13:49
-100::Wien Hbf;18:09,Bohumín;21:08
+816: X6: Hodonín;6:18, Břeclav;6:32
+590: : Břeclav;7:11, Bohumín;9:08
+103: : Bohumín;10:50, Wien Hbf;13:49
+100: : Wien Hbf;18:09, Bohumín;21:08
 
-407::Bohumín;2:30,Wien Hbf;6:55
-104::Wien Hbf;8:09,Bohumín;11:08
-131::Bohumín;13:50,Budapest-Keleti pu;19:35
+407: : Bohumín;2:30, Wien Hbf;6:55
+104: : Wien Hbf;8:09, Bohumín;11:08
+131: : Bohumín;13:50, Budapest-Keleti pu;19:35
 
-278
-575
+278: : Budapest-Keleti;9:25, Praha hl.n.;16:06
+283: : Praha hl.n.;17:52, Bratislava hl.st.;21:50
 
-574
-283
+282: : Bratislava hl.st.;6:10, Praha hl.n.;10:06
+573: : Praha hl.n.;16:19, Břeclav;19:22
 
-282
-279
+574: : Břeclav;6:07, Praha hl.n.;9:06
+279: : Praha hl.n.;11:52, Budapest-Keleti;18:35
 
-172::Budapest-Keleti pu;7:25,Praha hl.n.;14:06
-281
+172: : Budapest-Keleti pu;7:25, Praha hl.n.;14:06
+281: : Praha hl.n.;15:52, Budapest-Keleti;22:35
 
-280
-173::Praha hl.n.;13:52,Budapest-Keleti pu;20:35
+280: : Budapest-Keleti;5:25, Praha hl.n.;12:06
+173: : Praha hl.n.;13:52, Budapest-Keleti pu;20:35
 
-130::Budapest-Keleti pu;8:22,Bohumín;14:08
-105::Bohumín;16:50,Wien Hbf;19:49
-100406::Wien Hbf;22:50,Břeclav;23:49
+130: : Budapest-Keleti pu;8:22, Bohumín;14:08
+105: : Bohumín;16:50, Wien Hbf;19:49
+100406: : Wien Hbf;22:50, Břeclav;23:49
 
-100476::Břeclav;0:24,Brno hl.n.;0:54
-271
-274
+100476: : Břeclav;0:24, Brno hl.n.;0:54
+271: : Brno hl.n.;6:22, Budapest-Keleti;10:35
+274: : Budapest-Keleti;13:25, Praha hl.n.;20:06
