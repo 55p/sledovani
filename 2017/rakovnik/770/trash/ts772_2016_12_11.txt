@@ -1,4 +1,4 @@
-9801: X: Rakovník; 5:41, Praha Masarykovo n.; 7:35
+﻿9801: X: Rakovník; 5:41, Praha Masarykovo n.; 7:35
 19736:X
 19735:X
 19790sv :X: Praha Masarykovo n.; 19:16, Praha odstavné n.; 20:11
@@ -27,10 +27,10 @@ X; 19730, 19731, 19732, 19733
 19731: 25: Středokluky; 4:23, Praha Masarykovo n.; 5:06
 19734: 25: Praha Masarykovo n.; 5:53, Středokluky; 6:57
 19733: 25: Středokluky; 8:24, Hostivice; 8:43
-19797sv: 25: Hostivice; 9:06, Praha Masarykovo n.; 9:33
+19795sv: 25: Hostivice; 8:46, Praha-Vršovice; 9:31
+19791sv: 25: Praha-Vršovice; 15:48, Praha Masarykovo n.; 16:08
 19736: 25: Praha Masarykovo n.; 16:37, Středokluky; 17:29
-109783: 25: Středokluky; 17:46, Hostivice; 18:02
-19735: 25: Hostivice; 18:05, Praha Masarykovo n.; 18:40
+19735: 25: Středokluky; 17:46, Praha Masarykovo n.; 18:40
 19790sv: 6: Praha Masarykovo n.; 19:16, Praha-Vršovice; 19:48
 19792sv: T: Praha Masarykovo n.; 19:18, Kladno; 20:07
 

@@ -12,6 +12,6 @@ function predpoklad_3_TS771 ($timestamp) {
 }
 
 function predpoklad_4_TS771 ($timestamp) {
-  return 5;
+  return 1;
 }
 

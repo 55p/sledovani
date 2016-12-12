@@ -1,4 +1,4 @@
-9801: X: Rakovník; 5:41, Praha Masarykovo n.; 7:35
+﻿9801: X: Rakovník; 5:41, Praha Masarykovo n.; 7:35
 19736:X
 19735:X
 19790sv :X: Praha Masarykovo n.; 19:16, Praha odstavné n.; 20:11

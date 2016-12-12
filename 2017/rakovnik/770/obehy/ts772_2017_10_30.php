@@ -4,7 +4,7 @@ $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
 $obeh[1] = ['9801_1', '1650_1'];
 $obeh[2] = ['1651_1', '1894_1', '19865_1'];
-$obeh[3] = ['19860_1', '19861_1', '9011_1', '9016_1', '1908_1'];
+$obeh[3] = ['19860_1', '19861_1', '1883_1', '9011_1', '9016_1', '1908_1'];
 $obeh[4] = ['19886_1', '1879_1', '1888_1', '1895_1', '1896_1', '19893_1', '19793_1', '19730_1', '19730_2', '19731_1', '19734_1', '19733_1', '19795_1', '19791_1', '19736_1', '19735_1', '19790_1', '19792_1'];
 $obeh[5] = ['19890_1', '1881_1', '1890_1'];
 
@@ -12,6 +12,7 @@ $omezeni['1650_1'] = 'X';
 $omezeni['1651_1'] = 'X';
 $omezeni['1879_1'] = 'X';
 $omezeni['1881_1'] = 'X';
+$omezeni['1883_1'] = 'X';
 $omezeni['1888_1'] = 'X';
 $omezeni['1890_1'] = 'X';
 $omezeni['1894_1'] = 'X';
@@ -44,6 +45,7 @@ $trasa['1650_1'] = ['Praha Masarykovo n.;16:22','Louny;18:20'];
 $trasa['1651_1'] = ['Louny;5:29','Praha Masarykovo n.;7:32'];
 $trasa['1879_1'] = ['Kladno-Dubí;5:16','Praha Masarykovo n.;6:20'];
 $trasa['1881_1'] = ['Kladno-Dubí;6:20','Praha Masarykovo n.;7:22'];
+$trasa['1883_1'] = ['Kladno;7:19','Praha Masarykovo n.;7:52'];
 $trasa['1888_1'] = ['Praha Masarykovo n.;16:02','Kladno-Ostrovec;16:49'];
 $trasa['1890_1'] = ['Praha Masarykovo n.;16:18','Rakovník;18:04'];
 $trasa['1894_1'] = ['Praha Masarykovo n.;18:02','Kladno-Ostrovec;18:49'];
@@ -63,7 +65,7 @@ $trasa['19792_1'] = ['Praha Masarykovo n.;19:18','Kladno;20:07'];
 $trasa['19793_1'] = ['Kladno;3:33','Hostivice;3:46'];
 $trasa['19795_1'] = ['Hostivice;8:46','Praha-Vršovice;9:31'];
 $trasa['19860_1'] = ['Kladno;6:21','Kladno-Dubí;6:35'];
-$trasa['19861_1'] = ['Kladno-Dubí;6:55','Praha Masarykovo n.;7:52'];
+$trasa['19861_1'] = ['Kladno-Dubí;6:55','Kladno;7:12'];
 $trasa['19865_1'] = ['Kladno-Ostrovec;19:21','Kladno;19:27'];
 $trasa['19886_1'] = ['Kladno;4:39','Kladno-Dubí;4:48'];
 $trasa['19890_1'] = ['Kladno;5:49','Kladno-Dubí;6:02'];
@@ -75,6 +77,7 @@ $trasa['9801_1'] = ['Rakovník;5:41','Praha Masarykovo n.;7:35'];
 $poznamkaObehu['19860_1'] = ['pk', 'postrk'];
 
 
+$typ['19865_1'] = 'Sv';
 $typ['19886_1'] = 'Sv';
 $typ['19893_1'] = 'Sv';
 $typ['19793_1'] = 'Sv';

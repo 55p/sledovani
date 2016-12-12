@@ -3,10 +3,11 @@
 
 1651: X: Louny; 5:29, Praha Masarykovo n.; 7:32
 1894: X: Praha Masarykovo n.; 18:02, Kladno-Ostrovec; 18:49
-19865: X: Kladno-Ostrovec; 19:21, Kladno; 19:27
+19865sv: X: Kladno-Ostrovec; 19:21, Kladno; 19:27
 
 19860pk: X: Kladno; 6:21, Kladno-Dubí; 6:35
-19861: X: Kladno-Dubí; 6:55, Praha Masarykovo n.; 7:52
+19861: X: Kladno-Dubí; 6:55, Kladno; 7:12
+1883: X: Kladno; 7:19, Praha Masarykovo n.; 7:52
 9011: X: Praha hlavní nádraží; 14:25, Čerčany; 16:54
 9016: X: Čerčany; 17:06, Praha hlavní nádraží; 19:05
 1908: X: Praha Masarykovo n.; 21:02, Kladno; 21:42
