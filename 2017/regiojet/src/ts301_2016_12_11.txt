@@ -1,0 +1,5 @@
+1030: : Staré Město u Uherského Hradiště;4:44, Praha hl.n.;8:47
+1031: : Praha hl.n.;15:19, Bratislava-Nové Mesto;19:22
+
+1032: : Bratislava-Nové Mesto;5:31, Praha hl.n.;9:42
+1033: : Praha hl.n.;17:19, Staré Město u Uherského Hradiště;21:14

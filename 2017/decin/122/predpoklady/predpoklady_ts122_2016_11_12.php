@@ -8,7 +8,9 @@ function predpoklad_2_TS122 ($timestamp) {
 }
 
 function predpoklad_3_TS122 ($timestamp) {
-  return 1;
+  return 4;
 }
 
-?>
+function predpoklad_4_TS122 ($timestamp) {
+  return 4;
+}

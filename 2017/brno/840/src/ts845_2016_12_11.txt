@@ -1,21 +1,55 @@
-X;4541,4502,4509,4510,4519,4520,4533,4526
-6;4403,1721,12254,12261,1726,1729,12260,12265,1732
+4541: X: Hrušovany nad Jevišovkou;4:34, Břeclav;5:26
+4502: X: Břeclav;5:54, Znojmo;7:22
+4509: X: Znojmo;9:03, Břeclav;10:25
+4510: X: Břeclav;11:31, Znojmo;12:53
+4519: X: Znojmo;13:55, Břeclav;15:25
+4520: X: Břeclav;16:33, Znojmo;17:53
+4533: X: Znojmo;19:03, Břeclav;20:25
+4526: X: Břeclav;21:36, Znojmo;22:53
+4403: 6: Hrušovany nad Jevišovkou;5:10, Brno hl.n.;6:31
+1721: 6: Brno hl.n.;7:35, Uherské Hradiště;9:25
+12254: 6: Uherské Hradiště;9:43, Staré Město u Uherského Hradiště;9:49
+12261: 6: Staré Město u Uherského Hradiště;10:05, Uherské Hradiště;10:11
+1726: 6: Uherské Hradiště;10:40, Brno hl.n.;12:33
+1729: 6: Brno hl.n.;13:28, Uherské Hradiště;15:20
+12260: 6: Uherské Hradiště;15:43, Staré Město u Uherského Hradiště;15:49
+12265: 6: Staré Město u Uherského Hradiště;16:05, Uherské Hradiště;16:11
+1732: 6: Uherské Hradiště;16:40, Brno hl.n.;18:33
 
-X;4507,4512,4521,4522
+4507: X: Znojmo;6:58, Břeclav;8:28
+4512: X: Břeclav;12:33, Znojmo;13:53
+4521: X: Znojmo;14:55, Břeclav;16:28
+4522: X: Břeclav;17:31, Znojmo;18:53
 
-X;4503,4550,4506,4511,4514,4525,4544
-X5;4419
+4503: X: Znojmo;4:58, Břeclav;6:27
+4550: X: Břeclav;6:53, Mikulov na Moravě;7:25
+4506: X: Břeclav;7:34, Mikulov na Moravě;7:58
+4511: X: Znojmo;11:03, Břeclav;12:28
+4514: X: Břeclav;13:31, Znojmo;14:53
+4525: X: Znojmo;15:55, Břeclav;17:25
+4544: X: Břeclav;18:33, Hrušovany nad Jevišovkou;19:24
+4419: X5: Hrušovany nad Jevišovkou;20:38, Brno hl.n.;22:04
 
-4139:25
-4140:25
-104101pk:X1:Brno hl.n.;4:27,Nesovice;5:12
-4104:=
-1921:X2345
-X5;4141,4181
-4143:X2345
-4148:X
-4151:X
-4418:T
+4139: 25: Brno hl.n.;0:35, Nesovice;1:19
+4140: 25: Nesovice;3:52, Brno hl.n.;4:50
+104101: X1: Brno hl.n.;4:27, Nesovice;5:12
+4104: X1: Nesovice;5:52, Brno hl.n.;6:50
+1921: X2345: Hrušovany nad Jevišovkou;6:10, Brno hl.n.;7:29
+4141: X5: Brno hl.n.;11:49, Slavkov u Brna;12:20
+4181: X5: Slavkov u Brna;13:25, Nemotice;13:51
+4143: X2345: Brno hl.n.;12:49, Nemotice;13:47
+4148: X: Nemotice;14:11, Brno-Židenice;15:11
+4151: X: Brno hl.n.;16:47, Kyjov;18:06
+4418: T: Brno hl.n.;20:54, Hrušovany nad Jevišovkou;22:12
+
+4144:X
+1725:X
+12273:X
+12258:X
+12263:X
+12272:X
+1730:X
+1926:X
 
 
 2:5,6:2
