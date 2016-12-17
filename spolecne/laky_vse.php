@@ -243,5 +243,3 @@ $lak['lego_10'] = array(708010);
 
 $lak['berta_seda'] = array(749006, 749107);
 $lak['berta_zelena'] = array(749264);
-
-?>
