@@ -12,7 +12,9 @@ function predpoklad_3_TS124 ($timestamp) {
 }
 
 function predpoklad_4_TS124 ($timestamp) {
-  return 1;
+  return 5;
 }
 
-?>
+function predpoklad_5_TS124 ($timestamp) {
+  return 5;
+}

@@ -1,4 +1,4 @@
-8942: X1234: Nepomuk;5:38, Plzeň hl.n.;6:25
+﻿8942: X1234: Nepomuk;5:38, Plzeň hl.n.;6:25
 663: 25: Plzeň hl.n.;8:02, České Budějovice;9:55
 668: 25: České Budějovice;12:04, Plzeň hl.n.;13:57
 655: : Plzeň;16:02, České Budějovice;17:55
@@ -22,7 +22,7 @@
 
 99999: : Údržba DKV;0:01;23:59
 
-651: : Plzeň hl.n.;6:02, České Budějovice;7:55
+661: : Plzeň hl.n.;6:02, České Budějovice;7:55
 654: : České Budějovice;10:04, Plzeň hl.n.;11:57
 669: : Plzeň hl.n.;14:02, České Budějovice;15:55
 99998: : záloha za ř. 650;16:00;24:00

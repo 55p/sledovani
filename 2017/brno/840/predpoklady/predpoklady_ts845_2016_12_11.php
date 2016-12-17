@@ -43,6 +43,17 @@ function predpoklad_4_TS845 ($timestamp) {
   if ($den == 6) {
     return 4;
   }
+  return 5;
+}
+
+function predpoklad_5_TS845 ($timestamp) {
+  $den = date('N', $timestamp);
+  if ($den == 7) {
+    return 2;
+  }
+  if ($den == 6) {
+    return 5;
+  }
   return 1;
 }
 

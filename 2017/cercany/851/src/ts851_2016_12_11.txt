@@ -1,10 +1,10 @@
-9031: 6: Vrané nad Vltavou; 0:51, Čerčany; 1:47
+﻿9031: 6: Vrané nad Vltavou; 0:51, Čerčany; 1:47
 9234: X: Zruč nad Sázavou; 4:30, Čerčany; 6:17
 9243: X: Čerčany; 6:33, Sázava; 7:07
 9246: X: Sázava; 8:22, Čerčany; 8:53
 9205: TSL_2017,TVL_2017: Čerčany; 8:09, Světlá nad Sázavou; 11:15
 9233: 6SZ_2017,6SM_2017,2809: Čerčany; 10:14, Zruč nad Sázavou; 12:03
-9209pk: TSZ_2017,TSM_2017: Čerčany; 11:14, Zruč nad Sázavou; 13:34
+109209pk: TSZ_2017,TSM_2017: Čerčany; 11:14, Zruč nad Sázavou; 13:34
 9209: X: Čerčany; 11:14, Světlá nad Sázavou; 14:44
 9204: TSL_2017,TVL_2017: Světlá nad Sázavou; 11:41, Čerčany; 14:25
 9220: 25SZ_2017,25SM_2017: Zruč nad Sázavou; 14:03, Čerčany; 15:48
@@ -17,9 +17,9 @@
 9236: X: Zruč nad Sázavou; 6:08, Čerčany; 7:50
 9207: X: Čerčany; 9:09, Světlá nad Sázavou; 12:45
 9207: 25SZ_2017: Čerčany; 9:09, Světlá nad Sázavou; 12:45
-9209pk: 6SL_2017,6VL_2017: Čerčany; 11:14, Zruč nad Sázavou; 13:34
 9206: 25SZ_2017: Světlá nad Sázavou; 13:41, Čerčany; 16:46
 9206: X: Světlá nad Sázavou; 13:41, Čerčany; 16:46
+109209pk: 6SL_2017,6VL_2017: Čerčany; 11:14, Zruč nad Sázavou; 13:34
 1832: 6SL_2017,6VL_2017: Zruč nad Sázavou; 15:59, Čerčany; 17:47
 9235: X5: Čerčany; 17:03, Zruč nad Sázavou; 18:56
 9238: X5: Zruč nad Sázavou; 19:14, Čerčany; 20:42
@@ -78,13 +78,13 @@
 9263: 2512,0101: Ledeč nad Sázavou; 5:47, Havlíčkův Brod; 6:36
 9262: X: Světlá nad Sázavou; 6:02, Zruč nad Sázavou zastávka; 7:00
 9281: X: Zruč nad Sázavou zastávka; 7:03, Zruč nad Sázavou; 7:07
-9203pk: X: Zruč nad Sázavou; 7:10, Světlá nad Sázavou; 8:13
+109203pk: X: Zruč nad Sázavou; 7:10, Světlá nad Sázavou; 8:13
 9200: X: Světlá nad Sázavou; 8:16, Čerčany; 10:53
 9200: 25: Havlíčkův Brod; 7:49, Čerčany; 10:53
 
 9211: 25: Čerčany; 13:03, Světlá nad Sázavou; 16:51
 9245: X: Čerčany; 14:03, Ledečko; 14:47
-9220pk: X: Ledečko; 15:04, Čerčany; 15:48
+109220pk: X: Ledečko; 15:04, Čerčany; 15:48
 9247: X: Čerčany; 16:03, Sázava; 16:38
 9248: X: Sázava; 17:09, Čerčany; 17:47
 9268: 25,-2412,-3112: Světlá nad Sázavou; 17:16, Zruč nad Sázavou zastávka; 18:22
