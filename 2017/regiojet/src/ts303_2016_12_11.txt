@@ -1,7 +1,7 @@
+﻿401: : Bratislava hl.st.;5:33, Košice;10:44
+404: : Košice;11:16, Bratislava hl.st.;16:27
+409: : Bratislava hl.st.;17:33, Košice;22:44
+
 400: : Košice;5:16, Bratislava hl.st.;10:27
 405: : Bratislava hl.st.;11:33, Košice;16:44
 408: : Košice;17:16, Bratislava hl.st.;22:27
-
-401: : Bratislava hl.st.;5:33, Košice;10:44
-404: : Košice;11:16, Bratislava hl.st.;16:27
-409: : Bratislava hl.st.;17:33, Košice;22:44

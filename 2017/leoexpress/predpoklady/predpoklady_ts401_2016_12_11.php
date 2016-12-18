@@ -12,6 +12,10 @@ function predpoklad_3_TS401 ($timestamp) {
 }
 
 function predpoklad_4_TS401 ($timestamp) {
+  return 5;
+}
+
+function predpoklad_5_TS401 ($timestamp) {
   return 1;
 }
 
