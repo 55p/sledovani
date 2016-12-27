@@ -1,0 +1,47 @@
+﻿444:6,T:Bohumín;2:12, Praha hl.n.;6:33
+546:X
+141
+140
+
+9994:X:Praha ONJ;5:46,Praha-Radotín;6:08
+9911:X
+885::Praha hl.n.;6:53,Staré Město u Uherského Hradiště;10:18
+888::Staré Město u Uherského Hradiště;11:41,Praha hl.n.;15:03
+895::Praha hl.n.;16:55,Staré Město u Uherského Hradiště;20:15
+
+896::Staré Město u Uherského Hradiště;4:23,Praha hl.n.;7:39
+893::Praha hl.n.;14:56,Staré Město u Uherského Hradiště;18:15
+880::Staré Město u Uherského Hradiště;19:15,Olomouc hl.n.;20:02
+3863:10
+
+3842:X
+881:X:Olomouc hl.n.;5:59,Staré Město u Uherského Hradiště;6:46
+70230:6,T:Přerov;6:43,Staré Město u Uherského Hradiště;7:23
+892::Staré Město u Uherského Hradiště;7:45, Praha hl.n.;11:03
+891::Praha hl.n.;12:55,Staré Město u Uherského Hradiště;16:18
+882::Staré Město u Uherského Hradiště;17:41,Praha hl.n.;21:03
+957:
+
+883::Hradec Králové hl.n.;5:46,Staré Město u Uherského Hradiště;8:15
+890:X:Staré Město u Uherského Hradiště;9:11,Olomouc hl.n.;9:58
+70231:6,T:Staré Město u Uherského Hradiště;8:30,Přerov;9:10
+3846:6,T
+887::Olomouc hl.n.;11:59,Staré Město u Uherského Hradiště;12:46
+886::Staré Město u Uherského Hradiště;13:41, Praha hl.n.;17:03
+897::Praha hl.n.;18:55,Staré Město u Uherského Hradiště;21:44
+
+894::Staré Město u Uherského Hradiště;5:52,Praha hl.n.;9:03
+889::Praha hl.n.;10:55,Staré Město u Uherského Hradiště;14:18
+884::Staré Město u Uherského Hradiště;15:45,Praha hl.n.;19:03
+547:zX:Praha hl.n.;21:10,Bohumín;0:54
+445:z25:Praha hl.n.;22:00,Bohumín;2:26
+
+341::Ostrava-Svinov;6:43,Žilina;8:33
+142
+545:X,T
+545:6
+
+544:X6
+544:T
+143
+340::Žilina;19:27,Ostrava-Svinov;21:17
