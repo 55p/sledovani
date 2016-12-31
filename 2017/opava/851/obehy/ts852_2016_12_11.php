@@ -74,5 +74,6 @@ unset($trasa);
 unset($omezeni); 
 unset($zacatekPlatnosti); 
 unset($konecPlatnosti);
+unset($poznamkaObehu);
 
 
