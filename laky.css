@@ -464,6 +464,14 @@ br + .lakVozidla {
   background-color: #FFE682;
 }
 
+.elefant_1_bily {
+  background: white;
+  color: blue;
+}
+.elefant_ropid {
+  background: white;
+  color: red;
+}
 .elefant_2_cerveny {
   background: #A7CDF3;
   color: #FF0000;
@@ -608,4 +616,14 @@ br + .lakVozidla {
 .berta_zelena {
   background: #005E00;
   color: #D6D1A3;
+}
+
+.arriva1 {
+  background: #01BA87;
+  color: #EBED94;
+}
+
+.arriva2 {
+  background: #01BA87;
+  color: black;
 }
