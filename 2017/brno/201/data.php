@@ -5,8 +5,11 @@
 // $skupiny[] = $ts204 = new TS ('TS 204', '242 WTB + 961');
 // $skupiny[] = $ts205 = new TS ('TS 205', '242');
 // $skupiny[] = $ts206 = new TS ('TS 206', '210');
-
-$sql = 'SELECT * FROM skupiny WHERE tabulka_id = '.ID_TABULKY;
+if (defined('ID_TABULKY')) {
+  $sql = 'SELECT * FROM skupiny WHERE tabulka_id = '.ID_TABULKY;
+} else {
+  $sql = 'SELECT * FROM skupiny WHERE tabulka_id = '.$ID_TABULKY;
+}
 $rows = $db->query($sql);
 foreach ($rows as $oneRow) {
   $promenna = $oneRow['promenna'];
