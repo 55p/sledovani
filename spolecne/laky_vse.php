@@ -192,11 +192,27 @@ $lak['motorak_854_retro'] = array(854021, 854027);
 
 $lak['elefant_ropid'] = array(471011);
 $lak['elefant_1_bily'] = array();
-$lak['elefant_2_cerveny'] = array(471024, 471025, 471035, 471054, 471055, 471056, 471057, 471058);
-$lak['elefant_3_n1'] = array();
-$lak['elefant_4_n2'] = array(471080, 471082, 471083);
+$lak['elefant_2_cerveny'] = array(471001, 471002, 471003, 471004, 471005, 471006);
+$lak['elefant_3_n1'] = array(471028, 471029, 471030);
+$lak['elefant_4_n2'] = array(471076, 471077, 471078, 471079, 471080, 471082, 471083);
 $lak['elefant_4_polep'] = array(471081);
 
+for ($i = 7; $i <= 21; $i++) {
+  if ($i == 1) continue;
+  $lak['elefant_1_bily'][] = (471000+$i);
+}
+for ($i = 22; $i <= 27; $i++) {
+  $lak['elefant_2_cerveny'][] = (471000+$i);
+}
+for ($i = 31; $i <= 60; $i++) {
+  $lak['elefant_2_cerveny'][] = (471000+$i);
+}
+for ($i = 61; $i <= 75; $i++) {
+  $lak['elefant_3_n1'][] = (471000+$i);
+}
+
+$lak['arriva1'] = [845001];
+$lak['arriva2'] = [845101, 845102, 845103, 845104];
 
 // -------------------------------
 
