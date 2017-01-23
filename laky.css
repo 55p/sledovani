@@ -619,11 +619,20 @@ br + .lakVozidla {
 }
 
 .arriva1 {
-  background: #01BA87;
+  /*background: #01BA87;*/
+  background: #018091;
   color: #EBED94;
 }
 
 .arriva2 {
-  background: #01BA87;
+  /*background: #01BA87;
   color: black;
+  */
+  background: #018091;
+  color: white;
+}
+
+.gwtr {
+  background: #FDAB51;
+  color: #006633;
 }
