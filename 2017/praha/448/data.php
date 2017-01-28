@@ -1,5 +1,6 @@
 <?php
 $skupiny[] = $ts448 = new TS ('TS 448', '451 + 051 + 451');
+$skupiny[] = $ts111a = new TS ('TS 111 A', '163 + 961');
 $skupiny[] = $mimor = new TS('mimořádný oběh');
 
 if (file_exists(__DIR__.'/typy.php')) {
