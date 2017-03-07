@@ -1,0 +1,17 @@
+7605pk:X:Žihle;6:15,Plzeň hl.n.;7:29
+1188::Plzeň hl.n.;12:05,Most;14:49
+1189::Most;15:05,Plzeň hl.n.;17:54
+1182:XT,-1404,-1604,-0705,-0507,-1711:Plzeň hl.n.;18:05,Most;20:49
+
+6861pk:X:Most;4:15,Bílina;4:25
+1181:X:Bílina;4:42,Plzeň hl.n.;7:54
+7666:X:Plzeň hl.n.;12:16,Plasy;12:58
+7669pk:X:Plasy;14:59,Plzeň hl.n.;15:41
+7606:X:Plzeň hl.n.;16:16,Mladotice;17:09
+7617pk:X:Mladotice;18:47,Plzeň hl.n.;19:41
+1181:6,-1504,-1811:Most;5:05,Plzeň hl.n.;7:54
+7640:6:Plzeň hl.n.;10:16,Mladotice;11:09
+7641pk:6:Mladotice;12:47,Plzeň hl.n.;13:41
+7606:6:Plzeň hl.n.;16:16,Žihle;17:23
+7617pk:6:Žihle;18:34,Plzeň hl.n.;19:41
+7610:zX:Plzeň hl.n.;21:06,Žihle;22:09

@@ -1,16 +1,17 @@
 <?php
-$skupiny[] = $ts302 = new TS ('TS 302', '380');
-// $skupiny[] = $ts303 = new TS ('TS 303', '380');
-$skupiny[] = $ts304 = new TS ('TS 304', '380');
-$skupiny[] = $ts305 = new TS ('TS 305', '380');
+// sem patri definice skupin. 
+$skupiny[] = $ts801 = new TS ('TS 801', '842 + 954.2');
+$skupiny[] = $gwtr = new TS ('GWTR', 'ex 642');
+
 
 if (file_exists(__DIR__.'/typy.php')) {
   include __DIR__.'/typy.php';
+}
+if (file_exists(__DIR__.'/jmena_vlaku.php')) {
+  include __DIR__.'/jmena_vlaku.php';
 }
 
 include __DIR__.$includePath.'/spolecne/obehy_2015_11_22.php';
 @include __DIR__.$includePath.'/spolecne/laky_vse.php';
 
 $predpokladySoubor = __DIR__.$includePath.'/spolecne/predpoklady_2015_11_22.php';
-
-?>

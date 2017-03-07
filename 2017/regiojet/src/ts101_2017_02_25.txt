@@ -1,0 +1,28 @@
+1001: X6: Praha hl.n.;5:44, Havířov;9:24
+1010: T,-2810: Návsí;9:47, Praha hl.n.;14:12
+1010: X6,2810: Havířov;10:30, Praha hl.n.;14:12
+1015:: Praha hl.n.;16:44, Staré Město u Uherského Hradiště;19:50
+
+1002: : Staré Město u Uherského Hradiště;6:08, Praha hl.n.;9:12
+1007: : Praha hl.n.;11:44, Havířov;15:24
+1016: : Havířov;16:30, Praha hl.n.;20:12
+1021: : Praha hl.n.;21:44, Košice;6:14
+
+1012: : Košice;8:00, Praha hl.n.;16:12
+1017: : Praha hl.n.;17:44, Návsí;22:04
+
+1004: : Návsí;5:47, Praha hl.n.;10:12
+1013: -1604,-3004,-0705,-0507: Praha hl.n.;15:44, Návsí;20:04
+
+1000: X6: Návsí;3:47, Praha hl.n.;8:12
+1005: : Praha hl.n.;9:44, Havířov;13:24
+1014: : Havířov;14:30, Praha hl.n.;18:12
+1019: : Praha hl.n.;19:44, Návsí;0:04
+
+1006:-1704,-0105,-0805,-0607: Návsí;6:47, Praha hl.n.;11:12
+1009: : Praha hl.n.;13:44, Havířov;17:24
+1018: : Havířov;18:30, Praha hl.n.;22:12
+
+
+6:7:4
+4:7:1

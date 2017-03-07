@@ -1,0 +1,6 @@
+6402:X:Nymburk hl.n.; 5:31, Lysá nad Labem; 5:49
+6443:X:Lysá nad Labem; 6:07, Kolín; 6:59
+10975sv:X:Kolín; 7:00, Kutná Hora; 7:09
+5904:X:Kutná Hora; 7:06, Nymburk hl.n.; 7:56
+5879:X:Nymburk hl.n.;8:01, Kolín; 8:28
+5874:X:Kolín; 9:29, Nymburk hl.n.; 9:56
