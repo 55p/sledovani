@@ -12,9 +12,6 @@ $trasa['179_1'] = array('Dresden Hbf;19:08','Praha hl.n.;21:27');
 
 
 
-
-
-
 @$ts303 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 
 unset($obeh); 

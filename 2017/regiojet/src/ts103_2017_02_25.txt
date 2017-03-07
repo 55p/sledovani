@@ -1,0 +1,4 @@
+﻿400::Košice;4:03,Vrútky;6:38
+1008::Vrútky;6:45, Praha hl.n.;12:12
+1011:: Praha hl.n.;14:44, Vrútky;19:55
+409::Vrútky;20:07,Košice;22:44

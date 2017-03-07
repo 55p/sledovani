@@ -1,0 +1,6 @@
+19481sv:X: Kolín; 8:00, Kutná Hora; 8:10
+5952:X: Kutná Hora; 8:21 , Kolín; 8:31
+5905:X: Kolín; 10:05, Kutná Hora; 10:15
+5910:X: Kutná Hora; 14:28, Kolín; 14:38
+5911:X: Kolín; 15:05, Kutná Hora; 15:15
+5914:X: Kutná Hora; 16:30, Kolín; 16:40
