@@ -1,0 +1,47 @@
+4827:X:Okříšky;4:48,Náměšť nad Oslavou;5:41
+4822:X:Náměšť nad Oslavou;7:09,Třebíč;7:09
+4868:X: Třebíč; 7:35, Jihlava; 8:27
+14870:X: Jihlava; 12:37, Havlíčkův Brod; 13:05
+14867:X: Havlíčkův Brod; 17:13, Jihlava; 17:42
+
+4813:X:Jihlava;13:30,Náměšť nad Oslavou;15:09
+4816:X:Náměšť nad Oslavou;16:47,Jihlava;18:23
+
+653:: Jihlava; 8:40, Náměšť nad Oslavou; 9:46
+664:: Náměšť nad Oslavou; 12:07, Jihlava; 13:18
+665:: Jihlava; 14:40, Náměšť nad Oslavou; 15:46
+652:: Náměšť nad Oslavou; 18:07, Jihlava; 19:18
+
+4831:T:Okříšky; 7:15, Náměšť nad Oslavou; 8:04
+651:X6: Jihlava; 6:40, Náměšť nad Oslavou; 7:46
+664:X5,25: Náměšť nad Oslavou; 10:07, Jihlava; 11:18
+663:=: Jihlava; 12:40, Náměšť nad Oslavou; 13:46
+660:: Náměšť nad Oslavou; 16:07, Jihlava; 17:18
+669:: Jihlava; 18:40, Náměšť nad Oslavou; 19:46
+4856:XT: Náměšť nad Oslavou; 23:41, Třebíč; 0:05
+4856:6: Náměšť nad Oslavou; 23:41, Okříšky; 0:22
+
+4821:6: Třebíč; 3:47, Náměšť nad Oslavou; 4:11
+4801:T: Okříšky; 5:24, Náměšť nad Oslavou; 6:08
+4860:X: Třebíč; 4:14, Jihlava; 5:08
+1869:X: Jihlava; 5:30, Náměšť nad Oslavou; 6:43
+668:: Náměšť nad Oslavou; 8:07, Jihlava; 9:18
+661:: Jihlava; 10:40, Náměšť nad Oslavou; 11:46
+662:: Náměšť nad Oslavou; 14:07, Jihlava; 15:18
+667:: Jihlava; 16:40, Náměšť nad Oslavou; 17:46
+650:XT: Náměšť nad Oslavou; 20:07, Jihlava; 21:18
+4848:6: Náměšť nad Oslavou; 19:49, Okříšky; 20:33
+
+4801:X: Jihlava; 4:41, Náměšť nad Oslavou;6:08
+4824:X: Náměšť nad Oslavou; 7:47, Třebíč: 8:15
+4807:X: Třebíč; 8:39, Náměšť nad Oslavou; 9:06
+4808:X: Náměšť nad Oslavou; 10:47, Třebíč; 11:15
+4876:X: Třebíč; 12:07, Jihlava; 13:04
+104813pk: X: Jihlava; 13:30, Náměšť nad Oslavou; 15:09
+4834:X: Náměšť nad Oslavou; 15:47, Okříšky; 16:29
+
+
+5:6:3
+5:5:1
+1:6:1
+6:5,6:6

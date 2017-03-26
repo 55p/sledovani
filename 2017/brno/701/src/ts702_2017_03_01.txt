@@ -1,0 +1,43 @@
+1722:6:Bylnice;5:07,Uherské Hradiště;6:27
+892:XT:Veselí nad Moravou;7:08, Staré Město u Uherského Hradiště;7:28
+883::Staré Město u Uherského Hradiště;8:32,Luhačovice;9:23
+888::Luhačovice;10:38, Staré Město u Uherského Hradiště;11:28
+887::Staré Město u Uherského Hradiště;12:32,Luhačovice;13:23
+884::Luhačovice;14:38, Staré Město u Uherského Hradiště;15:28
+891::Staré Město u Uherského Hradiště;16:32,Luhačovice;17:23
+880::Luhačovice;18:38, Staré Město u Uherského Hradiště;19:28
+895:X5:Staré Město u Uherského Hradiště;20:30, Veselí nad Moravou;20:54
+897:X1234,25:Otrokovice;22:15, Zlín střed;22:28
+
+894:X:Zlín střed;5:28, Otrokovice;5:41
+101722:X:Uherské Hradiště;6:35, Brno hl.n.;8:34
+104816:X1, X2, X3: Brno hl.n.; 15:39, Zastávka u Brna; 16:12
+1729:X4
+12275:X4
+12260:X4
+12265:X4
+12274:X4
+1732:X4
+104850:X4: Brno hl.n.; 19:39, Zastávka u Brna; 20:12
+1636:25
+1637:25
+104856:T: Brno hl.n.; 22:41; Zastávka u Brna; 13:12
+
+104801:X:Zastávka u Brna;6:40, Brno hl.n.; 7:10
+4145:X5
+4150:X5
+1733:X5
+1731:X1234
+12277pk:X1234:Uherské Hradiště;17:27,Kunovice;17:32
+12262:=:Kunovice;17:37, Staré Město u Uherského Hradiště;17:49
+894:T:Zlín střed;5:28, Otrokovice;5:41
+892:6:Veselí nad Moravou;7:08, Staré Město u Uherského Hradiště;7:28
+885:25:Staré Město u Uherského Hradiště;10:32,Luhačovice;11:23
+886:25:Luhačovice;12:38, Staré Město u Uherského Hradiště;13:28
+889:25:Staré Město u Uherského Hradiště;14:32,Luhačovice;15:23
+882:25:Luhačovice;16:38, Staré Město u Uherského Hradiště;17:28
+895:X1234,25:Staré Město u Uherského Hradiště;20:30,Veselí nad Moravou;20:54
+
+
+2:5,6:2
+1:5,6:3

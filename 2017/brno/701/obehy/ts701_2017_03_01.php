@@ -1,5 +1,5 @@
 <?php 
-$zacatekPlatnosti = '21.5.2017';
+$zacatekPlatnosti = '1.3.2017';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
 $obeh[1] = ['4827_1', '4822_1', '4868_1', '14870_1', '14867_1'];
@@ -33,6 +33,8 @@ $omezeni['4868_1'] = 'X';
 $omezeni['4876_1'] = 'X';
 $omezeni['650_1'] = 'XT';
 $omezeni['651_1'] = 'X6';
+$omezeni['663_1'] = 'X5,25';
+$omezeni['664_2'] = 'X5,25';
 
 $trasa['104813_1'] = ['Jihlava;13:30','Náměšť nad Oslavou;15:09'];
 $trasa['14867_1'] = ['Havlíčkův Brod;17:13','Jihlava;17:42'];
@@ -83,3 +85,5 @@ unset($trasa);
 unset($omezeni); 
 unset($zacatekPlatnosti); 
 unset($konecPlatnosti);
+
+
