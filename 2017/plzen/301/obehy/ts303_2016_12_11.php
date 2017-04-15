@@ -1,6 +1,6 @@
 <?php 
 $zacatekPlatnosti = '11.12.2016';
-$konecPlatnosti = null; //'x.x.201x 23:59:59';
+$konecPlatnosti = '31.3.2017 23:59:59';
 
 $obeh[1] = ['71710_1', '773_1', '776_1', '7523_1', '7520_1', '71712_1', '779_1', '770_1'];
 $obeh[2] = ['7511_1', '771_1', '778_1', '100775_1', '7516_1', '777_1', '772_1'];
@@ -27,9 +27,6 @@ $trasa['778_1'] = ['Praha hl.n.;7:12','Klatovy;9:52'];
 $trasa['779_1'] = ['Klatovy;18:06','Praha hl.n.;20:41'];
 
 $poznamkaObehu['100775_1'] = ['pk', 'postrk'];
-
-
-
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
