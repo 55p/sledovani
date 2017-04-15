@@ -2,6 +2,7 @@
 // sem patri definice skupin. 
 //$skupiny[] = $ts868 = new TS ('TS 868', 'Čáslav - Třemošnice');
 $skupiny[] = $ts868 = new TS ('TS 868');
+$skupiny[] = $ts869 = new TS ('TS 869');
 
 
 if (file_exists(__DIR__.'/typy.php')) {
