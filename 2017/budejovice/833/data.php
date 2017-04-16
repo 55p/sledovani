@@ -2,6 +2,7 @@
 $skupiny[] = $ts833 = new TS ('TS 833');
 $skupiny[] = $ts834 = new TS ('TS 834');
 $skupiny[] = $ts755 = new TS ('TS 755');
+$skupiny[] = $ts756 = new TS ('TS 756');
 
 if (file_exists(__DIR__.'/typy.php')) {
   include __DIR__.'/typy.php';

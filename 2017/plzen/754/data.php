@@ -2,6 +2,7 @@
 $skupiny[] = $ts701 = new TS ('TS 701');
 $skupiny[] = $ts718 = new TS ('TS 718');
 $skupiny[] = $ts755 = new TS ('TS 755');
+$skupiny[] = $ts756 = new TS ('TS 756');
 $skupiny[] = $mimor = new TS('mimořádný oběh');
 
 if (file_exists(__DIR__.'/typy.php')) {

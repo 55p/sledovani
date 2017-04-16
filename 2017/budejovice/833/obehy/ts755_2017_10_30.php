@@ -1,11 +1,15 @@
 <?php 
-$zacatekPlatnosti = '11.12.2016';
-$konecPlatnosti = null; //'x.x.201x 23:59:59';
+$zacatekPlatnosti = '30.10.2017';
+$konecPlatnosti = null; //'x.x.2017 23:59:59';
 
 $obeh[1] = ['531_1', '532_1'];
 
+
 $trasa['531_1'] = ['České Budějovice;10:13','Český Krumlov;10:50'];
 $trasa['532_1'] = ['Český Krumlov;14:02','České Budějovice;14:40'];
+
+
+
 
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
