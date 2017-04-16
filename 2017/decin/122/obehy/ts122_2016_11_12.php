@@ -12,10 +12,8 @@ $omezeni['29784_1'] = 'X';
 $omezeni['6850_1'] = '25';
 $omezeni['6961_1'] = 'X';
 $omezeni['6968_1'] = '25';
-$omezeni['780_1'] = 'X,T';
-$omezeni['781_1'] = 'X,6';
-$omezeni['794_1'] = 'X,6';
-$omezeni['795_1'] = 'X,T';
+$omezeni['795_1'] = $omezeni['780_1'] = 'X,T,-2412,-2512,-1404,-1604,-3004,-0705,-0507,-2810,-1711';
+$omezeni['794_1'] = $omezeni['781_1'] = 'X,6,1404, 0507,2809,1711,-1504,-1811';
 
 $trasa['29784_1'] = array('Ústí nad Labem západ;19:43','Děčín hl.n.;19:59');
 
@@ -32,7 +30,7 @@ $poznamkaObehu['790_1'] = array('pk', 'postrk');
 $poznamkaObehu['784_1'] = array('pk', 'postrk');
 
 $typ[29784] = 'Sv';
-$typ[-1] = 'R';
+// $typ[-1] = 'R';
 
 
 $trasa['1688_1'] = array('Ústí nad Labem hl.n.;4:41', 'Kadaň-Prunéřov;6:06');
