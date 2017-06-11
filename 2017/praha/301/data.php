@@ -1,5 +1,6 @@
 <?php
 $skupiny[] = $ts301 = new TS ('TS 301', '380');
+$skupiny[] = $ts301a = new TS ('TS 301a', '380');
 
 if (file_exists(__DIR__.'/typy.php')) {
   include __DIR__.'/typy.php';

@@ -1,0 +1,10 @@
+bla=Bratislava hl.st.
+pha=Praha hl.n.
+bu=Budapest Keleti pu
+
+
+282::bla;6:10,pha;10:06
+279::pha;11:52,bu;18:35
+
+278::bu;9:25,pha;16:06
+283::pha;17:52,bla;21:50
