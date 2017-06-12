@@ -411,6 +411,14 @@ br + .lakVozidla {
   background: #FFC90F;
   color: black;
 }
+.regiojet_193_dovolena {
+  border-left: 0.6ex solid #0000bb;
+  border-right: 0.6ex solid #0000bb;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
+  background: #FFC90F;
+  color: blue;
+}
 .regiojet_193_zelena {
   border-left: 1ex solid #00CA00;
   border-right: 1ex solid #00CA00;
