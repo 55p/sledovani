@@ -1,0 +1,102 @@
+<?php 
+$zacatekPlatnosti = '3.6.2017';
+$konecPlatnosti = null; //'x.x.2017 23:59:59';
+
+$obeh[1] = ['4700_1', '47074006_1', '4005_1', '4712_1', '4721_1', '4746_1', '4749_1', '4724_1', '4733_1', '4758_1', '4017_1', '4714_1', '4723_1', '4722_1', '4731_1', '4730_1', '4739_1', '4738_1', '4707_1', '4708_1'];
+$obeh[2] = ['4770_1', '4703_1', '4742_1', '4743_1', '4710_1', '4719_1', '4744_1', '4747_1', '4722_2', '4731_2', '4756_1', '4015_1', '4734_1', '4711_1', '4710_2', '4719_2', '4718_1', '4727_1', '4726_1', '4735_1', '4734_2'];
+
+$omezeni['4005_1'] = 'X';
+$omezeni['4015_1'] = 'X';
+$omezeni['4017_1'] = 'X5';
+$omezeni['4700_1'] = 'X';
+$omezeni['4703_1'] = 'X';
+$omezeni['47074006_1'] = 'X';
+$omezeni['4707_1'] = 'T';
+$omezeni['4708_1'] = 'T';
+$omezeni['4710_1'] = 'X';
+$omezeni['4710_2'] = 'T';
+$omezeni['4711_1'] = 'T';
+$omezeni['4712_1'] = 'X';
+$omezeni['4714_1'] = '6';
+$omezeni['4718_1'] = 'T';
+$omezeni['4719_1'] = 'X';
+$omezeni['4719_2'] = 'T';
+$omezeni['4721_1'] = 'X';
+$omezeni['4722_1'] = '6';
+$omezeni['4722_2'] = 'X';
+$omezeni['4723_1'] = '6';
+$omezeni['4724_1'] = 'X';
+$omezeni['4726_1'] = 'T';
+$omezeni['4727_1'] = 'T';
+$omezeni['4730_1'] = '6';
+$omezeni['4731_1'] = '6';
+$omezeni['4731_2'] = 'X';
+$omezeni['4733_1'] = 'X';
+$omezeni['4734_1'] = 'X';
+$omezeni['4734_2'] = 'T';
+$omezeni['4735_1'] = 'T';
+$omezeni['4738_1'] = '6';
+$omezeni['4739_1'] = '6';
+$omezeni['4742_1'] = 'X';
+$omezeni['4743_1'] = 'X';
+$omezeni['4744_1'] = 'X';
+$omezeni['4746_1'] = 'X';
+$omezeni['4747_1'] = 'X';
+$omezeni['4749_1'] = 'X';
+$omezeni['4756_1'] = 'X';
+$omezeni['4758_1'] = 'X';
+$omezeni['4770_1'] = 'X';
+
+$trasa['4005_1'] = ['Rájec-Jestřebí;8:50', 'Brno-Židenice;9:27'];
+$trasa['4015_1'] = ['Skalice nad Svitavou;19:42', 'Brno-Židenice;20:27'];
+$trasa['4017_1'] = ['Skalice nad Svitavou;23:04', 'Brno-Židenice;23:49'];
+$trasa['4700_1'] = ['Brno-Židenice;4:35', 'Letovice;5:30'];
+$trasa['4703_1'] = ['Letovice;5:00', 'Brno-Židenice;5:52'];
+$trasa['4707_1'] = ['Březová nad Svitavou;5:47', 'Brno-Židenice;6:53'];
+$trasa['4708_1'] = ['Brno-Židenice;8:05', 'Březová nad Svitavou;9:12'];
+$trasa['4710_1'] = ['Brno-Židenice;9:05', 'Letovice;10:01'];
+$trasa['4710_2'] = ['Brno-Židenice;9:05', 'Letovice;10:01'];
+$trasa['4711_1'] = ['Letovice;6:58', 'Brno-Židenice;7:53'];
+$trasa['4712_1'] = ['Brno-Židenice;10:05', 'Březová nad Svitavou;11:12'];
+$trasa['4714_1'] = ['Brno-Židenice;11:05', 'Letovice;12:01'];
+$trasa['4718_1'] = ['Brno-Židenice;13:05', 'Letovice;14:01'];
+$trasa['4719_1'] = ['Letovice;10:58', 'Brno-Židenice;11:53'];
+$trasa['4719_2'] = ['Letovice;10:58', 'Brno-Židenice;11:53'];
+$trasa['4721_1'] = ['Březová nad Svitavou;11:47', 'Brno-Židenice;12:53'];
+$trasa['4722_1'] = ['Brno-Židenice;15:05', 'Letovice;16:01'];
+$trasa['4722_2'] = ['Brno-Židenice;15:05', 'Letovice;16:01'];
+$trasa['4723_1'] = ['Letovice;12:58', 'Brno-Židenice;13:53'];
+$trasa['4724_1'] = ['Brno-Židenice;16:05', 'Březová nad Svitavou;17:12'];
+$trasa['4726_1'] = ['Brno-Židenice;17:03', 'Letovice;18:02'];
+$trasa['4727_1'] = ['Letovice;14:58', 'Brno-Židenice;15:53'];
+$trasa['4730_1'] = ['Brno-Židenice;19:05', 'Letovice;20:01'];
+$trasa['4731_1'] = ['Letovice;16:58', 'Brno-Židenice;17:56'];
+$trasa['4731_2'] = ['Letovice;16:58', 'Brno-Židenice;17:56'];
+$trasa['4733_1'] = ['Březová nad Svitavou;17:47', 'Brno-Židenice;18:56'];
+$trasa['4734_1'] = ['Brno-Židenice;21:05', 'Letovice;22:01'];
+$trasa['4734_2'] = ['Brno-Židenice;21:05', 'Letovice;22:01'];
+$trasa['4735_1'] = ['Letovice;18:58', 'Brno-Židenice;19:56'];
+$trasa['4738_1'] = ['Brno-Židenice;23:08', 'Letovice;0:04'];
+$trasa['4739_1'] = ['Letovice;20:58', 'Brno-Židenice;21:53'];
+$trasa['4742_1'] = ['Brno-Židenice;6:33', 'Skalice nad Svitavou;7:18'];
+$trasa['4743_1'] = ['Skalice nad Svitavou;7:42', 'Brno-Židenice;8:27'];
+$trasa['4744_1'] = ['Brno-Židenice;12:33', 'Skalice nad Svitavou;13:18'];
+$trasa['4746_1'] = ['Brno-Židenice;13:33', 'Skalice nad Svitavou;14:18'];
+$trasa['4747_1'] = ['Skalice nad Svitavou;13:42', 'Brno-Židenice;14:27'];
+$trasa['4749_1'] = ['Skalice nad Svitavou;14:42', 'Brno-Židenice;15:27'];
+$trasa['4756_1'] = ['Brno-Židenice;18:33', 'Skalice nad Svitavou;19:18'];
+$trasa['4758_1'] = ['Brno-Židenice;19:33', 'Skalice nad Svitavou;20:18'];
+$trasa['4770_1'] = ['Skalice nad Svitavou;4:11', 'Letovice;4:23'];
+
+if (empty($jmenaVlaku)) $jmenaVlaku = [];
+if (empty($zeme)) $zeme = [];
+
+@$ts501 -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
+
+unset($obeh); 
+unset($trasa); 
+unset($omezeni); 
+unset($zacatekPlatnosti); 
+unset($konecPlatnosti);
+
+
