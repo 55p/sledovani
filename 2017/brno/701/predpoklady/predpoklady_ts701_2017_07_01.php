@@ -12,7 +12,7 @@ function predpoklad_2_TS701 ($timestamp) {
   if ($den == 6) {
     return 2;
   }
-  return 3;
+  return 4;
 }
 
 function predpoklad_3_TS701 ($timestamp) {

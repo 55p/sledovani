@@ -2,6 +2,7 @@
 // sem patri definice skupin. 
 $skupiny[] = $ts302 = new TS ('TS 302');
 $skupiny[] = $ts303 = new TS ('TS 303');
+$skupiny[] = $ts303a = new TS ('TS 303a');
 $skupiny[] = $ts304 = new TS ('TS 304');
 //$skupiny[] = $ts306 = new TS ('TS 306');
 $skupiny[] = $ts307 = new TS ('TS 307');
