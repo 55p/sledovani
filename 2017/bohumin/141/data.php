@@ -1,5 +1,6 @@
 <?php
 $skupiny[] = $ts141 = new TS ('TS 141', '151');
+$skupiny[] = $ts141a = new TS ('TS 141a', '151');
 $skupiny[] = $ts142 = new TS ('TS 142', '151');
 
 if (file_exists(__DIR__.'/typy.php')) {

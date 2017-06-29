@@ -1,0 +1,5 @@
+15891sv105891:X:Praha ONJ;4:35,Nymburk hl.n.;5:20
+6402:X:Nymburk hl.n.; 5:31, Lysá nad Labem; 5:49
+6443:X:Lysá nad Labem; 6:07, Kolín; 6:59
+5904:X:Kutná Hora; 7:06, Nymburk hl.n.; 7:56
+5808:X:Nymburk hl.n.; 8:06, Praha Masarykovo nádraží;9:03
