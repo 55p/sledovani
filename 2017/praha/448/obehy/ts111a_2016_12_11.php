@@ -1,6 +1,6 @@
 <?php 
 $zacatekPlatnosti = '11.12.2016';
-$konecPlatnosti = null; //'x.x.201x 23:59:59';
+$konecPlatnosti = '2.7.2017 23:59:59';
 
 $obeh[1] = array('29099_1', '99999_1', '29098_1');
 

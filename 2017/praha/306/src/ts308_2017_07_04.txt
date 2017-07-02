@@ -1,0 +1,16 @@
+525:7
+898:7
+514:X6
+513:X7
+
+5891sv:X1,X3,X5:Praha odstavné nádraží;3:30,Nymburk hl.n.;4:30
+5893sv:X2,X4:Praha odstavné nádraží;4:24,Nymburk hl.n.;5:23
+10506:X
+243:5,0407,2710,1611,-0707,-2910,-1711:Praha hl.n.;13:02,Ostrava-Svinov;16:27
+543:=:
+542:7
+242:=:Ostrava-Svinov;16:24,Praha hl.n.;19:22
+
+
+1::1
+2::2

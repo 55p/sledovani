@@ -3,7 +3,7 @@ $zacatekPlatnosti = '11.12.2016';
 $konecPlatnosti = null; //'x.x.201x 23:59:59';
 
 $obeh[1] = ['1722_1', '894_1', '101722_1', '881_1', '890_1', '885_1', '886_1', '889_1', '882_1', '4343_1'];
-$obeh[2] = ['1720_1', '1731_1', '12277_1', '12262_1', '892_1', '1733_1'];
+$obeh[2] = ['1720_1', '1731_1', '12277_1', '12262_1', '897_1', '1733_1'];
 
 $omezeni['101722_1'] = '6';
 $omezeni['12262_1'] = 'X5';
@@ -19,7 +19,7 @@ $omezeni['885_1'] = 'X';
 $omezeni['886_1'] = 'X';
 $omezeni['889_1'] = 'X';
 $omezeni['890_1'] = 'X';
-$omezeni['892_1'] = 'X5';
+$omezeni['897_1'] = 'X5';
 $omezeni['894_1'] = '6';
 
 $trasa['101722_1'] = ['Uherské Hradiště;6:35','Brno hl.n.;8:34'];
@@ -32,7 +32,7 @@ $trasa['885_1'] = ['Staré Město u Uherského Hradiště;10:32','Luhačovice;11
 $trasa['886_1'] = ['Luhačovice;12:38','Staré Město u Uherského Hradiště;13:28'];
 $trasa['889_1'] = ['Staré Město u Uherského Hradiště;14:32','Luhačovice;15:23'];
 $trasa['890_1'] = ['Luhačovice;8:38','Staré Město u Uherského Hradiště;9:28'];
-$trasa['892_1'] = ['Otrokovice;22:15','Zlín střed;22:28'];
+$trasa['897_1'] = ['Otrokovice;22:15','Zlín střed;22:28'];
 $trasa['894_1'] = ['Zlín střed;5:28','Otrokovice;5:41'];
 
 $poznamkaObehu['12277_1'] = ['pk', 'postrk'];

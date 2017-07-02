@@ -1,0 +1,151 @@
+<?php 
+$zacatekPlatnosti = '1.7.2017';
+$konecPlatnosti = null; //'x.x.2017 23:59:59';
+
+$obeh[1] = ['8740_1', '8743_1', '11575_1', '11574_1', '11579_1', '11578_1', '11583_1', '11582_1', '8766_1', '14869_1', '8373_1', '11571_1', '11572_1', '11577_1', '11576_1', '11581_1', '11580_1', '11587_1', '11492_1'];
+$obeh[2] = ['8342_1', '8347_1', '8354_1', '8357_1', '8366_1', '8765_1', '11491_1', '11572_2', '11577_2', '11576_2', '11581_2', '11580_2', '11587_2', '11492_2'];
+$obeh[3] = ['4681_1', '4682_1', '11573_1', '11572_3', '11577_3', '11576_3', '11581_3', '11580_3', '11587_3', '11586_1', '4682_2', '11575_2', '11575_3', '11574_2', '11579_2', '11578_2', '11583_2', '11584_1', '11589_1', '11588_1'];
+$obeh[4] = ['11571_2', '11570_1', '8746_1', '8355_1', '14872_1', '8367_1', '8372_1', '8748_1', '5932_1'];
+$obeh[5] = ['8345_1', '8358_1', '8755_1', '11585_1', '11584_2', '8767_1'];
+
+$omezeni['11491_1'] = 'T';
+$omezeni['11492_1'] = '6';
+$omezeni['11492_2'] = 'T';
+$omezeni['11570_1'] = 'X';
+$omezeni['11571_1'] = '6';
+$omezeni['11571_2'] = 'X';
+$omezeni['11572_1'] = '6';
+$omezeni['11572_2'] = 'T';
+$omezeni['11572_3'] = 'X';
+$omezeni['11573_1'] = 'X';
+$omezeni['11574_1'] = 'X';
+$omezeni['11574_2'] = '25';
+$omezeni['11575_1'] = 'X';
+$omezeni['11575_2'] = '6';
+$omezeni['11575_3'] = 'T';
+$omezeni['11576_1'] = '6';
+$omezeni['11576_2'] = 'T';
+$omezeni['11576_3'] = 'X';
+$omezeni['11577_1'] = '6';
+$omezeni['11577_2'] = 'T';
+$omezeni['11577_3'] = 'X';
+$omezeni['11578_1'] = 'X';
+$omezeni['11578_2'] = '25';
+$omezeni['11579_1'] = 'X';
+$omezeni['11579_2'] = '25';
+$omezeni['11580_1'] = '6';
+$omezeni['11580_2'] = 'T';
+$omezeni['11580_3'] = 'X';
+$omezeni['11581_1'] = '6';
+$omezeni['11581_2'] = 'T';
+$omezeni['11581_3'] = 'X';
+$omezeni['11582_1'] = 'X';
+$omezeni['11583_1'] = 'X';
+$omezeni['11583_2'] = '25';
+$omezeni['11584_1'] = '25';
+$omezeni['11584_2'] = 'X';
+$omezeni['11585_1'] = 'X';
+$omezeni['11586_1'] = 'X';
+$omezeni['11587_1'] = '6';
+$omezeni['11587_2'] = 'T';
+$omezeni['11587_3'] = 'X';
+$omezeni['11588_1'] = '25';
+$omezeni['11589_1'] = '25';
+$omezeni['14869_1'] = 'X';
+$omezeni['14872_1'] = 'X';
+$omezeni['4681_1'] = 'X';
+$omezeni['4682_1'] = 'X';
+$omezeni['4682_2'] = '6';
+$omezeni['5932_1'] = 'zX';
+$omezeni['8342_1'] = 'X';
+$omezeni['8345_1'] = 'X';
+$omezeni['8347_1'] = 'X';
+$omezeni['8354_1'] = 'X';
+$omezeni['8355_1'] = 'X';
+$omezeni['8357_1'] = 'X';
+$omezeni['8358_1'] = 'X';
+$omezeni['8366_1'] = 'X';
+$omezeni['8367_1'] = 'X';
+$omezeni['8372_1'] = 'X';
+$omezeni['8373_1'] = 'X';
+$omezeni['8740_1'] = 'X1';
+$omezeni['8743_1'] = 'X';
+$omezeni['8746_1'] = 'X';
+$omezeni['8748_1'] = '6';
+$omezeni['8755_1'] = 'X';
+$omezeni['8765_1'] = 'X5';
+$omezeni['8766_1'] = 'X';
+$omezeni['8767_1'] = 'T';
+
+$trasa['11491_1'] = ['Křižanov;6:20','Vlkov u Tišnova;6:30'];
+$trasa['11492_1'] = ['Vlkov u Tišnova;17:30','Křižanov;17:40'];
+$trasa['11492_2'] = ['Vlkov u Tišnova;17:30','Křižanov;17:40'];
+
+$trasa['11570_1'] = ['Vlkov u Tišnova;5:52', 'Žďár nad Sázavou;6:26'];
+$trasa['11571_1'] = ['Žďár nad Sázavou;4:34', 'Vlkov u Tišnova;5:08'];
+$trasa['11571_2'] = ['Žďár nad Sázavou;4:34', 'Vlkov u Tišnova;5:08'];
+$trasa['11572']   = ['Vlkov u Tišnova;6:52', 'Žďár nad Sázavou;7:26'];
+$trasa['11573']   = ['Žďár nad Sázavou;5:34', 'Vlkov u Tišnova;6:08'];
+$trasa['11574']   = ['Vlkov u Tišnova;8:52', 'Žďár nad Sázavou;9:26'];
+$trasa['11575_1'] = ['Žďár nad Sázavou;6:34', 'Vlkov u Tišnova;7:08'];
+$trasa['11575_2'] = ['Žďár nad Sázavou;6:34', 'Vlkov u Tišnova;7:08'];
+$trasa['11575_3'] = ['Křižanov;6:56', 'Vlkov u Tišnova;7:08'];
+$trasa['11576']   = ['Vlkov u Tišnova;10:52', 'Žďár nad Sázavou;11:26'];
+$trasa['11577']   = ['Žďár nad Sázavou;8:34', 'Vlkov u Tišnova;9:02'];
+$trasa['11578']   = ['Vlkov u Tišnova;12:52', 'Žďár nad Sázavou;13:26'];
+$trasa['11579']   = ['Žďár nad Sázavou;10:34', 'Vlkov u Tišnova;11:08'];
+$trasa['11580']   = ['Vlkov u Tišnova;14:52', 'Žďár nad Sázavou;15:26'];
+
+$trasa['11581']   = ['Žďár nad Sázavou;12:34', 'Vlkov u Tišnova;13:08'];
+$trasa['11582']   = ['Vlkov u Tišnova;15:52', 'Žďár nad Sázavou;16:26'];
+$trasa['11583']   = ['Žďár nad Sázavou;14:34', 'Vlkov u Tišnova;15:08'];
+$trasa['11584']   = ['Vlkov u Tišnova;16:52', 'Žďár nad Sázavou;17:26'];
+$trasa['11585']   = ['Žďár nad Sázavou;15:34', 'Vlkov u Tišnova;16:08'];
+$trasa['11586']   = ['Vlkov u Tišnova;17:52', 'Křižanov;18:04'];
+$trasa['11587']   = ['Žďár nad Sázavou;16:34', 'Vlkov u Tišnova;17:08'];
+$trasa['11588_1'] = ['Křižanov;21:05', 'Žďár nad Sázavou;21:26'];
+$trasa['11589_1'] = ['Žďár nad Sázavou;18:34', 'Křižanov;18:55'];
+$trasa['14869_1'] = ['Havlíčkův Brod;20:05', 'Jihlava;20:33'];
+$trasa['14872_1'] = ['Jihlava město;14:25', 'Havlíčkův Brod;15:04'];
+$trasa['4681_1'] = ['Křižanov;4:00', 'Vlkov u Tišnova;4:13'];
+$trasa['4682_1'] = ['Vlkov u Tišnova;4:38', 'Žďár nad Sázavou;5:12'];
+$trasa['4682_2'] = ['Křižanov;4:51', 'Žďár nad Sázavou;5:12'];
+$trasa['5932_1'] = ['Havlíčkův Brod;22:30', 'Čáslav;23:37'];
+$trasa['8342_1'] = ['Horní Cerekev;4:36', 'Havlíčkův Brod;5:48'];
+$trasa['8345_1'] = ['Čáslav;4:29', 'Horní Cerekev;7:17'];
+$trasa['8347_1'] = ['Havlíčkův Brod;6:47', 'Horní Cerekev;8:25'];
+$trasa['8354_1'] = ['Horní Cerekev;10:20', 'Havlíčkův Brod;11:50'];
+$trasa['8355_1'] = ['Havlíčkův Brod;12:05', 'Jihlava město;12:41'];
+$trasa['8357_1'] = ['Havlíčkův Brod;13:13', 'Počátky-Žirovnice;15:02'];
+$trasa['8358_1'] = ['Horní Cerekev;12:42', 'Havlíčkův Brod;13:51'];
+$trasa['8366_1'] = ['Počátky-Žirovnice;15:56', 'Havlíčkův Brod;17:50'];
+$trasa['8367_1'] = ['Havlíčkův Brod;16:05', 'Horní Cerekev;17:27'];
+$trasa['8372_1'] = ['Horní Cerekev;18:45', 'Havlíčkův Brod;19:52'];
+$trasa['8373_1'] = ['Jihlava;20:47', 'Horní Cerekev;21:29'];
+$trasa['8740_1'] = ['Žďár nad Sázavou;4:09', 'Havlíčkův Brod;4:44'];
+$trasa['8743_1'] = ['Havlíčkův Brod;5:51', 'Žďár nad Sázavou;6:25'];
+$trasa['8746_1'] = ['Žďár nad Sázavou;6:50', 'Havlíčkův Brod;7:25'];
+$trasa['8748_1'] = ['Žďár nad Sázavou;7:44', 'Havlíčkův Brod;8:19'];
+$trasa['8755_1'] = ['Havlíčkův Brod;14:25', 'Žďár nad Sázavou;15:01'];
+$trasa['8765_1'] = ['Havlíčkův Brod;19:05', 'Nové Město na Moravě;19:59'];
+$trasa['8766_1'] = ['Žďár nad Sázavou;16:50', 'Havlíčkův Brod;17:25'];
+$trasa['8767_1'] = ['Havlíčkův Brod;22:09', 'Žďár nad Sázavou;22:46'];
+
+
+$typ['11492_1'] = 'Sv';
+$typ['11491_1'] = 'Sv';
+$typ['11492_2'] = 'Sv';
+
+
+if (empty($jmenaVlaku)) $jmenaVlaku = [];
+if (empty($zeme)) $zeme = [];
+
+@$ts203 -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
+
+unset($obeh); 
+unset($trasa); 
+unset($omezeni); 
+unset($zacatekPlatnosti); 
+unset($konecPlatnosti);
+
+

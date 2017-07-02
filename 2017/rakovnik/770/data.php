@@ -3,6 +3,7 @@
 $skupiny[] = $ts770 = new TS ('TS 770', '750.7 + 954.2');
 $skupiny[] = $ts771 = new TS ('TS 771', '750.7 + 954.2');
 $skupiny[] = $ts772 = new TS ('TS 772', '714');
+$skupiny[] = $ts702 = new TS ('TS 702', '714 DKV Praha');
 $skupiny[] = $ts779 = new TS ('TS 701', '754 DKV Praha');
 
 if (file_exists(__DIR__.'/typy.php')) {

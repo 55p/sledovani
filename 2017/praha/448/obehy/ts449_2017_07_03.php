@@ -1,31 +1,21 @@
-﻿<?php 
+<?php 
 $zacatekPlatnosti = '3.7.2017';
-$konecPlatnosti = '16.7.2017 23:59:59';
+$konecPlatnosti = NULL; //'x.x.2017 23:59:59';
 
-$obeh[1] = ['15891_1', '6402_1', '6443_1', '5904_1', '5808_1'];
+$obeh[1] = array('29099_1', '99999_1', '29098_1');
 
-$omezeni['15891_1'] = 'X';
-$omezeni['5808_1'] = 'X';
-$omezeni['5904_1'] = 'X';
-$omezeni['6402_1'] = 'X';
-$omezeni['6443_1'] = 'X';
+$omezeni['29099_1'] = 'X1';
+$omezeni['29098_1'] = 'X5';
+$omezeni['99999_1'] = 'X';
 
-$trasa['15891_1'] = ['Praha ONJ;4:35','Nymburk hl.n.;5:20'];
-$trasa['5808_1'] = ['Nymburk hl.n.;8:06','Praha Masarykovo nádraží;9:03'];
-$trasa['5904_1'] = ['Kolín;7:31','Nymburk hl.n.;7:56'];
-$trasa['6402_1'] = ['Nymburk hl.n.;5:31','Lysá nad Labem;5:49'];
-$trasa['6443_1'] = ['Lysá nad Labem;6:07','Kolín;6:59'];
+$trasa['29099_1'] = array('Praha-Libeň;4:55','Praha-Vysočany;4:59');
+$trasa['29098_1'] = array('Praha-Vysočany;20:18','Praha-Libeň;20:22');
+$trasa['99999_1'] = array('Záloha Praha-Vysočany;5:00;20:00');
 
+$typ['29099_1'] = 'Sv';
+$typ['29098_1'] = 'Sv';
 
-
-$typ['15891_1'] = 'Sv';
-
-$poznamkaObehu['15891_1'] = ['','Sv 105891'];
-
-if (empty($jmenaVlaku)) $jmenaVlaku = [];
-if (empty($zeme)) $zeme = [];
-
-@$ts449 -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
+@$ts449 -> obeh (new Obeh($obeh, $trasa, $omezeni, $typ, $poznamkaObehu, $zacatekPlatnosti, $konecPlatnosti)); 
 
 unset($obeh); 
 unset($trasa); 
@@ -34,3 +24,4 @@ unset($zacatekPlatnosti);
 unset($konecPlatnosti);
 
 
+?>
