@@ -28,8 +28,9 @@ $omezeni['6802_1'] = 'X';
 $omezeni['6805_1'] = 'X';
 $omezeni['6823_1'] = 'X';
 $omezeni['6968_1'] = 'X5';
-$omezeni['6969_1'] = 'T';
+$omezeni['6969_1'] = 'T, -0507';
 $omezeni['71261_1'] = 'X';
+$omezeni[105872] = 'X';
 
 $trasa['1310_1'] = array('Nymburk hl.n.;18:34','Praha odstavné nádraží;19:35');
 $trasa['1311_1'] = array('Praha odstavné nádraží;20:29','Nymburk hl.n.;21:38');
@@ -37,7 +38,7 @@ $trasa['5904_1'] = array('Kolín;7:29','Nymburk hl.n.;7:56');
 $trasa['71261_1'] = array('Děčín hl.n.;12:44','Ústí nad Labem hl.n.;13:04');
 
 $poznamkaObehu['5904_1'] = array('pk', 'postrk');
-$poznamkaObehu[105872] = ['Sv 105872', ''];
+$poznamkaObehu[105872] = ['', 'Sv 105872'];
 
 $typ[105872] = 'Sv';
 $typ['1310_1'] = 'Sv';
