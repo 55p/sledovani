@@ -8,8 +8,8 @@ $obeh[3] = array('1310_1', '1311_1');
 $obeh[4] = array('6401_1', '5872_1', 105872);
 $obeh[5] = array('6404_1', '1655_1', '1654_1', '1696_1');
 
-$omezeni['1310_1'] = 'X1,X5';
-$omezeni['1311_1'] = 'X1,X5';
+$omezeni['1310_1'] = 'X1,X5, -0307, -0707';
+$omezeni['1311_1'] = 'X1,X5, -0307, -0707';
 $omezeni['105872'] = 'X';
 $omezeni['1654_1'] = 'X';
 $omezeni['1655_1'] = 'X';
@@ -31,12 +31,14 @@ $omezeni['6823_1'] = 'X';
 $omezeni['6968_1'] = 'X5, 0407';
 $omezeni['6969_1'] = 'T, -0507';
 $omezeni['71261_1'] = 'X';
+$omezeni[105872] = 'X';
 
 $trasa['1310_1'] = array('Nymburk hl.n.;18:34','Praha odstavné nádraží;19:35');
 $trasa['1311_1'] = array('Praha odstavné nádraží;20:29','Nymburk hl.n.;21:38');
 $trasa['71261_1'] = array('Děčín hl.n.;12:44','Ústí nad Labem hl.n.;13:04');
 
-$poznamkaObehu[105872] = ['Sv 105872', ''];
+$poznamkaObehu['5904_1'] = array('pk', 'postrk');
+$poznamkaObehu[105872] = ['', 'Sv 105872'];
 
 $typ[105872] = 'Sv';
 $typ['1310_1'] = 'Sv';
