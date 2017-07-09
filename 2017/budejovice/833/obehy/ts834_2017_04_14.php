@@ -44,6 +44,7 @@ $poznamkaObehu['108111_1'] = ['pk', 'postrk'];
 $poznamkaObehu['108111_2'] = ['pk', 'postrk'];
 $poznamkaObehu['108102_1'] = ['pk', 'postrk'];
 $poznamkaObehu['108104_1'] = ['pk', 'postrk'];
+$poznamkaObehu[108105] = ['pk', 'postrk'];
 $poznamkaObehu['118079_1'] = ['pk', 'postrk'];
 
 $poznamkaObehu['208111_1'] = ['př', 'přípřež'];
