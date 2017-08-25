@@ -1,0 +1,261 @@
+2501:6
+29001sv:X:Praha ONJ;3:44,Praha hl.n.;3:55
+2503:X
+2504:6
+2506:X
+2511:6
+2513:X
+2514:6
+2516:X
+2521:6
+2523:X
+2522:6
+2529:6
+2528:X
+2530:6
+2535:X
+2537:6
+2538:X
+2538:6:Strančice;13:49,Praha hl.n.;14:22
+2545:6
+9129:X
+2548:6
+9128:X
+9137:X
+2555:6
+9136:X
+2558:6
+9145:X
+2565:6
+9146:X,6
+9155:X,6
+9150:X,6,7
+
+5899sv:1:Praha ONJ;3:15,Poděbrady;4:45
+5899sv:X2345:Nymburk př.n.;4:39,Poděbrady;4:45
+5850sv:6,T:Nymburk hl.n.;4:36,Praha Masarykovo nádraží;5:33
+5807:6,T
+5852:X
+9606:X
+9611:X
+5812:6,T
+6906:X
+9411:6,T
+25622:6,T
+25625:6,T
+6911:X
+9414:6,T
+5825:X
+5827:6,T
+5832:X:Kolín;15:29,Nymburk hl.n.;15:56
+105832pk:X:Nymburk hl.n.;16:01,Praha Masarykovo nádraží;17:03
+5832:6,T
+9425:X,6,T
+125636pk:X:Milovice;18:15,Lysá nad Labem;18:21
+25636:6,T
+25639:X,6,T
+9428:X,6,T
+5833:X,6,T
+
+15840:X
+5873:T
+15841:X
+5802:T
+5804:X
+9405:X,T
+25616:X,T
+25619:X,T
+9408:X,T
+5819:X,T
+5822:X,T
+109419pk:X
+9419:T
+125633pk:X
+25633:T
+9422:X,T
+5835pk:X:Praha Masarykovo nádraží;16:51,Nymburk hl.n.;17:49
+5835:T
+5838:X
+5840:T
+29306sv:X1234:Praha Masarykovo nádraží;20:24,Praha ONJ;21:15
+672:5
+9433:T
+25644:T
+25647:T
+9436:T
+9157:T
+
+9194sv:1
+5801:X
+5806:X
+105806pk:X
+673:6
+690:6
+9407:X
+25618:X
+25621:X
+9410:X
+5821:X
+5826:X
+109421pk:X
+25632:X
+1025635pk:X
+9424:X
+105837pk:X:Praha Masarykovo nádraží;17:51,Nymburk hl.n.;18:49
+683:6
+684:6
+689:6
+10689pk:6
+672:6
+672:6
+
+5873:6
+105875pk:X
+5802:6
+9111:x
+9405:6
+109112pk:X
+25616:6
+25619:6
+9408:6
+5819:6
+5822:6
+9123:X
+9122:X
+9419:6
+25630:6
+25633:6
+9135:X
+9422:6
+5835:6
+9134:X
+9147:X
+9190sv:X:Říčany;19:52,Praha ONJ;20:24
+5840:6
+9433:6
+25644:6
+25647:6
+9436:6
+9157:6
+689:T
+10689sv:T:Praha Masarykovo nádraží;19:22,Praha Vršovice;19:39
+689sv:T:Praha Vršovice;19:53,Praha ONJ;19:57
+670sv:5:Praha ONJ;23:05,Praha hl.n.;23:13
+
+670:6 
+9194:T
+29003sv:X:Praha ONJ;4:09,Praha hl.n.;4:20
+9101:X
+671:6
+9102:X
+9193sv:X:Praha hl.n.;6:18,Strančice;6:58
+9108:X
+109180pk:X
+10690pk:6
+1029013sv:5:Praha ONJ;15:20,Praha hl.n.;15:31
+9133:5
+9132:5
+9141:5
+9140:5
+2565:5
+2566:5
+2571:5
+689:6
+10672pk:6
+
+1029013sv:X1234:Praha ONJ;15:20,Praha hl.n.;15:31
+9133:X1234
+9132:X1234
+9141:X1234
+9140:X1234
+2565:X1234
+2566:X1234
+2571:X1234
+687:T
+10687sv:T:Praha Masarykovo nádraží;17:15,Praha Vršovice;17:32
+687sv:T:Praha Vršovice;17:39,Praha ONJ;17:43
+676sv:5:Praha ONJ;18:09,Praha Masarykovo nádraží;18:36
+676:5
+
+29007sv:1:Praha ONJ;5:50,Praha hl.n.;6:01
+2511:1
+102514pk:X
+2521:X
+2522:X
+2529:X
+2530:X
+2537:X
+2540:X
+2547:X
+102550pk:X
+2557:X
+677:6
+688:6
+685:6
+680:6
+691:6
+691sv:6:Praha hl.n.;21:18,Praha ONJ;21:26
+670sv:6:Praha ONJ;23:05,Praha hl.n.;23:13
+670:6
+
+2502:X
+2509:X
+2512:X
+29002pk:X:Praha hl.n.;7:58,Praha ONJ;8:09
+9120sv:X:Praha ONJ;13:25,Praha Vršovice;13:34
+9120:X
+9131:X
+9130:X
+9143:X
+9142:X
+9151:X
+21820sv:5:Říčany;20:49,Praha Vršovice;21:04
+1021820sv:5:Praha Vršovice;21:12,Praha ONJ;21:19
+671:T
+692:T
+681:T
+686:T
+10687pk:T
+687sv:T:Praha Masarykovo nádraží;17:15,Praha Vršovice;17:32
+10687sv:T:Praha Vršovice;17:39,Praha ONJ;17:43
+
+9191sv:1:Praha ONJ;4:23,Říčany;4:52
+9100:X
+9109:X
+9110pk:X
+29004sv:X:Praha hl.n.;8:23,Praha ONJ;8:31
+29013sv:X:Praha ONJ;15:20,Praha hl.n.15:31
+102551pk:X
+2554:X
+102561pk:X
+2564:X
+2569:X
+2570:X
+692sv:6:Praha ONJ;6:09,Praha Vršovice 6:13
+10692sv:6:Praha Vršovice;6:20,Praha Masarykovo nádraží;6:37
+692:6
+681:6
+686:6
+687:6
+676:6
+
+2501:X2345
+2512pk:X
+29002sv:X:Praha hl.n.;7:58,Praha ONJ;8:09
+1029009sv:X:Praha ONJ;13:20,Praha hl.n.;13:31
+9125:X
+9124:X
+102549pk:X
+2552:X
+102559pk:X
+2562:X
+677:T
+688:T
+685:T
+680:T
+691:T
+691sv:T:Praha hl.n.;21:18,Praha ONJ;21:26
+
+
+10:5:0
+11:5:0
