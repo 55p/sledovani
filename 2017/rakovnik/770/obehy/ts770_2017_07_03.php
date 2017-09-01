@@ -37,8 +37,7 @@ $poznamkaObehu['1229_1'] = ['pk', 'postrk'];
 $poznamkaObehu['1231_1'] = ['pk', 'postrk'];
 $poznamkaObehu['1233_1'] = ['pk', 'postrk'];
 
-
-
+$typ['10514'] = 'R';
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
