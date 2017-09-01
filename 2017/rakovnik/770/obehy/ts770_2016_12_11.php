@@ -28,9 +28,6 @@ $poznamkaObehu['1907_1'] = ['pk', 'postrk'];
 $poznamkaObehu['1229_1'] = ['pk', 'postrk'];
 $poznamkaObehu['1233_1'] = ['pk', 'postrk'];
 
-
-
-
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
 

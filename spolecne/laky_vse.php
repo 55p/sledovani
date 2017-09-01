@@ -138,8 +138,8 @@ $lak['vesela_krava'] = [714009, 714011, 714012, 714016, 714019, 714020, 714021, 
 $lak['pendolino'] = [680001, 680002, 680003, 680004, 680005, 680006, 680007];
 
 $lak['br_zeleny'] = array(754022, 754030, 754031, 754039, 754042, 754043, 754047, 754063, 754065, 754074, 754077, 754081);
-$lak['br_oranzovy'] = array(754050);
-$lak['br_modry'] = array(754060);
+$lak['br_oranzovy'] = [754050];
+$lak['br_modry'] = [754060];
 // $lak['najbrt1bila'] = array_merge(array(), $lak['najbrt1bila']);
 // $lak['najbrt1'] = array_merge(array(), $lak['najbrt1']);
 // $lak['najbrt2'] = array_merge(array(), $lak['najbrt2']);

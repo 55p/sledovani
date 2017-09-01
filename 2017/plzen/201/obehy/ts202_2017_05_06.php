@@ -80,6 +80,7 @@ $trasa['777_1'] = ['Klatovy;14:06','Plzeň hl.n.;14:56'];
 $trasa['778_1'] = ['Plzeň hl.n.;9:02','Klatovy;11:52'];
 $trasa['779_1'] = ['Klatovy;18:06','Plzeň hl.n.;18:56'];
 $trasa['779_2'] = ['Klatovy;18:06','Plzeň hl.n.;18:56'];
+$trasa['17518_1'] = ['Horažďovice předměstí;17:18', 'Klatovy;18:36'];
 
 $poznamkaObehu['101964_1'] = ['pk', 'postrk'];
 $poznamkaObehu['101963_1'] = ['pk', 'postrk'];
