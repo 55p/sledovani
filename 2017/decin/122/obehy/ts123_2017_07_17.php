@@ -1,6 +1,6 @@
 <?php 
 $zacatekPlatnosti = '17.7.2017';
-$konecPlatnosti = null; //'x.x.201x 23:59:59';
+$konecPlatnosti = '1.9.2017 23:59:59';
 
 $obeh[1] = array('6823_1', '6802_1', '6805_1', '71261_1', '1657_1', '1656_1', '6431_1');
 $obeh[2] = array('6443_1', '5904_1', '5879_1', '5874_1', '1310_1', '1311_1');
@@ -69,6 +69,3 @@ unset($trasa);
 unset($omezeni); 
 unset($zacatekPlatnosti); 
 unset($konecPlatnosti);
-
-
-?>

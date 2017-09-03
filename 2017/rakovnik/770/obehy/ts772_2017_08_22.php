@@ -24,6 +24,7 @@ $omezeni['19736_2'] = '25';
 $omezeni['19861_1'] = 'X';
 $omezeni['9801_1'] = 'X';
 $omezeni['9830_1'] = 'X';
+$omezeni['19714'] = 'X';
 
 $trasa['109783_1'] = ['Středokluky;17:46','Hostivice;18:05'];
 $trasa['119860_1'] = ['Kladno;6:21','Kladno-Dubí;6:35'];
