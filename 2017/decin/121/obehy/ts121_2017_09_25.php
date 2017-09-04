@@ -77,7 +77,7 @@ $trasa['601_1'] = ['Kadaň-Prunéřov;5:55','Ústí nad Labem hl.n.;6:09'];
 $trasa['6963_1'] = ['Děčín východ;6:52','Ústí nad Labem hl.n.;7:27'];
 $trasa['71260_1'] = ['Ústí nad Labem hl.n.;6:14','Děčín hl.n.;6:39'];
 $trasa['71261_1'] = ['Děčín hl.n.;12:44','Ústí nad Labem hl.n.;13:04'];
-
+  ;
 $trasa['676'] = ['Praha hl.n.;18:51', 'Děčín hl.n.;20:31'];
 $trasa['678'] = ['Praha hl.n.;17:51', 'Děčín hl.n.;19:31'];
 $trasa['680'] = ['Praha hl.n.;16:51', 'Děčín hl.n.;18:31'];
