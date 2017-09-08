@@ -55,11 +55,16 @@ $trasa['894_2'] = ['Zlín střed;5:28','Otrokovice;5:41'];
 $trasa['895_1'] = ['Staré Město u Uherského Hradiště;20:30','Veselí nad Moravou;20:54'];
 $trasa['895_2'] = ['Staré Město u Uherského Hradiště;20:30','Veselí nad Moravou;20:54'];
 $trasa['897_1'] = ['Otrokovice;22:15','Zlín střed;22:28'];
+$trasa['1636_1'] = ['Brno hl.n.;8:06', 'Žďár nad Sázavou;10:16'];
+$trasa['1637_1'] = ['Žďár nad Sázavou;17:40', 'Brno hl.n.;19:54'];
+$trasa['1731_1'] = ['Brno hl.n.;15:28', 'Uherské Hradiště;17:20'];
+$trasa['1733_1'] = ['Brno hl.n.;17:30', 'Bylnice;20:37'];
+$trasa['4145_1'] = ['Brno hl.n.;13:48', 'Nemotice;14:53'];
+$trasa['4150_1'] = ['Nemotice;15:11', 'Brno-Židenice;16:11'];
+$trasa['4827_1'] = ['Okříšky;4:48', 'Brno hl.n.;6:37'];
+$trasa['4834_1'] = ['Brno hl.n.;14:39', 'Okříšky;16:29'];
 
 $poznamkaObehu['12277_1'] = ['pk', 'postrk'];
-
-
-
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
