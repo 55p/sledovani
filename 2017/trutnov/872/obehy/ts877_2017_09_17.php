@@ -18,7 +18,7 @@ $omezeni['5638_1'] = '7';
 $poznamkaObehu['1762_1'] = ['pk', 'postrk'];
 $poznamkaObehu['5140_1'] = ['pk', 'postrk'];
 
-$trasa['1762_1'] = ['Starkoč','17:40','Náchod;17:53'];
+$trasa['1762_1'] = ['Starkoč;17:40','Náchod;17:53'];
 $trasa['1763_1'] = ['Teplice nad Metují;16:31','Starkoč;17:17'];
 $trasa['5140_1'] = ['Václavice;5:28','Teplice nad Metují;6:07'];
 $trasa['15168_1'] = ['Starkoč;17:24', 'Václavice;17:28'];

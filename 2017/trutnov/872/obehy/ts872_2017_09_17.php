@@ -19,6 +19,7 @@ $omezeni['20570_1'] = 'X';
 $omezeni['7161_1'] = 'X';
 $omezeni['7162_1'] = 'X';
 
+
 $poznamkaObehu['1949_1'] = ['pk', 'postrk'];
 $poznamkaObehu['1949_2'] = ['pk', 'postrk'];
 $poznamkaObehu['1953_1'] = ['pk', 'postrk'];
@@ -38,7 +39,7 @@ $trasa['1796_2'] = ['Hradec Králové hl.n.;20:01', 'Trutnov hl.n.;21:18'];
 $trasa['1947_1'] = ['Hradec Králové hl.n.;7:05', 'Letohrad;8:29'];
 $trasa['1948_1'] = ['Letohrad;7:29', 'Hradec Králové hl.n.;8:53'];
 $trasa['1949_1'] = ['Pardubice hl.n.;8:36', 'Letohrad;10:27'];
-$trasa['1949_2'] = ['Pardubice hl.n.;8:36', 'Hradec Králové hl.n.;8:54'];
+$trasa['1949_2'] = ['Hradec Králové hl.n.;9:05', 'Letohrad;10:27'];
 $trasa['1950_1'] = ['Letohrad;8:33', 'Hradec Králové hl.n.;9:53'];
 $trasa['1951_1'] = ['Hradec Králové hl.n.;11:05', 'Letohrad;12:31'];
 $trasa['1952_1'] = ['Letohrad;11:33', 'Hradec Králové hl.n.;12:53'];
@@ -52,6 +53,8 @@ $trasa['1959_2'] = ['Hradec Králové hl.n.;19:05', 'Letohrad;20:28'];
 $trasa['20570_1'] = ['Jablonné nad Orlicí;6:21', 'Letohrad;6:31'];
 $trasa['7161_1'] = ['Ústí nad Orlicí;5:25', 'Jablonné nad Orlicí;5:55'];
 $trasa['7162_1'] = ['Letohrad;4:49', 'Ústí nad Orlicí;5:11'];
+
+
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
