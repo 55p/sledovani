@@ -42,8 +42,6 @@ br + .lakVozidla {
 }
 
 .zelena_svetla {
-  color: #FCED87;
-  background-color: #2CC87C;
   color: #FDF5C1;
   background-color: #019C53;
 }
@@ -118,14 +116,26 @@ br + .lakVozidla {
   color: #000080;
   background-color: #FF0000;
 }
+/*
 .euro2012_380 { 
   background: #D50000;
   color: #9FCBFF;
+}
+*/
+
+.sportovni {
+  color: #e51616;
+  background: white;
 }
 
 .nostalgicka_380 {
   color: #7A9CEB;
   background-color: #ededed;
+}
+
+.skoda_380 {
+  color: #FF8F20;
+  background-color: #fff;
 }
 
 .slovenska_strela_380 {
@@ -332,11 +342,6 @@ br + .lakVozidla {
   color: #e5e500;
 }
 
-.sportovni {
-  color: #e51616;
-  background: white;
-}
-
 .br_cerveny {
   color: #e51616;
 }
@@ -482,6 +487,12 @@ br + .lakVozidla {
   color: blue;
 }
 .elefant_ropid {
+  border-top: 0.4ex solid white;
+  background: white;
+  color: red;
+}
+.elefant_ropid_25 {
+  border-top: 0.6ex solid #0C3A94;
   background: white;
   color: red;
 }

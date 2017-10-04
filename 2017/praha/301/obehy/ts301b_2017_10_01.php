@@ -1,6 +1,6 @@
 <?php 
-$zacatekPlatnosti = '3.7.2017';
-$konecPlatnosti = '29.9.2017 23:59:59';
+$zacatekPlatnosti = '30.9.2017';
+$konecPlatnosti = null; //'x.x.2017 23:59:59';
 
 $obeh[1] = ['510_1', '509_1', '502_1', '511_1'];
 
@@ -17,7 +17,7 @@ $trasa['511_1'] = ['Praha hl.n.;15:37', 'Bohumín;18:48'];
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
 
-@$ts141a -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
+@$ts301b -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
 
 unset($obeh); 
 unset($trasa); 

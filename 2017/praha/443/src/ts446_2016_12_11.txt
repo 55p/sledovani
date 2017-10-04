@@ -1,0 +1,126 @@
+29001sv:T:Praha ONJ;3:44,Praha hl.n.;3:55
+2503:T
+2508:T
+2515:T
+2520:T
+2527:T
+2532:T
+2539:T
+2542:T
+2549:T
+2552:T
+2559:T
+2564:T
+2569:T
+2570:T
+109401svpk:X:Praha ONJ;4:58,Praha hl.n.;5:09
+9103:X
+9104:X
+9113:X
+9114:X
+2525:X
+2526:X
+2533:X
+2534:X
+2541:X
+2544:X
+2551:X
+2554pk:X
+2561:X
+
+2501:1
+2590sv:X:Benešov u Prahy;4:11,Čerčany;4:19
+2581:X
+2504:X
+2511pk:1
+2511:X2345
+2514:X
+2514:X:Praha hl.n.;8:31,Praha Malešice;8:41
+29302svpk:X:Praha Malešice;8:57,Praha Vršovice;9:05
+29302sv:X:Praha Vršovice;9:09,Praha ONJ;9:13
+29011sv:X:Prha ONJ;14:09,Praha hl.n.;14:17
+2547pk:X
+2550:X
+2557pk:X
+2560:X
+2567:X
+2568:X
+9157:X
+2502:6
+2509:6
+2512:6
+2519:6
+2524:6
+2531:6
+2536:6
+2543:6
+2546:6
+2553:6
+2556:6
+2563:6
+2566:6
+2571:6
+
+9194sv:vX:Říčany;00:11,Praha ONJ;00:35
+102505pk:1
+2505:X2345
+2508:X
+9195sv:X:Praha hl.n.;7:01,Strančice;7:33
+9110:X
+29004svpk:X:Praha hl.n.;8:23,Praha ONJ;8:31
+29009sv:X:Praha ONJ;13:20,Praha hl.n.;13:31
+2543pk:X
+2546:X
+2553pk:X
+2556:X
+2563pk:X
+21820svpk:5:Benešov u Prahy;20:18,Praha ONJ;21:19
+2512:T
+2519:T
+2524:T
+2531:T
+2536:T
+2543:T
+2546:T
+2553:T
+2556:T
+2563:T
+2566:T
+2571:T
+
+29003sv:6:Praha ONJ;4:09,Praha hl.n.;4:20
+2505:6
+2508:6
+2515:6
+2518:6
+2525:6,T:Praha hl.n.;9:36,Strančice;10:09
+2526:6,T:Strančice;10:49,Praha hl.n.;11:22
+2533:6,T:Praha hl.n.;11:36,Strančice;12:09
+2534:6,T:Strančice;12:49,Praha hl.n.;13:22
+2541:6,T
+2544:6,T
+2551:6,T
+2554:6,T
+2561:6,T:Praha hl.n.;18:36,Strančice;19:09
+2562:6,T:Strančice;19:49,Praha hl.n.;20:22
+9153:X,6,T
+9148:X,6,T
+29019sv:T:Praha hl.n.;22:28,Praha ONJ;22:39
+2573:X,6:Praha hl.n.;22:36,Strančice;23:09
+2592sv:X,6:Strančice;23:17,Praha ONJ;23:44
+2510pk:X
+2517:X
+2520:X
+2527:X
+2532:X
+2539:X
+2542:X
+2549:X
+2552pk:X
+2559:X
+2562pk:X
+29005sv:T:Praha ONJ;4:45,Praha hl.n.;4:56
+2507:T
+2510:T
+2517:T:Praha hl.n.;7:36,Strančice;8:09
+2518:T:Strančice;8:49,Praha hl.n.9:22
