@@ -234,6 +234,15 @@ br + .lakVozidla {
   padding-bottom: 0;
 }
 
+.sedy_pantograf_dvere {
+  color: #001C9D;
+  background-color: #C2CDCF;
+  border-top: 0.5ex solid #3F98BA;
+  padding-top: 0;
+  border-bottom: 0.5ex solid #3F98BA;
+  padding-bottom: 0;
+}
+
 .sedy_pantograf_prouzek {
   color: #F2410D;
   background-color: #C2CDCF;
