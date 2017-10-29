@@ -153,6 +153,15 @@ br + .lakVozidla {
   background-color: #2361C7;
 }
 
+.kakadu_vinove {
+  color: #fff;
+  background-color: #BD2443;
+  border-left: 1ex solid #DADADA;
+  border-right: 1ex solid #DADADA;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
+}
+
 .gorila_retro {
   color: #fff;
   background-color: #868686;
