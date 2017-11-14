@@ -1,0 +1,29 @@
+343
+344
+347
+3439::Žilina;21:50,Liptovský Mikuláš;23:25
+
+3404::Liptovský Mikuláš;5:03,Žilina;6:33
+346
+345
+3433:X7:Žilina;17:25,Liptovský Mikuláš;19:05
+3433:6:Žilina;17:25,Ružomberok;18:39
+
+3492:6:Liptovský Mikuláš;3:37,Ružomberok;3:55
+3440:25:Ružomberok;4:11,Žilina;5:14
+3406:12345:Liptovský Mikuláš;5:49,Žilina;5:29
+3413::Žilina;8:43,Liptovský Mikuláš;10:13
+3416::Liptovský Mikuláš;11:48,Žilina;13:17
+342
+640:X
+3869:1234
+
+3842:2345
+640:23456
+243:5
+
+242:7
+1300:15:Bohumín;0:01,Nymburk hl.n.;7:47
+1306:3:Bohumín;5:46,Praha ONJ;16:29
+1307:4:Praha ONJ;3:25,Bohumín;13:10
+1301:15:Nymburk hl.n.;18:08,Bohumín;2:05
