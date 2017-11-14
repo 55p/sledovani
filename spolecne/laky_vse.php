@@ -94,6 +94,7 @@ $lak['sportovni'] = [380002];
 $lak['skoda_380'] = [380004, 362169];
 $lak['nostalgicka_380'] = [380011];
 $lak['slovenska_strela_380'] = [380013];
+$lak['kometa_380'] = [380017];
 
 // $lak['vlajka'] = [371201];
 
