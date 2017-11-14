@@ -116,6 +116,11 @@ br + .lakVozidla {
   color: #000080;
   background-color: #FF0000;
 }
+
+.kometa_380 {
+  color: white;
+  background: #000080;
+}
 /*
 .euro2012_380 { 
   background: #D50000;
