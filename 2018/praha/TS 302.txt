@@ -1,8 +1,0 @@
-614::Praha hl.n.;7:33,Ústí nad Labem hl.n.;8:41
-605::Ústí nad Labem hl.n.;9:16,Praha hl.n.;10:24
-610::Praha hl.n.;11:33,Ústí nad Labem hl.n.;12:41
-609::Ústí nad Labem hl.n.;13:16,Praha hl.n.;14:24
-606::Praha hl.n.;15:33,Ústí nad Labem hl.n.;16:41
-613::Ústí nad Labem hl.n.;17:16,Praha hl.n.;18:24
-602::Praha hl.n.;19:33,Ústí nad Labem hl.n.;20:41
-617::Ústí nad Labem hl.n.;20:16,Praha hl.n.;22:34

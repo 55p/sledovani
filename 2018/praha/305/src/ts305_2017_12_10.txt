@@ -1,0 +1,40 @@
+ph=Praha hl.n.
+ps=Praha-Smíchov
+st=Staré Město u Uherského Hradiště
+ol=Olomouc hl.n.
+
+
+9994sv:X:Praha-jih;5:32,Praha-Radotín;6:00
+9911:X:Praha-Radotín;618,Praha hl.n.;635
+885::ph;6:58,st;1018
+888::st;1143,ps;1518
+895::ps;1642,st;2014
+
+896:X6:st;421,ps;747
+887:X6:ps;842,st;1214
+3846:T
+887:T:ol;1132,st;1214
+886::st;1343,ps;1718
+897::ps;1834,Otrokovice;2203
+
+3840:vX
+3842:X1
+881:X6:ol;600,st;646
+892::st;744,ps;1118
+891::ps;1232,st;1618
+882::st;1743,ps;2118
+957:10
+
+883::Hradec Králové hl.n.;544,st;814
+890::st;944,ps;1318
+893::ps;1442,st;1814
+880::st;1915,ol;2000
+3863
+
+894::Otrokovice;554,ps;918
+889::ps;1042,st;1417
+884::st;1544,ph;1904
+
+
+1:6:3
+2:6:2

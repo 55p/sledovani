@@ -1,0 +1,4 @@
+6991sv:25:Děčín hl.n.;824,Ústí nad Labem hl.n.;840
+5274:=:Ústí nad Labem hl.n.;919, Dresden Hbf;1021
+5275:=:Dresden Hbf;1736, Ústí nad Labem hl.n.;1837
+6992sv:=:Ústí nad Labem hl.n.;1705,Děčín hl.n.;1728
