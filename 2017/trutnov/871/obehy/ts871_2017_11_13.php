@@ -202,6 +202,34 @@ $trasa['5238'] = ['Hradec Králové hl.n.;22:43', 'Chlumec nad Cidlinou;23:14'];
 $trasa['5239'] = ['Chlumec nad Cidlinou;20:47', 'Hradec Králové hl.n.;21:20'];
 $trasa['5248'] = ['Dobšice nad Cidlinou;6:19', 'Velký Osek;6:27'];
 
+$trasa['1784_1'] = ['Hradec Králové hl.n.;9:02', 'Trutnov hl.n.;10:17'];
+$trasa['1787_1'] = ['Trutnov hl.n.;7:43', 'Hradec Králové hl.n.;8:56'];
+$trasa['1800_1'] = ['Trutnov hl.n.;4:17', 'Kolín;7:10'];
+$trasa['1800_2'] = ['Trutnov hl.n.;4:17', 'Kolín;7:10'];
+$trasa['1801_1'] = ['Kolín;4:52', 'Trutnov hl.n.;7:41'];
+$trasa['1802_1'] = ['Trutnov hl.n.;6:16', 'Chlumec nad Cidlinou;8:25'];
+$trasa['1802_2'] = ['Trutnov hl.n.;6:16', 'Kolín;9:10'];
+$trasa['1803_1'] = ['Velký Osek;6:52', 'Trutnov hl.n.;9:35'];
+$trasa['1803_2'] = ['Kolín;6:42', 'Trutnov hl.n.;9:35'];
+$trasa['1804_1'] = ['Kunčice nad Labem;8:45', 'Chlumec nad Cidlinou;10:25'];
+$trasa['1804_2'] = ['Trutnov hl.n.;8:11', 'Kolín;11:10'];
+$trasa['1805_1'] = ['Chlumec nad Cidlinou;9:32', 'Trutnov hl.n.;11:48'];
+$trasa['1805_2'] = ['Kolín;8:42', 'Kunčice nad Labem;11:15'];
+$trasa['1807_1'] = ['Kolín;10:42', 'Trutnov hl.n.;13:35'];
+$trasa['1807_2'] = ['Chlumec nad Cidlinou;11:32', 'Trutnov hl.n.;13:35'];
+$trasa['1808_1'] = ['Trutnov hl.n.;12:11', 'Kolín;15:10'];
+$trasa['1808_2'] = ['Kunčice nad Labem;12:45', 'Kolín;15:10'];
+$trasa['1809_1'] = ['Kolín;12:42', 'Trutnov hl.n.;15:50'];
+$trasa['1809_2'] = ['Kolín;12:42', 'Kunčice nad Labem;15:15'];
+$trasa['1811_1'] = ['Kolín;14:42', 'Trutnov hl.n.;17:35'];
+$trasa['1812_1'] = ['Trutnov hl.n.;16:11', 'Kolín;19:10'];
+$trasa['1812_2'] = ['Trutnov hl.n.;16:11', 'Kolín;19:10'];
+$trasa['1812_3'] = ['Kunčice nad Labem;16:45', 'Kolín;19:10'];
+$trasa['1813_1'] = ['Kolín;16:42', 'Kunčice nad Labem;19:15'];
+$trasa['1813_2'] = ['Kolín;16:42', 'Trutnov hl.n.;19:48'];
+$trasa['1814'] = ['Trutnov hl.n.;18:24', 'Chlumec nad Cidlinou;20:25'];
+
+
 $poznamkaObehu['1802_1'] = ['pk', 'postrk'];
 $poznamkaObehu['1808_1'] = ['pk', 'postrk'];
 $poznamkaObehu['6013_1'] = ['pk', 'postrk'];
