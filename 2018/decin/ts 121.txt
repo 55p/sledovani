@@ -15,8 +15,8 @@ X;1657,1656,6431
 5904:X:Kolín;729, Nymburk hl.n.;756
 5879:X
 5874:X
-1311:X1, X5:Nymburk hl.n.;1826,Praha jih;1935
-1310:=:Praha jih;2035, Nymburk hl.n.;2135
+1311sv:X1, X5:Nymburk hl.n.;1826,Praha jih;1935
+1310sv:=:Praha jih;2035, Nymburk hl.n.;2135
 
 6402:X
 X5:6957
