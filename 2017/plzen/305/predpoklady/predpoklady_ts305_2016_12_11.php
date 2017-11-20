@@ -74,6 +74,9 @@ function predpoklad_9_TS305 ($timestamp) {
 function predpoklad_10_TS305 ($timestamp) {
   return 11;
 }
+function predpoklad_10a_TS305 ($timestamp) {
+  return NULL;
+}
 
 function predpoklad_11_TS305 ($timestamp) {
   $den = date('N', $timestamp);

@@ -4,7 +4,7 @@ $konecPlatnosti = null; //'x.x.2018 23:59:59';
 
 $obeh[1] = ['99999_1'];
 
-$trasa['99999_1'] = ['záloha Brno hl.n.;4:30;1900'];
+$trasa['99999_1'] = ['záloha Brno hl.n.;4:30;19:00'];
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
