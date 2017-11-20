@@ -1,0 +1,36 @@
+<?php
+$jmenaVlaku[112] = 'Porta Moravica';
+$jmenaVlaku[115] = 'Cracovia';
+$jmenaVlaku[116] = 'Praha';
+$jmenaVlaku[117] = 'Praha';
+$jmenaVlaku[140] = 'Landek';
+$jmenaVlaku[141] = 'Landek';
+$jmenaVlaku[142] = 'Petr Bezruč';
+$jmenaVlaku[143] = 'Petr Bezruč';
+$jmenaVlaku[144] = 'Jan Perner';
+$jmenaVlaku[145] = 'Jan Perner';
+$jmenaVlaku[242] = 'Roháče';
+$jmenaVlaku[243] = 'Roháče';
+$jmenaVlaku[340] = 'Beskyd';
+$jmenaVlaku[341] = 'Beskyd';
+$jmenaVlaku[442] = 'Slovakia';
+$jmenaVlaku[445] = 'Bohemia';
+$jmenaVlaku[513] = 'Opava';
+$jmenaVlaku[514] = 'Opava';
+$jmenaVlaku[542] = 'Vladislav Vančura';
+$jmenaVlaku[543] = 'Vladislav Vančura';
+$jmenaVlaku[544] = 'Hutník';
+$jmenaVlaku[545] = 'Hutník';
+$jmenaVlaku[603] = 'Chomutovka';
+$jmenaVlaku[604] = 'Krušnohor';
+$jmenaVlaku[607] = 'Salubia';
+$jmenaVlaku[608] = 'Bílina';
+$jmenaVlaku[611] = 'Karlex';
+$jmenaVlaku[612] = 'Svatava';
+$jmenaVlaku[615] = 'Ohře';
+$jmenaVlaku[616] = 'Egrensis';
+$jmenaVlaku[640] = 'Hukvaldy';
+$jmenaVlaku[641] = 'Hukvaldy';
+$jmenaVlaku[898] = 'Moravan';
+$jmenaVlaku[899] = 'Moravan';
+
