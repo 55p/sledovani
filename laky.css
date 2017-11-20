@@ -1,5 +1,3 @@
-
-
 /* laky vozidel */
 .lakVozidla {
   padding: 0.2ex 1ex;
@@ -34,6 +32,16 @@ br + .lakVozidla {
 .najbrt1bila {
   color: white;
   background-color: #6D99CF;
+}
+
+.cd_vectron {
+  border-top: 0.8ex solid #0C3A94;
+  border-bottom: 0; /* .4ex solid #28C8FD; */
+  background: white;
+  background: #5FD7FE;
+  color: #0C3A94;
+  padding-top: 0;
+/*  padding-bottom: 0;*/
 }
 
 .seda_lok {
