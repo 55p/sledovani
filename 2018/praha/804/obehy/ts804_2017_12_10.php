@@ -234,6 +234,9 @@ $trasa['25958_2'] = ['Praha-Zličín;22:19', 'Hostivice;22:25'];
 $trasa['25959_1'] = ['Hostivice;21:06', 'Praha-Zličín;21:12'];
 $trasa['25961_1'] = ['Hostivice;22:06', 'Praha-Zličín;22:12'];
 $trasa['25963_1'] = ['Rudná u Prahy;22:11', 'Hostivice;22:24'];
+$trasa['119902_1'] = ['Praha-Smíchov;6:16', 'Beroun;7:08'];
+$trasa['119911_1'] = ['Beroun;7:20', 'Praha-Smíchov;8:11'];
+$trasa['125900_1'] = ['Praha hl.n.;5:13', 'Rudná u Prahy;6:13'];
 
 
 $poznamkaObehu['119902_1'] = ['pk', 'postrk'];
@@ -242,7 +245,7 @@ $poznamkaObehu['19792_1'] = ['pk', 'postrk'];
 $poznamkaObehu['109839_1'] = ['pk', 'postrk'];
 $poznamkaObehu['109841_1'] = ['pk', 'postrk'];
 
-
+$typ[-1] = 'Os';
 $typ['19794_1'] = 'Sv';
 $typ['19793_1'] = 'Sv';
 $typ['25958_1'] = 'Sv';
