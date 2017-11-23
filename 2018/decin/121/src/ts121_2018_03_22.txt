@@ -8,11 +8,11 @@
 6957:=
 
 X;6930,6802,6805
-71261:X:Dìèín hl.n.;1245, Ústí nad Labem hl.n.;1304
+71261:X:DÄ›ÄÃ­n hl.n.;1245, ÃšstÃ­ nad Labem hl.n.;1304
 X;1657,1656,6431
 
 6443:X
-5904:X:Kolín;729, Nymburk hl.n.;756
+5904:X:KolÃ­n;729, Nymburk hl.n.;756
 5879:X
 5874:X
 1311sv:X1, X5:Nymburk hl.n.;1826,Praha jih;1935
@@ -33,15 +33,15 @@ X;6823,6963,679,688,685,680,691
 X;690,683,684,689
 672:X1234
 
-21811sv:X1:Praha jih;406,Kolín;458
+21811sv:X1:Praha jih;406,KolÃ­n;458
 1902:X
 1901:X
 
 1900:X
 1903:X
-21810:X5:Kolín;1836,Praha jih;1956
-71201:T:Praha-Vršovice;1545,Èerèany;1639
-9206:T:Èerèany;1658, Praha hl.n.;1735
+21810:X5:KolÃ­n;1836,Praha jih;1956
+71201:T:Praha-VrÅ¡ovice;1545,ÄŒerÄany;1639
+9206:T:ÄŒerÄany;1658, Praha hl.n.;1735
 670:T
 
 

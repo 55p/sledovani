@@ -20,5 +20,5 @@
 790pk:
 791
 784pk:
-29784:X:Ústí nad Labem-západ;1945, Dìèín hl.n.;2002
+29784:X:ÃšstÃ­ nad Labem-zÃ¡pad;1945, DÄ›ÄÃ­n hl.n.;2002
 6968:25:
