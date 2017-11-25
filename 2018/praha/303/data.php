@@ -1,7 +1,9 @@
 <?php
 // sem patri definice skupin. 
-$skupiny[] = $ts144 = new TS ('TS 144', '150');
-$skupiny[] = $ts171 = new TS ('TS 171', '162 ZSSK');
+$skupiny[] = $ts303 = new TS ('TS 303', '380');
+$skupiny[] = $ts303a = new TS ('TS 303a', '380');
+$skupiny[] = $ts303b = new TS ('TS 303b', '380');
+
 
 if (file_exists(__DIR__.'/typy.php')) {
   include __DIR__.'/typy.php';

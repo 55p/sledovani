@@ -1,0 +1,34 @@
+<?php
+$jmenaVlaku[100] = 'Moravia';
+$jmenaVlaku[101] = 'Moravia';
+$jmenaVlaku[102] = 'Polonia';
+$jmenaVlaku[103] = 'Polonia';
+$jmenaVlaku[104] = 'Sobieski';
+$jmenaVlaku[105] = 'Sobieski';
+$jmenaVlaku[121] = 'Hradčany';
+$jmenaVlaku[123] = 'Fatra';
+$jmenaVlaku[124] = 'Radhošť';
+$jmenaVlaku[129] = 'Vsacan';
+$jmenaVlaku[130] = 'Varsovia';
+$jmenaVlaku[131] = 'Varsovia';
+$jmenaVlaku[173] = 'Hungaria';
+$jmenaVlaku[220] = 'Súľov';
+$jmenaVlaku[270] = 'Metropolitan';
+$jmenaVlaku[271] = 'Metropolitan';
+$jmenaVlaku[272] = 'Metropolitan';
+$jmenaVlaku[273] = 'Metropolitan';
+$jmenaVlaku[274] = 'Metropolitan';
+$jmenaVlaku[275] = 'Metropolitan';
+$jmenaVlaku[276] = 'Metropolitan';
+$jmenaVlaku[277] = 'Metropolitan';
+$jmenaVlaku[280] = 'Metropolitan';
+$jmenaVlaku[281] = 'Metropolitan';
+$jmenaVlaku[406] = 'Chopin';
+$jmenaVlaku[407] = 'Chopin';
+$jmenaVlaku[476] = 'Metropol';
+$jmenaVlaku[477] = 'Metropol';
+$jmenaVlaku[572] = 'Metropolitan';
+$jmenaVlaku[573] = 'Metropolitan';
+$jmenaVlaku[590] = 'Slezan';
+$jmenaVlaku[591] = 'Slezan';
+

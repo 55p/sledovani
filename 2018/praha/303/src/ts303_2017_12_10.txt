@@ -1,0 +1,39 @@
+﻿bn=Budapest-Nyugati pu.
+bo=Bohumín
+p=Praha hl.n.
+
+
+121:13
+123:2512,2612,0101
+124
+573
+
+572
+277
+476::Budapest-Keleti pu.;2025, Břeclav;2355
+
+406::Břeclav;025,Bohumín;211
+101::Bohumín;651,Wien Hbf;949
+102::Wien Hbf;1410,Bohumín;1708
+105::Bohumín;1851,Wien Hbf;2149
+
+104::Wien Hbf;810,Bohumín;1108
+131::Bohumín;1351,bn;1919
+
+100172::bn;742,p;1407
+281::
+
+280
+173::p;1351,bn;2019
+
+130::bn;841,bo;1408
+591::
+816:XT:Břeclav;2121,Hodonín;2133
+70210:=:Hodonín;2158,Břeclav;2213
+
+100476::Břeclav;025,Praha hl.n.;604
+275
+270
+
+271
+274

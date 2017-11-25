@@ -1,0 +1,13 @@
+273
+272
+
+477::Praha hl.n.;000,Břeclav;344
+70211:X6:Břeclav;510,Hodonín;525
+816:X6:Hodonín;626,Břeclav;640
+590
+103::Bohumín;1051,Wien Hbf;1349
+100::Wien Hbf;1810,Bohumín;2108
+
+407::Bohumín;227,Břeclav;414
+100477::Břeclav;459,Budapest-Keleti pu;835
+276
