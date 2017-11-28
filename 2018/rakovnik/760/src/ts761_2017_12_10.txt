@@ -1,0 +1,16 @@
+Bub=Praha-Bubny
+Stř=Středokluky
+Dej=Praha-Dejvice
+Kla=Kladno
+Dub=Kladno-Dubí
+Ost=Kladno-Ostrovec
+Vlt=Praha-Bubny Vltavská
+Hos=Hostivice
+
+
+1223pk:
+1230:
+1227pk:
+1226:
+1231pk:
+1222:

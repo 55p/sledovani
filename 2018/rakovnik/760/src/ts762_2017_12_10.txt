@@ -1,36 +1,17 @@
 Bub=Praha-Bubny
-Stø=Støedokluky
+StÅ™=StÅ™edokluky
 Dej=Praha-Dejvice
 Kla=Kladno
-Dub=Kladno-Dubí
+Dub=Kladno-DubÃ­
 Ost=Kladno-Ostrovec
-Vlt=Praha-Bubny Vltavská
+Vlt=Praha-Bubny VltavskÃ¡
 Hos=Hostivice
 
 
-1221pk:X6
-1234:X
-1232:6
-1225pk:
-1906:
-1907pk:
-1228:
-1229pk:
-1224:
-1233pk:T
-1220:T
-
-1223pk:
-1230:
-1227pk:
-1226:
-1231pk:
-1222:
-
 9801:X
-19736sv:X:Bub;16:28,Stø;17:30
+19736sv:X:Bub;16:28,StÅ™;17:30
 19735:X
-119735sv:X:Dej;18:50,Bub;18:55
+19735sv:X:Dej;18:50,Bub;18:55
 1908:X
 
 19860sv:X:Kla;6:21,Dub;6:35
@@ -44,7 +25,7 @@ Hos=Hostivice
 19734:25
 19747:25
 19797sv:25:Hos;8:39,Bub;8:59
-19736sv:25:Bub;16:28,Stø;17:30
+19736sv:25:Bub;16:28,StÅ™;17:30
 19735:25
 19792sv:25:Dej;18:50,Kla;19:58
 
@@ -55,11 +36,3 @@ Hos=Hostivice
 9848:X
 19895sv:X:Ost;20:10,Kla;20:16
 19714:X
-
-1651:X
-1650:X
-
-9013:X
-9018:X
-
-
