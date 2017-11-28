@@ -1,8 +1,9 @@
 Ber=Beroun
-Lit=Liteò
-Zad=Zadní Tøebaò
-Rak=Rakovník
-Roz=Roztoky u Køivoklátu
+Lit=LiteÅˆ
+Zad=ZadnÃ­ TÅ™ebaÅˆ
+Rak=RakovnÃ­k
+Roz=Roztoky u KÅ™ivoklÃ¡tu
+
 
 27790sv:X:Ber;4:52,Lit;5:15
 27731:X
@@ -23,10 +24,10 @@ Roz=Roztoky u Køivoklátu
 27711pk:25
 27712:
 27713:X1234
-27713pk:5,25
+27713pk:X5,25
 27714:
 27715:X1234
-27715pk:5,25
+27715pk:X5,25
 27716:X6
 27715sv:T:Zad;18:35,Ber;18:47
 27717:X6
@@ -69,14 +70,15 @@ Roz=Roztoky u Køivoklátu
 7790sv:X:Rak;6:25,Roz;6:41
 7715:X:Roz;6:59,Rak;7:20
 7716:X
-127712sv:5:Ber;13:53,Zad;14:06
-127712pk:5
-127713:5
-127714pk:5
-127715:5
-127716pk:5
+127712sv:X5:Ber;13:53,Zad;14:06
+127712pk:=
+127713:=
+127714pk:=
+127715:=
+127716pk:=
 
 
 1:7:1
 2:6:1
 2:7:2
+3:67:3
