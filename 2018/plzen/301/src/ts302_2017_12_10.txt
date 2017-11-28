@@ -1,4 +1,4 @@
-﻿p=Praha hl.n.
+p=Praha hl.n.
 n=Plzeň hl.n.
 u=Ústí nad Labem hl.n.
 c=Cheb
@@ -18,7 +18,7 @@ c=Cheb
 8020:X
 T;718,715,530,727,8022
 
-653:X6
+653:X6:Strakonice;457,České Budějovice;549
 X;534,533,704,731
 T;705
 
