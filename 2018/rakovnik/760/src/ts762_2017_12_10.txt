@@ -1,4 +1,4 @@
-Bub=Praha-Bubny
+﻿Bub=Praha-Bubny
 Stř=Středokluky
 Dej=Praha-Dejvice
 Kla=Kladno
@@ -20,7 +20,7 @@ Hos=Hostivice
 1894:X
 19893sv:X:Ost;19:35,Kla;19:41
 19791sv:25:Kla;3:24,Hos;3:37
-19790sv:25:Hos;3:50,Str;4:03
+19790sv:25:Hos;3:50,Stř;4:03
 19731:25
 19734:25
 19747:25
