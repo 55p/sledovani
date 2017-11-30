@@ -7,10 +7,8 @@ $obeh[1] = ['1651_1', '1650_1'];
 $omezeni['1650_1'] = 'X';
 $omezeni['1651_1'] = 'X';
 
-
-
-
-
+$trasa['1650_1'] = ['Praha-Libeň;16:05', 'Louny;18:27'];
+$trasa['1651_1'] = ['Louny;5:29', 'Praha-Libeň;7:36'];
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
