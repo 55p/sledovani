@@ -1,5 +1,5 @@
-v=Èeské Velenice
-b=Èeské Budìjovice
+v=ÄŒeskÃ© Velenice
+b=ÄŒeskÃ© BudÄ›jovice
 
 
 102154pk:X:v;626,b;715
