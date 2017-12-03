@@ -1,0 +1,4 @@
+406::Bohumín;3:22,Kraków Gl.;6:10
+114::Kraków Gl.;10:47,Bohumín;13:33
+115::Bohumín;14:19,Kraków Gl.;16:59
+407::Kraków Gl.;22:41,Bohumín;1:32
