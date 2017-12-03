@@ -7,8 +7,7 @@ TS 4x a 6x Bohumín (udìlá si David Valouch)
 TS PP Opava (udìlá si David Valouch)
 
 TS Tábor (udìlá si autor)
-TS 201 Plzeò
----TS 880 Louny (udìlá Hrotmajstr)
+
 
 TS 8x kolín udìlají autoøi
 
@@ -18,8 +17,6 @@ soukromí dopravci
 
 zpracovat:
 
-tøebová 101
-TS 202-5 plzen
+TS 2x plzen
 brno 2x
-TS 871 Trutnov
-TS 401 Olomouc
+---TS 880 Louny (udìlá Hrotmajstr)
