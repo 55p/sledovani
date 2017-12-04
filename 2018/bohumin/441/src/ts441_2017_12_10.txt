@@ -1,0 +1,25 @@
+1600:X
+1601:X
+101601sv:X:Ostrava střed;6:21, Ostrava-Kunčice;6:27
+28908sv:25:Bohumín;6:03, Ostrava-Svinov;6:16
+3403:25:Ostrava-Svinov;6:21, Ostrava-Kunčice;6:31
+2839
+3410
+3411
+3418
+3417
+3426
+3427
+2836:10
+2849:10
+
+3402
+3405
+3412
+3413
+3420
+3419
+3428
+3429
+2838
+28915sv::Ostrava-Svinov;21:37, Bohumín;21:50
