@@ -22,7 +22,7 @@ $omezeni['4967_1'] = 'X';
 $omezeni['4970_1'] = 'X';
 $omezeni['4971_1'] = 'X';
 $omezeni['4974_1'] = 'X';
-$omezeni['4976_1'] = 'X';
+$omezeni['4979_1'] = 'X';
 $omezeni['4982_1'] = 'X';
 $omezeni['4983_1'] = 'X';
 
@@ -43,9 +43,10 @@ $trasa['4967_1'] = ['Tišnov;8:15', 'Brno hl.n.;8:52'];
 $trasa['4970_1'] = ['Brno hl.n.;14:06', 'Tišnov;14:42'];
 $trasa['4971_1'] = ['Brno hl.n.;13:55', 'Hrušovany u Brna;14:12'];
 $trasa['4974_1'] = ['Hrušovany u Brna;14:41', 'Tišnov;15:43'];
-$trasa['4976_1'] = ['Brno hl.n.;15:35', 'Tišnov;16:14'];
 $trasa['4982_1'] = ['Hrušovany u Brna;16:41', 'Tišnov;17:43'];
 $trasa['4983_1'] = ['Tišnov;16:15', 'Vranovice;17:26'];
+$trasa['4976_1'] = ['Brno hl.n.;15:35', 'Tišnov;16:14'];
+
 
 $poznamkaObehu['104938_1'] = ['vlož', 'vložená'];
 
