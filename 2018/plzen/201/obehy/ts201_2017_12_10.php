@@ -123,7 +123,10 @@ $trasa['8910_1'] = ['Horažďovice předměstí;10:43', 'Plzeň hl.n.;11:53'];
 $trasa['8919_1'] = ['Plzeň hl.n.;22:57', 'Horažďovice předměstí;23:59'];
 $trasa['8943_1'] = ['Plzeň hl.n.;5:08', 'Nepomuk;5:54'];
 
-
+for ($i = 650; $i < 670; $i++) {
+  $poznamkaObehu[$i] = array(' Pl','');
+  $poznamkaObehu[100000 + $i] = array(' Ji','');
+}
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
