@@ -116,6 +116,6 @@ function predpoklad_13_TS202 ($timestamp) {
   if ($den == 6) {
     return 13;
   }
-  return 1;
+  return 14;
 }
 
