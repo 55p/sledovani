@@ -41,6 +41,9 @@ $omezeni['8962_1'] = 'X';
 $trasa['663_1'] = ['Plzeň hl.n.;8:02','České Budějovice;9:55'];
 $trasa['668_1'] = ['České Budějovice;12:04','Plzeň hl.n.;13:57'];
 
+$poznamkaObehu['663_1'] = [' Pl', ''];
+$poznamkaObehu['668_1'] = [' Pl', ''];
+
 $trasa['1969_1'] = ['Plzeň hl.n.;14:58', 'Strakonice;16:12'];
 $trasa['8901_1'] = ['Plzeň hl.n.;7:08', 'Horažďovice předměstí;8:16'];
 $trasa['8902_1'] = ['Horažďovice předměstí;4:47', 'Plzeň hl.n.;5:54'];

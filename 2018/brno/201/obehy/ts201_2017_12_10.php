@@ -82,7 +82,7 @@ $trasa['4931_1'] = ['Tišnov;11:00', 'Vranovice;12:10'];
 $trasa['4932_1'] = ['Vranovice;13:47', 'Tišnov;14:59'];
 $trasa['4933_1'] = ['Tišnov;12:00', 'Vranovice;13:10'];
 $trasa['4934_1'] = ['Šakvice;14:37', 'Tišnov;16:01'];
-$trasa['4938_1'] = ['Vranovice;22:17', 'Tišnov;23:37'];
+$trasa['4938_1'] = ['Vranovice;22:17', 'Brno hl.n.;22:50'];
 $trasa['4939_1'] = ['Tišnov;22:30', 'Vranovice;23:40'];
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
