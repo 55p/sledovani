@@ -74,6 +74,20 @@ $omezeni['7716_1'] = 'X';
 $omezeni['7737_1'] = 'X';
 $omezeni['7790_1'] = 'X';
 
+$trasa['127705_1'] = ['Lochovice;8:25', 'Zadní Třebaň;9:09'];
+$trasa['127706_1'] = ['Zadní Třebaň;9:17', 'Lochovice;10:02'];
+$trasa['127711_1'] = ['Lochovice;13:25', 'Zadní Třebaň;14:09'];
+$trasa['127712_1'] = ['Zadní Třebaň;14:17', 'Lochovice;15:02'];
+$trasa['127712_3'] = ['Zadní Třebaň;14:17', 'Lochovice;15:02'];
+$trasa['127713_1'] = ['Lochovice;15:25', 'Zadní Třebaň;16:09'];
+$trasa['127713_2'] = ['Lochovice;15:25', 'Zadní Třebaň;16:09'];
+$trasa['127714_1'] = ['Zadní Třebaň;16:17', 'Lochovice;17:02'];
+$trasa['127714_2'] = ['Zadní Třebaň;16:17', 'Lochovice;17:02'];
+$trasa['127715_1'] = ['Lochovice;17:25', 'Zadní Třebaň;18:09'];
+$trasa['127715_2'] = ['Lochovice;17:25', 'Zadní Třebaň;18:09'];
+$trasa['127716_1'] = ['Zadní Třebaň;18:17', 'Lochovice;19:02'];
+$trasa['127716_2'] = ['Zadní Třebaň;18:17', 'Lochovice;19:02'];
+
 $trasa['127712_2'] = ['Beroun;13:53','Zadní Třebaň;14:06'];
 $trasa['27715_3'] = ['Zadní Třebaň;18:35','Beroun;18:47'];
 $trasa['27790_1'] = ['Beroun;4:52','Liteň;5:15'];

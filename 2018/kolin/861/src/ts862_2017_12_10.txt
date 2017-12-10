@@ -1,6 +1,7 @@
-kh=Kutná Hora hl.n.
-km=Kutná Hora mìsto
-ko=Kolín
+kh=KutnÃ¡ Hora hl.n.
+km=KutnÃ¡ Hora mÄ›sto
+ko=KolÃ­n
+
 
 2414:X
 2416:25
@@ -31,7 +32,7 @@ ko=Kolín
 22210:6
 2430:X
 2430:7
-2430vlož:7:km;1644,kh;1652
+2430vloÅ¾:7:km;1644,kh;1652
 22213:6
 2425:X7
 2463:6

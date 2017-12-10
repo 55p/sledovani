@@ -8,6 +8,6 @@ function predpoklad_2_TS304 ($timestamp) {
 }
 
 function predpoklad_1a_TS304 ($timestamp) {
-  return '1a'';
+  return '1a';
 }
 
