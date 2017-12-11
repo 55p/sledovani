@@ -673,6 +673,16 @@ br + .lakVozidla {
   color: #D6D1A3;
 }
 
+.berta_modrocervena {
+  background: #B1D0FE;
+  color: #DD0000 ;
+}
+
+.berta_modra {
+  background: #3C4DC1 ;
+  color: #FFB0B0 ;
+}
+
 .arriva1 {
   /*background: #01BA87;*/
   background: #018091;
@@ -695,4 +705,25 @@ br + .lakVozidla {
 .obb1144 {
   background: #D1D1D1;
   color: #D20000;
+}
+
+.polomacena {
+  background: #FFEEC6;
+  color: #EC0000;
+}
+.polomacena_oranz {
+  background: #FFEEC6;
+  color: #EC0000;
+  border-left: 1ex solid #FFA600;
+  border-right: 1ex solid #FFA600;
+  padding-left: 0.5ex;
+  padding-right: 0.5ex;
+}
+.polomacena_zluty {
+  background: #FFF0CE;
+  color: #EC0000;
+  border-left: 1ex solid #F1FE01;
+  border-right: 1ex solid #F1FE01;
+  padding-left: 0.5ex;
+  padding-right: 0.5ex;
 }

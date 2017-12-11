@@ -149,7 +149,7 @@ $lak['br_cerny'] = array(754018);
 $lak['br_zeleny_blesk'] = array(754023, 754045, 754080);
 $lak['br_rudy_blesk'] = array(754049, 754066);
 $lak['br_modry_blesk'] = array(754019, 754029, 754020, 754024, 754027, 754057, 754059);
-$lak['br_cerveny_pruh'] = array(754044);
+$lak['br_cerveny_pruh'] = [754044, 830180];
 
 $lak['leo_express'] = [480001, 480002, 480003, 480004, 480005];
 $lak['regiojet'] = [162113, 162114, 162115, 162116, 162117, 162118, 162119, 162120];
@@ -280,3 +280,8 @@ $lak['lego_10'] = array(708010);
 $lak['berta_seda'] = array(749006, 749107);
 $lak['berta_modra'] = array(749121);
 $lak['berta_zelena'] = array(749264);
+$lak['berta_modrocervena'] = [749265];
+
+$lak['polomacena'] = [830056];
+$lak['polomacena_oranz'] = [831117, 831168];
+$lak['polomacena_zluty'] = [831183, 831212];
