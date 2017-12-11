@@ -27,8 +27,8 @@ $trasa['3637'] = ['Olomouc hl.n.;14:37', 'Šumperk;16:10'];
 $trasa['3680_2'] = ['Šumperk;4:34', 'Uničov;5:15'];
 $trasa['13722'] = ['Uničov;5:37', 'Olomouc hl.n.;6:20'];
 
-$trasa['70360_1'] = ['Zábřeh na Moravě;18:31:Šumperk;19:04'];
-$trasa['70361_1'] = ['Šumperk;7:46:Zábřeh na Moravě;8:31'];
+$trasa['70360_1'] = ['Zábřeh na Moravě;18:31','Šumperk;19:04'];
+$trasa['70361_1'] = ['Šumperk;7:46','Zábřeh na Moravě;8:31'];
 $trasa['13005_1'] = ['Šumperk;7:06', 'Zábřeh na Moravě;7:24'];
 $trasa['1701_1'] = ['Zábřeh na Moravě;7:31', 'Jeseník;8:58'];
 $trasa['1715_1'] = ['Zábřeh na Moravě;15:31', 'Jeseník;17:17'];

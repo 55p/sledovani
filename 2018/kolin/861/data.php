@@ -1,8 +1,7 @@
 <?php
 // sem patri definice skupin. 
-// $skupiny[] = $ts861 = new TS ('TS 861', '814');
+$skupiny[] = $ts861 = new TS ('TS 861', '814');
 $skupiny[] = $ts862 = new TS ('TS 862', '814');
-
 
 if (file_exists(__DIR__.'/typy.php')) {
   include __DIR__.'/typy.php';

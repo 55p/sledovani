@@ -21,8 +21,8 @@ $omezeni['3683_1'] = 'X';
 $omezeni['70361_1'] = '25';
 $omezeni[3637] = 'X';
 
-$trasa['70360_1'] = ['Zábřeh na Moravě;18:31:Šumperk;19:04'];
-$trasa['70361_1'] = ['Šumperk;7:46:Zábřeh na Moravě;8:31'];
+$trasa['70360_1'] = ['Zábřeh na Moravě;18:31','Šumperk;19:04'];
+$trasa['70361_1'] = ['Šumperk;7:46','Zábřeh na Moravě;8:31'];
 $trasa['13005_1'] = ['Šumperk;7:06', 'Zábřeh na Moravě;7:24'];
 $trasa['1701_1'] = ['Zábřeh na Moravě;7:31', 'Jeseník;8:58'];
 $trasa['1715_1'] = ['Zábřeh na Moravě;15:31', 'Jeseník;17:17'];
