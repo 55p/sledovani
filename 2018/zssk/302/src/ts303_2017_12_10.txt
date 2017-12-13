@@ -1,0 +1,6 @@
+ba=Bratislava hl. st.
+ke=Košice
+
+
+602: :ke;607,ba;1157
+609: :ba;1403,ke;1953
