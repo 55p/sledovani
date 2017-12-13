@@ -50,14 +50,6 @@ function predpoklad_9_TS145 ($timestamp) {
 }
 
 function predpoklad_10_TS145 ($timestamp) {
-  return 11;
-}
-
-function predpoklad_11_TS145 ($timestamp) {
-  return 12;
-}
-
-function predpoklad_12_TS145 ($timestamp) {
   return 1;
 }
 
