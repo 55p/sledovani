@@ -1,10 +1,10 @@
 <?php 
 function predpoklad_1_TS303 ($timestamp) {
-  return 3;
+  return 2;
 }
 
 function predpoklad_2_TS303 ($timestamp) {
-  return 2;
+  return 3;
 }
 
 function predpoklad_3_TS303 ($timestamp) {

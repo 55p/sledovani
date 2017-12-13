@@ -22,3 +22,9 @@ $jmenaVlaku[613] = 'Svatava';
 $jmenaVlaku[614] = 'Ohře';
 $jmenaVlaku[617] = 'Egrensis';
 
+$jmenaVlaku[350] = 'Západní expres';
+$jmenaVlaku[351] = 'Západní expres';
+$jmenaVlaku[356] = 'Západní expres';
+$jmenaVlaku[357] = 'Západní expres';
+$jmenaVlaku[362] = 'Západní expres';
+$jmenaVlaku[363] = 'Západní expres';
