@@ -24,7 +24,7 @@ $omezeni['1019_1'] = '10';
 $omezeni['1021_1'] = '10';
 $omezeni['1022_1'] = 'T';
 
-$trasa['1000_1'] = ['opava východ;4:15','Praha hl.n.;7:52'];
+$trasa['1000_1'] = ['Opava východ;4:15','Praha hl.n.;7:52'];
 $trasa['1001_1'] = ['Praha hl.n.;5:48','Havířov;9:28'];
 $trasa['1002_1'] = ['Návsí;4:24','Praha hl.n.;8:52'];
 $trasa['1002_2'] = ['Ostrava-Svinov;5:36','Praha hl.n.;8:52'];
@@ -35,16 +35,16 @@ $trasa['1007_1'] = ['Praha hl.n.;11:07','Havířov;15:28'];
 $trasa['1009_1'] = ['Praha hl.n.;13:48','Havířov;17:28'];
 $trasa['1010_1'] = ['Havířov;10:07','Praha hl.n.;13:52'];
 $trasa['1010_2'] = ['Návsí;9:24','Praha hl.n.;13:52'];
-$trasa['1012_1'] = ['k;7:45','Praha hl.n.;15:52'];
-$trasa['1013_1'] = ['Praha hl.n.;15:48','opava východ;19:20'];
+$trasa['1012_1'] = ['Košice;7:45','Praha hl.n.;15:52'];
+$trasa['1013_1'] = ['Praha hl.n.;15:48','Opava východ;19:20'];
 $trasa['1014_1'] = ['Havířov;14:07','Praha hl.n.;17:52'];
 $trasa['1015_1'] = ['Praha hl.n.;16:48','Návsí;21:07'];
 $trasa['1016_1'] = ['Havířov;16:07','Praha hl.n.;19:52'];
 $trasa['1017_1'] = ['Praha hl.n.;17:48','Návsí;22:07'];
 $trasa['1018_1'] = ['Havířov;18:07','Praha hl.n.;21:52'];
 $trasa['1019_1'] = ['Praha hl.n.;19:48','Návsí;0:07'];
-$trasa['1021_1'] = ['Praha hl.n.;21:48','k;6:14'];
-$trasa['1022_1'] = ['opava východ;5:15','Ostrava-Svinov;5:35'];
+$trasa['1021_1'] = ['Praha hl.n.;21:48','Košice;6:14'];
+$trasa['1022_1'] = ['Opava východ;5:15','Ostrava-Svinov;5:35'];
 
 
 
