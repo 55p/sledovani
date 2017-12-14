@@ -16,7 +16,7 @@ $omezeni['6968_1'] = 'X5';
 $omezeni['71260_1'] = 'X';
 
 $trasa['601_1'] = ['Kadaň-Prunéřov;4:53','Ústí nad Labem hl.n.;6:07'];
-$trasa['71260_1'] = ['Ústí nad Labem hl.n.;Děčín hl.n.;638'];
+$trasa['71260_1'] = ['Ústí nad Labem hl.n.;6:15','Děčín hl.n.;6:38'];
 
 $trasa['1698_1'] = ['Ústí nad Labem hl.n.;17:46', 'Chomutov;18:49'];
 $trasa['674_1'] = ['Praha hl.n.;19:51', 'Ústí nad Labem hl.n.;21:15'];

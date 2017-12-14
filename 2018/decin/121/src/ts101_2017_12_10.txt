@@ -1,9 +1,9 @@
-675:X
+﻿675:X
 682:X
 1698:X
 
 601:X:Kadaň-Prunéřov;453,Ústí nad Labem hl.n.;607
-71260:X:Ústí nad Labem hl.n.;Děčín hl.n.;638
+71260:X:Ústí nad Labem hl.n.;615,Děčín hl.n.;638
 677:X
 678:X1234
 674:X5
