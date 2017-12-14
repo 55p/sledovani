@@ -11,6 +11,7 @@ $jmenaVlaku[363] = 'Západní expres';
 $jmenaVlaku[531] = 'Jižní expres';
 $jmenaVlaku[535] = 'Jižní expres';
 $jmenaVlaku[537] = 'Budvar';
+$jmenaVlaku[538] = 'Jižní expres';
 $jmenaVlaku[539] = 'Jižní expres';
 $jmenaVlaku[556] = 'Západní expres';
 $jmenaVlaku[557] = 'Západní expres';
