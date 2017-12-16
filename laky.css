@@ -160,6 +160,14 @@ br + .lakVozidla {
   color: #fff;
   background-color: #FF0000;
 }
+.zssk_vectron {
+  color: #000;
+  background-color: #F55;
+  border-left: 0.4ex solid #000;
+  border-right: 0.4ex solid #000;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
+}
 
 .kakadu {
   color: #fff;
