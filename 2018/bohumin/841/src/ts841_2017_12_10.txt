@@ -1,5 +1,5 @@
-B=Bohumín
-S=Studénka
+B=BohumÃ­n
+S=StudÃ©nka
 SO=Suchdol nad Odrou
 
 
