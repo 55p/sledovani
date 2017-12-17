@@ -2,7 +2,7 @@
 $zacatekPlatnosti = '10.12.2017';
 $konecPlatnosti = null; //'x.x.2018 23:59:59';
 
-$obeh[1] = ['614_1', '17614_1', '615_1'];
+$obeh[1] = ['614_1', '17614_1', 1739, 1742, '615_1'];
 $obeh[2] = ['126_1', '523_1'];
 $obeh[3] = ['522_1', '127_1'];
 $obeh[4] = ['442_1', '546_1', '444_1', '125_1', '120_1'];
@@ -18,6 +18,8 @@ $omezeni['522_1'] = '13';
 $omezeni['523_1'] = '12';
 $omezeni['546_1'] = '58_2018';
 $omezeni['614_1'] = '1,2,3,4,5';
+$omezeni[1739] = 'X';
+$omezeni[1742] = 'X';
 
 $trasa['17614_1'] = ['Žilina;3:07','Bratislava hl.st.;6:03'];
 $trasa['442_1'] = ['Žilina;1:38','Bohumín;3:06'];
@@ -38,6 +40,8 @@ $trasa['520_1'] = ['Vsetín;6:52', 'Praha hl.n.;10:36'];
 $trasa['521_1'] = ['Praha hl.n.;17:24', 'Vsetín;21:07'];
 $trasa['522_1'] = ['Vsetín;4:56', 'Praha hl.n.;8:36'];
 $trasa['523_1'] = ['Praha hl.n.;19:24', 'Vsetín;23:03'];
+$trasa[1742] = ['Trnava;17:45', 'Bratislava hl.st.;18:19'];
+$trasa[1739] = ['Bratislava hl.st.;16:33', 'Trnava;17:10'];
 
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
