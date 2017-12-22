@@ -1,0 +1,19 @@
+3220: X :
+3221: X :
+3230: X :
+21955sv: X : Hranice na Moravě; 11:15, Valašské Meziříčí; 11:38
+3171: 25 : 
+3110: 25 :
+3259: 
+23227: T : 
+
+23200: X1 :
+113255pk: X : Vsetín; 5:05: Velké Karlovice; 5:56
+13256: X :
+113265pk: X : Vsetín; 13:56, Velké Karlovice; 14:50
+13268: X :
+113269pk: X : Vsetín; 15:56, Velké Karlovice; 16:47
+13272: X :
+3249: z25 : 
+3254: z25 : 
+103248pk: z25 : Horní Lideč; 21:15, Valašské Meziříčí; 22:00
