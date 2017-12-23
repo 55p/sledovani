@@ -288,6 +288,8 @@ $trasa['3442_1'] = ['Ostrava-Svinov;4:39', 'Opava východ;5:14'];
 $trasa['3442_2'] = ['Ostrava-Svinov;4:39', 'Opava východ;5:14'];
 $trasa['3449_1'] = ['Opava východ;21:47', 'Ostrava-Svinov;22:19'];
 $trasa['3450_1'] = ['Ostrava-Svinov;23:04', 'Opava východ;23:41'];
+$trasa['113402_1'] = ['Hlučín;5:32', 'Opava východ;6:12'];
+$trasa['113406_1'] = ['Hlučín;7:32', 'Opava východ;8:12'];
 
 
 
