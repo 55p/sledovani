@@ -1,4 +1,4 @@
-p=Praha hl.n.
+﻿p=Praha hl.n.
 h=Havířov
 n=Návsí
 o=opava východ
@@ -13,7 +13,7 @@ os=Ostrava-Svinov
 1002:X6:n;424,p;852
 1022:T:o;515,os;535
 1002:T:os;536,p;852
-1007::p;1107,h;1528
+1007::p;1148,h;1528
 1016::h;1607,p;1952
 1021:10:p;2148,k;614
 
