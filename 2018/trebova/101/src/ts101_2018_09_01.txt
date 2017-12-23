@@ -1,4 +1,4 @@
-p=Praha hl.n.
+﻿p=Praha hl.n.
 h=Hradec Králové hl.n.
 t=Týniště nad Orlicí
 c=Chlumec nad Cidlinou
@@ -32,8 +32,8 @@ X1;5201,5616
 952:X2345
 923:=:p;807,h;951
 1953vlož:X:h;1305,t;1327
-5633
-1866
+5633:X
+1866:X
 943:25
 930:25:h;1008,p;1149
 929:25:p;1407,h;1551
