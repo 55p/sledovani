@@ -29,13 +29,10 @@ $trasa['1042_1'] = ['Brno hl.n.;6:09','Praha hl.n.;8:42'];
 $trasa['1043_1'] = ['Praha hl.n.;11:21','Bratislava hl.st.;15:12'];
 $trasa['1044_1'] = ['Bratislava hl.st.;5:45','Praha hl.n.;9:42'];
 $trasa['1047_1'] = ['Praha hl.n.;15:21','Bratislava hl.st.;19:12'];
-$trasa['1050_1'] = ['Bratislava hl.st.;12:47','Praha hl.n.;14:42'];
+$trasa['1050_1'] = ['Bratislava hl.st.;12:47','Praha hl.n.;16:42'];
 $trasa['1051_1'] = ['Praha hl.n.;18:21','Brno hl.n.;20:46'];
 $trasa['1052_1'] = ['Bratislava hl.st.;15:26','Praha hl.n.;19:42'];
 $trasa['1053_1'] = ['Praha hl.n.;20:21','Brno hl.n.;22:59'];
-
-
-
 
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];

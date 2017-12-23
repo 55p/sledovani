@@ -12,9 +12,6 @@ $obeh[7] = ['1042_1', '1043_1', '1052_1'];
 
 $omezeni['1030_1'] = 'X6';
 $omezeni['1031_1'] = 'X6';
-$omezeni['1036_1'] = '10';
-$omezeni['1041_1'] = '11';
-$omezeni['1052_1'] = '10';
 
 $trasa['1030_1'] = ['Wien Hbf;6:30','Praha hl.n.;10:42'];
 $trasa['1031_1'] = ['Praha hl.n.;5:21','Wien Hbf;9:23'];
@@ -32,13 +29,10 @@ $trasa['1044_1'] = ['Bratislava hl.st.;5:45','Praha hl.n.;9:42'];
 $trasa['1047_1'] = ['Praha hl.n.;15:21','Bratislava hl.st.;19:12'];
 $trasa['1048_1'] = ['Bratislava hl.st.;8:47','Praha hl.n.;12:42'];
 $trasa['1049_1'] = ['Praha hl.n.;17:21','Bratislava hl.st.;21:12'];
-$trasa['1050_1'] = ['Bratislava hl.st.;12:47','Praha hl.n.;14:42'];
+$trasa['1050_1'] = ['Bratislava hl.st.;12:47','Praha hl.n.;16:42'];
 $trasa['1051_1'] = ['Praha hl.n.;18:21','Brno hl.n.;20:46'];
 $trasa['1052_1'] = ['Bratislava hl.st.;15:26','Praha hl.n.;19:42'];
 $trasa['1053_1'] = ['Praha hl.n.;20:21','Brno hl.n.;22:59'];
-
-
-
 
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
