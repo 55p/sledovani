@@ -79,7 +79,7 @@ $omezeni['8700_1'] = 'X';
 $omezeni['8702_1'] = 'X';
 $omezeni['8703_1'] = 'X';
 $omezeni['8704_1'] = 'X';
-$omezeni[2194] = 'X';
+$omezeni['2194_1'] = 'X';
 $omezeni['8721_1'] = 'X';
 
 $trasa['108313_1'] = ['Jindřichův Hradec;17:47','Veselí nad Lužnicí;18:23'];
