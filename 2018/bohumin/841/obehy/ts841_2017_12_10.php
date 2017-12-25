@@ -269,6 +269,7 @@ $trasa['23148_1'] = ['Kopřivnice;20:12', 'Štramberk;20:15'];
 $trasa['3370_1'] = ['Studénka;17:01', 'Suchdol nad Odrou;17:13'];
 $trasa['3371_1'] = ['Suchdol nad Odrou;4:26', 'Studénka;4:39'];
 $trasa['3373_1'] = ['Suchdol nad Odrou;17:49', 'Studénka;18:00'];
+$trasa['23133'] = ['Štramberk;9:24', 'Studénka;9:50'];
 
 
 

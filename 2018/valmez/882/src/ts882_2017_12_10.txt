@@ -3,7 +3,7 @@
 3120: 25 : 
 103123: 25 :Frenštát pod Radhoštěm město;5:49, Frýdek-Místek;6:28
 3163: X :
-3122: 25 :
+103122: 25 :
 13181sv: 25 : Frenštát p. R.-město; 07:16, Frenštát p. R.; 07:19
 3164:
 3165:
