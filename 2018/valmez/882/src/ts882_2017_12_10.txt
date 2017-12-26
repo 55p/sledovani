@@ -1,4 +1,4 @@
-﻿3162pk: X : Frýdek-Místek; 04:29, Frýdlant n. O.; 04:42
+3162pk: X : Frýdek-Místek; 04:29, Frýdlant n. O.; 04:42
 3162: X : Frýdlant n. O.; 04:46, Valašské Meziříčí; 05:56
 3120: 25 : 
 103123: 25 :Frenštát pod Radhoštěm město;5:49, Frýdek-Místek;6:28
@@ -65,7 +65,7 @@
 12803: X :
 112804pk: X : Cieszyn; 05:31, Frýdek-Místek; 06:19
 3163: 25 : 
-3125: 25 : Frenštát p. R.; 06:53, Frýdek-Místek; 07:28
+103125: 25 : Frenštát p. R.; 06:53, Frýdek-Místek; 07:28
 12807: X :
 112808: X : Cieszyn; 07:31, Frýdek-Místek; 08:19
 3170sv: X : Frýdek-Místek; 14:46, Frýdlant n. O.; 15:02
