@@ -1,0 +1,30 @@
+1785:X
+1949pk:X
+1948:6,T:Letohrad;7:29,Hradec Králové hl.n.;8:53
+1949:=
+1952:
+1953pk:
+1956:
+1959pk:3
+7142:3
+7179pk:3
+1796pk:1,2,4,5,6,7
+
+7141pk:X:Letohrad;3:27,Moravský Karlov;4:19
+7146:X:Moravský Karlov;4:26,Ústí nad Orlicí;5:45
+7149pk:X
+1950:X:Moravský Karlov;7:37,Hradec Králové hl.n.;9:53
+1950:25
+1951pk:
+1954:
+1957pk:
+1958:
+1796pk:3
+1959pk:1,2,4,5,6,7
+7142:1,2,4,5,6,7:Letohrad;20:50,Ústí nad Orlicí;21:08
+7183pk:6:Ústí nad Orlicí;22:41,Letohrad;22:59
+7179pk:1,2,4,5,7:
+
+
+1:1247:1
+2:1247:2
