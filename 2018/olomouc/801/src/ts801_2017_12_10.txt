@@ -1,0 +1,94 @@
+﻿ovku = Ostrava-Kunčice
+ovst = Ostrava střed
+ovsv = Ostrava-Svinov
+opvy = Opava východ
+kr = Krnov
+olhl = Olomouc hl.n.
+ll = Lipová lázně
+br = Bruntál
+frno = Frýdlant nad Ostravicí
+
+
+1661:6:ll;516,kr;658
+1660:7:opvy;614,kr;647
+1121:25:kr;706,ovst;815
+1128:25:ovst;941,kr;1056
+3502:25:kr;1105,olhl;1255
+1129::olhl;1304,ovst;1615
+1120::ovst;1741,kr;1856
+1666:XT:kr;1904,ll;2052
+3473:6:kr;2101,opvy;2138
+
+1661:X:ll;516,kr;658
+1121:X:kr;706,ovst;815
+1128:X:ovst;941,kr;1056
+3505:25:olhl;901:kr;1051
+1125::kr;1106,ovst;1215
+1124::ovst;1341,olhl;1652
+1133::olhl;1704,ovsv;2003
+3446::ovsv;2042,opvy;2118
+3451::opvy;2242,ovsv;2312
+
+3440::ovsv;001,opvy;030
+3460:X6:opvy;425,kr;502
+1134:X6:kr;505,olhl;652
+1123:X6:olhl;704,ovsv;957
+101130pk:T:opvy;828,kr;856
+1123:T:kr;906,ovsv;957
+1126::ovsv;1200,olhl;1452
+1131::olhl;1504,ovsv;1757
+2883:X:ovsv;1850,ovku;1902
+2890:X:ovku;1909,ovsv;1919
+2885::ovsv;1950,ovku;2002
+2872::ovku;2054,ovsv;2105
+3448::ovsv;2147,opvy;2222
+
+3441:X:opvy;318,ovsv;353
+3442:X:ovsv;439,opvy;514
+3445:X:opvy;522,ovsv;557
+3443:25:opvy;422,ovsv;457
+1132::ovsv;600,olhl;852
+1127::olhl;1104,ovst;1415
+1122::ovst;1541,olhl;1852
+1135::olhl;1904,kr;2050
+3506::kr;2112,olhl;2304
+
+3463:25:kr;429,opvy;509
+3445:25:opvy;522,ovsv;557
+3403:X:opvy;540,ovku;631
+2870:X:ovku;654:ovsv;704
+1130::ovsv;800,olhl;1052
+101127:X5:olhl;1104,ovst;1415
+101122:X5:ovst;1541,olhl;1852
+101129:T:olhl;1304,ovst;1615
+101120:T:ovst;1741,kr;1856
+3504:T:kr;1905,olhl;2057
+3509::olhl;2241,kr;042
+
+3480:X:kr;444,br;514
+3481:X:br;625,kr;653
+101121:X:kr;706,ovsv;757
+1642:X:ovsv;826,frno;910
+3155:X:frno;1245,ovuh;1336
+29122sv:X1234:ovuh;1358,ovst;1403
+101124pk:X5:ovuh;1348,kr;1456
+101122:X1234:ovst;1541,opvy;1624
+3521:X5:kr;1541,opvy;1623
+29121sv:X5:opvy;1715,ovsv;1735
+101120pk:X5:ovsv;1800,opvy;1824
+3470:X:opvy;1854,kr;1936
+101122:T:kr;1705,olhl;1852
+101135pk:T:olhl;1904,kr;2050
+
+3463:X:kr;429,opvy;509
+3403:X:opvy;540,ovku;631
+2870:X:ovku;654,ovsv;704
+1130:X:ovsv;800,olhl;1052
+101124:T:kr;1505,olhl;1652
+101131pk:X5:olhl;1504,kr;1651
+
+
+1:56:1
+4:56:2
+6:56:5
+7:56:7

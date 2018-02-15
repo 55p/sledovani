@@ -1,0 +1,133 @@
+<?php 
+$zacatekPlatnosti = '8.1.2018';
+$konecPlatnosti = null; //'x.x.2018 23:59:59';
+
+$obeh[1] = ['28912_1', '2921_1', '2921_2', '2924_1', '2929_1', '2932_1', '2937_1', '2940_1', '2947_1', '2948_1', '2955_1', '2956_1'];
+$obeh[2] = ['2925_1', '2928_1', '2933_1', '2936_1', 2943, '2944_1', '2951_1', '2952_1', '2957_1'];
+$obeh[3] = ['2971_1', '2970_1', '2922_1', '2927_1', '2930_1', '2935_1', '2938_1', '2945_1', '2946_1', '2953_1', '2954_1', '3383_1', '3302_1', '2923_1', '2926_1', '2931_1', '2934_1', '2939_1', '2942_1', '2949_1', '2950_1', '28913_1'];
+$obeh[4] = ['2923_2', '2926_2', '2931_2', '2934_2', '2939_2', '2942_2', '2949_2', '2950_3', '28913_2', '2927_2', '2930_2', '2935_2', '2938_2', '2945_2', '2946_2', '2953_2', '2954_2', '3383_2'];
+
+$omezeni['28912_1'] = '55_2018';
+$omezeni['28913_1'] = '25';
+$omezeni['28913_2'] = 'X';
+$omezeni['2921_1'] = '55_2018';
+$omezeni['2921_2'] = '56_2018';
+$omezeni['2922_1'] = 'X';
+$omezeni['2923_1'] = '25';
+$omezeni['2923_2'] = 'X';
+$omezeni['2926_1'] = '25';
+$omezeni['2926_2'] = 'X';
+$omezeni['2927_1'] = 'X';
+$omezeni['2927_2'] = '25';
+$omezeni['2930_1'] = 'X';
+$omezeni['2930_2'] = '25';
+$omezeni['2931_1'] = '25';
+$omezeni['2931_2'] = 'X';
+$omezeni['2934_1'] = '25';
+$omezeni['2934_2'] = 'X';
+$omezeni['2935_1'] = 'X';
+$omezeni['2935_2'] = '25';
+$omezeni['2938_1'] = 'X';
+$omezeni['2938_2'] = '25';
+$omezeni['2939_1'] = '25';
+$omezeni['2939_2'] = 'X';
+$omezeni['2942_1'] = '25';
+$omezeni['2942_2'] = 'X';
+$omezeni['2945_1'] = 'X';
+$omezeni['2945_2'] = '25';
+$omezeni['2946_1'] = 'X';
+$omezeni['2946_2'] = '25';
+$omezeni['2949_1'] = '25';
+$omezeni['2949_2'] = 'X';
+$omezeni['2950_1'] = '25';
+$omezeni['2950_3'] = 'X';
+$omezeni['2953_1'] = 'X';
+$omezeni['2953_2'] = '25';
+$omezeni['2954_1'] = 'X';
+$omezeni['2954_2'] = '25';
+$omezeni['2970_1'] = 'X6';
+$omezeni['2971_1'] = 'X6';
+$omezeni['3302_1'] = '25';
+$omezeni['3383_1'] = 'X';
+$omezeni['3383_2'] = '25';
+
+$trasa['28912_1'] = ['Bohumín;3:22','Ostrava-Svinov;3:36'];
+$trasa['28913_1'] = ['Ostrava-Svinov;20:42','Bohumín;20:56'];
+$trasa['28913_2'] = ['Ostrava-Svinov;20:42','Bohumín;20:56'];
+$trasa['3302_1'] = ['Návsí;4:12','Bohumín;5:18'];
+$trasa['2943'] = ['Studénka;14:07', 'Mosty u Jablunkova;15:55'];
+$trasa['2921_1'] = ['Ostrava-Svinov;3:57', 'Mosty u Jablunkova;5:55'];
+$trasa['2921_2'] = ['Bohumín;4:40', 'Mosty u Jablunkova;5:55'];
+$trasa['2922_1'] = ['Návsí;5:13', 'Bohumín;6:24'];
+$trasa['2923_1'] = ['Bohumín;5:44', 'Mosty u Jablunkova;6:59'];
+$trasa['2923_2'] = ['Bohumín;5:44', 'Mosty u Jablunkova;6:59'];
+$trasa['2924_1'] = ['Mosty u Jablunkova;6:05', 'Ostrava-Svinov;7:38'];
+$trasa['2925_1'] = ['Bohumín;6:39', 'Mosty u Jablunkova;7:55'];
+$trasa['2926_1'] = ['Mosty u Jablunkova;7:05', 'Ostrava-Svinov;8:38'];
+$trasa['2926_2'] = ['Mosty u Jablunkova;7:05', 'Ostrava-Svinov;8:38'];
+$trasa['2927_1'] = ['Bohumín;7:27', 'Mosty u Jablunkova;8:52'];
+$trasa['2927_2'] = ['Bohumín;7:27', 'Mosty u Jablunkova;8:52'];
+$trasa['2928_1'] = ['Mosty u Jablunkova;8:05', 'Ostrava-Svinov;9:38'];
+$trasa['2929_1'] = ['Ostrava-Svinov;8:10', 'Mosty u Jablunkova;9:55'];
+$trasa['2930_1'] = ['Mosty u Jablunkova;9:00', 'Ostrava-Svinov;10:38'];
+$trasa['2930_2'] = ['Mosty u Jablunkova;9:00', 'Ostrava-Svinov;10:38'];
+$trasa['2931_1'] = ['Ostrava-Svinov;9:10', 'Mosty u Jablunkova;10:55'];
+$trasa['2931_2'] = ['Ostrava-Svinov;9:10', 'Mosty u Jablunkova;10:55'];
+$trasa['2932_1'] = ['Mosty u Jablunkova;10:05', 'Ostrava-Svinov;11:38'];
+$trasa['2933_1'] = ['Ostrava-Svinov;10:20', 'Mosty u Jablunkova;11:55'];
+$trasa['2934_1'] = ['Mosty u Jablunkova;11:05', 'Ostrava-Svinov;12:38'];
+$trasa['2934_2'] = ['Mosty u Jablunkova;11:05', 'Ostrava-Svinov;12:38'];
+$trasa['2935_1'] = ['Ostrava-Svinov;11:10', 'Mosty u Jablunkova;12:55'];
+$trasa['2935_2'] = ['Ostrava-Svinov;11:10', 'Mosty u Jablunkova;12:55'];
+$trasa['2936_1'] = ['Mosty u Jablunkova;12:05', 'Studénka;13:54'];
+$trasa['2937_1'] = ['Ostrava-Svinov;12:10', 'Mosty u Jablunkova;13:55'];
+$trasa['2938_1'] = ['Mosty u Jablunkova;13:05', 'Ostrava-Svinov;14:38'];
+$trasa['2938_2'] = ['Mosty u Jablunkova;13:05', 'Ostrava-Svinov;14:38'];
+$trasa['2939_1'] = ['Ostrava-Svinov;13:20', 'Mosty u Jablunkova;14:55'];
+$trasa['2939_2'] = ['Ostrava-Svinov;13:20', 'Mosty u Jablunkova;14:55'];
+$trasa['2940_1'] = ['Mosty u Jablunkova;14:05', 'Studénka;15:51'];
+$trasa['2942_1'] = ['Mosty u Jablunkova;15:05', 'Studénka;16:54'];
+$trasa['2942_2'] = ['Mosty u Jablunkova;15:05', 'Studénka;16:54'];
+$trasa['2944_1'] = ['Mosty u Jablunkova;16:05', 'Studénka;17:54'];
+$trasa['2945_1'] = ['Ostrava-Svinov;15:10', 'Mosty u Jablunkova;16:55'];
+$trasa['2945_2'] = ['Ostrava-Svinov;15:10', 'Mosty u Jablunkova;16:55'];
+$trasa['2946_1'] = ['Mosty u Jablunkova;17:05', 'Ostrava-Svinov;18:38'];
+$trasa['2946_2'] = ['Mosty u Jablunkova;17:05', 'Ostrava-Svinov;18:38'];
+$trasa['2947_1'] = ['Studénka;15:57', 'Mosty u Jablunkova;17:55'];
+$trasa['2948_1'] = ['Mosty u Jablunkova;18:05', 'Studénka;19:51'];
+$trasa['2949_1'] = ['Studénka;17:07', 'Mosty u Jablunkova;18:55'];
+$trasa['2949_2'] = ['Studénka;17:07', 'Mosty u Jablunkova;18:55'];
+$trasa['2950_1'] = ['Mosty u Jablunkova;19:05', 'Ostrava-Svinov;20:38'];
+$trasa['2950_3'] = ['Mosty u Jablunkova;19:05', 'Ostrava-Svinov;20:38'];
+$trasa['2951_1'] = ['Studénka;18:07', 'Mosty u Jablunkova;19:55'];
+$trasa['2952_1'] = ['Mosty u Jablunkova;20:05', 'Ostrava-Svinov;21:39'];
+$trasa['2953_1'] = ['Ostrava-Svinov;19:20', 'Mosty u Jablunkova;20:55'];
+$trasa['2953_2'] = ['Ostrava-Svinov;19:20', 'Mosty u Jablunkova;20:55'];
+$trasa['2954_1'] = ['Mosty u Jablunkova;21:05', 'Ostrava-Svinov;22:46'];
+$trasa['2954_2'] = ['Mosty u Jablunkova;21:05', 'Ostrava-Svinov;22:46'];
+$trasa['2955_1'] = ['Studénka;19:57', 'Návsí;21:46'];
+$trasa['2956_1'] = ['Návsí;22:14', 'Bohumín;23:18'];
+$trasa['2957_1'] = ['Ostrava-Svinov;22:24', 'Návsí;24:00'];
+$trasa['2970_1'] = ['Mosty u Jablunkova;4:02', 'Návsí;4:10'];
+$trasa['2971_1'] = ['Návsí;3:45', 'Mosty u Jablunkova;3:53'];
+$trasa['3383_1'] = ['Ostrava-Svinov;23:06', 'Bohumín;23:22'];
+$trasa['3383_2'] = ['Ostrava-Svinov;23:06', 'Bohumín;23:22'];
+
+
+$typ['28912_1'] = 'Sv';
+$typ['28913_1'] = 'Sv';
+$typ['28913_2'] = 'Sv';
+
+
+if (empty($jmenaVlaku)) $jmenaVlaku = [];
+if (empty($zeme)) $zeme = [];
+
+@$ts444 -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
+
+unset($obeh); 
+unset($trasa); 
+unset($omezeni); 
+unset($zacatekPlatnosti); 
+unset($konecPlatnosti);
+
+

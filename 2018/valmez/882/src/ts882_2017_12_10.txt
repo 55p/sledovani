@@ -70,7 +70,7 @@
 112808: X : Cieszyn; 07:31, Frýdek-Místek; 08:19
 3170sv: X : Frýdek-Místek; 14:46, Frýdlant n. O.; 15:02
 3170: X : 
-3112: 25 : Frýdek-Místek; 18:29, Valašské Meziříčí; 20:06
+103112: 25 : Frýdek-Místek; 18:29, Valašské Meziříčí; 20:06
 3113:
 
 3150: 

@@ -10,7 +10,7 @@ $trasa['553_1'] = ['Wien Hbf;6:56','Graz Hbf;9:33'];
 $trasa['70_1'] = ['Wien Hbf;7:10','Praha hl.n.;11:07'];
 $trasa['76_1'] = ['Graz Hbf;10:26','Praha hl.n.;17:07'];
 $trasa['758_1'] = ['Graz Hbf;20:25','Wien Hbf;23:03'];
-$trasa['79_1'] = ['Praha hl.n.;12:51;g;1933'];
+$trasa['79_1'] = ['Praha hl.n.;12:51','Graz Hbf;1933'];
 
 $poznamkaObehu['70_1'] = ['pk', 'postrk'];
 $poznamkaObehu['758_1'] = ['pk', 'postrk'];

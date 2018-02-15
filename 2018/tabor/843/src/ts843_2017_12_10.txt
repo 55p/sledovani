@@ -1,0 +1,76 @@
+8201 : -2712,-2812,-2912 : Tábor;4:09,České Budějovice;5:30
+8220 : -2712,-2812,-2912 : České Budějovice;5:35,Veselí nad Lužnicí;6:23
+8234 :: Veselí nad Lužnicí;6:59,Tábor;7:33
+8266 :: Tábor;8:05,Benešov u Prahy;9;09
+8271 :: Benešov u Prahy;10:50,Táboe;11:53
+8270 :: Tábor;12:05,Benešov u Prahy;13:09
+8275 :: Benešov u Prahy;14:15,Tábor;15:23
+8280 :: Tábor;16:05,Benešov u Prahy;17:09
+8285 :: Benešov u Prahy;18:28,Tábor;19:43
+8286 : 16 : Tábor;20:05,Benešov U Prahy;21:09
+8289 : X : Benešov u Prahy;22:21,Střezimíř;23:01
+
+8291 : 1,2712,0201,0304,0205,0209,-2512,-0101,-0204 : Benešov u Prahy;3:14,Heřmaničky;3:35
+8260 : X2345,-2612,-2712,-0201,-3003,-0104,-0204,-0304,-0105,-0205,-0805,-0905,-0507,-0607,-2809 : Střezimíř;3:27,Heřmaničky;3:38
+8260 : X : Heřmaničky;3:39,Benešov u Prahy;4:05
+8261 : X : Benešov u Prahy;4:08,Tábor;5:11
+8262 : 6,3003,0105,0805,0507,2809,-3103,-0707,-2909 : Střezimíř;4:34,Benešov u Prahy;5:09
+8264 : X : Tábor;6:05,Benešov u Prahy;7:09
+8265 : 25 : Benešov u Prahy;6:16,Tábor;7:19
+8267 : X : Benešov u Prahy;7:16,Tábor;8:21
+8268 : X : Tábor;10:05,Benešov u Prahy;11:09
+8273 : X : Benešov u Prahy;12:14,Tábor;13:17
+8272 : X : Tábor;14:05,Benešov u Prahy;15:09
+18413 : 25 : Tábor;14:07,Horní Cerekev;15:47
+18450 : 25,-2412,-2512,-3112 : Horní Cerekev;16:04,Pelhřimov;16:27
+8279 : X : Benešov u Prahy;16:16,Tábor;17:19
+18414 : 25 : Pelhřimov;17:23,Tábor;18:25
+8282 : X : Tábor;18:05,Benešov u Prahy;18:09
+8378 : 25,-2412,-2512,-3112 : Tábor;19:09,Jihlava;21:30
+8287 : X,-2412 : Benešov u Prahy;20:16,Tábor;21:18
+8375 : 25,-2412,-2512,-3112 : Jihlava;21:40,Horní Cerekev;22:20
+
+18421 : X : Tábor;4:09,Pelhřimov;5:22
+8264 : 25 : Tábor;6:05,Benešov u Prahy;7:09
+18422 : X : Pelhřimov;6:20,Tábor;7:25
+8267 : 25 : Benešov u Prahy;7:16,Tábor;8:21
+18409 : X : Tábor;8:09,Horní Cerekev;9:50
+8268 : 25 : Tábor;10:05,Benešov u Prahy;11:09
+18406 : X : Horní Cerekev;10:40,Tábor;12:06
+8273 : 25 : Benešov u Prahy;12:14,Tábor;13:17
+8272 : 25 : Tábor;14:05,Benešov u Prahy;15:09
+18413 : X : Tábor;14:07,Horní Cerekev;15:47
+8279 : 25 : Benešov u Prahy;16:16,Tábor;17:19
+8282 : 25 : Tábor;18:05,Benešov u Prahy;18:09
+8387 : X : Horní Cerekev;18:15,Počátky-Žirovnice;18:34
+8374 : X : Počátky-Žirovnice;18:50,Horní Cerekev;19:10
+18416 : X,3003,3103,0104,2904,0605,0507,0607,2809,-2412,-2512,-3112 : Horní Cerekev;19:21,Tábor;20:51
+8287 : 25,-2412 : Benešov u Prahy;20:16,Tábor;21:18
+18419 : X : Tábor;21:09,Horní Cerekev;22:55
+
+8340 : 6,3003,0105,0805,0507,2809,-3103,-0707,-2909 : Horní Cerekev;4:36,Kostelec u Jihlavy;4:54
+8342pk : 6,3003,0105,0805,0507,2809,-3103,-0707,-2909 : Kostelec u Jihlavy;4:56,Jihlava;5:16
+18400 : X : Horní Cerekev;5:04,Tábor;6:39
+8343 : 6,3003,0105,0805,0507,2809,-3103,-0707,-2909 : Jihlava;5:33,Tábor;7:40
+8348 : T,3103,0707,2909,-3003,-0105,-0805,-0507,-2809,-1711 : Horní Cerekev;6:40,Jihlava;7:18
+8347 : T,3103,0707,2909,-3003,-0105,-0805,-0507,-2809 : Jihlava;7:33,Horní Cerekev;8:25
+18409 : 6,3003,0105,0805,0507,2809,-3103,-0707,-2909 : Tábor;8:09,Pelhřimov;9:14
+18442 : T,3103,0707,2909,-3003,-0105,-0805,-0507,-2809,-1711 : Horní Cerekev;8:27,Pelhřimov;9:14
+18426 : 25 : Pelhřimov;9:23,Tábor;10:25
+8412 : T : Tábor;11:08,Ražice;12:36
+18411 : 6 : Tábor;11:09,Horní Cerekev;13:50
+8409 : T : Ražice;13:21,Tábor;14:50
+18448 : 6 : Horní Cerekev;14:27,Pelhřimov;14:50
+8416 : T : Tábor;15:08,Ražice;16:36
+18415 : X : Tábor;15:09,Horní Cerekev;16:50
+18410 : 6 : Pelhřimov;15:23,Tábor;16:23
+18414 : X : Horní Cerekev;16:58,Tábor;18:25
+18417 : 6 : Tábor;17:09,Horní Cerekev;18:43
+8413 : T : Ražice;17:21,Tábor;18:50
+18416 : 6,3003,3103,0104,2904,0605,0507,0607,2809,-2412,-2512,-3112 : Horní Cerekev;19:26,Tábor;20:51
+8237 : T : Tábor;19:27,Veselí nad Lužnicí;19:59
+8240 : T : Veselí nad Lužnicí;21:29,Tábor;21:59
+
+
+2:67:4
+3:67:3

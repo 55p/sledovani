@@ -1,5 +1,5 @@
 <?php 
-$zacatekPlatnosti = '10.12.2017';
+$zacatekPlatnosti = '21.5.2018';
 $konecPlatnosti = null; //'x.x.2018 23:59:59';
 
 $obeh[1] = ['668_1', '661_1', '662_1', '667_1', '650_1'];
@@ -11,8 +11,6 @@ $omezeni['4801_1'] = 'X';
 $omezeni['4816_1'] = 'X';
 $omezeni['650_1'] = 'XT';
 $omezeni['651_1'] = 'X6';
-$omezeni['666_1'] = 'X5,25';
-$omezeni['663_1'] = 'X5,25';
 
 $trasa['4801_1'] = ['Jihlava;4:41','Brno hl.n.;7:10'];
 $trasa['4816_1'] = ['Brno hl.n.;15:45','Jihlava;18:22'];
