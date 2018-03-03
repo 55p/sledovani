@@ -15,7 +15,7 @@
 3974: X :
 3977: X :
 103929pk: 6 : Kroměříž; 13:45, Valašské Meziříčí; 15:09
-3929: 6 : Valašské Meziříčí; 15:35, Rožnov pod Radhoštěm; 15:55
+203929: 6 : Valašské Meziříčí; 15:35, Rožnov pod Radhoštěm; 15:55
 114241pk: 7 : Otrokovice; 13:48, Vizovice; 14:28
 14244: 7 :
 3976: X :

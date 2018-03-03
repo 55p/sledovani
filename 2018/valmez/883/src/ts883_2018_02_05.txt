@@ -1,87 +1,87 @@
-13255: 
-13280: 25 :
-113256pk: X : Velké Karlovice; 06:26, Vsetín; 07:19
-13259: 
-13262: 
-123215pk:: Vsetín;12:30,Horní Lideč;12:53
-3244: X :
-13267: X :
-113270pk: X : Velké Karlovice; 15:57, Vsetín; 16:49
-13271: X :
-13274: X :
-13273: X :
-13276: X :
+13255: : Valašské Meziříčí;4:40, Velké Karlovice;5:56
+13280: 25 : 
+113256pk: X: Velké Karlovice;06:26, Vsetín;07:19
+13259: : Vsetín;7:35, Velké Karlovice;8:29
+13262: : Velké Karlovice;9:51, Vsetín;10:44
+123215pk: X: Vsetín;12:30, Horní Lideč;12:53
+3244: X: Horní Lideč;13:31, Vsetín;13:53
+13267: X: Vsetín;14:58, Velké Karlovice;15:48
+113270pk: X: Velké Karlovice;15:57, Vsetín;16:49
+13271: X: Vsetín;17:21, Velké Karlovice;18:08
+13274: X: Velké Karlovice;18:16, Vsetín;19:01
+13273: X: Vsetín;19:13, Velké Karlovice;20:00
+13276: X: Velké Karlovice;20:08, Vsetín;20:53
 
-13251: X :
-13254: X :
-13257: X :
-13258: X :
-13261: 
-13264: 
-13263: X :
+13251: X: Vsetín;3:05, Velké Karlovice;3:51
+13254: X: Velké Karlovice;5:07, Vsetín;5:57
+13257: X: Vsetín;6:26, Velké Karlovice;7:15
+13258: X: Velké Karlovice;7:42, Vsetín;8:31
+13261: : Vsetín;9:50, Velké Karlovice;10:39
+13264: : Velké Karlovice;11:20, Vsetín;12:09
+13263: X: Vsetín;12:33, Velké Karlovice;13:22
 13275: 25 :
-13266: X :
-113267pk: X :Vsetín; 14:58, Velké Karlovice; 15:48
+13266: X: Velké Karlovice;14:02, Vsetín;14:49
+113267pk: X: Vsetín;14:58, Velké Karlovice;15:48
 13267: 25 :
-13270:
-13271: 25 :
-13274: 25 :
-13273: 25 :
-13276: 25 :
+13270: : Velké Karlovice;15:57, Vsetín;16:49
+13271: 25:
+13274: 25:
+13273: 25:
+13276: 25:
 
-113251pk: X2345 : Vsetín; 03:05, Velké Karlovice; 03:51
-13252: X2345 : 
-13253: 25 :
-23201: X1 : 
-103241pk: X2345 : Vsetín; 05:04, Horní Lideč; 05:24
-13254: 25 : 
-23204: X1 :
-23203: X :
-103201pk: 25 : Vsetín; 06:21, Horní Lideč; 06:41
-23208: X :
-23205: 
-23210: 
-23209:
-23212: 
-3255:
-3242:
-23215: 
-23218:
-23217: X :
-23220: X :
-23219: 
-23222: 
-23221: 
-23224:
-3249: zX :
-3254: zX :
-103248pk: zX : Horní Lideč; 21:15, Vsetín; 21:37
-23227: X6 :
+113251pk: X2345: Vsetín;03:05, Velké Karlovice;03:51
+13252: X2345: Velké Karlovice;4:06, Vsetín;4:51
+13253: 25: Vsetín;4:05, Velké Karlovice;4:51
+23201: X1: Vsetín;4:11, Bylnice;5:02
+103241pk: X2345: Vsetín;05:04, Horní Lideč;05:24
+13254: 25: Velké Karlovice;5:07, Vsetín;5:57
+23204: X1: Bylnice;5:11, Horní Lideč;5:38
+23203: X: Horní Lideč;5:45, Bylnice;6:12
+103201pk: 25: Vsetín; 05:04, Horní Lideč; 05:24
+23208: X: Bylnice;6:31, Horní Lideč;6:58
+23205: : Horní Lideč;7:02, Bylnice;7:28
+23210: : Bylnice;8:08, Horní Lideč;8:35
+23209: : Horní Lideč;9:25, Bylnice;9:51
+23212: : Bylnice;10:08, Horní Lideč;10:35
+3255: : Horní Lideč;11:27, Střelná;11:31
+3242: : Střelná;11:35, Vsetín;12:02
+23215: : Vsetín;12:30, Bylnice;13:51
+23218: : Bylnice;14:01, Horní Lideč;14:28
+23217: X: Horní Lideč;14:31, Bylnice;14:57
+23220: X: Bylnice;15:01, Horní Lideč;15:28
+23219: : Horní Lideč;15:31, Bylnice;15:57
+23222: : Bylnice;16:08, Horní Lideč;16:35
+23221: : Horní Lideč;17:25, Bylnice;17:51
+23224: : Bylnice;18:08, Vsetín;19:47
+3249: zX: Vsetín;20:27, Střelná;20:55
+3254: zX: Střelná;21:00, Horní Lideč;21:04
+103248pk: zX: Horní Lideč;21:15, Vsetín;21:37
+23227: X6: Vsetín;21:40, Bylnice;22:31
 
-113251pk: X1 : Vsetín; 03:05, Velké Karlovice; 03:51
-13252: X1 : 
-23202: X2345 : 
-23201: X2345 :
-103241pk: X1 : Vsetín; 05:04, Horní Lideč; 05:24
-23204: X2345 :
-123203pk: X : Horní Lideč; 05:45, Valašské Klobouky; 05:54
-23206: 25 : Bylnice; 05:58, Vsetín; 06:15 
-23206: X : Valašské Klobouky; 06:15, Vsetín; 06:49
-3245: X6 :
-3240: X6 :
-3247:
-3252:
-23213:
-23214: X : Bylnice; 12:08, Vsetín; 13:08
-23214: 25 : Bylnice; 12:08, Horní Lideč; 12:35
+113251pk: X1: Vsetín;03:05, Velké Karlovice;03:51
+13252: X1: Velké Karlovice;4:06, Vsetín;4:51
+23202: X2345: Bylnice;4:05, Horní Lideč;4:32
+23201: X2345: Horní Lideč;4:35, Bylnice;5:02
+103241pk: X1: Vsetín;05:04, Horní Lideč;05:24
+23204: X2345: Bylnice;5:11, Horní Lideč;5:38
+123203pk: X: Horní Lideč;05:45, Valašské Klobouky;05:54
+23206: 25: Bylnice;05:58, Vsetín;06:15
+23206: X: Valašské Klobouky;06:15, Vsetín;06:49
+3245: X6: Vsetín;7:28, Horní Lideč;7:50
+3240: X6: Horní Lideč;7:54, Vsetín;8:16
+3247: : Vsetín;9:45, Střelná;10:13
+3252: : Střelná;10:17, Horní Lideč;10:21
+23213: : Horní Lideč;11:25, Bylnice;11:51
+23214: X: Bylnice;12:08, Vsetín;13:08
+23214: 25: Bylnice;12:08, Horní Lideč;12:35
+3244: 25: Horní Lideč;13:31, Vsetín;13:53
 13265:
-3244: 25 : 
-113268pk: X : Velké Karlovice; 14:59, Vsetín; 15:51
-13268: 25 :
-13269: 
-113272pk: X : Velké Karlovice; 17:20, Vsetín; 18:15
-13272: 25 :
-23225: X6 : Vsetín; 18:30, Bylnice; 19:51
-23225: T : Vsetín; 18:30, Horní Lideč; 18:53
-25223: T : Horní Lideč; 18:56, Bylnice; 19:22
-3248:
+113268pk: X: Velké Karlovice;14:59, Vsetín;15:51
+13268: 25: Velké Karlovice;14:59, Vsetín;15:51
+13269: : Vsetín;15:58, Velké Karlovice;16:47
+113272pk: X: Velké Karlovice;17:20, Vsetín;18:15
+13272: 25: Velké Karlovice;17:20, Vsetín;18:15
+23225: X6: Vsetín;18:30, Bylnice;19:51
+23225: 7: Vsetín;18:30, Horní Lideč;18:53
+25223: T: Horní Lideč;18:56, Bylnice;19:22
+3248: : Bylnice;20:45, Valašské Meziříčí;22:00
