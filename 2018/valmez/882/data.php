@@ -11,7 +11,7 @@ if (file_exists(__DIR__.'/jmena_vlaku.php')) {
   include __DIR__.'/jmena_vlaku.php';
 }
 
-$mimor->obeh(new Obeh(array('-' => array('99971','2','3','4','5','6')), ['99971' => ['záloha 742;0:00;23:59']], [], array('99971' => '', '2' => '', '3' => '', '4' => '', '5' => '', '6' => ''), []));
+$mimor->obeh(new Obeh(array('-' => array('99971','2','3','4','5','6')), ['99971' => ['záloha Frýdek-Místek;0:00;23:59']], [], array('99971' => '', '2' => '', '3' => '', '4' => '', '5' => '', '6' => ''), []));
 
 include __DIR__.$includePath.'/spolecne/obehy_2015_11_22.php';
 @include __DIR__.$includePath.'/spolecne/laky_vse.php';
