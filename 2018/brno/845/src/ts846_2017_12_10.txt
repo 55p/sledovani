@@ -50,5 +50,5 @@ sm=Staré Město u Uherského Hradiště
 4345pk:T:sm;1536,uh;1542
 4366:T:uh;1544,sm;1550
 4369:T:sm;1604,uh;1610
-4342př:T:uh;1618,sm;1624
+104342př:T:uh;1618,sm;1624
 1732:T

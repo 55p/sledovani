@@ -1,0 +1,83 @@
+4108: X: Veselí nad Moravou;6:23, Brno hl.n.;8:20
+4808pk: X: Brno hl.n.;9:45, Třebíč;11:14
+4876pk: X: Třebíč;12:07, Jihlava;13:04
+24881: 6: Okříšky;5:52, Náměšť nad Oslavou;6:41
+1869: 6: Náměšť nad Oslavou;6:47, Brno hl.n.;7:38
+4831: T: Okříšky;7:19, Brno hl.n.;9:13
+4808pk: 25: Brno hl.n.;9:45, Jihlava;12:20
+4813: : Jihlava;13:30, Brno hl.n.;16:10
+4840pk: X: Brno hl.n.;16:42, Náměšť nad Oslavou;17:40
+4847: X: Náměšť nad Oslavou;18:19, Brno hl.n.;19:12
+4840pk: 25: Brno hl.n.;16:42, Zastávka u Brna;17:12
+4847: 25: Zastávka u Brna;18:44, Brno hl.n.;19:12
+4850pk: : Brno hl.n.;19:45, Náměšť nad OslavouVýluka;20:47
+
+4825: X: Náměšť nad Oslavou;5:12, Brno hl.n.;6:10
+4824pk: X: Brno hl.n.;6:39, Třebíč;8:15
+4807: X: Třebíč;8:42, Brno hl.n.;10:10
+4801: T: Náměšť nad OslavouVýluka;6:16, Brno hl.n.;7:10
+4806pk: 25: Brno hl.n.;7:45, Jihlava;10:19
+4811: 25: Jihlava;11:30, Brno hl.n.;14:10
+4832pk: X: Brno hl.n.;14:12, Náměšť nad Oslavou;15:11
+4841: X: Náměšť nad Oslavou;16:16, Brno hl.n.;17:14
+4834pk: 25: Brno hl.n.;14:45, Zastávka u Brna;15:14
+4841: 25: Zastávka u Brna;16:42, Brno hl.n.;17:14
+4844: X5: Brno hl.n.;17:45, Třebíč;19:13
+4844: X1234,25: Brno hl.n.;17:45, Náměšť nad Oslavou;18:47
+
+4829: : Náměšť nad Oslavou;7:12, Brno hl.n.;8:10
+4826pk: X: Brno hl.n.;8:42, Náměšť nad Oslavou;9:39
+4833: X: Náměšť nad Oslavou;10:19, Brno hl.n.;11:13
+4826pk: 25: Brno hl.n.;8:42, Zastávka u Brna;9:12
+4833: 25: Zastávka u Brna;10:44, Brno hl.n.;11:13
+4810pk: : Brno hl.n.;11:45, Jihlava;14:22
+4879: X: Jihlava;14:53, Třebíč;15:52
+4815: X: Třebíč;16:40, Brno hl.n.;18:10
+4815: 25: Jihlava;15:30, Brno hl.n.;18:10
+
+4823: X: Okříšky;3:57, Brno hl.n.;5:37
+4111pk: X: Brno hl.n.;8:12, Uherské Hradiště;10:28
+4114: X: Uherské Hradiště;11:32, Brno hl.n.;13:48
+4147pk: X: Brno hl.n.;14:47, Nemotice;15:52
+4152: X: Nemotice;16:11, Brno-Židenice;17:11
+4153pk: X5: Brno hl.n.;17:48, Kyjov;19:05
+4177pk: X5: Kyjov;19:08, Veselí nad Moravou;19:36
+4801: 6: Náměšť nad Oslavou;6:16, Brno hl.n.;7:10
+4115pk: 25: Brno hl.n.;10:15, Uherské Hradiště;12:28
+4116: 25: Uherské Hradiště;13:32, Brno hl.n.;15:48
+4121pk: 25: Brno hl.n.;16:14, Staré Město u Uherského Hradiště;18:35
+12271: 25: Staré Město u Uherského Hradiště;18:41, Uherské Hradiště;18:47
+112271sv: 25: Uherské Hradiště;19:03, Veselí nad Moravou;19:22
+
+11492sv: X: Brno dolní nádraží;5:08, Brno-Židenice;5:12
+11493pksv: X: Brno-Židenice;5:17, Slavkov u Brna;5:56
+4107pk: X: Slavkov u Brna;6:51, Uherské Hradiště;8:28
+4107pk: 25: Veselí nad Moravou;8:07, Uherské Hradiště;8:28
+4112: : Uherské Hradiště;9:32, Brno hl.n.;11:48
+4117pk: : Brno hl.n.;12:15, Uherské Hradiště;14:28
+4118: X: Uherské Hradiště;15:32, Slavkov u Brna;17:11
+4118: 25: Uherské Hradiště;15:32, Brno hl.n.;17:48
+4123pk: X: Slavkov u Brna;18:51, Veselí nad Moravou;20:05
+4123pk: 25: Brno hl.n.;18:15, Veselí nad Moravou;20:05
+
+4102: X: Veselí nad Moravou;3:57, Brno hl.n.;5:50
+11494pksv: X: Brno hl.n.;5:56, Slavkov u Brna;6:57
+1721pk: X: Slavkov u Brna;7:59, Staré Město u Uherského Hradiště;9:28
+1726: X: Staré Město u Uherského Hradiště;10:33, Slavkov u Brna;12:04
+112203vlož: 6: Veselí nad Moravou;5:16, Uherské Hradiště;5:35
+12204: 6: Uherské Hradiště;5:42, Veselí nad Moravou;6:00
+1720: 25: Veselí nad Moravou;6:01, Brno hl.n.;7:33
+4111pk: 25: Brno hl.n.;8:12, Uherské Hradiště;10:28
+4114: 25: Uherské Hradiště;11:32, Brno hl.n.;13:48
+4119pk: X : Slavkov u Brna;14:51, Uherské Hradiště;16:28
+4119pk: 25: Brno hl.n.;14:14, Uherské Hradiště;16:28
+4120: : Uherské Hradiště;17:32, Brno hl.n.;19:48
+4125: X1234: Brno hl.n.;20:15, Veselí nad Moravou;22:05
+4125: T: Brno hl.n.;20:15, Kyjov;21:36
+
+
+1:5:4
+3:56:1
+6:12347:1
+6:5:2
+6:6:4

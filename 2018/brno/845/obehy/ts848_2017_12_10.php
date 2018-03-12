@@ -34,7 +34,6 @@ $trasa['104074_1'] = ['Brno-Horní Heršpice;5:03','Vyškov na Moravě;5:43'];
 $trasa['104084_1'] = ['Nezamyslice;15:25','Prostějov hl.n.;15:43'];
 $trasa['104085_1'] = ['Prostějov hl.n.;16:15','Nezamyslice;16:36'];
 $trasa['104087_1'] = ['Vyškov na Moravě;19:05','Brno-Horní Heršpice;20:13'];
-
 $trasa['3872_1'] = ['Vyškov na Moravě;8:59', 'Přerov;9:51'];
 $trasa['3873_1'] = ['Přerov;9:57', 'Vyškov na Moravě;10:50'];
 $trasa['3874_1'] = ['Vyškov na Moravě;10:59', 'Přerov;11:51'];
@@ -57,6 +56,10 @@ $trasa['4084_1'] = ['Vyškov na Moravě;14:59', 'Nezamyslice;15:16'];
 $trasa['4085_1'] = ['Nezamyslice;16:38', 'Vyškov na Moravě;16:56'];
 $trasa['4086_1'] = ['Vyškov na Moravě;16:59', 'Nezamyslice;17:16'];
 $trasa['4087_1'] = ['Nezamyslice;18:38', 'Vyškov na Moravě;18:56'];
+//sem patri stazene trasy
+
+
+
 
 $typ['104074_1'] = 'Sv';
 $typ['104084_1'] = 'Sv';
@@ -73,6 +76,7 @@ unset($obeh);
 unset($trasa); 
 unset($omezeni); 
 unset($zacatekPlatnosti); 
-unset($konecPlatnosti);
+unset($konecPlatnosti); 
+unset($poznamkaObehu);
 
 

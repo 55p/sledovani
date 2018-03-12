@@ -55,11 +55,6 @@ $omezeni['4550_1'] = 'X';
 $trasa['104342_1'] = ['Uherské Hradiště;16:18','Staré Město u Uherského Hradiště;16:24'];
 $trasa['104345_1'] = ['Staré Město u Uherského Hradiště;15:36','Uherské Hradiště;15:42'];
 $trasa['104506_1'] = ['Mikulov na Moravě;8:00','Znojmo;8:53'];
-
-$poznamkaObehu['104345_1'] = ['pk', 'postrk'];
-
-$poznamkaObehu['104342_1'] = ['př', 'přípřež'];
-
 $trasa['1721_1'] = ['Brno hl.n.;7:35', 'Staré Město u Uherského Hradiště;9:28'];
 $trasa['1725_1'] = ['Brno hl.n.;11:28', 'Staré Město u Uherského Hradiště;13:27'];
 $trasa['1726_1'] = ['Staré Město u Uherského Hradiště;10:33', 'Brno hl.n.;12:33'];
@@ -100,6 +95,13 @@ $trasa['4533_1'] = ['Znojmo;19:03', 'Břeclav;20:23'];
 $trasa['4541_1'] = ['Hrušovany nad Jevišovkou;4:34', 'Břeclav;5:25'];
 $trasa['4544_1'] = ['Břeclav;18:32', 'Hrušovany nad Jevišovkou;19:20'];
 $trasa['4550_1'] = ['Břeclav;6:49', 'Mikulov na Moravě;7:16'];
+//sem patri stazene trasy
+
+
+$poznamkaObehu['104345_1'] = ['pk', 'postrk'];
+
+$poznamkaObehu['104342_1'] = ['př', 'přípřež'];
+
 
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
@@ -111,6 +113,7 @@ unset($obeh);
 unset($trasa); 
 unset($omezeni); 
 unset($zacatekPlatnosti); 
-unset($konecPlatnosti);
+unset($konecPlatnosti); 
+unset($poznamkaObehu);
 
 

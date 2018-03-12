@@ -1,8 +1,8 @@
 <?php
 // sem patri definice skupin. 
-$skupiny[] = $ts841 = new TS ('TS 841', '842 + 954.2');
-$skupiny[] = $ts842 = new TS ('TS 842', '842 + 954.2');
-$skupiny[] = $ts843 = new TS ('TS 843', '842 + 954.2');
+$skupiny[] = $ts841 = new TS ('TS 841', '842 + 954');
+$skupiny[] = $ts842 = new TS ('TS 842', '842 + 954');
+$skupiny[] = $ts843 = new TS ('TS 843', '842 + 954');
 $skupiny[] = $ts844 = new TS ('TS 844', '842 + 954');
 
 

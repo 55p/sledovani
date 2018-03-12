@@ -2,9 +2,11 @@
 $zacatekPlatnosti = '10.12.2017';
 $konecPlatnosti = null; //'x.x.2018 23:59:59';
 
-$obeh[1] = ['4303_1', '4306_1', '1726_1', '104448_1', '4448_1', '14423_1', '14422_1', '4451_1', '1925_1', '4412_1', '14430_1', '14431_1', '14432_1', '14433_1', '4437_1', '4102_1', '4109_1', '1721_1', '4339_1', '14304_1', '14305_1', '14330_1', '14331_1', '14310_1', '14309_1', '14312_1', '14311_1', '14314_1', '14313_1', '14316_1', '14315_1', '14332_1', '14333_1', '14322_1', '14323_1', '4322_1', '4320_1', '4342_1', '4342_2', '4317_1', '4368_1', '1734_1', '4127_1', '4127_2'];
+$obeh[1] = ['4303_1', '4306_1', '1726_1', '204448_1', '4448_1', '14423_1', '14422_1', '4451_1', '201925_1', '204412_1', '14430_1', '14431_1', '14432_1', '14433_1', '204437_1', '4102_1', '4109_1', '101721_1', '4339_1', '14304_1', '14305_1', '14330_1', '14331_1', '14310_1', '14309_1', '14312_1', '14311_1', '14314_1', '14313_1', '14316_1', '14315_1', '14332_1', '14333_1', '14322_1', '14323_1', '4322_1', '4320_1', '4342_1', '104342_1', '4317_1', '4368_1', '101734_1', '4127_1', '4127_2'];
 
-$omezeni['104448_1'] = 'X';
+$omezeni['101721_1'] = '6';
+$omezeni['101734_1'] = 'T';
+$omezeni['104342_1'] = 'T';
 $omezeni['14304_1'] = 'T';
 $omezeni['14305_1'] = 'T';
 $omezeni['14309_1'] = '25';
@@ -27,10 +29,11 @@ $omezeni['14430_1'] = 'X';
 $omezeni['14431_1'] = 'X5';
 $omezeni['14432_1'] = 'X5';
 $omezeni['14433_1'] = 'X';
-$omezeni['1721_1'] = '6';
 $omezeni['1726_1'] = 'X';
-$omezeni['1734_1'] = 'T';
-$omezeni['1925_1'] = 'X';
+$omezeni['201925_1'] = 'X';
+$omezeni['204412_1'] = 'X';
+$omezeni['204437_1'] = 'X';
+$omezeni['204448_1'] = 'X';
 $omezeni['4102_1'] = '6';
 $omezeni['4109_1'] = '6';
 $omezeni['4127_1'] = 'zX';
@@ -42,29 +45,25 @@ $omezeni['4320_1'] = '6';
 $omezeni['4322_1'] = '6';
 $omezeni['4339_1'] = '6';
 $omezeni['4342_1'] = 'T';
-$omezeni['4342_2'] = 'T';
 $omezeni['4368_1'] = 'T';
-$omezeni['4412_1'] = 'X';
-$omezeni['4437_1'] = 'X';
 $omezeni['4448_1'] = 'X';
 $omezeni['4451_1'] = 'X';
 
-$trasa['104448_1'] = ['Brno hl.n.;13:54','Moravské Bránice;14:26'];
-$trasa['1721_1'] = ['Veselí nad Moravou;9:03','Staré Město u Uherského Hradiště;9:28'];
-$trasa['1925_1'] = ['Moravské Bránice;16:00','Brno hl.n.;16:23'];
-$trasa['4127_1'] = ['Brno hl.n.;22:25','ky;23:39'];
+$trasa['101721_1'] = ['Veselí nad Moravou;9:03','Staré Město u Uherského Hradiště;9:28'];
+$trasa['104342_1'] = ['Uherské Hradiště;16:18','Staré Město u Uherského Hradiště;16:24'];
+$trasa['201925_1'] = ['Moravské Bránice;16:00','Brno hl.n.;16:23'];
+$trasa['204412_1'] = ['Brno hl.n.;16:54','Moravské Bránice;17:26'];
+$trasa['204437_1'] = ['Moravské Bránice;18:31','Brno hl.n.;19:04'];
+$trasa['204448_1'] = ['Brno hl.n.;13:54','Moravské Bránice;14:26'];
+$trasa['4127_1'] = ['Brno hl.n.;22:25','Kyjov;23:39'];
 $trasa['4317_1'] = ['Staré Město u Uherského Hradiště;17:36','Uherské Hradiště;17:42'];
 $trasa['4320_1'] = ['Újezdec u Luhačovic;21:48','Luhačovice;22:02'];
 $trasa['4322_1'] = ['Luhačovice;21:24','Újezdec u Luhačovic;21:38'];
 $trasa['4339_1'] = ['Staré Město u Uherského Hradiště;9:36','Újezdec u Luhačovic;10:11'];
 $trasa['4342_1'] = ['Újezdec u Luhačovic;15:50','Uherské Hradiště;16:17'];
-$trasa['4342_2'] = ['Uherské Hradiště;16:18','Staré Město u Uherského Hradiště;16:24'];
 $trasa['4368_1'] = ['Uherské Hradiště;17:44','Staré Město u Uherského Hradiště;17:50'];
-$trasa['4412_1'] = ['Brno hl.n.;16:54','Moravské Bránice;17:26'];
-$trasa['4437_1'] = ['Moravské Bránice;18:31','Brno hl.n.;19:04'];
 $trasa['4448_1'] = ['Moravské Bránice;14:31','Ivančice;14:41'];
 $trasa['4451_1'] = ['Ivančice;15:16','Moravské Bránice;15:26'];
-
 $trasa['14304_1'] = ['Luhačovice;5:44', 'Újezdec u Luhačovic;5:58'];
 $trasa['14305_1'] = ['Újezdec u Luhačovic;6:14', 'Luhačovice;6:28'];
 $trasa['14309_1'] = ['Újezdec u Luhačovic;10:14', 'Luhačovice;10:28'];
@@ -88,22 +87,24 @@ $trasa['14431_1'] = ['Ivančice;17:46', 'Moravské Bránice;17:56'];
 $trasa['14432_1'] = ['Moravské Bránice;18:01', 'Ivančice;18:11'];
 $trasa['14433_1'] = ['Ivančice;18:16', 'Moravské Bránice;18:26'];
 $trasa['1726_1'] = ['Staré Město u Uherského Hradiště;10:33', 'Brno hl.n.;12:33'];
-$trasa['1734_1'] = ['Lienz in Osttirol;5:24', 'Villach Hbf;6:56'];
 $trasa['4102_1'] = ['Veselí nad Moravou;3:57', 'Brno hl.n.;5:50'];
 $trasa['4109_1'] = ['Brno hl.n.;6:21', 'Veselí nad Moravou;8:05'];
 $trasa['4127_2'] = ['Brno hl.n.;22:25', 'Veselí nad Moravou;0:05'];
 $trasa['4303_1'] = ['Kyjov;4:38', 'Bylnice;7:13'];
 $trasa['4306_1'] = ['Bylnice;7:55', 'Staré Město u Uherského Hradiště;9:50'];
+$trasa['101734_1'] = ['Staré Město u Uherského Hradiště;18:35', 'Brno hl.n.;20:33'];
+//sem patri stazene trasy
 
 
-$poznamkaObehu['104448_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4412_1'] = ['pk', 'postrk'];
+$poznamkaObehu['204448_1'] = ['pk', 'postrk'];
+$poznamkaObehu['204412_1'] = ['pk', 'postrk'];
 $poznamkaObehu['4339_1'] = ['pk', 'postrk'];
 $poznamkaObehu['4317_1'] = ['pk', 'postrk'];
-$poznamkaObehu['1734_1'] = ['pk', 'postrk'];
+$poznamkaObehu['101734_1'] = ['pk', 'postrk'];
 
-$poznamkaObehu['1721_1'] = ['vlož', 'vložená'];
-$poznamkaObehu['4342_2'] = ['vlož', 'vložená'];
+$poznamkaObehu['4368_1'] = ['př', 'přípřež'];
+$poznamkaObehu['101721_1'] = ['vlož', 'vložená'];
+$poznamkaObehu['104342_1'] = ['vlož', 'vložená'];
 
 
 
@@ -116,6 +117,7 @@ unset($obeh);
 unset($trasa); 
 unset($omezeni); 
 unset($zacatekPlatnosti); 
-unset($konecPlatnosti);
+unset($konecPlatnosti); 
+unset($poznamkaObehu);
 
 

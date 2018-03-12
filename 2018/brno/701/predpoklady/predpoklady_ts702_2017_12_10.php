@@ -26,10 +26,6 @@ function predpoklad_3_TS702 ($timestamp) {
   if ($den == 5) {
     return 3;
   }
-  return 4;
-}
-
-function predpoklad_4_TS702 ($timestamp) {
   return 1;
 }
 

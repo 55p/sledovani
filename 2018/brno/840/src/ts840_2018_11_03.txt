@@ -1,3 +1,4 @@
+uh=Uherské Hradiště
 ky=Kyjov
 vm=Veselí nad Moravou
 ok=Okříšky
@@ -46,7 +47,8 @@ X;4108,4808pk,4876pk
 4116:
 4121pk:
 12210:X
-21992sv:25:Staré Město u Uherského Hradiště;1842,vm;1922
+12271:25
+112271sv:25:uh;1903,ve;1922
 
 4102:X
 4107pk:X

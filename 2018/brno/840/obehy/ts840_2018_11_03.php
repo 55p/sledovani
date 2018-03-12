@@ -5,16 +5,17 @@ $konecPlatnosti = null; //'x.x.2018 23:59:59';
 $obeh[1] = ['4163_1', '4108_1', '4808_1', '4876_1', '24881_1', '1869_1', '4831_1', '4808_2', '4813_1', '4840_1', '4847_1', '4840_2', '4847_2', '4850_1'];
 $obeh[2] = ['4825_1', '4824_1', '4807_1', '4801_1', '4806_1', '4811_1', '4832_1', '4841_1', '4834_1', '4841_2', '4844_1', '4844_2'];
 $obeh[3] = ['4829_1', '4826_1', '4833_1', '4826_2', '4833_2', '4810_1', '4879_1', '4815_1', '4815_2'];
-$obeh[4] = ['4823_1', '4801_2', '4115_1', '4116_1', '4121_1', '12210_1', '21992_1'];
+$obeh[4] = ['4823_1', '4801_2', '4115_1', '4116_1', '4121_1', '12210_1', '12271_1', '112271_1'];
 $obeh[5] = ['4102_1', '4107_1', '4107_2', '4112_1', '4117_1', '4118_1', '4123_1'];
 $obeh[6] = ['112203_1', '12204_1', '1720_1', '4106_1', '4111_1', '4114_1', '4119_1', '4120_1', '4125_1', '4125_2'];
 
 $omezeni['112203_1'] = '6';
-$omezeni['12210_1'] = 'X';
+$omezeni['112271_1'] = '25';
 $omezeni['12204_1'] = '6';
+$omezeni['12210_1'] = 'X';
+$omezeni['12271_1'] = '25';
 $omezeni['1720_1'] = '25';
 $omezeni['1869_1'] = '6';
-$omezeni['21992_1'] = '25';
 $omezeni['24881_1'] = '6';
 $omezeni['4102_1'] = 'X';
 $omezeni['4106_1'] = 'X';
@@ -55,41 +56,12 @@ $omezeni['4876_1'] = 'X';
 $omezeni['4879_1'] = 'X';
 
 $trasa['112203_1'] = ['Veselí nad Moravou;5:16','Uherské Hradiště;5:35'];
-$trasa['21992_1'] = ['Staré Město u Uherského Hradiště;18:42','Veselí nad Moravou;19:22'];
+$trasa['112271_1'] = ['Uherské Hradiště;19:03','ve;19:22'];
 $trasa['24881_1'] = ['Okříšky;5:52','Náměšť nad Oslavou;6:41'];
 $trasa['4163_1'] = ['Kyjov;5:07','Veselí nad Moravou;5:35'];
-
-$poznamkaObehu['4163_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4808_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4876_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4808_2'] = ['pk', 'postrk'];
-$poznamkaObehu['4840_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4840_2'] = ['pk', 'postrk'];
-$poznamkaObehu['4850_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4824_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4806_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4832_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4834_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4826_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4826_2'] = ['pk', 'postrk'];
-$poznamkaObehu['4810_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4115_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4121_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4107_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4107_2'] = ['pk', 'postrk'];
-$poznamkaObehu['4117_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4123_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4111_1'] = ['pk', 'postrk'];
-$poznamkaObehu['4119_1'] = ['pk', 'postrk'];
-
-$poznamkaObehu['112203_1'] = ['vlož', 'vložená'];
-
-$typ['24881_1'] = 'Sv';
-$typ['21992_1'] = 'Sv';
-
-
-$trasa['12210_1'] = ['Staré Město u Uherského Hradiště;20:06', 'Veselí nad Moravou;20:59'];
 $trasa['12204_1'] = ['Uherské Hradiště;5:42', 'Veselí nad Moravou;6:00'];
+$trasa['12210_1'] = ['Staré Město u Uherského Hradiště;20:06', 'Veselí nad Moravou;20:59'];
+$trasa['12271_1'] = ['Staré Město u Uherského Hradiště;18:41', 'Uherské Hradiště;18:47'];
 $trasa['1720_1'] = ['Veselí nad Moravou;6:01', 'Brno hl.n.;7:33'];
 $trasa['1869_1'] = ['Náměšť nad Oslavou;6:47', 'Brno hl.n.;7:38'];
 $trasa['4102_1'] = ['Veselí nad Moravou;3:57', 'Brno hl.n.;5:50'];
@@ -143,6 +115,37 @@ $trasa['4847_2'] = ['Zastávka u Brna;18:44', 'Brno hl.n.;19:12'];
 $trasa['4850_1'] = ['Brno hl.n.;19:45', 'Náměšť nad Oslavou;20:47'];
 $trasa['4876_1'] = ['Třebíč;12:07', 'Jihlava;13:04'];
 $trasa['4879_1'] = ['Jihlava;14:53', 'Třebíč;15:52'];
+//sem patri stazene trasy
+
+
+$poznamkaObehu['4163_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4808_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4876_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4808_2'] = ['pk', 'postrk'];
+$poznamkaObehu['4840_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4840_2'] = ['pk', 'postrk'];
+$poznamkaObehu['4850_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4824_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4806_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4832_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4834_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4826_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4826_2'] = ['pk', 'postrk'];
+$poznamkaObehu['4810_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4115_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4121_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4107_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4107_2'] = ['pk', 'postrk'];
+$poznamkaObehu['4117_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4123_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4111_1'] = ['pk', 'postrk'];
+$poznamkaObehu['4119_1'] = ['pk', 'postrk'];
+
+$poznamkaObehu['112203_1'] = ['vlož', 'vložená'];
+
+
+$typ['112271_1'] = 'Sv';
+
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];
@@ -153,6 +156,7 @@ unset($obeh);
 unset($trasa); 
 unset($omezeni); 
 unset($zacatekPlatnosti); 
-unset($konecPlatnosti);
+unset($konecPlatnosti); 
+unset($poznamkaObehu);
 
 

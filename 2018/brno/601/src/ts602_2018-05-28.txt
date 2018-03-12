@@ -1,0 +1,21 @@
+1770|pk Bv-Bh|postrk Bøeclav - Brno hl.n.: X: Hodonín;5:28, Brno hl.n.;6:24
+803|pk Bv-Ol|postrk Bøeclav - Olomouc hl.n.: X: Brno hl.n.;6:36, Olomouc hl.n.;8:46
+812|pk Bv-Bh|postrk Bøeclav - Brno hl.n.: X: Olomouc hl.n.;9:11, Brno hl.n.;11:24
+811|pk Bv-Ol|postrk Bøeclav - Olomouc hl.n.: X: Brno hl.n.;14:36, Olomouc hl.n.;16:46
+804|pk Bv-Bh|postrk Bøeclav - Brno hl.n.: X: Olomouc hl.n.;17:11, Brno hl.n.;19:24
+1777|pk Bv-Ho|postrk Bøeclav - Hodonín: X1234: Brno hl.n.;19:35, Hodonín;20:33
+1777: X5: Brno hl.n.;19:35, Hodonín;20:33
+101772|pk Ho-Bv, pø Bv-Bh|postrk Hodonín - Bøeclav, pøípøež Bøeclav - Brno hl.n.: 6: Hodonín;7:28, Brno hl.n.;8:24
+101777|vlož|vložená: T: Brno hl.n.;19:35, Hodonín;20:33
+
+101770|pk Ho-Bv|postrk Hodonín - Bøeclav: X: Hodonín;5:28, Brno hl.n.;6:24
+100803|pk Bh-Bv|postrk Brno hl.n. - Bøeclav: X: Brno hl.n.;6:36, Olomouc hl.n.;8:46
+100812|pk Ol-Bv|postrk Olomouc hl.n. - Bøeclav: X: Olomouc hl.n.;9:11, Brno hl.n.;11:24
+100811|pk Bh-Bv|postrk Brno hl.n. - Bøeclav: X: Brno hl.n.;14:36, Olomouc hl.n.;16:46
+100804|pk Ol-Bv|postrk Olomouc hl.n. - Bøeclav: X: Olomouc hl.n.;17:11, Brno hl.n.;19:24
+101777|pk Bh-Bv|postrk Brno hl.n. - Bøeclav: X1234: Brno hl.n.;19:35, Hodonín;20:33
+201777|pk Bh-Bv, pø Bv-Ho|postrk Brno hl.n. - Bøeclav, pøípøež Bøeclav - Hodonín: T: Brno hl.n.;19:35, Hodonín;20:33
+
+
+1:1234567:1
+2:1234567:2
