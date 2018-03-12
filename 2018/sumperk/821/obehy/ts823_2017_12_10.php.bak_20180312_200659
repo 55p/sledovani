@@ -1,0 +1,56 @@
+<?php 
+$zacatekPlatnosti = '10.12.2017';
+$konecPlatnosti = null; //'x.x.2018 23:59:59';
+
+$obeh[1] = ['3600_1', '3650_1', '13001_1', '13000_1', '3653_1', '3654_1', '3657_1', '3658_1', '3611_1', '13021_1', '3614_1', '13020_1', '13023_1', '13022_1', '21953_1', '3655_1'];
+$obeh[2] = ['13650_1', '13651_1', '13652_1', '13653_1', '13654_1', '13655_1', '13656_1', '13657_1', '13658_1', '13659_1', '13660_1', '13661_1', '13662_1', '13663_1', '13664_1', '13667_1', '13666_1', '13669_1', '13668_1', '13671_1', '13670_1', '13673_1', '13672_1', '13675_1', '13674_1', '13677_1', '13676_1', '13679_1', '13681_1', '13678_1', '13683_1'];
+
+$omezeni['3600_1'] = '25';
+$omezeni['3611_1'] = 'X';
+$omezeni['3614_1'] = 'X';
+$omezeni['3650_1'] = 'X';
+$omezeni['3653_1'] = '25';
+$omezeni['3654_1'] = '25';
+$omezeni['13000_1'] = '25';
+$omezeni['13001_1'] = '25';
+$omezeni['13020_1'] = '7';
+$omezeni['13021_1'] = '7';
+$omezeni['13022_1'] = '25';
+$omezeni['13023_1'] = '25';
+$omezeni['13650_1'] = 'X';
+$omezeni['13651_1'] = 'X';
+$omezeni['13654_1'] = 'X';
+$omezeni['13655_1'] = 'X';
+$omezeni['13659_1'] = 'X';
+$omezeni['13660_1'] = 'X';
+$omezeni['13668_1'] = 'X';
+$omezeni['13669_1'] = 'X';
+$omezeni['13672_1'] = 'X';
+$omezeni['13673_1'] = 'X';
+$omezeni['13676_1'] = 'X';
+$omezeni['13677_1'] = 'X';
+$omezeni['13679_1'] = '25';
+$omezeni['13681_1'] = 'X';
+
+$trasa['21953_1'] = ['Šumperk;22:08','Zábřeh na Moravě;22:20'];
+//sem patri stazene trasy
+
+
+
+
+$typ['21953_1'] = 'Sv';
+
+
+if (empty($jmenaVlaku)) $jmenaVlaku = [];
+if (empty($zeme)) $zeme = [];
+
+@$ts823 -> obeh (new Obeh2($obeh, ['trasa' => $trasa, 'omezeni' => $omezeni, 'typ' => $typ, 'poznamka' => $poznamkaObehu, 'jmenaVlaku' => $jmenaVlaku, 'zeme' => $zeme], $zacatekPlatnosti, $konecPlatnosti)); 
+
+unset($obeh); 
+unset($trasa); 
+unset($omezeni); 
+unset($zacatekPlatnosti); 
+unset($konecPlatnosti); 
+unset($poznamkaObehu);
+
+
