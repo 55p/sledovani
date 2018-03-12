@@ -1,0 +1,68 @@
+ČKa=Česká Kamenice
+KŠe=Kamenický Šenov
+ÚSt=Ústí nad Labem-Střekov
+Zub=Zubrnice
+Dhl=Děčín hlavní nádraží
+Mik=Mikulášovice dolní nádraží
+Kad=Kadaň
+KDů=Krásný Dvůr
+KPr=Kadaň-Prunéřov
+KRo=Kadaňský Rohozec
+Pod=Podbořany
+Rad=Radonice u Kadaně
+Vil=Vilémov u Kadaně
+
+
+2400 : 25 : ČKa; 9:15, KŠe; 9:30
+2401 : 25 : KŠe; 10:25, ČKa; 10:40
+2402 : 25 : ČKa; 11:15, KŠe; 11:30
+2403 : 25 : KŠe; 12:25, ČKa; 12:40
+2404 : 25 : ČKa; 13:15, KŠe; 13:30
+2405 : 25 : KŠe; 14:25, ČKa; 14:40
+2406 : 25 : ČKa; 15:15, KŠe; 15:30
+2407 : 25 : KŠe; 16:25, ČKa; 16:40
+
+1799 : 25 : Dhl; 9:37, Mik; 11:22
+1798 : 25 : Mik; 16:20, Dhl; 18:18
+
+15480 : 25 : ÚSt; 10:10, Zub; 10:43
+15481 : 25 : Zub; 11:00, ÚSt; 11:38
+15482 : 25 : ÚSt; 12:10, Zub; 12:43
+15483 : 25 : Zub; 13:00, ÚSt; 13:38
+15484 : 25 : ÚSt; 14:10, Zub; 14:43
+15485 : 25 : Zub; 15:00, ÚSt; 15:38
+15486 : 25 : ÚSt; 16:10, Zub; 16:43
+15487 : 25 : Zub; 17:00, ÚSt; 17:38
+
+18350 : 25 : Lovosice; 8:35, Most; 9:48 
+18351 : 25 : Most; 10:18, Lovosice; 11:30
+18352 : 25 : Lovosice; 12:35, Most; 13:48 
+18353 : 25 : Most; 14:18, Lovosice; 15:30
+18354 : 25 : Lovosice; 16:35, Most; 17:48 
+18355 : 25 : Most; 18:18, Lovosice; 19:30
+
+18340 : 25 : Roudnice nad Labem; 9:51, Libochovice; 11:01
+18341 : 25 : Libochovice; 11:48, Roudnice nad Labem; 13:08
+18342 : 25 : Roudnice nad Labem; 13:51, Libochovice; 15:01 
+18343 : 25 : Libochovice; 16:48, Roudnice nad Labem; 18:00
+
+18360 : 25 : Kad; 8:21, KRo; 9:07 
+18363 : 25 : KRo; 9:12, Vil; 9:30
+18362 : 25 : Vil; 9:33, KDů; 9:48
+18365 : 25 : KDů; 9:52, KPr; 10:42
+18366 : 25 : KPr; 10:51, Pod; 12:00
+18367 : 25 : Pod; 12:08, Kad; 13:11
+18368 : 25 : Kad; 14:20, Rad; 14:58
+18371 : 25 : Rad; 15:10, Vil; 15:21
+18370 : 25 : Vil; 15:24, KDů; 15:38
+18373 : 25 : KDů; 15:46, KPr; 16:36
+18374 : 25 : KPr; 16:51, Pod; 18:00
+18375 : 25 : Pod; 18:20, Kad; 19:23
+
+
+1::1
+2::2
+3::3
+4::4
+5::5
+6::6
