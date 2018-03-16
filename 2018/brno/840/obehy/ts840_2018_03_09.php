@@ -112,7 +112,7 @@ $trasa['4147_1'] = ['Brno hl.n.;14:47','Nemotice;15:52'];
 $trasa['4152_1'] = ['Nemotice;16:11','Brno-Židenice;17:11'];
 $trasa['4153_1'] = ['Brno hl.n.;17:48','Kyjov;19:05'];
 $trasa['4177_1'] = ['Kyjov;19:08','Veselí nad Moravou;19:36'];
-$trasa['4801_1'] = ['Náměšť nad OslavouVýluka;6:16','Brno hl.n.;7:10'];
+$trasa['4801_1'] = ['Náměšť nad Oslavou;6:16','Brno hl.n.;7:10'];
 $trasa['4801_2'] = ['Náměšť nad Oslavou;6:16','Brno hl.n.;7:10'];
 $trasa['4806_1'] = ['Brno hl.n.;7:45','Jihlava;10:19'];
 $trasa['4807_1'] = ['Třebíč;8:42','Brno hl.n.;10:10'];
@@ -142,7 +142,7 @@ $trasa['4844_1'] = ['Brno hl.n.;17:45','Třebíč;19:13'];
 $trasa['4844_2'] = ['Brno hl.n.;17:45','Náměšť nad Oslavou;18:47'];
 $trasa['4847_1'] = ['Náměšť nad Oslavou;18:19','Brno hl.n.;19:12'];
 $trasa['4847_2'] = ['Zastávka u Brna;18:44','Brno hl.n.;19:12'];
-$trasa['4850_1'] = ['Brno hl.n.;19:45','Náměšť nad OslavouVýluka;20:47'];
+$trasa['4850_1'] = ['Brno hl.n.;19:45','Náměšť nad Oslavou;20:47'];
 $trasa['4876_1'] = ['Třebíč;12:07','Jihlava;13:04'];
 $trasa['4879_1'] = ['Jihlava;14:53','Třebíč;15:52'];
 //sem patri stazene trasy

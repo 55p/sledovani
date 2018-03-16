@@ -1,0 +1,52 @@
+ž=Žilina
+č=Čadca
+k=Košice
+p=Poprad-Tatry
+kr=Kraľovany
+
+
+343: : Ostrava-Svinov;8:42, Žilina;10:32
+344: : Žilina;11:28, Ostrava-Svinov;13:19
+347: : Ostrava-Svinov;16:42, Žilina;18:32
+3439: 6 : Žilina;21:50, Liptovský Mikuláš;23:25
+3934: 5, 2903, 3004, 0705, 0407, 2808, 3110, -3003 : ž;2048,č;2126
+
+3404: 25 : Liptovský Mikuláš;5:03, Žilina;6:33
+3900: X : ž;448,č;526
+3905 :X: č;604,ž;642
+346: : Žilina;7:28, Ostrava-Svinov;9:19
+345: : Ostrava-Svinov;14:42, Žilina;16:32
+3433: XT: Žilina;17:25, Liptovský Mikuláš;19:05
+3433: 6: Žilina;17:25, Ružomberok;18:39
+
+3955 :6,3003,0105,0805,0507,2908,0101,-3103: č;635,ž;715
+3440: 7: Ružomberok;4:11, Žilina;5:14
+3406: X: Liptovský Mikuláš;5:49, Žilina;7:29
+3413: : Žilina;8:43, Liptovský Mikuláš;10:13
+3416: : Liptovský Mikuláš;11:48, Žilina;13:17
+342: : Žilina;15:28, Ostrava-Svinov;17:19
+640: X: Bohumín;20:01, Olomouc hl.n.;21:16
+3869: X1234: Olomouc hl.n.;23:07, Přerov;23:26
+
+3842: X2345: Přerov;5:05, Olomouc hl.n.;5:24
+641: vX: Olomouc hl.n.;6:47, Bohumín;8:02
+100243: 5,2903,0407,2709,-3003,-0607,-2809: Ostrava-Svinov;16:33, Košice;21:07
+
+7810:6:k;927,p;1118
+3470:6:p;1448,ž;1717
+3435:6:ž;1843,p;2013
+3454:6:p;2105,Rožumberok;2130
+3456:6:Rožumberok;2233,kr;2255
+3451:7:kr;423,k;844
+100242: 7,2612,0101,0204,0105,0805,-2412,-3112,-0104,-2904,-0605: Košice;11:07, Ostrava-Svinov;15:50
+1300sv: 1,5: Bohumín;0:01, Nymburk hl.n.;7:47
+1306sv: 3: Bohumín;5:46, Praha jih;16:29
+1307sv: 4: Praha jih;3:25, Bohumín;13:10
+1301sv: 1,5: Nymburk hl.n.;18:08, Bohumín;2:05
+
+
+2:5:2
+1:5:3
+4:36:1
+5:12457:1
+5:36:5

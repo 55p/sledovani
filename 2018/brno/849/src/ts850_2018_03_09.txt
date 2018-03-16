@@ -2,8 +2,10 @@ bz=Brno=Židenice
 hh=Brno-Horní Heršpice
 sl=Slavkov u Brna
 ns=Nesovice
+ve=Veselí nad Moravou
 uh=Uherské Hradiště
 sm=Staré Město u Uherského Hradiště
+ku=Kunovice
 ub=Uherský Brod
 
 
@@ -25,9 +27,9 @@ ub=Uherský Brod
 
 X;4860,1869,4149,4154
 6;4864,4807,4814,4817,4852
-112203vlož:T
-112253pk:T
-104303pk:T:Kunovice;544,Bojkovice;625
+112203vlož:T:ve;516,uh;535
+112253pk:T:uh;539,ku;542
+104303pk:T:ku;544,Bojkovice;625
 4350:T
 4361:T
 4304:T
@@ -53,7 +55,8 @@ T;1728,1731,12257,1734,1737
 4155:X
 4158:X5
 21991:T:ve;1420,ub;1444
-T;104313př;4383,4316,1736
+104313př:T:ub;1505,Bylnice;1559
+T;4383,4316,1736
 
 
 3:6:1

@@ -19,15 +19,19 @@ l=Luhačovice
 1722:X:Uherské Hradiště;635,Brno hl.n.;834
 4834:X
 70101:X5:Okříšky;1700,Brno hl.n.;1950
-1636:25
-1637:25
-70100:T:Brno-Horní Heršpice;2031, Okříšky;2321
+1643:6
+1644:6
+3175:T
+1646:T
+70100:T:Brno-Horní Heršpice;2206,Okříšky;005
 
 4827:X
-1731:X1234
+1723:X1234
+1728:X1234:s;1233,Slavkov u Brna;1404
+1731:X1234:Slavkov u Brna;1554,s;1727
 4145:X5
-4150:X5
-1733:X5
+4150:X5:Nemotice;1511,Slavkov u Brna;1541
+1733:X5:Slavkov u Brna;1755,Bylnice;2036
 101722:6:Bylnice;505,Uherské Hradiště;627
 70250:6:Uherské Hradiště;632,s;645
 881:6:s;656,l;745

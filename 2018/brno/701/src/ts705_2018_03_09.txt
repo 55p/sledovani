@@ -1,0 +1,9 @@
+﻿4144:X
+4151:X1234,-2903
+1729:X5,2903
+1732:=:Staré Město u Uherského Hradiště;1633,Slavkov u Brna;1806
+11596sv:=:Slavkov u Brna;1825,Brno-Maloměřice;1903
+11599sv:=:Brno-Maloměřice;1935,Brno dolní nádraží;1945
+1636:25
+1637:25
+4125:T
