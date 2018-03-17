@@ -1,6 +1,7 @@
 <?php
 // sem patri definice skupin. 
 $skupiny[] = $ts804 = new TS ('TS 804', '810');
+$skupiny[] = $ts812 = new TS ('TS 812', '812 + 912 PJ P.-Libeň');
 $skupiny[] = $ts891 = new TS ('TS 891', 'M 262 KŽC');
 
 
