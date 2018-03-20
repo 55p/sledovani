@@ -1,0 +1,31 @@
+3001: X : Bohumín; 04:33, Petrovice u Karviné; 04:50
+3020: X : Petrovice u Karviné; 04:58, Dětmarovice; 05:05
+3021: X : Dětmarovice; 05:13, Petrovice u Karviné; 05:20
+3022: X : Petrovice u Karviné; 05:43, Dětmarovice; 05:50
+3023sv: 25:Bohumín; 05:51, Dětmarovice; 05:58
+3023: : Dětmarovice; 05:59, Petrovice u Karviné; 06:06
+3024: : Petrovice u Karviné; 06:38, Dětmarovice; 06:45
+3025: : Dětmarovice; 07:13, Petrovice u Karviné; 07:20
+3002: X : Petrovice u Karviné; 07:24, Bohumín; 07:42
+3002: 25 : Petrovice u Karviné; 07:24, Dětmarovice; 07:31
+3003: X : Bohumín; 10:03, Petrovice u Karviné; 10:20
+3003: 25 : Dětmarovice; 10:13, Petrovice u Karviné; 10:20
+3028: : Petrovice u Karviné; 10:58, Dětmarovice; 11:05
+3027: : Dětmarovice; 11:39, Petrovice u Karviné; 11:46
+3030: : Petrovice u Karviné; 12:58, Dětmarovice; 13:05
+3031: : Dětmarovice; 13:13, Petrovice u Karviné; 13:20
+3032: X : Petrovice u Karviné; 13:58, Dětmarovice; 14:05
+3033: X : Dětmarovice; 14:25, Petrovice u Karviné; 14:32
+3034: : Petrovice u Karviné; 14:38, Dětmarovice; 14:45
+3035: : Dětmarovice; 14:53, Petrovice u Karviné; 15:00
+3036: X : Petrovice u Karviné; 15:25, Dětmarovice; 15:32
+3037: X : Dětmarovice; 15:39, Petrovice u Karviné; 15:46
+3038: : Petrovice u Karviné; 16:55, Dětmarovice; 17:02
+3039: : Dětmarovice; 17:13, Petrovice u Karviné; 17:20
+3040: : Petrovice u Karviné; 17:58, Dětmarovice; 18:05
+3041: : Dětmarovice; 18:13, Petrovice u Karviné; 18:20
+3042: : Petrovice u Karviné; 18:38, Dětmarovice; 18:45
+3043: : Dětmarovice; 19:13, Petrovice u Karviné; 19:20
+3004: : Petrovice u Karviné; 19:28, Bohumín; 19:46
+3005: X : Bohumín; 22:43, Petrovice u Karviné; 23:00
+3006: X : Petrovice u Karviné; 23:05, Bohumín; 23:23

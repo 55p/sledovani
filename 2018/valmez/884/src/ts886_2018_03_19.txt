@@ -1,0 +1,52 @@
+3900: X : Valašské Meziříčí; 04:15, Hulín; 05:25 
+3970: X : Hulín; 06:04, Kroměříž; 06:12
+3902: 6 : Valašské Meziříčí; 06:15, Kojetín; 07:49
+3933: X : Kroměříž; 06:47, Bystřice pod Hostýnem; 07:31
+3953: 6 : Kojetín; 08:09, Kroměříž; 08:21
+13907: 25 : Kroměříž; 08:38, Zborovice; 09:05
+3934: X : Bystřice pod Hostýnem; 09:05, Hulín; 09:29
+13908: 25 : Zborovice; 09:13, Kroměříž; 09:40
+3973: 7 : Kroměříž; 09:20, Hulín; 09:28
+114214vlož: X : Hulín; 09:39, Kroměříž; 09:47
+3934: 7 : Hulín; 09:39, Kojetín; 10:02
+3955: T : Kojetín; 10:38, Kroměříž; 10:50
+3954: 25 : Kroměříž; 11:37, Kojetín; 11:49
+3957: 25 : Kojetín; 12:09, Kroměříž; 12:21
+13909: : Kroměříž; 12:38, Zborovice; 13:05
+13910: X : Zborovice; 13:08, Kojetín; 13:49
+13910: 25 : Zborovice; 13:08, Kroměříž; 13:35
+13913: X : Kojetín; 14:23, Zborovice; 15:15
+13911: 25 : Kroměříž; 14:38, Zborovice; 15:05
+13912: 25 : Zborovice; 15:08, Kroměříž; 15:35
+13914: X : Zborovice; 15:18, Kroměříž; 15:45
+13915: : Kroměříž; 16:38, Zborovice; 17:05
+13916: X6 : Zborovice; 17:08, Kojetín; 17:49
+13916: T : Zborovice; 17:08, Kroměříž; 17:35
+13917: X6 : Kojetín; 18:23, Zborovice; 19:05
+13917: T : Kroměříž; 18:38, Zborovice; 19:05
+13918: : Zborovice; 19:08, Hulín; 19:50
+21942sv: 7 : Hulín; 20:01, Kroměříž; 20:09
+3946: 6 : Hulín; 20:26, Kroměříž; 20:34
+4244: X : Hulín; 21:20, Otrokovice; 21:33
+4245: X : Otrokovice; 21:52, Hulín; 22:06
+3984: X : Hulín; 23:02, Kroměříž; 23:10
+
+13901: X : Kroměříž; 04:20, Zborovice; 04:47
+3941: 6 : Kroměříž; 04:25, Hulín; 04:33
+3931: T : Kroměříž; 04:47, Hulín; 04:55
+13902: X : Zborovice; 04:50, Kroměříž; 05:17
+103940př: T : Hulín; 05:04, Kroměříž; 05:12
+13903: X : Kroměříž; 05:25, Zborovice; 05:52
+103900pk: 6 : Hulín; 05:28, Kroměříž; 05:36
+13904: X : Zborovice; 06:00, Kroměříž; 06:27
+13905: : Kroměříž; 06:38, Zborovice; 07:05
+13906: : Zborovice; 07:08, Kroměříž; 07:35
+13907: XT : Kroměříž; 08:38, Zborovice; 09:05
+13908: XT : Zborovice; 09:13, Kroměříž; 09:40
+3975: T : Kroměříž; 11:22, Hulín; 11:30
+21940sv: T : Hulín; 11:59, Kroměříž; 12:07
+103913př: X : Kroměříž; 12:47, Valašské Meziříčí; 14:12
+3929: T : Kroměříž; 13:45, Hulín; 13:53
+203929pk: T : Hulín; 14:09, Valašské Meziříčí; 15:09
+3981: 6 : Kroměříž; 17:22, Hulín; 17:30
+3982: 6 : Hulín; 18:04, Kroměříž; 18:12

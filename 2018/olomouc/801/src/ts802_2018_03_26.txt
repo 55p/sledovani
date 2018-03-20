@@ -1,0 +1,65 @@
+103622pk: X: Šumperk;3:56, Uničov;4:29
+3621: X: Uničov;4:34, Šumperk;5:14
+3680: 25: Šumperk;4:34, Uničov;5:15
+13722: 25: Uničov;5:37, Olomouc hl. n.;6:20
+3682: X: Šumperk;5:38, Olomouc hl. n.;6:57
+1701: 25: Olomouc hl. n.;6:56, Jeseník;8:58
+3681: X: Olomouc hl. n.;13:59, Šumperk;15:12
+1632: 25: Jeseník;17:43, Olomouc hl. n.;20:02
+3640: X: Šumperk;16:30, Olomouc hl. n.;18:19
+13735: X: Olomouc hl. n.;18:37, Uničov;19:17
+13738: X: Uničov;20:34, Olomouc hl. n.;21:17
+13737: 25: Olomouc hl. n.; 20:35, Uničov; 21:17
+3645: X: Olomouc hl. n.;21:57, Šumperk;23:32
+13740: 25: Uničov;22:44, Olomouc hl. n.;23:27
+3647: 25: Olomouc hl. n.;23:37, Šumperk;0:56
+
+3622: X: Šumperk;3:56, Olomouc hl. n.;5:14
+3621: 25: Uničov;4:34, Šumperk;5:14
+3628: T: Šumperk;7:04, Olomouc hl. n.;8:27
+3627: X: Olomouc hl. n.; 5:58, Šumperk; 7:35
+3630: X: Šumperk;8:30, Olomouc hl. n.;10:13
+13723: X: Olomouc hl. n.;10:37, Uničov;11:17
+13728: X: Uničov;12:34, Olomouc hl. n.;13:17
+3633: 6: Šumperk;13:14, Hanušovice;13:53
+3635: X: Olomouc hl. n.;13:40, Uničov;14:23
+3660: 6: Hanušovice;14:18, Šumperk;15:02
+3637: 7: Olomouc hl. n.;14:37, Uničov;15:17
+3661: 6: Šumperk;15:14, Hanušovice;15:53
+13732: X: Uničov;14:34, Olomouc hl. n.;15:17
+3638: T: Uničov;16:34, Olomouc hl. n.;17:17
+3662: 6: Hanušovice;16:18, Šumperk;17:01
+3685: X: Olomouc hl. n.;15:56, Šumperk;17:10
+3663: X6: Šumperk;17:12, Hanušovice;17:53
+3664: X6: Hanušovice;18:06, Šumperk;18:49
+3641: T: Olomouc hl. n.;17:37, Šumperk;19:10
+3644: : Šumperk;21:00, Olomouc hl. n.;22:20
+13739: : Olomouc hl. n.;22:47, Uničov;23:27
+
+3622: 25: Šumperk;3:56, Olomouc hl. n.;5:14
+13720: X: Uničov;4:11, Olomouc hl. n.;4:49
+3625: 25: Olomouc hl. n.;5:19, Šumperk;7:03
+3625: X: Olomouc hl. n.;5:19, Uničov;6:20
+3624: X: Uničov;6:34, Olomouc hl. n.;7:19
+3630: 25: Šumperk;8:30, Olomouc hl. n.;10:13
+3631: X: Olomouc hl. n.;9:33, Šumperk;10:54
+3633: 25: Olomouc hl. n.;11:37, Uničov;12:17
+13728: 25: Uničov;12:34, Olomouc hl. n.;13:17
+3634: X: Šumperk;13:01, Olomouc hl. n.;14:20
+3635: 25: Olomouc hl. n.;13:40, Šumperk;15:12
+3637: X: Olomouc hl. n.;14:37, Uničov;15:17
+3636: X: Uničov;15:34, Olomouc hl. n.;16:17
+3640: 25: Šumperk;16:30, Olomouc hl. n.;18:19
+3687: X: Olomouc hl. n.;16:56, Šumperk;18:10
+13735: 25: Olomouc hl. n.;18:37, Uničov;19:17
+3642: X: Šumperk;18:30, Olomouc hl. n.;20:17
+13738: 25: Uničov;20:34, Olomouc hl. n.;21:17
+13737: X: Olomouc hl. n.;20:37, Uničov;21:17
+3645: 25: Olomouc hl. n.;21:57, Šumperk;23:32
+13740: X: Uničov;22:44, Olomouc hl. n.;23:27
+3647: X: Olomouc hl. n.;23:37, Šumperk;0:56
+
+
+1:56:3
+2:56:2
+3:1234567:1

@@ -26,8 +26,9 @@
 3661: X : Šumperk; 15:14, Hanušovice; 15:54
 3662: X : Hanušovice; 16:18, Šumperk; 17:04
 13016: 25 : Zábřeh na Moravě; 16:31, Šumperk; 16:49 
-3615: : Šumperk; 18:27, Lipová Lázně; 20:03
+3615: : Šumperk; 18:27, Hanušovice; 19:10
 3616: 7 : Hanušovice; 20:02, Šumperk; 20:44
+101629pk: X : Hanušovice; 20:02, Lipová Lázně; 20:53
 13634: X : Lipová Lázně; 20:59, Javorník ve Slezsku; 21:48
 3619: 7 : Šumperk; 21:00, Jeseník; 22:33
 

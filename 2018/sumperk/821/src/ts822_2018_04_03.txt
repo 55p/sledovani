@@ -1,41 +1,36 @@
 101661pk: X : Lipová Lázně; 05:16, Jeseník; 05:24
-3602: X :
-3605: X :
+3602: X : Jeseník; 05:30, Šumperk; 07:23
+3605: X : Šumperk; 08:26, Jeseník; 10:17
 3692sv: X : Jeseník; 10:30, Lipová Lázně; 10:36
-13614: X :
-13615: X :
-3609: X :
-13618: X : Jeseník; 13:54, Lipová Lázně; 14:01
-13618: X :
-13619: X :
-13624: X :
-13625: X :
-13628: X :
-13629: X :
-13042: 25 :
+13614: X : Lipová Lázně; 11:09, Javorník ve Slezsku; 11:57
+13615: X : Javorník ve Slezsku; 12:01, Lipová Lázně; 12:49
+3609: X : Lipová Lázně; 13:41, Jeseník; 13:48
+13618: X : Jeseník; 13:54; Lipová Lázně; 14:01
+13629: : Lipová Lázně; 21:08, Šumperk; 22:49
+13042: 25 : Šumperk; 23:34, Kouty nad Desnou; 00:09
 
-13031: 17 :
-3601: X :
+13031: 1,7 : Kouty nad Desnou; 04:12, Šumperk; 04:47
+3601: X : Šumperk; 04:59, Jeseník; 06:34
 113001pk: 25 : Šumperk; 05:16, Bludov; 05:22
-3603: 25 :
-13606: X :
-23651: 25 :
-13609: X :
-23652: 25 :
-13610: X :
-23653: 25 :
-13613: X :
-23654: 25 :
-13616: X :
-23657: 25 :
-13617: X :
-13620: X :
-23658: 25 :
-13621: X :
-13626: X :
-23659: 25 :
-13627: X :
-23660: 25 :
-101634pk: 25 : Jeseník; 18:45, Lipová Lázně; 18:53
-13630:
-13633:
+3603: 25 : Bludov; 05:37, Jeseník; 07:17
+13606: X : Jeseník; 06:38, Javorník ve Slezsku; 07:40
+23651: 25 : Jeseník; 07:51, Zlaté Hory; 08:32
+13609: X : Javorník ve Slezsku; 08:01, Lipová Lázně; 08:49
+23652: 25 : Zlaté Hory; 09:32, Mikulovice; 09:47
+13610: X : Lipová Lázně; 09:09, Javorník ve Slezsku; 09:57
+23653: 25 : Mikulovice; 09:53, Zlaté Hory; 10:08
+13613: X : Javorník ve Slezsku; 10:01, Lipová Lázně; 10:49
+23654: 25 : Zlaté Hory; 11:57, Mikulovice; 12:12
+13616: X : Lipová Lázně; 13:09, Javorník ve Slezsku; 13:57
+23657: 25 : Mikulovice; 13:47, Zlaté Hory; 14:02
+13617: X : Javorník ve Slezsku; 14:01, Lipová Lázně; 14:48
+13620: X : Lipová Lázně; 15:09, Javorník ve Slezsku; 15:57
+23658: 25 : Zlaté Hory; 15:57, Mikulovice; 16:12
+13621: X : Javorník ve Slezsku; 16:01, Lipová Lázně; 16:49
+13626: X : Lipová Lázně; 17:09, Javorník ve Slezsku; 17:57
+23659: 25 : Mikulovice; 17:47, Zlaté Hory; 18:02
+13627: X : Javorník ve Slezsku; 18:01, Lipová Lázně; 18:49
+23660: 25 : Zlaté Hory; 18:06, Jeseník; 18:42
+101634pk: 25 : Jeseník; 18:45, Lipová Lázně; 18:52
+13630: : Lipová Lázně; 18:59, Javorník ve Slezsku; 19:47
+13633: : Javorník ve Slezsku; 21:20, Lipová Lázně; 22:08

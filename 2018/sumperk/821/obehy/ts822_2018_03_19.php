@@ -1,8 +1,8 @@
 <?php 
-$zacatekPlatnosti = '3.4.2018';
+$zacatekPlatnosti = '19.3.2018';
 $konecPlatnosti = null; //'x.x.2018 23:59:59';
 
-$obeh[1] = ['101661_1', '3602_1', '3605_1', '3692_1', '13614_1', '13615_1', '3609_1', '13618_1', '13629_1', '13042_1'];
+$obeh[1] = ['101661_1', '3602_1', '3605_1', '3692_1', '13614_1', '13615_1', '3609_1', '13618_1', '13619_1', '13624_1', '13625_1', '13628_1', '13629_1', '13629_2', '13042_1'];
 $obeh[2] = ['13031_1', '3601_1', '113001_1', '3603_1', '13606_1', '23651_1', '13609_1', '23652_1', '13610_1', '23653_1', '13613_1', '23654_1', '13616_1', '23657_1', '13617_1', '13620_1', '23658_1', '13621_1', '13626_1', '23659_1', '13627_1', '23660_1', '101634_1', '13630_1', '13633_1'];
 
 $omezeni['3601_1'] = 'X';
@@ -22,10 +22,16 @@ $omezeni['13615_1'] = 'X';
 $omezeni['13616_1'] = 'X';
 $omezeni['13617_1'] = 'X';
 $omezeni['13618_1'] = 'X';
+$omezeni['13619_1'] = 'X';
 $omezeni['13620_1'] = 'X';
 $omezeni['13621_1'] = 'X';
+$omezeni['13624_1'] = 'X';
+$omezeni['13625_1'] = 'X';
 $omezeni['13626_1'] = 'X';
 $omezeni['13627_1'] = 'X';
+$omezeni['13628_1'] = 'X';
+$omezeni['13629_1'] = 'X';
+$omezeni['13629_2'] = '25';
 $omezeni['23651_1'] = '25';
 $omezeni['23652_1'] = '25';
 $omezeni['23653_1'] = '25';
@@ -54,12 +60,17 @@ $trasa['13614_1'] = ['Lipová Lázně;11:09','Javorník ve Slezsku;11:57'];
 $trasa['13615_1'] = ['Javorník ve Slezsku;12:01','Lipová Lázně;12:49'];
 $trasa['13616_1'] = ['Lipová Lázně;13:09','Javorník ve Slezsku;13:57'];
 $trasa['13617_1'] = ['Javorník ve Slezsku;14:01','Lipová Lázně;14:48'];
-$trasa['13618_1'] = ['Jeseník;13:54;Lipová Lázně;14:01'];
+$trasa['13618_1'] = ['Jeseník;13:54','Javorník ve Slezsku;14:55'];
+$trasa['13619_1'] = ['Javorník ve Slezsku;15:02','Lipová Lázně;15:53'];
 $trasa['13620_1'] = ['Lipová Lázně;15:09','Javorník ve Slezsku;15:57'];
 $trasa['13621_1'] = ['Javorník ve Slezsku;16:01','Lipová Lázně;16:49'];
+$trasa['13624_1'] = ['Lipová Lázně;16:04','Javorník ve Slezsku;16:55'];
+$trasa['13625_1'] = ['Javorník ve Slezsku;17:02','Lipová Lázně;17:53'];
 $trasa['13626_1'] = ['Lipová Lázně;17:09','Javorník ve Slezsku;17:57'];
 $trasa['13627_1'] = ['Javorník ve Slezsku;18:01','Lipová Lázně;18:49'];
-$trasa['13629_1'] = ['Lipová Lázně;21:08','Šumperk;22:49'];
+$trasa['13628_1'] = ['Lipová Lázně;18:04','Javorník ve Slezsku;18:55'];
+$trasa['13629_1'] = ['Javorník ve Slezsku;20:02','Šumperk;22:49'];
+$trasa['13629_2'] = ['Lipová Lázně;21:08','Šumperk;22:49'];
 $trasa['13630_1'] = ['Lipová Lázně;18:59','Javorník ve Slezsku;19:47'];
 $trasa['13633_1'] = ['Javorník ve Slezsku;21:20','Lipová Lázně;22:08'];
 $trasa['23651_1'] = ['Jeseník;07:51','Zlaté Hory;08:32'];
