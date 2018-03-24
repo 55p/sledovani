@@ -1,4 +1,4 @@
-﻿1661: 6: Lipová Lázně;5:16, Krnov;6:58
+1661: 6: Lipová Lázně;5:16, Krnov;6:58
 1660: 7: Opava východ;6:14, Krnov;6:47
 1121: 25: Krnov;7:06, Ostrava střed;8:15
 1128: 25: Ostrava střed;9:41, Krnov;10:56
@@ -42,13 +42,12 @@
 1135: : Olomouc hl.n.;19:04, Krnov;20:50
 3506: : Krnov;21:12, Olomouc hl.n.;23:04
 
-3463: 25: Krnov;4:29, Opava východ;5:09
+3463: : Krnov;4:29, Opava východ;5:09
 3445: 25: Opava východ;5:22, Ostrava-Svinov;5:57
+3403: X: Opava východ;5:40, Ostrava-Kunčice;6:31
+2870: X: Ostrava-Kunčice;6:54, Ostrava-Svinov;7:04
 1130: : Ostrava-Svinov;8:00, Olomouc hl.n.;10:52
-101127př: X5: Olomouc hl.n.;11:04, Ostrava střed;14:15
-101129pk: T: Olomouc hl.n.;13:04, Ostrava střed;16:15
-101122pk: X5: Ostrava střed;15:41, Olomouc hl.n.;18:52
-101120př: T: Ostrava střed;17:41, Krnov;18:56
+101133pk: T: Olomouc hl.n.;17:04, Krnov;18:51
 3504: T: Krnov;19:05, Olomouc hl.n.;20:57
 3509: : Olomouc hl.n.;22:41, Krnov;0:42
 
@@ -66,15 +65,6 @@
 101120př: X5: Ostrava-Svinov;18:00, Opava východ;18:24
 3470: X: Opava východ;18:54, Krnov;19:36
 101135pk: T: Olomouc hl.n.;19:04, Krnov;20:50
-
-3463: X: Krnov;4:29, Opava východ;5:09
-3403: X: Opava východ;5:40, Ostrava-Kunčice;6:31
-2870: X: Ostrava-Kunčice;6:54, Ostrava-Svinov;7:04
-1130: X: Ostrava-Svinov;8:00, Olomouc hl.n.;10:52
-101127pk: T: Olomouc hl.n.;11:04, Krnov;12:51
-101131pk: X5: Olomouc hl.n.;15:04, Krnov;16:51
-101124př: T: Krnov;15:05, Olomouc hl.n.;16:52
-101122pk: X5: Krnov;17:05, Olomouc hl.n.;18:52
 
 
 1:56:1

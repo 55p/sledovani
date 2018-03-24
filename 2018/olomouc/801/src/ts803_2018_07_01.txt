@@ -1,16 +1,15 @@
 1628: X: Jeseník;4:57, Olomouc hl.n.;7:33
 1628: 6: Jeseník;4:57, Šumperk;6:24
 1700: T: Jeseník;4:57, Zábřeh na Moravě;6:22
-3628: 6: Šumperk;7:04, Olomouc hl.n.;8:27
+3628: 6: Šumperk;7:04, Olomouc hl n.;8:27
 103710pk: T: Zábřeh na Moravě;7:09, Šumperk;7:27
 3633: T: Šumperk;13:14, Hanušovice;13:53
 3660: T: Hanušovice;14:18, Šumperk;15:02
 3637: 6: Olomouc hl. n.;14:37, Uničov;15:17
 3661: T: Šumperk;15:14, Hanušovice;15:53
 3662: T: Hanušovice;16:18, Šumperk;17:01
-3638: 6: Uničov;16:34, Olomouc hl. n.;17:17
+3638: 6: Uničov;16:34, Olomouc hl.n.;17:17
 3663: T: Šumperk;17:12, Hanušovice;17:53
 3664: T: Hanušovice;18:06, Šumperk;18:49
-3641: 6: Olomouc hl.n.;17:37, Šumperk;19:10
-1629: X: Olomouc hl.n.;18:00, Jeseník;21:00
-1629: 25: Šumperk;19:29, Jeseník;21:00
+3641: X6: Olomouc hl.n.;17:37, Šumperk;19:10
+1629: : Šumperk;19:29, Jeseník;21:00

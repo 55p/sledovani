@@ -1,4 +1,4 @@
-13031: vX : Kouty nad Desnou; 04:15, Šumperk; 04:47
+﻿13031: vX : Kouty nad Desnou; 04:15, Šumperk; 04:47
 3601: 6 : Šumperk; 04:53, Jeseník; 06:34
 13030: X : Šumperk; 05:05, Velké Losiny; 05:25
 13003: X : Velké Losiny; 05:29, Zábřeh na Moravě; 06:07
@@ -53,5 +53,5 @@
 13627: 25 : Javorník ve Slezsku; 18:01, Lipová Lázně; 18:49
 13023: X : Šumperk; 18:51, Zábřeh na Moravě; 19:07
 13022: X : Zábřeh na Moravě; 20:54, Šumperk; 21:14
-13634: 67 : Lipová Lázně; 20:59, Javorník ve Slezsku; 21:48
+13634: 25 : Lipová Lázně; 20:59, Javorník ve Slezsku; 21:48
 13042: X : Šumperk; 23:34, Kouty nad Desnou; 00:09
