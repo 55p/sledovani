@@ -2,6 +2,7 @@
 // sem patri definice skupin. 
 $skupiny[] = $ts122 = new TS ('TS 122', '163 + 961');
 $skupiny[] = $ts123 = new TS ('TS 123', '163 + 961');
+$skupiny[] = $ts124 = new TS ('TS 124', '163 WTB');
 
 if (file_exists(__DIR__.'/typy.php')) {
   include __DIR__.'/typy.php';

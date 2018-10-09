@@ -1,0 +1,34 @@
+bh=Brno hl.n.
+ve=Veselí nad Moravou
+uh=Uherské Hradiště
+ub=Uherský Brod
+bj=Bojkovice
+by=Bylnice
+
+
+4101pk:X
+12206vlož:X
+12205pk:X
+4361:X
+12205pk:25:ve;716,uh;736
+4337:25
+4390pksv:6:bj;836,ub;854
+4352pk:T:bj;836,ub;854
+4307
+4308pk:
+4309
+4310pk:
+4311
+4312pk:
+4313:X1234,25
+4314pk:X1234,25
+4315:X1234,25
+4316pk:X1234,6:by;1805,ve;1943
+1738:X1234:ve;2101,bh;2233
+4366pk:X5
+4369:X5
+4368pk:X5
+12257:X5
+1734pk:X5:uh;1840,bh;2033
+1737:X5
+1738:T

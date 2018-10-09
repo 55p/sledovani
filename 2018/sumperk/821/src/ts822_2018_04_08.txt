@@ -1,0 +1,48 @@
+10887sv: X : Lipová Lázně; 06:20, Jeseník; ..:..
+13606: X : Jeseník; 06:38, Javorník ve Slezsku; 07:40
+13608: 25 : Lipová Lázně; 07:09, Javorník ve Slezsku; 07:57
+13609:  : Javorník ve Slezsku; 08:01, Lipová Lázně; 08:49
+13610:  : Lipová Lázně; 09:09, Javorník ve Slezsku; 09:57
+13613: : Javorník ve Slezsku; 10:01, Lipová Lázně; 10:49
+13614: : Lipová Lázně; 11:09, Javorník ve Slezsku; 11:57
+13615: : Javorník ve Slezsku; 12:01, Lipová Lázně; 12:49
+13616: 25 : Lipová Lázně; 13:09, Javorník ve Slezsku; 13:57
+3609: X : Lipová Lázně; 13:41, Jeseník; 13:48
+13618: X : Jeseník; 13:54; Lipová Lázně; 14:01
+13617: 25 : Javorník ve Slezsku; 14:01, Lipová Lázně; 14:48
+13620: 25 : Lipová Lázně; 15:09, Javorník ve Slezsku; 15:57
+13621: 6 : Javorník ve Slezsku; 16:01, Lipová Lázně; 16:49
+13623: 7 : Javorník ve Slezsku; 16:01, Lipová Lázně; 17:01
+13626: 25 : Lipová Lázně; 17:09, Javorník ve Slezsku; 17:57 
+13627: 25 : Javorník ve Slezsku; 18:01, Lipová Lázně; 18:49
+13630: 25 : Lipová Lázně; 18:59, Javorník ve Slezsku; 19:47
+13633: 25 : Javorník ve Slezsku; 21:20, Lipová Lázně; 22:08
+13634: X : Lipová Lázně; 20:59, Javorník ve Slezsku; 21:48
+
+101661pk: X : Lipová Lázně; 05:16, Jeseník; 05:24
+13629: : Lipová Lázně; 21:08, Šumperk; 22:49
+13601: : Javorník ve Slezsku; 04:10, Lipová Lázně; 04:58
+13600: 25 : Lipová Lázně; 05:23, Javorník ve Slezsku; 06:11
+13604: X : Lipová Lázně; 05:43, Javorník ve Slezsku; 06:31
+13605: 25 : Javorník ve Slezsku; 06:15, Lipová Lázně; 07:03
+13607: X : Javorník ve Slezsku; 06:33, Jeseník; 07:34
+10891sv: 25 : Lipová Lázně; 07:35, Jeseník; ..:..
+23651: 25 : Jeseník; 07:51, Zlaté Hory; 08:32
+23652: 25 : Zlaté Hory; 09:32, Mikulovice; 09:47
+23653: 25 : Mikulovice; 09:53, Zlaté Hory; 10:08
+3692sv: X : Jeseník; 10:30, Lipová Lázně; 10:36
+23654: 25 : Zlaté Hory; 11:57, Mikulovice; 12:12
+13616: X : Lipová Lázně; 13:09, Javorník ve Slezsku; 13:57
+23657: 25 : Mikulovice; 13:47, Zlaté Hory; 14:02
+13617: X : Javorník ve Slezsku; 14:01, Lipová Lázně; 14:48
+13620: X : Lipová Lázně; 15:09, Javorník ve Slezsku; 15:57
+23658: 25 : Zlaté Hory; 15:57, Mikulovice; 16:12
+13621: X : Javorník ve Slezsku; 16:01, Lipová Lázně; 16:49
+13626: X : Lipová Lázně; 17:09, Javorník ve Slezsku; 17:57
+23659: 25 : Mikulovice; 17:47, Zlaté Hory; 18:02
+13627: X : Javorník ve Slezsku; 18:01, Lipová Lázně; 18:49
+23660: 25 : Zlaté Hory; 18:06, Jeseník; 18:42
+10896sv:25: Jeseník; 18:45, Lipová Lázně; 18:49
+13630: X : Lipová Lázně; 18:59, Javorník ve Slezsku; 19:47
+13634: 25 : Lipová Lázně; 20:59, Javorník ve Slezsku; 21:48
+13633: X : Javorník ve Slezsku; 21:20, Lipová Lázně; 22:08

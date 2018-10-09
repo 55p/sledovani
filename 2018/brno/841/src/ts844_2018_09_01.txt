@@ -1,0 +1,25 @@
+za=Zastávka u Brna
+na=Náměšť nad Oslavou
+
+
+4802:X
+14862pk:X:Jihlava;605,Jihlava-Bosch Diesel;609
+4865:X
+4831:X:Třebíč;742,za;841
+4826:X:za;912,na;939
+4833:X:na;1019,za;1043
+4828:X:za;1114,na;1140
+4835:X:na;1221,za;1244
+4832:X:za;1414,na;1511
+4841:X:na;1616,za;1641
+11493sv:X:za;1655,Brno-Horní Heršpice;1718
+4820:6
+4825:6
+4824:6
+4831:6
+1722:T
+4828:25
+4835:25
+1735:6
+4854:XT
+4851:X5

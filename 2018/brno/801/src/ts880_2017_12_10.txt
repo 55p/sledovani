@@ -1,0 +1,17 @@
+114903:X:Nové Město na Moravě;502,Bystřice nad Pernštejnem;525
+14932:X
+14905:X
+14947:X
+14910:X
+14933:X
+14934:X
+14935:X
+14936:X
+114974př:X5
+124914př:X5:Žďár nad Sázavou;1840,Havlíčkův Brod;1916
+14886:X5
+105315pk:X5:Ždírec nad Doubravou;2029,Havlíčkův Brod;2100
+5932:X5
+8345:6
+5915:T:Havlíčkův Brod;2008,Žďár nad Sázavou;2045
+114977pk:T

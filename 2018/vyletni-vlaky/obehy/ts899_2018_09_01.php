@@ -2,7 +2,7 @@
 $zacatekPlatnosti = '1.9.2018';
 $konecPlatnosti = null; //'x.x.2018 23:59:59';
 
-$obeh['Pražský motoráček'] = ['7759_1', '7750_1', '7751_1', '7752_1', '7753_1', '7754_1', '7755_1', '7756_1', '7757_1', '7758_1'];
+$obeh['Pražský motoráček'] = ['7759_1', '7750_1', '7751_1', '7752_1', '7753_1', '7754_1', '7755_1', '7756_1', '7757_1', '7750_2', '7751_2', '7752_2', '7753_2', '7756_2', '7757_2', '7758_1'];
 $obeh['Posázavský motoráček'] = ['1563_1', '1562_1', '1565_1', '1564_1'];
 $obeh['Kokořínský rychlík'] = ['1572_1', '1573_1'];
 $obeh['Rakovnický rychlík'] = ['1571_1', '1570_1'];
@@ -24,14 +24,20 @@ $omezeni['1576_1'] = '25';
 $omezeni['1577_1'] = '25';
 $omezeni['1578_1'] = '6,2809, -2909';
 $omezeni['1579_1'] = 'T,-2809';
-$omezeni['7750_1'] = '25';
-$omezeni['7751_1'] = '25';
-$omezeni['7752_1'] = '25';
-$omezeni['7753_1'] = '25';
-$omezeni['7754_1'] = '25';
-$omezeni['7755_1'] = '25';
-$omezeni['7756_1'] = '25';
-$omezeni['7757_1'] = '25';
+$omezeni['7750_1'] = '0109,0209,0812';
+$omezeni['7751_1'] = '0109,0209,0812';
+$omezeni['7752_1'] = '0109,0209,0812';
+$omezeni['7753_1'] = '0109,0209,0812';
+$omezeni['7754_1'] = '0109,0209,0812';
+$omezeni['7755_1'] = '0109,0209,0812';
+$omezeni['7756_1'] = '0109,0209,0812';
+$omezeni['7757_1'] = '0109,0209,0812';
+$omezeni['7750_2'] = '25,-0109,-0209';
+$omezeni['7751_2'] = '25,-0109,-0209';
+$omezeni['7752_2'] = '25,-0109,-0209';
+$omezeni['7753_2'] = '25,-0109,-0209';
+$omezeni['7756_2'] = '25,-0109,-0209';
+$omezeni['7757_2'] = '25,-0109,-0209';
 $omezeni['7758_1'] = '25';
 $omezeni['7759_1'] = '25';
 
@@ -49,8 +55,8 @@ $trasa['1574_1'] = ['Praha hlavní nádraží;7:54','Březnice;9:32'];
 $trasa['1575_1'] = ['Březnice;17:02','Praha hlavní nádraží;18:45'];
 $trasa['1576_1'] = ['Praha-Vršovice;8:09','Jičín;11:32'];
 $trasa['1577_1'] = ['Jičín;16:54','Praha-Vršovice;19:46'];
-$trasa['1578_1'] = ['Březnice;9:39','Volary;12:44'];
-$trasa['1579_1'] = ['Volary;13:48','Březnice;17:01'];
+$trasa['1578_1'] = ['Březnice;9:39','Blatná;10:09'];
+$trasa['1579_1'] = ['Blatná;16:32','Březnice;17:01'];
 $trasa['7750_1'] = ['Praha hlavní nádraží;8:54','Praha-Zličín;9:21'];
 $trasa['7751_1'] = ['Praha-Zličín;9:34','Praha hlavní nádraží;10:11'];
 $trasa['7752_1'] = ['Praha hlavní nádraží;10:54','Praha-Zličín;11:21'];
@@ -61,12 +67,13 @@ $trasa['7756_1'] = ['Praha hlavní nádraží;14:54','Praha-Zličín;15:21'];
 $trasa['7757_1'] = ['Praha-Zličín;15:34','Praha hlavní nádraží;16:11'];
 $trasa['7758_1'] = ['Praha hlavní nádraží;17:17','Praha-Čakovice;17:42'];
 $trasa['7759_1'] = ['Praha-Čakovice;8:20','Praha hlavní nádraží;8:43'];
-//sem patri stazene trasy
 
-
-
-
-
+$trasa['7750_2'] = ['Praha hl.n.;8:54','Rudná u Prahy;9:19;9:20','Praha-Zličín;9:44'];
+$trasa['7751_2'] = ['Praha-Zličín;10:38','Rudná u Prahy;10:59;11:10','Praha hl.n.;11:35'];
+$trasa['7752_2'] = ['Praha hl.n.;11:50','Rudná u Prahy;12:32;12:47','Praha-Zličín;13:06'];
+$trasa['7753_2'] = ['Praha-Zličín;13:47','Rudná u Prahy;14:08;14:09','Praha hl.n.;14:35'];
+$trasa['7756_2'] = ['Praha hl.n.;14:54','Rudná u Prahy;15:19;15:20','Praha-Zličín;15:44'];
+$trasa['7757_2'] = ['Praha-Zličín;15:50','Rudná u Prahy;16:10;16:15','Praha hl.n.;16:45'];
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];
 if (empty($zeme)) $zeme = [];

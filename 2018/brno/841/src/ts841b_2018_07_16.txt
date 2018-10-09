@@ -1,0 +1,36 @@
+bh=Brno hl.n.
+hh=Brno-Horní Heršpice
+mb=Moravské Bránice
+bo=Bohutice
+ra=Rakšice
+
+
+4470pk:X
+1923:X:bo;737,mb;758
+11909sv:X:mb;800,hh;819
+4424pk:X
+4429:X
+4408pk:X
+4411:X:bo;1407,mb;1428
+104411vlož:X:mb;1431,bh;1504
+104450vlož:X:bh;1554,mb;1626
+4464pk:X
+4465:X
+104453vlož:X:mb;1731,bh;1804
+104414vlož:X:bh;1854,mb;1926
+4414pk:X:mb;1929,bo;1949
+4417:X
+4425:6
+4102:T
+4442pk:25
+4445:25
+4406pk:25
+4409:25
+4448pk:25
+4451:25
+4412pk:25
+4415:25
+4127:6
+4428pk:zX
+4430pk:X5
+4493:X5:bo;2354,ra;2359

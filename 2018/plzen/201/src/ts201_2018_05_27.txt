@@ -1,0 +1,82 @@
+8943: X: Plzeň hl.n.;5:08, Nepomuk;5:54
+8906: X: Nepomuk;7:08, Plzeň hl.n.;7:53
+8901: 25: Plzeň hl.n.;7:08, Horažďovice předměstí;8:16
+8910: 25: Horažďovice předměstí;10:43, Plzeň hl.n.;11:53
+
+655| Pl: : Plzeň hl.n.;16:02, České Budějovice;17:55
+660| Pl: : České Budějovice;20:04, Plzeň hl.n.;21:57
+8919: : Plzeň hl.n.;22:57, Horažďovice předměstí;23:59
+
+8900: : Horažďovice předměstí;3:47, Plzeň hl.n.;4:54
+661| Pl: : Plzeň hl.n.;6:02, České Budějovice;7:55
+654| Pl: : České Budějovice;10:04, Plzeň hl.n.;11:57
+669| Pl: : Plzeň hl.n.;14:02, České Budějovice;15:55
+98999: : záloha za ř. 650;16:15;24:00
+
+98998: : záloha za ř. 650;0:00;15:30
+100669| Ji: : České Budějovice;16:07, Jihlava;18:33
+100652| Ji: X5,T: Jihlava;19:30, České Budějovice;21:49
+
+100651| Ji: X1: České Budějovice;4:15, Jihlava;6:33
+14870: X: Jihlava;12:37, Havlíčkův Brod;13:05
+14865: X: Havlíčkův Brod;14:05, Jihlava město;14:45
+8362: X: Jihlava město;15:11, Havlíčkův Brod;15:50
+14867: X: Havlíčkův Brod;17:12, Jihlava;17:42
+
+100656| Ji: X: Jihlava;5:25, České Budějovice;7:47
+100654| Ji: 6: Havlíčkův Brod;7:00, České Budějovice;9:47
+100654| Ji: T: Jihlava;7:25, České Budějovice;9:47
+100663| Ji: : České Budějovice;10:07, Jihlava;12:33
+100664| Ji: : Jihlava;13:25, České Budějovice;15:47
+100655| Ji: X1234: České Budějovice;18:07, Jihlava;20:27
+100655| Ji: X5,T: České Budějovice;18:07, Havlíčkův Brod;20:56
+
+100654| Ji: X1: Havlíčkův Brod;7:00, České Budějovice;9:47
+100654| Ji: X2345: Jihlava;7:25, České Budějovice;9:47
+100661| Ji: 25: České Budějovice;8:07, Jihlava;10:33
+100666| Ji: 25: Jihlava;11:25, České Budějovice;13:47
+664| Pl: : České Budějovice;16:04, Plzeň hl.n.;17:57
+659| Pl: : Plzeň hl.n.;20:02, České Budějovice;21:55
+
+100653| Ji: : České Budějovice;6:07, Jihlava;8:33
+100668| Ji: : Jihlava;9:25, České Budějovice;11:47
+100667| Ji: : České Budějovice;14:07, Jihlava;16:33
+100660| Ji: : Jihlava;17:25, České Budějovice;19:47
+
+658| Pl: : České Budějovice;6:04, Plzeň hl.n.;7:57
+665| Pl: : Plzeň hl.n.;10:02, České Budějovice;11:55
+666| Pl: : České Budějovice;14:04, Plzeň hl.n.;15:57
+657| Pl: : Plzeň hl.n.;18:02, České Budějovice;19:55
+8216: X: České Budějovice;22:44, Tábor;24:00
+8218: 25: České Budějovice;22:57, Tábor;0:22
+
+8203: : Tábor;5:15, České Budějovice;6:34
+100661| Ji: : České Budějovice;8:07, Jihlava;10:33
+100666| Ji: : Jihlava;11:25, České Budějovice;13:47
+8012: X: České Budějovice;14:18, Strakonice;15:20
+8015: X: Strakonice;16:51, České Budějovice;17:51
+100665| Ji: 25: České Budějovice;12:07, Jihlava;14:33
+100662| Ji: 25: Jihlava;15:25, České Budějovice;17:47
+1253: zX: České Budějovice;19:12, Písek;19:56
+
+1254: X: Písek;5:59, České Budějovice;6:42
+100665| Ji: X: České Budějovice;12:07, Jihlava;14:33
+100662| Ji: X: Jihlava;15:25, České Budějovice;17:47
+8016: X: České Budějovice;18:18, Strakonice;19:20
+8018: 25: České Budějovice;21:10, Strakonice;22:06
+
+8051: X1: Strakonice;5:12, České Budějovice;6:21
+8001: X2345: Strakonice;5:12, České Budějovice;6:14
+8003: 25: Strakonice;5:44, České Budějovice;6:52
+656| Pl: : České Budějovice;8:04, Plzeň hl.n.;9:57
+667| Pl: : Plzeň hl.n.;12:02, České Budějovice;13:55
+1836: X: České Budějovice;14:32, Tábor;15:40
+8213: X: Tábor;16:09, České Budějovice;17:22
+662| Pl: : České Budějovice;18:04, Plzeň hl.n.;19:57
+
+
+4:5:7
+4:6:6
+5:56:5
+6:5:6
+12:1234567:1

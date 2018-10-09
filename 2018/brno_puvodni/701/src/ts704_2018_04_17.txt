@@ -1,0 +1,5 @@
+4102:X
+99999::záloha Brno hl.n.;600;1900
+4125:X1234
+4125:T
+11589sv:T:Kyjov;2138,Veselí nad Moravou;2202

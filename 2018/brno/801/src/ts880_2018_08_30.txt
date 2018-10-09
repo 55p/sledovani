@@ -1,0 +1,23 @@
+bh=Brno hl.n.
+ti=Tišnov
+ne=Nedvědice
+by=Bystřice nad Pernštejnem
+nm=Nové Město na Moravě
+
+
+114903:X:nm;502,by;525
+14932:X
+14905:X
+14947:X
+14910:X
+14933:X
+14934:X
+14935:X
+14936:X
+114905:6:nm;602,by;625
+14902:6:by;633,nm;657
+11441sv:6:nm;702,ne;753
+14907:6
+11443sv:6:ti;840,Brno-Maloměřice;905
+4994sv:T:Brno-Maloměřice;1447,ti;1510
+14916:T:ti;1534,nm;1657

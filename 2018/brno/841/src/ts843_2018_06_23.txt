@@ -1,0 +1,37 @@
+bh=Brno hl.n.
+hh=Brno-Horní Heršpice
+sl=Slavkov u Brna
+ne=Nesovice
+ve=Veselí nad Moravou
+ku=Kunovice
+uh=Uherské Hradiště
+sm=Staré Město u Uherského Hradiště
+bj=Bojkovice
+by=Bylnice
+
+
+4191pksv:X1:hh;251,ne;336
+4140:X
+11591pksv:X:bh;457,sl;534
+4103pk:X:sl;552,ve;705
+4110:X:ve;759,sl;911
+11596sv:X:sl;925,bh;1005
+1729pk:X1234:bh;1328,ve;1458
+11515svvlož:T:ve;448,uh;531
+12253vlož:T
+104303vlož:T:ku;544,bj;625
+4350pk:6
+4350pk:T
+11542sv:25:sm;802,ve;835
+1724:25:ve;901,bh;1033
+4119pk:6:bh;1414,ve;1605
+1732:X1234,6:ve;1701,bh;1833
+4155pk:X1234
+4145pk:X5
+4150:X5
+4153pk:X5
+4177pk:X5
+11559sv:X5:ve;2015,uh;2100
+12273:X5
+101735:X5:ku;2120,by;2236
+1735:6:bh;1928,ve;2058

@@ -1,9 +1,11 @@
 <?php
 // sem patri definice skupin. 
 $skupiny[] = $ts447 = new TS ('TS 447', '451');
+$skupiny[] = $ts8013 = new TS ('TS 8013', '814');
+$skupiny[] = $ts8014 = new TS ('TS 8014', '814');
 $skupiny[] = $ts111 = new TS ('TS 111', '163 + 961');
 
-$skupiny[] = $mimor = new TS('mimořádný oběh');
+$skupiny[] = $mimor = new TS('mimořádný oběh 451 a 163 + 961');
 
 if (file_exists(__DIR__.'/typy.php')) {
   include __DIR__.'/typy.php';

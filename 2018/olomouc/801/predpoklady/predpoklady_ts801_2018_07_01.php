@@ -41,6 +41,6 @@ function predpoklad_6_TS801 ($timestamp) {
   if ($den == 6) {
     return 5;
   }
-  return 1;
+  return 7;
 }
 

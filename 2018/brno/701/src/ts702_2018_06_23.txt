@@ -1,0 +1,32 @@
+v=Veselí nad Moravou
+s=Staré Město u Uherského Hradiště
+l=Luhačovice
+
+
+11519:X:v;507,s;544
+11521:6:v;534,s;611
+881:X6:s;611,l;745
+890:X6:l;831,s;934
+11527:T:v;734,s;807
+885::s;1027,l;1118
+886::l;1231,s;1333
+889::s;1427,l;1518
+882::l;1631,s;1733
+111533:XT:s;1910,Bylnice;2036
+70241:6:s;2145,Otrokovice;2157
+897:6:Otrokovice;2213,Zlín střed;2225
+
+894:T:Zlín střed;531,Otrokovice;544
+70240:T:Otrokovice;549,s;605
+111522:X6:Bylnice;505,s;634
+883::s;827,l;918
+888::l;1031,s;1133
+887::s;1227,l;1318
+884::l;1431,s;1533
+891::s;1627,l;1718
+880::l;1820,s;1904
+11534|Sv Bz - Ve|Sv Bzenec - Veselí nad Moravou:X1234,25:s;1922,v;1955
+11534:X5:s;1922,v;1955
+
+1720:X:v;601,Brno hl.n.;733
+1731:X:Brno hl.n.;1528,v;1658

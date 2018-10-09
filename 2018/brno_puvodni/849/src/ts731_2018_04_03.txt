@@ -1,0 +1,16 @@
+zn=Znojmo
+hr=Hrušovany nad Jevišovkou
+no=Novosedly
+
+
+11569:X1:zn;400,hr;424
+4541:X:hr;434,no;444
+4500:X:no;542,zn;622
+4513:X:zn;1155,no;1237
+4512:X:no;1310,zn;1353
+4521:X:zn;1455,no;1540
+4518:X:no;1613,zn;1653
+4531:X:zn;1755,no;1836
+4544:X:no;1910,hr;1920
+11575sv:X5:hr;2135,no;2144
+4526:X5:no;2210,zn;2248

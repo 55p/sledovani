@@ -1,0 +1,41 @@
+27800: X: Mirošov;3:55, Nezvěstice;4:30
+27851: X: Nezvěstice;4:34, Příkosice;4:57
+27850: X: Příkosice;5:02, Nezvěstice;5:25
+27853: X: Nezvěstice;5:34, Příkosice;5:57
+7891sv: 6: Plzeň hl.n.;4:59, Rokycany;5:20
+27812: 6: Rokycany;5:35, Příkosice;5:57
+27852: X6: Příkosice;6:02, Nezvěstice;6:25
+27855: X6: Nezvěstice;6:33, Příkosice;6:56
+27816: T: Rokycany;6:35, Příkosice;6:57
+27854: : Příkosice;7:02, Nezvěstice;7:25
+27857: : Nezvěstice;8:33, Příkosice;8:56
+27856: : Příkosice;9:02, Nezvěstice;9:25
+27859: : Nezvěstice;10:33, Příkosice;10:56
+27858: : Příkosice;11:02, Nezvěstice;11:25
+27861: : Nezvěstice;12:33, Příkosice;12:56
+27860: 25: Příkosice;13:02, Nezvěstice;13:25
+27863: 25: Nezvěstice;13:33, Příkosice;13:56
+27862: X: Příkosice;14:02, Nezvěstice;14:25
+27865: X: Nezvěstice;14:33, Příkosice;14:56
+27864: : Příkosice;15:02, Nezvěstice;15:25
+27867: X: Nezvěstice;15:33, Příkosice;15:56
+27866: X: Příkosice;16:02, Nezvěstice;16:25
+27869: : Nezvěstice;16:33, Příkosice;16:56
+27868: : Příkosice;17:02, Nezvěstice;17:25
+27871: : Nezvěstice;18:33, Příkosice;18:56
+27870: : Příkosice;19:02, Nezvěstice;19:25
+27801: : Nezvěstice;21:33, Mirošov;22:05
+
+7891sv: X1: Plzeň hl.n.;4:59, Rokycany;5:20
+27812: X1: Rokycany;5:35, Příkosice;5:57
+27896sv: X2345: Mirošov;6:27, Příkosice;6:34
+27815: X: Příkosice;6:39, Rokycany;7:02
+27832: X: Rokycany;15:55, Příkosice;16:17
+27891sv: X1234: Příkosice;14:20, Mirošov;16:26
+127835pk: X5: Příkosice;17:00, Rokycany;17:22
+7892sv: X5: Rokycany;17:30, Plzeň hl.n.;17:52
+7890sv: 6: Mirošov;14:14, Plzeň hl.n.;15:05
+
+
+1:67:1
+2:67:2

@@ -1,0 +1,36 @@
+bh=Brno hl.n.
+sl=Slavkov u Brna
+ve=Veselí nad Moravou
+st=Strážnice
+uh=Uherské Hradiště
+sm=Staré Město u Uherského Hradiště
+
+
+4191sv:X1:Brno-Horní Heršpice;251,Nesovice;336
+4140:X
+11591sv:X:bh;457,sl;534
+4103:X:sl;552,ve;705
+2704| zadní|zadní část:X:ve;715,st;725
+12207:X
+4304| zadní|zadní část:X:uh;819,sm;825
+1724:X
+1729:X1234
+1732:X1234
+4155:X1234
+4145:X5
+4150:X5
+4153:X5
+4177:X5
+4172:X5
+4101:6
+4101:T
+4302:25
+4110:25
+1725:6
+4343| zadní|zadní část:6:sm;1336,uh;1342
+4364:6
+4367:6
+4340| přední|přední část:6:uh;1418,sm;1424
+1730:6
+1733:6
+4318:6

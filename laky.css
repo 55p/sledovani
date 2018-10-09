@@ -18,10 +18,15 @@ br + .lakVozidla {
 .najbrt2_sachy {
   color: #001C9D;
   background-color: #28C8FD;
+  
+  border-left: 0.6ex solid #001C9D;
+  border-right: 0.6ex solid #001C9D;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
 }
 .najbrt2_vlajka {
   color: #D55000;
-  background-color: #28C8FD;
+  background-color: #28C8FD; /*amen*/
 }
 
 .najbrt1 {
@@ -70,6 +75,17 @@ br + .lakVozidla {
   background-color: #219824;
   padding-top: 0;
   padding-bottom: 0;
+  
+}
+
+.upce {
+  background: #00007D;
+  color: white;
+  
+  border-left: 0.8ex solid #FF3333;
+  border-right: 0.7ex solid #FF3333;
+  padding-left: 0.4ex;
+  padding-right: 0.5ex;
 }
 
 .modre_eso {
@@ -129,12 +145,12 @@ br + .lakVozidla {
   color: white;
   background: #000080;
 }
-/*
+
+.modrocervena_380, 
 .euro2012_380 { 
   background: #D50000;
   color: #9FCBFF;
 }
-*/
 
 .sportovni {
   color: #e51616;
@@ -142,18 +158,38 @@ br + .lakVozidla {
 }
 
 .nostalgicka_380 {
-  color: #7A9CEB;
+  color: #557DE8;
   background-color: #ededed;
+  
+  border-left: 0.6ex solid #557DE8;
+  border-right: 0.6ex solid #557DE8;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
 }
 
 .skoda_380 {
   color: #FF8F20;
   background-color: #fff;
+  
+  border-left: 0.6ex solid #FF8F20;
+  border-right: 0.6ex solid #FF8F20;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
 }
 
 .slovenska_strela_380 {
   background: #A44446;
   color: #AEF1FF;
+}
+
+.stolet_380 {
+  color: #B9DCFF;
+  background-color: #646464;
+  
+  border-left: 0.6ex solid #FF5E5E;
+  border-right: 0.6ex solid #FF5E5E;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
 }
 
 .blonski {
@@ -240,7 +276,7 @@ br + .lakVozidla {
   padding-top: 0;
 }
 
-
+/*
 .pendolino {
   color: #FEF763;
   background-color: #747474 ;
@@ -249,10 +285,11 @@ br + .lakVozidla {
   border-top: 0.5ex solid #75BAFF;
   padding-top: 0;
 }
+*/
 
-.postovka {
-  color: #DF0000;
-  background-color: #FEDF2E;
+.pendolino {
+  color: #B7E0FF;
+  background-color: #747474;
 }
 
 .sedy_pantograf {
@@ -448,10 +485,10 @@ br + .lakVozidla {
   color: #0632C8;
 }
 .regiojet_193 {
-  border-left: 0.6ex solid black;
-  border-right: 0.6ex solid black;
-  padding-left: 0.4ex;
-  padding-right: 0.4ex;
+  border-left: 0.4ex solid black;
+  border-right: 0.4ex solid black;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
   background: #FFC90F;
   color: black;
 }
@@ -464,8 +501,8 @@ br + .lakVozidla {
   color: blue;
 }
 .regiojet_193_zelena {
-  border-left: 1ex solid #00CA00;
-  border-right: 1ex solid #00CA00;
+  border-left: 0.7ex solid #00CA00;
+  border-right: 0.7ex solid #00CA00;
   padding-left: 0.4ex;
   padding-right: 0.4ex;
   background: #545454;
@@ -474,6 +511,12 @@ br + .lakVozidla {
 .regiojet_193_bila {
   background: white;
   color: black;
+}
+.regiojet_traxx {
+  background: #FFC90F ;
+  color: #5C5C5C  ;
+  border-left: 1ex solid #D8D8D8 ;
+  border-right: 1ex solid #D8D8D8 ;
 }
 
 .vlajka {
@@ -489,6 +532,11 @@ br + .lakVozidla {
 .bastard_zluty {
   background: #FF2B2B;
   color: #F4D600;
+  
+  border-left: 0.8ex solid #F4D600;
+  border-right: 0.7ex solid #F4D600;
+  padding-left: 0.4ex;
+  padding-right: 0.5ex;
 }
 
 .vt650_modre {
@@ -673,7 +721,8 @@ br + .lakVozidla {
 
 .berta_seda {
   background: #DDDDDD;
-  color: #800000;
+  color: #E46416;
+  border-top: 4px solid #E46416;
 }
 
 .berta_zelena {
@@ -689,6 +738,80 @@ br + .lakVozidla {
 .berta_modra {
   background: #3C4DC1 ;
   color: #FFB0B0 ;
+}
+
+.berta_azd {
+  background: #0000AE;
+  color: #F1FE01;
+}
+
+.berta_cervena {
+  background: #FF4848;
+  color: #D6D6D6;
+}
+
+.berta_259 {
+  background: #77B5FF;
+  color: #fff;
+}
+
+.kocour_cerveny {
+  background: #EB8383;
+  color: #FFEDB0;
+}
+
+.kocour_vleckovy {
+  background: #5155FF;
+  color: #FFEDB0;
+}
+
+.hurvinek {
+  background: #A40000;
+  color: white;
+}
+
+.hektor_modry {
+  background: #000080;
+  color: #FFEDB0;
+  border-bottom: 4px solid #D92626;
+}
+
+.hektor_svetle_modry {
+  background: #5E9EFF;
+  color: #B72020;
+}
+
+.azd_sukafon {
+  background: #FFF475;
+  color: #0000AE;
+}
+
+.sk_sukafon {
+  background: #ccc;
+  color: #E83A00;
+}
+
+.sukafon_retro_polomaceny {
+  border-top: 4px solid #FEE78B;
+  border-bottom: 4px solid black;
+  background: #E83A00;
+  color: white;
+}
+
+.krokodyl {
+  border-top: 4px solid #999;
+  background: #FFEEC6;
+  color: #EC0000;
+}
+
+.kredenc {
+  background: #FF8080;
+  color: #FFEEB9;
+}
+
+.sukafon_doupov {
+  background: #B9E1A6;
+  color: #0084E6;
 }
 
 .arriva1 {
@@ -735,3 +858,5 @@ br + .lakVozidla {
   padding-left: 0.5ex;
   padding-right: 0.5ex;
 }
+
+

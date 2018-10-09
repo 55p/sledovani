@@ -1,0 +1,8 @@
+99989::záloha Břeclav;8:20;19:30
+408:1:Břeclav;614,Bohumín;801
+
+99988::záloha Olomouc;5:30;18:30
+
+99987::záloha Česká Třebová;5:00;19:00
+
+99986::záloha Praha hl.n.;7:30;19:45

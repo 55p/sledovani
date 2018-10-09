@@ -1,8 +1,9 @@
-ž=Žilina
+﻿ž=Žilina
 č=Čadca
 k=Košice
 p=Poprad-Tatry
 kr=Kraľovany
+lm=Liptovský Mikuláš
 
 
 343: : Ostrava-Svinov;8:42, Žilina;10:32
@@ -34,8 +35,8 @@ kr=Kraľovany
 
 7810:6:k;927,p;1118
 3470:6:p;1448,ž;1717
-3435:6:ž;1843,p;2013
-3454:6:p;2105,Rožumberok;2130
+3435:6:ž;1843,lm;2013
+3454:6:lm;2105,Rožumberok;2130
 3456:6:Rožumberok;2233,kr;2255
 3451:7:kr;423,k;844
 100242: 7,2612,0101,0204,0105,0805,-2412,-3112,-0104,-2904,-0605: Košice;11:07, Ostrava-Svinov;15:50

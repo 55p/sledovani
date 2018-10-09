@@ -60,7 +60,7 @@ $trasa['19861_1'] = ['Kladno-Dubí;6:55', 'Kladno;7:08'];
 $trasa['9801_1'] = ['Rakovník;5:42', 'Praha-Bubny;7:32'];
 $trasa['9848_1'] = ['Praha-Bubny Vltavská;18:33', 'Kladno-Ostrovec;19:34'];
 
-$typ['19736_1'] = 'Sv';
+// $typ['19736_1'] = 'Sv';
 $typ['19735_2'] = 'Sv';
 $typ['19860_1'] = 'Sv';
 $typ['19893_1'] = 'Sv';

@@ -1,0 +1,28 @@
+13005:X:Šumperk;7:06,Zábřeh na Moravě;7:24
+3680:25:Šumperk;4:34,Uničov;5:15
+13722:25:Uničov;5:37,Olomouc hl.n.;6:20
+1701:X:Zábřeh na Moravě;7:31,Ostružná;8:29
+101701:25:Olomouc hl.n.;6:56,Ostružná;8:29
+1710::Ostružná;9:29,Zábřeh na Moravě;10:25
+1707::Zábřeh na Moravě;11:31,Ostružná;12:29
+1706::Ostružná;13:29,Zábřeh na Moravě;14:25
+1711:X6:Zábřeh na Moravě;15:31,Ostružná;16:31
+1715:T:Zábřeh na Moravě;15:31,Ostružná;16:36
+1702::Ostružná;17:29,Zábřeh na Moravě;18:25
+70360::Zábřeh na Moravě;18:31,Šumperk;19:04
+
+103680:X:Šumperk;4:34,Olomouc hl.n.;5:54
+3683:X:Olomouc hl.n.;14:56,Šumperk;16:10
+13021:X:Šumperk;16:50,Zábřeh na Moravě;17:07
+1713:X:Zábřeh na Moravě;17:31,Ostružná;18:31
+70361:25:Šumperk;7:46,Zábřeh na Moravě;8:31
+1703:25:Zábřeh na Moravě;8:31,Ostužná;9:29
+
+1712::Ostružná;7:29,Zábřeh na Moravě;8:25
+1705::Zábřeh na Moravě;9:31,Ostružná;10:29
+1708::Ostružná;11:29,Zábřeh na Moravě;12:25
+1709::Zábřeh na Moravě;13:31,Ostružná;14:29
+1704::Ostružná;15:29,Zábřeh na Moravě;16:25
+101713:25:Zábřeh na Moravě;17:31,Ostružná;18:31
+13020:X:Zábřeh na Moravě;18:26,Šumperk;18:44
+1634:25:Ostružná;19:20,Šumperk;20:30

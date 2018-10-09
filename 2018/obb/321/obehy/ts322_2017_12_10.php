@@ -6,7 +6,7 @@ $obeh[1] = ['72_1', '371_1'];
 $obeh[2] = ['74_1', '373_1'];
 
 
-$trasa['371_1'] = ['Praha hl.n.;14:51;g;2133'];
+$trasa['371_1'] = ['Praha hl.n.;14:51','Graz Hbf;21:33'];
 $trasa['373_1'] = ['Praha hl.n.;16:51','Graz Hbf;23:33'];
 $trasa['72_1'] = ['Graz Hbf;6:26','Praha hl.n.;13:07'];
 $trasa['74_1'] = ['Graz Hbf;8:26','Praha hl.n.;15:07'];

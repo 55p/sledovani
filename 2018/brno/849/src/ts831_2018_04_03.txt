@@ -1,0 +1,8 @@
+zn=Znojmo
+no=Novosedly
+
+
+24800:X
+24801:X
+4507:X:zn;658,no;740
+104506pk:X:no;813,zn;853

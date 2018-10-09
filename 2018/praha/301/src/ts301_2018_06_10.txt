@@ -1,0 +1,17 @@
+178::Praha hl.n.;6:21,Berlin Hbf;10:41
+175::Berlin Hbf;13:19,Praha hl.n.;17:24
+258:XT:Praha hl.n.;18:33,Leipzig Hbf;22:03
+258:6:Praha hl.n.;18:33,Děčín hl.n.;19:58
+
+259:X6:Leipzig Hbf;5:55,Praha hl.n.;9:24
+259:T:Děčín hl.n.;7:58,Praha hl.n.;9:24
+174::Praha hl.n.;10:33,Hamburg-Altona;17:24
+
+173::Hamburg-Altona;6:26,Praha hl.n.;13:24
+172::Praha hl.n.;14:33,Hamburg-Altona;21:36
+
+179::Hamburg-Altona;14:37,Praha hl.n.;21:24
+
+176::Praha hl.n.;8:33,Hamburg-Altona;15:27
+
+177::Hamburg-Altona;12:39,Praha hl.n.;19:24

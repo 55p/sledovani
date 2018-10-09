@@ -1,0 +1,58 @@
+zn=Znojmo
+hr=Hrušovany nad Jevišovkou
+no=Novosedly
+bh=Brno hl.n.
+hh=Brno-Horní Heršpice
+mb=Moravské Bránice
+ve=Veselí nad Moravou
+
+
+4560:X
+4505:X:zn;558,no;639
+4506:X:no;813,zn;853
+4511:X:zn;1103,no;1140
+4510:X:no;1213,zn;1253
+4519:X:zn;1355,no;1437
+4516:X:no;1510,zn;1553
+4527:X:zn;1655,no;1740
+4529:T:zn;1703,no;1740
+4522:XT:no;1813,zn;1853
+104533pk:X1234:zn;1903,no;1941
+4526:X1234:no;2210,zn;2248
+1822:6:Brno-Královo Pole;756,Šatov;1018
+1823:6:Šatov;1741,Brno-Královo Pole;2000
+
+4503:X:zn;458,no;539
+4502:X:no;641,zn;722
+4509:X:zn;903,no;940
+4508:X:no;1013,zn;1053
+4515:X:zn;1255,no;1340
+4514:X:no;1413,zn;1453
+4525:X:zn;1555,no;1637
+4520:X:no;1710,zn;1753
+4533:X:zn;1903,no;1941
+4524:X:no;2013,zn;2053
+4563:X
+1822:T:Brno-Královo Pole;756,Šatov;1018
+1823:T:Šatov;1741,Brno hl.n.;1940
+4418:T
+
+4403:X
+4141:X5
+4181:X5
+4143:X1234
+4148:X
+4151:X
+4403:6
+1721:6:bh;735,ve;859
+4112:6:ve;955,bh;1148
+
+4144:X
+11904sv:X:hh;1512,mb;1543
+1922:X:mb;1559,hr;1647
+4419:X5
+4416:T
+
+
+2:6:1
+4:6:3

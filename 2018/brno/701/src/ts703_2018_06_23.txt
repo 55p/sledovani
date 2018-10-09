@@ -1,0 +1,18 @@
+s=Staré Město u Uherského Hradiště
+
+
+894:X6:Zlín střed;531,Otrokovice;544
+70240:X6:Otrokovice;549,s;605
+11522:X6:s;642,Brno hl.n.;834
+4834:X
+70101:X5:Okříšky;1700,Brno hl.n.;1950
+1636:T
+1637:T
+70100:T:Brno-Horní Heršpice;2031,Okříšky;2321
+
+4827:X
+1636:6
+1637:6
+11533:XT:Brno hl.n.;1730,s;1907
+70241:XT:s;2145,Otrokovice;2157
+897:XT:Otrokovice;2213,Zlín střed;2225

@@ -1,0 +1,50 @@
+bd=Brno dolní nádraží
+mb=Moravské Bránice
+iv=Ivančice
+ve=Veselí nad Moravou
+sm=Staré Město u Uherského Hradiště
+uj=Újezdec u Luhačovic
+
+
+4303:X
+4306:X
+1726:X
+4448| zadní|zadní část:X:bd;1351,iv;1441
+14423:X
+14422:X
+4451:X
+1925| přední|přední část:X:mb;1600,bd;1624
+104412| zadní|zadní část:X:bd;1651,mb;1726
+14430:X
+14433:X
+4437| přední|přední část:X1234:mb;1831,bd;1906
+4437vlož:X5:mb;1831,bd;1906
+4102:6
+4109:6
+101721př:6:ve;903,sm;928
+4339pk:6:sm;936,uj;1011
+14304:T
+14305:T
+14330:T
+14337:T
+14310:T
+14309:25
+14312:25
+14311:25
+14314:25
+14313:25
+14316:25
+14315:6
+14332:6
+14333:6
+14322:6
+14323:6
+4322:6
+4320:6
+4342vlož:T:uj;1550,sm;1624
+4317pk:T
+4368př:T
+112257pk:T
+101734pk:T
+4127:zX
+4127:X5

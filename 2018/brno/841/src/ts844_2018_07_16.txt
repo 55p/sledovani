@@ -1,0 +1,38 @@
+bh=Brno hl.n.
+hh=Brno-Horní Heršpice
+za=Zastávka u Brna
+mb=Moravské Bránice
+ve=Veselí nad Moravou
+uh=Uherské Hradiště
+ku=Kunovice
+by=Bylnice
+
+
+114404pksv:X1:hh;451,mb;513
+14404pk:X1
+14407:X
+14406pk:X
+14409:X
+4425:X:mb;631,bh;701
+104442vlož:X:bh;754,mb;826
+4460pk:X
+4427:X
+104416:X1234:bh;1954,mb;2026
+14436:X1234
+104850pk:X5:hh;1948,za;2019
+4849:X5
+4854pk:X5
+4851:X5
+4820pk:6
+4825:6
+4824pk:6
+4831:6
+11522:T:by;505,bh;834
+4828pk:25
+4835:25
+4121pk:6:bh;1614,ve;1805
+11540sv:6:ve;1825,Bzenec;1834
+11551pk:6:Bzenec;1850,ve;1900
+11559sv:6:ve;2015,uh;2100
+12273:6
+101735:6:ku;2120,by;2236

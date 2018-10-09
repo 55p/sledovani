@@ -1,0 +1,19 @@
+bh=Brno hl.n.
+hh=Brno-Horní Heršpice
+ji=Jihlava
+ve=Veselí nad Moravou
+
+
+4822:X
+4868:X
+4809:X:ji;930,hh;1210
+4812:X:hh;1248,ji;1549
+4819:X
+4814:6
+4817:6
+4852:6
+4821:T
+1723:T:bh;928,ve;1058
+4114:T:ve;1155,bh;1348
+4119:T:bh;1414,ve;1605
+101732pk:T:ve;1701,bh;1833

@@ -1,0 +1,29 @@
+s=Staré Město u Uherského Hradiště
+l=Luhačovice
+
+
+101722:X:Bylnice;505,Uherské Hradiště;627
+70250:X:Uherské Hradiště;632,s;645
+881:X:s;656,l;745
+890:X:l;831,s;934
+885:X:s;1027,l;1118
+886:X:l;1231,s;1333
+889:X:s;1427,l;1518
+882:X:l;1631,s;1733
+4347:X
+70290:X5:Bojkovice;2005,Veselí nad Moravou;2100
+894:6:Zlín střed;531,Otrokovice;544
+70240:6:Otrokovice;555,Uherské Hradiště;617
+1722:6:Uherské Hradiště;635,Brno hl.n.;834
+
+70291:X1:Veselí nad Moravou;300,Bojkovice;345
+1720:X
+4145:X1234
+4150:X1234:Nemotice;1511,Slavkov u Brna;1541
+1733:X1234:Slavkov u Brna;1755,Bylnice;2036
+1723:X5
+1728:X5
+1731:X5
+70241:X5:s;2145,Otrokovice;2157
+897:X5:Otrokovice;2213,Zlín střed;2225
+1733:T

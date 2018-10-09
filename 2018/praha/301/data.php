@@ -1,6 +1,7 @@
 <?php
 // sem patri definice skupin. 
 $skupiny[] = $ts301 = new TS ('TS 301', '193');
+$skupiny[] = $ts301a = new TS ('TS 301a', '193');
 $skupiny[] = $ts302 = new TS ('TS 302', '193');
 $skupiny[] = $ts393 = new TS ('TS 303 DKV Plzeň', '193');
 

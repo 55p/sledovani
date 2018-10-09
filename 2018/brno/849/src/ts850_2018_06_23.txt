@@ -1,0 +1,50 @@
+bh=Brno hl.n.
+sl=Slavkov u Brna
+ve=Veselí nad Moravou
+ku=Kunovice
+uh=Uherské Hradiště
+sm=Staré Město u Uherského Hradiště
+by=Bylnice
+
+
+4302:X
+11512sv:X:sm;741,ve;826
+1724:X:ve;901,bh;1033
+4145:X1234
+4150:X1234
+4153:X1234
+4182:X1234
+4147:X5
+4152:X5
+4155:X5
+4158:X5
+
+4104:X
+11599sv:X:bh;945,sl;1014
+4115:X:sl;1051,ve;1205
+1728:X:ve;1301,bh;1433
+4149:X
+4154:X
+4117:T:bh;1215,ve;1405
+1730:T:ve;1501,bh;1633
+1735:XT:bh;1928,ve;2058
+
+4108:X
+1723:X:bh;928,ve;1058
+4116:X:ve;1355,sl;1511
+4121:X:sl;1651,ve;1805
+4170pk:zX:ve;1825,Bzenec;1834
+11551:zX:Bzenec;1850,ve;1900
+4172pk:zX:ve;2005,Bzenec;2014
+11557sv:zX:Bzenec;2020,uh;2106
+12273:zX
+101735:zX:ku;2120,by;2236
+1734:X5:ve;1901,bh;2033
+1737:X5
+11556:6:ve;701,Bzenec;710
+11547sv:6:Bzenec;715,ve;724
+4110:6:ve;759,bh;948
+
+
+1:6:3
+2:6:2

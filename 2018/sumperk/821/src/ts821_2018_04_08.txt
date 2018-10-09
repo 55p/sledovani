@@ -1,0 +1,41 @@
+13031: X : Kouty nad Desnou; 04:15, Šumperk; 04:47
+3601: 6 : Šumperk; 04:53, Ostružná; 06:05
+13030: X : Šumperk; 05:05, Velké Losiny; 05:25
+13003: X : Velké Losiny; 05:29, Zábřeh na Moravě; 06:07
+13002: X : Zábřeh na Moravě; 06:32, Šumperk; 06:49
+3602: T: Hanušovice; 06:46, Šumperk; 07:23
+3602: 6 : Ostružná; 06:07, Šumperk; 07:23
+13050: X : Šumperk; 07:05, Sobotín; 07:24
+13051: X : Sobotín; 07:45, Šumperk; 08:02
+3657: X : Šumperk; 11:14, Hanušovice; 11:53
+3658: X : Hanušovice; 12:06, Šumperk; 12:43
+3611: X : Šumperk; 14:14, Ostružná; 15:27
+3612: X : Ostružná; 16:14, Šumperk; 17:29
+3615: X : Šumperk; 18:27, Hanušovice; 19:10
+1629: T : Šumperk; 19:29, Ostružná; 20:31
+101629pk: X : Hanušovice; 20:02, Ostružná; 20:31
+13629: X6 : Ostružná; 21:27, Šumperk; 22:49
+13042: T : Šumperk; 23:34, Kouty nad Desnou; 00:09
+
+3600: X : Jeseník; 03:27, Šumperk; 05:07
+13031: 25 : Kouty nad Desnou; 04:15, Šumperk; 04:47
+113001pk: : Šumperk; 05:16, Bludov; 05:22
+3603: : Bludov; 05:37, Ostružná; 06:45
+3604: : Ostružná; 08:13, Šumperk; 09:30
+13015: 25 : Šumperk; 14:48, Zábřeh na Moravě; 15:07
+3661: X : Šumperk; 15:14, Hanušovice; 15:54
+3662: X : Hanušovice; 16:18, Šumperk; 17:04
+13016: 25 : Zábřeh na Moravě; 16:31, Šumperk; 16:49
+3615: 25 : Šumperk; 18:27, Hanušovice; 19:10
+13023: X : Šumperk; 18:51, Zábřeh na Moravě; 19:07
+3616: 25 : Hanušovice; 20:02, Šumperk; 20:44
+13022: X : Zábřeh na Moravě; 20:54, Šumperk; 21:14
+3619: 7 : Šumperk; 21:00, Jeseník; 22:33
+13042: X : Šumperk; 23:34, Kouty nad Desnou; 00:09
+
+3601: X : Šumperk; 04:53, Ostružná; 06:05
+3602: X : Ostružná; 06:07, Šumperk; 07:23
+3605: X : Šumperk; 08:26, Ostružná; 09:48
+3616: X : Ostružná; 19:20, Šumperk; 20:44
+3619: X : Šumperk; 21:00, Ostružná; 22:06
+10894sv: 5, 3004, 0705 : Ostružná; 22:10, Šumperk; 23:00

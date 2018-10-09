@@ -1,6 +1,6 @@
 <?php 
 $zacatekPlatnosti = '9.3.2018';
-$konecPlatnosti = null; //'x.x.2018 23:59:59';
+$konecPlatnosti = '16.4.2018';
 
 $obeh[1] = ['1618_1', '4106_1', '4115_1', '4116_1', '4121_1', '12210_1'];
 
@@ -17,11 +17,6 @@ $trasa['12210_1'] = ['Staré Město u Uherského Hradiště;20:06', 'Veselí nad
 $trasa['1618_1'] = ['Veselí nad Moravou;4:50', 'Brno hl.n.;6:33'];
 $trasa['4106_1'] = ['Veselí nad Moravou;5:23', 'Brno hl.n.;7:20'];
 $trasa['4115_1'] = ['Brno hl.n.;10:15', 'Uherské Hradiště;12:28'];
-//sem patri stazene trasy
-
-
-
-
 
 
 if (empty($jmenaVlaku)) $jmenaVlaku = [];

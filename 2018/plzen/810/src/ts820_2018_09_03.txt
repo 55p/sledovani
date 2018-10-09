@@ -1,0 +1,76 @@
+7231: X: Bělá nad Radbuzou;4:37, Domažlice;5:29
+17543: X: Domažlice;6:12, Janovice nad Úhlavou;6:56
+7543: X: Železná Ruda-Alžbětín;6:06, Klatovy;7:11
+17550: X: Klatovy;14:16, Domažlice;15:22
+7230: X: Domažlice;15:29, Horšovský Týn;16:24
+17416: X: Horšovský Týn;16:29, Poběžovice;16:43
+17421: X: Poběžovice;19:25, Horšovský Týn;19:39
+17420: X: Horšovský Týn;20:14, Poběžovice;20:28
+7243: X: Poběžovice;21:02, Domažlice;21:34
+7236: X: Domažlice;22:34, Poběžovice;23:05
+7220: 6: Bělá nad Radbuzou;5:16, Tachov;6:21
+7252: 6: Tachov;8:32, Planá u Mariánských Lázní;8:49
+7251: 6: Planá u Mariánských Lázní;9:08, Tachov;9:26
+7254: 6: Tachov;9:42, Planá u Mariánských Lázní;9:59
+7207: 6: Tachov;13:29, Bělá nad Radbuzou;14:29
+7241: 6: Bělá nad Radbuzou;15:01, Domažlice;15:52
+7232: 6: Domažlice;16:16, Poběžovice;16:47
+17419: 6: Poběžovice;18:15, Staňkov;18:47
+17418: 6: Staňkov;19:11, Poběžovice;19:43
+7209: T: Bělá nad Radbuzou;16:44, Domažlice;17:45
+7212: T: Domažlice;18:07, Planá u Mariánských Lázní;20:44
+7227: T: Planá u Mariánských Lázní;20:58, Bělá nad Radbuzou;22:21
+
+17401: X: Poběžovice;5:05, Horšovský Týn;5:19
+17400: X: Horšovský Týn;6:24, Poběžovice;6:38
+17405: X: Poběžovice;6:55, Horšovský Týn;7:09
+17404: X: Horšovský Týn;10:14, Poběžovice;10:28
+17409: X: Poběžovice;11:25, Horšovský Týn;11:39
+17408: X: Horšovský Týn;12:14, Poběžovice;12:28
+17411: X: Poběžovice;13:25, Horšovský Týn;13:39
+17410: X: Horšovský Týn;14:24, Poběžovice;14:38
+17415: X: Poběžovice;14:55, Horšovský Týn;15:09
+17414: X: Horšovský Týn;15:44, Bělá nad Radbuzou;16:23
+17403: 25: Poběžovice;6:15, Staňkov;6:47
+17402: 25: Staňkov;7:11, Poběžovice;7:43
+17407: 25: Poběžovice;10:15, Staňkov;10:47
+17406: 25: Staňkov;11:11, Poběžovice;11:43
+17413: 25: Poběžovice;14:15, Staňkov;14:47
+17412: 25: Staňkov;15:11, Poběžovice;15:43
+7209: 6: Poběžovice;17:12, Domažlice;17:45
+7212: 6: Domažlice;18:07, Planá u Mariánských Lázní;20:44
+7227: 6: Planá u Mariánských Lázní;20:58, Bělá nad Radbuzou;22:21
+17419: T: Poběžovice;18:15, Staňkov;18:47
+17418: T: Staňkov;19:11, Poběžovice;19:43
+
+7220: T: Bělá nad Radbuzou;5:16, Tachov;6:21
+7222: X: Bělá nad Radbuzou;6:22, Planá u Mariánských Lázní;7:49
+7249: X: Planá u Mariánských Lázní;8:08, Tachov;8:26
+7252: XT: Tachov;8:32, Planá u Mariánských Lázní;8:49
+7251: XT: Planá u Mariánských Lázní;9:08, Tachov;9:26
+7223: X: Tachov;14:34, Bělá nad Radbuzou;15:41
+7254: T: Tachov;9:42, Planá u Mariánských Lázní;9:59
+7253: T: Planá u Mariánských Lázní;10:09, Tachov;10:27
+7207: T: Tachov;13:29, Bělá nad Radbuzou;14:29
+7241: T: Bělá nad Radbuzou;15:01, Domažlice;15:52
+7232: T: Domažlice;16:16, Bělá nad Radbuzou;17:10
+
+107206pk: X5: Běla nad Radbuzou;13:20, Bor;13:52
+17305: X5: Bor;14:01, Svojšín;14:20
+17302: X5: Svojšín;15:45, Bor;16:04
+7290sv: 6: Běla nad Radbuzou;5:02, Bor;5:34
+7292sv: T: Běla nad Radbuzou;6:45, Bor;7:17
+17301: 6: Bor;5:51, Svojšín;6:10
+17303: T: Bor;7:22, Svojšín;7:41
+17300: 25: Svojšín;7:45, Bor;8:04
+17307: 25: Bor;15:53, Svojšín;16:12
+17304: 6: Svojšín;16:17, Bor;16:36
+7291sv: 6: Bor;16:38, Běla nad Radbuzou;17:11
+17306: X5,T: Svojšín;17:45, Bor;18:04
+7293sv: X5,T: Bor;18:33, Běla nad Radbuzou;19:04
+
+
+3:456:4
+1:7:3
+2:7:2
+4:1234567:1

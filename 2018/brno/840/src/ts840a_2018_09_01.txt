@@ -1,0 +1,43 @@
+bh=Brno hl.n.
+bd=Brno dolní nádraží
+bz=Brno-Židenice
+sl=Slavkov u Brna
+ve=Veselí nad Moravou
+ku=Kunovice
+uh=Uherské Hradiště
+sm=Staré Město u Uherského Hradiště
+
+
+4108:X
+11599sv:X:bh;945,sl;1014
+4115:X:sl;1051,uh;1228
+4116:X:uh;1332,sl;1511
+4121:X:sl;1651,sm;1835
+12210:X
+25;4115,4116,4121,12271
+112271sv:25:uh;1903,ve;1922
+
+1618:X
+11597sv:X:bh;645,sl;804
+4111:X:sl;851,uh;1028
+4114:X:uh;1132,sl;1311
+4119:X:sl;1451,uh;1628
+4120:X:uh;1732,sl;1911
+11598sv:X:sl;1925,bh;2011
+25;4107,4112,4117,4118,4123
+
+11592sv:X:bd;516,bz;520
+11593sv:X:bz;525,sl;559
+4107:X:sl;651,uh;828
+4112:X:uh;932,sl;1111
+4117:X:sl;1251,uh;1428
+21993sv:X5:uh;1432,ku;1435
+12262:X5
+4118:X:uh;1532,sl;1711
+4123:X:sl;1851,ve;2005
+6;12203,12204
+25;1720,4111,4114,4119,4120
+
+
+2:57:1
+3:57:3
