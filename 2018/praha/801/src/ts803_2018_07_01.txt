@@ -1,0 +1,27 @@
+﻿9502:X:Praha-Vršovice;5:34, Mladá Boleslav město;7:30
+1148:25:Praha-Vršovice;7:13, Harrachov;10:40
+1945:X:Mladá Boleslav město;8:02, Praha-Vršovice;9:41
+9528:X:Praha-Vršovice;10:42, Byšice;11:42
+1145:25:Harrachov;11:06, Praha-Vršovice;14:46
+9529:X:Byšice;12:14, Praha-Vršovice;13:26
+9532:X:Praha-Vršovice;14:42, Byšice;15:42
+1142:6:Praha-Vršovice;15:13, Turnov;17:12
+9533:X:Byšice;16:14, Praha-Vršovice;17:25
+9536:X:Praha-Vršovice;18:42, Všetaty;19:36
+9536:T:Praha-Vršovice;18:42, Byšice;19:42
+6447:T:Mělník;20:30, Všetaty;20:40
+9519:X5:Všetaty;21:21, Praha-Vršovice;22:18
+
+9541:X:Všetaty;6:03, Praha-Vršovice;7:04
+1141:T:Turnov;6:44, Praha-Vršovice;8:46
+109504pk:X:Praha-Vršovice;7:42,Všetaty;8:39
+9504:6:Praha-Vršovice;7:42, Mladá Boleslav hl.n.;9:21
+9507:X:Všetaty;9:20, Praha-Vršovice;10:19
+9509:6:Mladá Boleslav hl.n.;10:37, Praha-Vršovice;12:18
+9530:X:Praha-Vršovice;12:42, Byšice;13:42
+1144:25:Praha-Vršovice;13:13, Harrachov;16:40
+9531:X:Byšice;14:16, Praha-Vršovice;15:26
+9534:X:Praha-Vršovice;16:42, Byšice;17:42
+1151:25:Harrachov;17:06, Praha-Vršovice;20:43
+9535:X:Byšice;18:14, Praha-Vršovice;19:17
+101151sv:6:Praha-Vršovice;20:52,Praha jih;20:56;21:45,Praha-Vršovice;21:49
