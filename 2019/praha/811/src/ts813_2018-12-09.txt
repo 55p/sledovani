@@ -1,0 +1,78 @@
+9502: 6: Praha-Vršovice;5:42, Mladá Boleslav hl.n.;7:18
+9507: 6: Mladá Boleslav hl.n.;8:37, Praha-Vršovice;10:27
+9504: X: Praha-Vršovice;7:42, Mladá Boleslav hl.n.;9:21
+1143: T: Turnov;8:44, Praha-Vršovice;10:47
+9509: X: Mladá Boleslav hl.n.;10:37, Praha-Vršovice;12:27
+9508: T: Praha-Vršovice;11:42, Mladá Boleslav hl.n.;13:21
+9530: 6: Praha-Vršovice;12:42, Mělník;13:50
+9531: 6: Mělník;14:11, Praha-Vršovice;15:27
+9513: T: Mladá Boleslav hl.n.;14:37, Praha-Vršovice;16:27
+9512: X: Praha-Vršovice;15:42, Všetaty;16:39
+9515: X: Mladá Boleslav hl.n.;16:37, Praha-Vršovice;18:27
+1940: 25: Praha-Vršovice;19:12, Turnov;21:16
+9516: X: Praha-Vršovice;19:42, Mladá Boleslav hl.n.;21:20
+9539: 25: Turnov;21:30, Praha-Vršovice;23:59
+9551: X1234: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
+109551|pk Vše-Pha|postrk Všetaty - Praha: X5: Mladá Boleslav hl.n.;22:41, Praha hl.n.;00:13
+
+9520: : Praha hl.n.;0:18, Mělník;1:19
+9521: 25: Mělník;1:24, Praha hl.n.;2:22
+9522: 25: Praha hl.n.;2:33, Mělník;3:34
+9591: 6: Timisoara Nord;16:25, Jimbolia(RO);17:08
+9550: 6: Neratovice;4:19, Mladá Boleslav hl.n.;5:06
+109593sv:T: Mělník;03:41, Byšice;04:10
+9523: T: Byšice;4:21, Praha-Vršovice;5:27
+1943: X: Mělník;6:35, Praha-Vršovice;7:47
+9524: T: Praha-Vršovice;6:42, Mělník;7:50
+9505: 6: Mladá Boleslav hl.n.;6:34, Praha-Vršovice;8:30
+9525: T: Mělník;8:11, Praha-Vršovice;9:27
+1146: X: Praha-Vršovice;9:12, Turnov;11:12
+5426: X: Turnov;11:26, Tanvald;12:10
+5425vlož: X: Tanvald;13:40, Turnov;13:36
+9506: 6: Praha-Vršovice;9:42, Mladá Boleslav město;11:32
+9528: T: Praha-Vršovice;10:42, Mělník;11:50
+9529: T: Mělník;12:11, Praha-Vršovice;13:27
+9511: 6: Mladá Boleslav město;12:29, Praha-Vršovice;14:27
+1142: T: Praha-Vršovice;15:12, Tanvald;18:03
+9512: 6: Praha-Vršovice;15:42, Mladá Boleslav hl.n.;17:21
+1147: X: Turnov;14:44, Praha-Vršovice;16:47
+9517: 6: Mladá Boleslav hl.n.;18:37, Praha-Vršovice;20:27
+1140: X: Praha-Vršovice;17:12, Tanvald;20:12
+9538: 6: Praha-Vršovice;21:42, Mělník;22:50
+109599sv: 6: Mělník;23:01, Všetaty;23:10
+
+9501: T: Všetaty;5:22, Praha-Vršovice;6:27
+26267: X: Tanvald;7:13, Železný Brod;7:40
+1143: X6: Tanvald;7:50, Praha-Vršovice;10:47
+1937: T: Praha-Vršovice;8:40, Turnov;11:19
+105404pk: X: Železný Brod;07:51, Turnov;08:09
+101143: 6: Praha-Vršovice;10:55, Praha jih;10:59;12:21, Praha-Vršovice;12:25
+9530: X: Praha-Vršovice;12:42, Mělník;13:50
+101144pk: T: Praha-Vršovice;13:12, Turnov;15:12
+9510: 6: Praha-Vršovice;13:42, Mladá Boleslav hl.n.;15:21
+9531: X: Mělník;14:11, Praha-Vršovice;15:27
+9515: 6: Mladá Boleslav hl.n.;16:37, Praha-Vršovice;18:27
+9534: X: Praha-Vršovice;16:42, Mělník;17:50
+1936: T: Turnov;16:41, Praha hl.n.;19:16
+9535: X: Mělník;18:11, Praha-Vršovice;19:27
+9516: 6: Praha-Vršovice;19:42, Mladá Boleslav hl.n.;21:20
+9518: XT: Praha-Vršovice;20:42, Turnov;23:15
+
+1941: X: Turnov;4:41, Praha-Vršovice;6:47
+9503: 6: Turnov;4:41, Praha-Vršovice;7:27
+1148: X: Praha-Vršovice;7:13, Tanvald;10:03
+9505: T: Mladá Boleslav hl.n.;6:34, Praha-Vršovice;8:30
+9526: 6: Praha-Vršovice;8:42, Mělník;9:50
+9506: T: Praha-Vršovice;9:42, Mladá Boleslav město;11:32
+9527: 6: Mělník;10:11, Praha-Vršovice;11:27
+9511: T: Mladá Boleslav město;12:29, Praha-Vršovice;14:27
+1145: X: Turnov;12:44, Praha-Vršovice;14:47
+26271: X: Tanvald;10:27, Železný Brod;10:53
+5410: X: Stará Paka;11:35, Liberec;13:24
+9512: T: Praha-Vršovice;15:42, Mladá Boleslav hl.n.;17:21
+1944: X: Praha-Vršovice;16:12, Mladá Boleslav hl.n.;17:46
+9534: 6: Praha-Vršovice;16:42, Mělník;17:50
+9535: 6: Mělník;18:11, Praha-Vršovice;19:27
+9517: XT: Mladá Boleslav hl.n.;18:37, Praha-Vršovice;20:27
+9518: 6: Praha-Vršovice;20:42, Turnov;23:15
+109517: 5: Praha-Vršovice;20:37, Praha jih;20:41;21:34, Praha-Vršovice;21:38

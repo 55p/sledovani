@@ -1,0 +1,4 @@
+6991sv: 25: Děčín hl.n.;8:24, Ústí nad Labem hl.n.;9:19
+5276: 25: Ústí nad Labem hl.n.;9:19, Dresden Hbf;10:21
+5277: 25: Dresden Hbf;15:35, Ústí nad Labem hl.n.;16:38
+6992sv: 25: Ústí nad Labem hl.n.;17:05, Děčím hl.n.;17:32

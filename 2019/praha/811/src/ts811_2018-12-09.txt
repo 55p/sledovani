@@ -1,0 +1,43 @@
+1241:X1:České Budějovice;5:12,Praha hl.n.;8:37
+1241:X2345,6:Protivín;5:43,Praha hl.n.;8:37
+1243:T:České Budějovice;7:12,Praha hl.n.;10:36
+101241sv:X:Praha hl.n.;8:43,Praha-Vršovice;8:48
+1248:6:Praha hl.n.;9:37,České Budějovice;12:45
+101243sv:T:Praha hl.n.;10:43,Praha-Vršovice;10:48
+101244sv:X5:Praha-Vršovice;12:49,Praha hl.n.;12:54
+1244:X5:Praha hl.n.;13:24,České Budějovice;16:45
+101242sv:X1234,T:Praha-Vršovice;15:05,Praha hl.n.;15:10
+1249:6:České Budějovice;15:12,Praha hl.n.;18:37
+1242:X1234,T:Praha hl.n.;15:24,České Budějovice;18:45
+101249sv:6:Praha hl.n.;18:59,Praha-Vršovice;19:04
+1253:zX:České Budějovice;19:12,Písek;19:56
+29253sv:zX:Písek;20:20,Protivín;20:32
+
+29254:X:Protivín;05:26,Písek;05:39
+1254:X:Písek;06:00,České Budějovice;06:42
+125906pk:7:Praha-Vršovice;07:05,Praha hl.n.;07:09
+1243:X6:České Budějovice;07:12,Praha hl.n.;10:36
+1250:7:Praha hl.n.;07:24,České Budějovice;10:45
+101243sv:6:Praha hl.n.;10:43,Praha-Vršovice;10:48
+1246:X:Praha hl.n.;11:24,České Budějovice;14:45
+101242sv:6:Praha-Vršovice;15:05,Praha hl.n.;15:10
+1249:XT:České Budějovice;15:12,Praha hl.n.;18:37
+1242:6:Praha hl.n.;15:24,České Budějovice;18:45
+101249sv:XT:Praha hl.n.;18:59,Praha-Vršovice;19:04
+1253:6:České Budějovice;19:12,Písek;19:56
+121911sv:X1,X4:Praha-Vršovice;20:03,Praha jih;20:07;21:21,Praha-Vršovice;21:25
+129253sv:6:Písek;20:20,Protivín;20:32
+9538:zX:Praha-Vršovice;21:42,Mělník;22:50
+
+1241:7:Protivín;05:43,Praha hl.n.;08:37
+9541:X:Mělník;05:48,Praha hl.n.;06:53
+125906pk:6:Praha-Vršovice;07:05,Praha hl.n.;07:09
+1250:X,6:Praha hl.n.;07:24,České Budějovice;10:45
+1248:7:Praha hl.n.;09:37,České Budějovice;12:45
+1245:X5:České Budějovice;11:12,Praha hl.n.;14:37
+1247:X1234,25:České Budějovice;13:12,Praha hl.n.;16:37
+1242:X5:Praha hl.n.;15:24,České Budějovice;18:48
+1240:X1234:Praha hl.n.;17:24,Protivín;20:12
+1240:25:Praha hl.n.;17:24,Protivín;20:45
+1253:X5:České Budějovice;19:12,Písek;19:56
+129253sv:X5:Písek;20:20,Protivín;20:32

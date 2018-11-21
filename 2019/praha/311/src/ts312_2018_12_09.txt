@@ -1,0 +1,8 @@
+614:: Praha hl.n.;7:32, Ústí nad Labem hl.n.;8:42
+605:: Ústí nad Labem hl.n.;9:15, Praha hl.n.;10:26
+610:: Praha hl.n.;11:32, Ústí nad Labem hl.n.;12:42
+609:: Ústí nad Labem hl.n.;13:15, Praha hl.n.;14:26
+606:: Praha hl.n.;15:32, Ústí nad Labem hl.n.;16:42
+613:: Ústí nad Labem hl.n.;17:15, Praha hl.n.;18:26
+602:12: Praha hl.n.;19:32, Ústí nad Labem hl.n.;20:42
+617:10: Ústí nad Labem hl.n.;21:15, Praha hl.n.;22:37
