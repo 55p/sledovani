@@ -46,4 +46,4 @@
 
 514: : Opava východ;6:00, Praha hl.n.;9:19
 143: : Praha hl.n.;12:24, Žilina;17:33
-340: : Žilina;19:27, Praha hl.n.;21:15
+340: : Žilina;19:27, Ostrava-Svinov;21:15
