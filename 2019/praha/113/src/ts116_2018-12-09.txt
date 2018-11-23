@@ -1,0 +1,12 @@
+9996sv: X: Praha-Libeň;5:33, Praha-Radotín;5:55
+9911pk: X: Praha-Radotín;6:03, Praha hl.n.;6:23
+9908: X: Praha hl.n.;6:29, Řevnice;7:03
+9925pk: X: Řevnice;7:26, Praha hl.n.;8:03
+9944: X: Praha hl.n.;13:59, Řevnice;14:33
+9947pk: X: Řevnice;14:56, Praha hl.n.;15:33
+9952: X: Praha hl.n.;15:59, Řevnice;16:33
+9955pk: X: Řevnice;16:56, Praha hl.n.;17:33
+9960: X: Praha hl.n.;17:59, Řevnice;18:33
+9963pk: X: Řevnice;18:56, Praha hl.n.;19:33
+9968: X: Praha hl.n.;19:59, Praha-Radotín;20:17
+9993svpk: X: Praha-Radotín;20:40, Praha-Libeň;21:00

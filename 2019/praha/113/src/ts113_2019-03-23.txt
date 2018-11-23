@@ -1,0 +1,5 @@
+29099sv: X: Praha-Libeň;4:57, Praha-Vysočany;5:01
+99999: X: záloha Praha-Vysočany;5:01;20:16
+29098sv: X: Praha-Vysočany;20:16, Praha-Libeň;20:20
+71201: T: Praha-Libeň;16:07, Čerčany;16:50
+9206: T: Čerčany;16:58, Praha hl.n.;17:35

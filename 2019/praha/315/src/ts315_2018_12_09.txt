@@ -1,0 +1,26 @@
+1541:: Praha hl.n.;6:01, Linz Hbf;10:07
+1542:: Linz Hbf;11:52, Praha-Holešovice;16:10
+537:: Praha-Holešovice;16:48, České Budějovice;19:08
+700:5,7: České Budějovice;20:03, Praha-Holešovice;22:46
+700:6: České Budějovice;20:03, Praha hl.n.;22:27
+733:5,7: Praha-Holešovice;23:20, Tábor;0:53
+
+8259:6,1: Tábor;0:55, České Budějovice;1:56
+536:: České Budějovice;6:55, Praha-Holešovice;9:10
+1543:: Praha-Holešovice;9:48, Linz Hbf;14:07
+1544:: Linz Hbf;15:52, Praha hl.n.;19:57
+729:: Praha hl.n.;20:31, České Budějovice;22:46
+
+730:X6: České Budějovice;4:55, Praha-Holešovice;7:10
+531:X6: Praha-Holešovice;7:48, České Budějovice;10:08
+531:T: Praha hl.n.;8:01, České Budějovice;10:08
+532:: České Budějovice;14:55, Praha-Holešovice;17:10
+1547:: Praha-Holešovice;17:48, Linz Hbf;22:07
+
+1540:: Linz Hbf;6:35, Praha-Holešovice;11:10
+1545:: Praha-Holešovice;13:48, Linz Hbf;18:07
+1546:: Linz Hbf;18:35, Praha hl.n.;22:57
+
+
+1:6:3
+2:6:2
