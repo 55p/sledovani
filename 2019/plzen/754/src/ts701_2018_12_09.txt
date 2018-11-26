@@ -1,0 +1,5 @@
+7405: X: Domažlice;5:30, Plzeň hl.n.;6:42
+7416: X: Plzeň hl.n.;14:18, Domažlice;15:27
+
+7407: X: Domažlice město;6:06, Plzeň hl.n.;7:31
+7418: X: Plzeň hl.n.;15:18, Domažlice město;16:39
