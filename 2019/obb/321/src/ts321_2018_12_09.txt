@@ -1,0 +1,19 @@
+71:X6: Praha hl.n.;4:48, Graz Hbf;11:33
+71:T: Brno dolní n.;7:24, Graz Hbf;11:33
+78pk:: Graz Hbf;12:26, Praha hl.n.;19:07
+571:: Praha hl.n.;19:50, Břeclav;22:52
+
+570pk:: Břeclav;6:07, Praha hl.n.;9:07
+77:: Praha hl.n.;10:24, Graz Hbf;17:33
+374pk:: Graz Hbf;18:26, Brno dolní n.;22:35
+
+574pk:X6: Brno dolní n.;4:28, Praha hl.n.;7:07
+75:: Praha hl.n.;8:50, Graz Hbf;15:33
+372pk:: Graz Hbf;16:26, Praha hl.n.;23:15
+
+73:: Praha hl.n.;6:50, Graz Hbf;13:33
+370pk:: Graz Hbf;14:26, Praha hl.n.;21:07
+
+
+2:6:1
+4:6:3

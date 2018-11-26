@@ -1,0 +1,44 @@
+3152: X: Ostrava hl.n.;5:18, Frýdlant nad Ostravicí;6:10
+3151: X: Frýdlant nad Ostravicí;6:43, Ostrava hl.n.;7:34
+3158: X: Ostrava hl.n.;14:18, Frýdlant nad Ostravicí;15:10
+3159: X: Frýdlant nad Ostravicí;15:43, Ostrava hl.n.;16:34
+3180: X: Ostrava hl.n.;17:18, Frýdek-Místek;17:53
+3191sv: X5: Frýdek-Místek;18:01, Ostrava hl.n.;18:30
+
+3120: X1: Ostrava hl.n.;4:18, Frenštát pod Radhoštěm město;5:41
+3120: X2345: Frýdek-Místek;4:57, Frenštát pod Radhoštěm město;5:41
+3125: X: Frenštát pod Radhoštěm;6:51, Ostrava hl.n.;8:04
+3128: : Ostrava hl.n.;8:48, Frenštát pod Radhoštěm;10:06
+3131: : Frenštát pod Radhoštěm město;10:46, Ostrava hl.n.;12:04
+3134: : Ostrava hl.n.;12:48, Frenštát pod Radhoštěm;14:06
+3141: : Frenštát pod Radhoštěm;14:51, Ostrava hl.n.;16:04
+3142: : Ostrava hl.n.;16:48, Frenštát pod Radhoštěm;18:06
+3149: : Frenštát pod Radhoštěm;18:51, Ostrava hl.n.;20:04
+3184: : Ostrava hl.n.;20:51, Frýdek-Místek;21:26
+3185: : Frýdek-Místek;22:14, Ostrava hl.n.;22:47
+
+1642: 25: Ostrava hl.n.;8:10, Frenštát pod Radhoštěm;9:33
+3129: 25: Frenštát pod Radhoštěm;9:51, Ostrava hl.n.;11:04
+3132: : Ostrava hl.n.;11:48, Frenštát pod Radhoštěm;13:06
+3137: : Frenštát pod Radhoštěm;13:51, Ostrava hl.n.;15:04
+3140: : Ostrava hl.n.;15:45, Frenštát pod Radhoštěm město;17:11
+3147: : Frenštát pod Radhoštěm;17:51, Ostrava hl.n.;19:04
+3146: : Ostrava hl.n.;19:48, Frenštát pod Radhoštěm město;21:11
+
+3121: : Frenštát pod Radhoštěm;4:51, Ostrava hl.n.;6:04
+3124: : Ostrava hl.n.;6:48, Frenštát pod Radhoštěm;8:06
+3127: 25: Frenštát pod Radhoštěm město;8:46, Ostrava hl.n.;10:04
+3136: 25: Ostrava hl.n.;13:48, Frenštát pod Radhoštěm město;15:11
+3143: 25: Frenštát pod Radhoštěm;15:51, Ostrava hl.n.;17:04
+3135: X: Frenštát pod Radhoštěm;12:51, Ostrava hl.n.;14:04
+3138: X: Ostrava hl.n.;14:48, Frenštát pod Radhoštěm město;16:11
+3145: X: Frenštát pod Radhoštěm;16:51, Ostrava hl.n.;18:04
+3144: : Ostrava hl.n.;18:50, Frenštát pod Radhoštěm;20:06
+3193sv: z25: Frenštát pod Radhoštěm;20:30, Frýdek-Místek;20:52
+
+3123: 25: Frýdek-Místek;6:30, Ostrava hl.n.;7:04
+3123: X: Frenštát pod Radhoštěm;5:51, Ostrava hl.n.;7:04
+3126: 25: Ostrava hl.n.;7:45, Frenštát pod Radhoštěm město;9:11
+3135: 25: Frenštát pod Radhoštěm;12:51, Ostrava hl.n.;14:04
+3138: 25: Ostrava hl.n.;14:48, Frenštát pod Radhoštěm město;16:11
+3145: 25: Frenštát pod Radhoštěm;16:51, Ostrava hl.n.;18:04

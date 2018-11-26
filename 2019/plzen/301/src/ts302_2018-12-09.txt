@@ -1,0 +1,31 @@
+753: X: Plzeň hl.n.;5:20, Praha hl.n.;6:50
+772: X: Praha hl.n.;8:15, Klatovy;10:41
+763: X: Klatovy;11:17, Praha hl.n.;13:49
+762: X: Praha hl.n.;15:15, Plzeň hl.n.;16:40
+773: X: Plzeň hl.n.;17:20, Praha hl.n.;18:49
+776: 25: Praha hl.n.;6:15, Klatovy;8:41
+761: 25: Klatovy;9:17, Praha hl.n.;11:49
+764: 25: Praha hl.n.;14:15, Klatovy;16:41
+775: 25: Klatovy;17:17, Praha hl.n.;19:49
+
+778: X: Praha hl.n.;5:15, Plzeň hl.n.;6:40
+757: : Plzeň hl.n.;7:20, Praha hl.n.;8:49
+766: : Praha hl.n.;13:15, Plzeň hl.n.;14:40
+769: : Plzeň hl.n.;15:20, Praha hl.n.;16:49
+758: : Praha hl.n.;17:15, Plzeň hl.n.;18:40
+
+755: : Klatovy;5:17, Praha hl.n.;7:50
+770: : Praha hl.n.;10:15, Klatovy;12:41
+767: : Klatovy;13:17, Praha hl.n.;15:49
+758: : Praha hl.n.;17:15, Plzeň hl.n.;18:40
+777: : Plzeň hl.n.;19:20, Praha hl.n.;20:49
+752: : Praha hl.n.;21:15, Klatovy;23:38
+
+759: : Klatovy;7:17, Praha hl.n.;9:49
+768: : Praha hl.n.;12:15, Klatovy;14:41
+771: : Klatovy;15:17, Praha hl.n.;17:49
+754: : Praha hl.n.;19:15, Plzeň hl.n.;20:40
+
+
+1:56:1
+4:56:2

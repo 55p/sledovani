@@ -1,0 +1,91 @@
+5023: T: Choceň;5:04, Česká Třebová;5:31
+5043: X1: Pardubice hl.n.;5:01, Česká Třebová;6:02
+5043: X2345: Choceň;5:34, Česká Třebová;6:02
+5022: X: Česká Třebová;7:00, Pardubice hl.n.;8:17
+5027: X: Pardubice hl.n.;11:48, Česká Třebová;12:57
+5046: X: Česká Třebová;22:42, Choceň;23:07
+5028: 25: Česká Třebová;18:00, Pardubice hl.n.;19:17
+5049: 6: Pardubice hl.n.;22:47, Choceň;23:27
+
+1860: X: Choceň;5:02, Hradec Králové hl.n.;5:51
+5212: X: Hradec Králové hl.n.;6:37, Chlumec nad Cidlinou;7:08
+5219: X: Chlumec nad Cidlinou;8:00, Hradec Králové hl.n.;8:34
+5602: T: Choceň;6:54, Hradec Králové hl.n.;7:57
+5605: XT: Hradec Králové hl.n.;10:03, Choceň;10:56
+1864: X: Choceň;12:57, Hradec Králové hl.n.;13:59
+5226: X1234: Hradec Králové hl.n.;15:34, Chlumec nad Cidlinou;16:08
+5207: X1234: Chlumec nad Cidlinou;16:50, Týniště nad Orlicí;17:55
+5628: X1234: Týniště nad Orlicí;19:31, Hradec Králové hl.n.;19:55
+5236: X1234: Hradec Králové hl.n.;21:05, Chlumec nad Cidlinou;21:39
+1957vlož: X5: Hradec Králové hl.n.;15:06, Týniště nad Orlicí;15:28
+5635: X5: Týniště nad Orlicí;15:33, Choceň;15:58
+1868: X5: Choceň;16:58, Hradec Králové hl.n.;17:59
+5232: X5: Hradec Králové hl.n.;18:34, Chlumec nad Cidlinou;19:08
+5630: 6: Choceň;5:57, Týniště nad Orlicí;6:27
+5202: 6: Týniště nad Orlicí;10:31, Chlumec nad Cidlinou;11:28
+5225: 6: Chlumec nad Cidlinou;12:29, Hradec Králové hl.n.;12:57
+5607: 6: Hradec Králové hl.n.;14:03, Choceň;15:02
+5608: 6: Choceň;16:58, Hradec Králové hl.n.;17:57
+5621: 6: Hradec Králové hl.n.;20:03, Týniště nad Orlicí;20:27
+
+5213: X: Chlumec nad Cidlinou;4:50, Hradec Králové hl.n.;5:25
+1957vlož: X1234: Hradec Králové hl.n.;15:06, Týniště nad Orlicí;15:28
+5635: X1234: Týniště nad Orlicí;15:33, Choceň;15:58
+1868: X1234: Choceň;16:58, Hradec Králové hl.n.;17:59
+5232: X1234: Hradec Králové hl.n.;18:34, Chlumec nad Cidlinou;19:08
+5226: X5: Hradec Králové hl.n.;15:34, Chlumec nad Cidlinou;16:08
+5207: X5: Chlumec nad Cidlinou;16:50, Týniště nad Orlicí;17:55
+105628pk: X5: Týniště nad Orlicí;19:31, Hradec Králové hl.n.;19:55
+
+1863: X: Chlumec nad Cidlinou;5:30, Choceň;6:54
+5632: X: Choceň;8:01, Týniště nad Orlicí;8:27
+5202: X: Týniště nad Orlicí;10:31, Chlumec nad Cidlinou;11:28
+5225: X: Chlumec nad Cidlinou;12:29, Hradec Králové hl.n.;12:57
+5204: X: Hradec Králové hl.n.;14:34, Chlumec nad Cidlinou;15:08
+5231: X: Chlumec nad Cidlinou;15:50, Hradec Králové hl.n.;16:26
+5230: X: Hradec Králové hl.n.;17:34, Chlumec nad Cidlinou;18:07
+5235: X: Chlumec nad Cidlinou;18:50, Hradec Králové hl.n.;19:26
+5621: X: Hradec Králové hl.n.;20:03, Týniště nad Orlicí;20:27
+
+5601: X1: Hradec Králové hl.n.;5:03, Choceň;5:56
+5600: X1: Choceň;6:28, Hradec Králové hl.n.;7:36
+5631: X2345: Týniště nad Orlicí;4:25, Choceň;4:50
+5630: X2345: Choceň;5:57, Týniště nad Orlicí;6:27
+5600: X2345: Týniště nad Orlicí;7:09, Hradec Králové hl.n.;7:36
+5222: X: Hradec Králové hl.n.;13:34, Chlumec nad Cidlinou;14:09
+5205: X: Chlumec nad Cidlinou;14:50, Týniště nad Orlicí;15:55
+5206: X: Týniště nad Orlicí;16:08, Chlumec nad Cidlinou;17:08
+5612: 25: Týniště nad Orlicí;5:32, Hradec Králové hl.n.;5:56
+5603: 25: Hradec Králové hl.n.;8:03, Choceň;9:02
+5604: 25: Choceň;11:01, Hradec Králové hl.n.;11:55
+5220: 25: Hradec Králové hl.n.;12:40, Chlumec nad Cidlinou;13:11
+5227: 25: Chlumec nad Cidlinou;13:51, Hradec Králové hl.n.;14:24
+5617: 25: Hradec Králové hl.n.;16:03, Borohrádek;16:39
+5628: 25: Borohrádek;19:19, Hradec Králové hl.n.;19:55
+5236: T: Hradec Králové hl.n.;21:05, Chlumec nad Cidlinou;21:39
+
+5201: X: Chlumec nad Cidlinou;5:50, Týniště nad Orlicí;7:06
+5616: X: Týniště nad Orlicí;8:08, Hradec Králové hl.n.;8:35
+1311sv: X3: Hradec Králové hl.n.;10:44, Pardubice hl.n.;11:14
+1310sv: X3: Pardubice hl.n.;12:12, Hradec Králové hl.n.;12:48
+1865: X: Hradec Králové hl.n.;14:02, Choceň;15:01
+5634: X: Choceň;16:00, Týniště nad Orlicí;16:26
+5626: X: Týniště nad Orlicí;17:09, Hradec Králové hl.n.;17:43
+5611: 25: Hradec Králové hl.n.;12:03, Borohrádek;12:40
+5624: 25: Borohrádek;15:19, Hradec Králové hl.n.;15:57
+5609: : Hradec Králové hl.n.;18:03, Choceň;19:03
+5053: X5: Choceň;21:47, Česká Třebová;22:12
+5052: T: Choceň;20:41, Pardubice hl.n.;21:20
+5049: T: Pardubice hl.n.;22:47, Choceň;23:27
+
+
+1: 7: 1
+2: 5: 4
+4: 47: 4
+2: 67: 5
+3: 5: 6
+5: 5: 3
+3: 6: 3
+3: 7: 6
+6: 7: 2
+5: 7: 1

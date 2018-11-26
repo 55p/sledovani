@@ -1,0 +1,11 @@
+1221pk: X6: Rakovník;5:17, Praha-Bubny Vltavská;6:43
+1234: X: Praha-Bubny Vltavská;6:50, Rakovník;8:33
+1232: 6: Praha-Bubny Vltavská;7:05, Rakovník;8:33
+1225pk: : Rakovník;9:23, Praha-Bubny Vltavská;10:49
+1876: : Praha-Bubny Vltavská;11:05, Kladno-Ostrovec;11:49
+1909pk: : Kladno-Ostrovec;12:05, Praha-Bubny Vltavská;12:49
+1228: : Praha-Bubny Vltavská;13:05, Rakovník;14:33
+1229pk: : Rakovník;15:23, Praha-Bubny Vltavská;16:49
+1224: : Praha-Bubny Vltavská;17:05, Rakovník;18:33
+1233pk: T: Rakovník;19:23, Praha-Bubny Vltavská;20:49
+1220: T: Praha-Bubny Vltavská;21:05, Rakovník;22:33

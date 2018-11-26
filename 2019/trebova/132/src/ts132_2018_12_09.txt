@@ -1,0 +1,20 @@
+5021: 6: Pardubice hl.n.;1:08, Česká Třebová;2:08
+5020: X6: Česká Třebová;3:50, Pardubice hl.n.;4:49
+6281: : Pardubice hl.n.;5:35, Miedzylesie;7:55
+6280: : Miedzylesie;8:27, Ústí nad Orlicí;9:20
+7155: X6: Ústí nad Orlicí;9:42, Letohrad;9:55
+7164: X6: Letohrad;10:07, Ústí nad Orlicí;10:20
+6283: X6: Ústí nad Orlicí;10:42, Miedzylesie;11:45
+7157: T: Ústí nad Orlicí;9:42, Lichkov;10:27
+6283: T: Lichkov;11:36, Miedzylesie;11:45
+6282: : Miedzylesie;12:21, Ústí nad Orlicí;13:20
+7167: : Ústí nad Orlicí;14:42, Lichkov;15:27
+7176: X: Lichkov;15:39, Ústí nad Orlicí;16:20
+7171: X: Ústí nad Orlicí;16:42, Lichkov;17:27
+5036: X: Lichkov;19:31, Choceň;20:33
+5052: X5: Choceň;20:41, Pardubice hl.n.;21:20
+5053: X1234: Choceň;21:47, Česká Třebová;22:12
+7180: T: Lichkov;17:32, Ústí nad Orlicí;18:20
+5079: T: Ústí nad Orlicí;19:01, Česká Třebová;19:12
+5036: 6: Lichkov;19:31, Ústí nad Orlicí;20:19
+5054: 6: Ústí nad Orlicí;21:13, Pardubice hl.n.;22:03

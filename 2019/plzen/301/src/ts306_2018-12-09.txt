@@ -1,0 +1,51 @@
+7863pk: : Kařízek;5:12, Beroun;5:46
+7804: X: Beroun;6:05, Plzeň hl.n.;7:18
+7811pk: X: Plzeň hl.n.;13:40, Zdice;14:38
+7816: X: Zdice;15:16, Plzeň hl.n.;16:15
+7806: 25: Beroun;6:12, Plzeň hl.n.;7:19
+7839pk: 6: Plzeň hl.n.;7:45, Rokycany;8:01
+7834: 6: Rokycany;8:09, Plzeň hl.n.;8:25
+7805pk: 25: Plzeň hl.n.;8:37, Beroun;9:45
+7810: 25: Beroun;10:05, Plzeň hl.n.;11:15
+7809pk: 25: Plzeň hl.n.;12:45, Beroun;13:57
+7814: 25: Beroun;14:05, Plzeň hl.n.;15:15
+7817pk: : Plzeň hl.n.;16:45, Beroun;17:57
+7822: : Beroun;18:05, Plzeň hl.n.;19:15
+7823pk: : Plzeň hl.n.;20:37, Beroun;21:45
+21920sv: X5: Beroun;22:06, Plzeň hl.n.;22:47
+
+21921svpk: X1: Plzeň hl.n.;3:13, Beroun;3:55
+7800: : Beroun;4:12, Plzeň hl.n.;5:19
+7801pk: X: Plzeň hl.n.;6:27, Beroun;7:33
+7803pk: 25: Plzeň hl.n.;6:45, Beroun;7:57
+7808: : Beroun;8:05, Plzeň hl.n.;9:15
+7807pk: : Plzeň hl.n.;10:37, Beroun;11:45
+7812: : Beroun;12:05, Plzeň hl.n.;13:15
+7813pk: : Plzeň hl.n.;14:45, Beroun;15:57
+7818: : Beroun;16:05, Plzeň hl.n.;17:15
+7819pk: X: Plzeň hl.n.;17:40, Beroun;18:47
+7819pk: 25: Plzeň hl.n.;17:40, Rokycany;17:55
+7844: 25: Rokycany;18:03, Plzeň hl.n.;18:19
+7821pk: 25: Plzeň hl.n.;18:45, Beroun;19:57
+7824: 25: Beroun;20:05, Plzeň-Jižní Předměstí;21:24
+7857: 25: Plzeň-Jižní Předměstí;22:37, Kařízek;23:16
+
+7802: X: Beroun;5:15, Plzeň hl.n.;6:19
+7837pk: X: Plzeň hl.n.;7:04, Rokycany;7:20
+7834: X: Rokycany;8:09, Plzeň hl.n.;8:25
+7805pk: X: Plzeň hl.n.;8:37, Beroun;9:45
+7810: X: Beroun;10:05, Plzeň hl.n.;11:15
+7809pk: X: Plzeň hl.n.;12:45, Beroun;13:57
+7814: X: Beroun;14:05, Plzeň hl.n.;15:15
+7815pk: X: Plzeň hl.n.;15:39, Beroun;16:47
+7820: X: Beroun;17:05, Plzeň hl.n.;18:15
+7821pk: X: Plzeň hl.n.;18:45, Beroun;19:57
+7824: X: Beroun;20:05, Plzeň-Jižní Předměstí;21:24
+7857pk: X: Plzeň-Jižní Předměstí;22:37, Kařízek;23:16
+
+
+2: 67: 1
+2: 5: 2
+1: 5: 3
+3: 6: 3
+3: 7: 2

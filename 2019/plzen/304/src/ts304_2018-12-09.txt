@@ -1,0 +1,58 @@
+7833: X: Plzeň hl.n.;4:57, Rokycany;5:13
+1970: X: Rokycany;5:29, Plzeň hl.n.;5:43
+564: X6: Plzeň hl.n.;6:05, Cheb;7:29
+555: : Cheb;8:33, Praha hl.n.;11:19
+558: : Praha hl.n.;12:45, Cheb;15:26
+615: : Cheb;16:29, Ústí nad Labem hl.n.;19:09
+602: : Ústí nad Labem hl.n.;20:48, Chomutov;21:51
+
+7000: X: Chomutov;5:09, Cheb;7:20
+607: X: Cheb;8:29, Ústí nad Labem hl.n.;11:09
+616: 25: Ústí nad Labem hl.n.;6:48, Cheb;9:30
+609: 25: Cheb;10:29, Ústí nad Labem hl.n.;13:09
+608: : Ústí nad Labem hl.n.;14:48, Cheb;17:30
+617: : Cheb;18:29, Ústí nad Labem hl.n.;21:09
+
+616: X: Ústí nad Labem hl.n.;6:48, Cheb;9:30
+609: X: Cheb;10:29, Ústí nad Labem hl.n.;13:09
+1694: X: Ústí nad Labem hl.n.;13:46, Cheb;17:02
+603: 25: Chomutov;6:06, Ústí nad Labem hl.n.;7:09
+614: 25: Ústí nad Labem hl.n.;8:48, Cheb;11:30
+611: 25: Cheb;12:29, Ústí nad Labem hl.n.;15:09
+606: 25: Ústí nad Labem hl.n.;16:48, Cheb;19:30
+
+605: : Cheb;6:27, Ústí nad Labem hl.n.;9:09
+612: : Ústí nad Labem hl.n.;10:48, Cheb;13:30
+613: : Cheb;14:29, Ústí nad Labem hl.n.;17:09
+604: : Ústí nad Labem hl.n.;18:48, Cheb;21:32
+
+7021: X: Cheb;4:31, Karlovy Vary;5:22
+1695: X: Karlovy Vary;5:58, Ústí nad Labem hl.n.;8:08
+614: X: Ústí nad Labem hl.n.;8:48, Cheb;11:30
+611: X: Cheb;12:29, Ústí nad Labem hl.n.;15:09
+606: X: Ústí nad Labem hl.n.;16:48, Cheb;19:30
+607: 25: Cheb;8:29, Ústí nad Labem hl.n.;11:09
+610: 25: Ústí nad Labem hl.n.;12:48, Cheb;15:30
+561: 25: Cheb;16:33, Praha hl.n.;19:19
+550: T: Praha hl.n.;20:45, Cheb;23:32
+
+551: X6: Cheb;4:32, Praha hl.n.;7:19
+560: : Praha hl.n.;8:45, Cheb;11:26
+559: : Cheb;12:33, Praha hl.n.;15:20
+554: : Praha hl.n.;16:45, Cheb;19:26
+
+1691: X: Cheb;4:03, Chomutov;5:58
+603: X: Chomutov;6:06, Ústí nad Labem hl.n.;7:09
+610: X: Ústí nad Labem hl.n.;12:48, Cheb;15:30
+561: X: Cheb;16:33, Praha hl.n.;19:19
+550: X: Praha hl.n.;20:45, Plzeň hl.n.;22:04
+1981: 6: Cheb;5:04, Plzeň hl.n.;6:51
+1990: T: Plzeň hl.n.;17:05, Mariánské Lázně;18:17
+7384: T: Mariánské Lázně;18:38, Cheb;19:09
+565: T: Cheb;19:35, Plzeň hl.n.;20:55
+
+
+1: 56: 3
+2: 56: 2
+6: 6: 1
+7: 6: 7

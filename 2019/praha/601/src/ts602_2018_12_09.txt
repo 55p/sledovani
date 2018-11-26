@@ -1,0 +1,23 @@
+242:6: Košice;6:58, Praha hl.n.;14:19
+243:5: Praha hl.n.;15:23, Košice;23:05
+243:1,2,3,4,6,7: Praha hl.n.;15:23, Bohumín;18:52
+
+512:: Bohumín;7:07, Františkovy Lázně;13:33
+515:: Františkovy Lázně;14:27, Bohumín;20:52
+
+516:: Bohumín;5:07, Praha hl.n.;8:19
+507:: Praha hl.n.;11:41, Ostrava hl.n.;14:44
+504:: Ostrava hl.n.;15:15, Cheb;21:17
+
+505:: Cheb;6:34, Ostrava hl.n.;12:44
+506:: Ostrava hl.n.;13:15, Praha hl.n.;16:19
+517:: Praha hl.n.;19:41, Bohumín;22:52
+
+510:XT: Bohumín;9:07, Praha hl.n.;12:19
+509:: Praha hl.n.;13:41, Ostrava hl.n.;16:44
+500:: Ostrava hl.n.;17:15, Praha hl.n.;20:19
+
+
+1:5:1
+4:5:2
+5:5:5

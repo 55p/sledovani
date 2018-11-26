@@ -1,0 +1,32 @@
+9801: X: Rakovník;5:42, Praha-Bubny;7:30
+19736: X: Praha-Dejvice;16:51, Středokluky;17:30
+19735: X: Středokluky;17:46, Praha-Dejvice;18:24
+1910: X: Praha-Bubny Vltavská;21:05, Kladno;21:42
+
+19890sv: X: Kladno;5:49, Kladno-Dubí;6:02
+1881: X: Kladno-Dubí;6:20, Praha-Bubny Vltavská;7:18
+1894: X: Praha-Bubny Vltavská;18:05, Kladno-Ostrovec;18:49
+19791sv: 25: Kladno;3:23, Hostivice;3:36
+19790sv: 25: Hostivice;3:47, Středokluky;3:59
+19731: 25: Středokluky;4:23, Praha-Dejvice;4:56
+19734: 25: Praha-Dejvice;6:05, Středokluky;6:57
+19747: 25: Středokluky;8:04, Hostivice;8:19
+19797sv: 25: Hostivice;8:39, Praha-Bubny;8:59
+19736: 25: Praha-Dejvice;16:51, Středokluky;17:30
+9783př:25: Středokluky;17:46,Hostivice;18:02
+19735: 25: Hostivice;18:05, Praha-Dejvice;18:24
+19792sv: 25: Praha-Dejvice;18:51, Kladno;19:55
+
+19860pk: X: Kladno;6:21, Kladno-Dubí;6:35
+19861: X: Kladno-Dubí;6:55, Kladno;7:08
+1883: X: Kladno;7:15, Praha-Bubny;7:50
+1888: X: Praha-Bubny Vltavská;16:05, Kladno-Ostrovec;16:49
+1895: X: Kladno-Ostrovec;17:03, Praha-Bubny Vltavská;17:49
+9848: X: Praha-Bubny Vltavská;18:33, Kladno-Ostrovec;19:34
+19714: X: Kladno;20:51, Rakovník;21:48
+
+
+2:6:2
+1:67:1
+3:6:3
+3:7:2

@@ -1,0 +1,81 @@
+8041: X: Protivín;4:10, České Budějovice;4:47
+8000: X: České Budějovice;4:55, Strakonice;6:00
+8005: X: Strakonice;6:07, České Budějovice;7:22
+1930: X: České Budějovice;15:17, Počátky-Žirovnice;17:08
+8303: 25: Jindřichův Hradec;7:30, Veselí nad Lužnicí;8:15
+8304: 25: Veselí nad Lužnicí;9:35, Počátky-Žirovnice;10:40
+8307: 25: Počátky-Žirovnice;11:15, Veselí nad Lužnicí;12:23
+8308: 25: Veselí nad Lužnicí;13:35, Počátky-Žirovnice;14:40
+8313: X6: Počátky-Žirovnice;17:15, Veselí nad Lužnicí;18:23
+8312: T: Veselí nad Lužnicí;17:35, Počátky-Žirovnice;18:40
+8315: T: Počátky-Žirovnice;19:13, Veselí nad Lužnicí;20:23
+8326: X: Veselí nad Lužnicí;19:35, Jindřichův Hradec;20:06
+8325: X: Jindřichův Hradec;21:39, Veselí nad Lužnicí;22:15
+8330: X: Veselí nad Lužnicí;22:25, Jindřichův Hradec;22:56
+8332: 25: Veselí nad Lužnicí;23:50, Jindřichův Hradec;0:22
+
+2152: 6: České Velenice;4:56, České Budějovice;5:48
+1931: X: Jindřichův Hradec;4:41, České Budějovice;5:59
+8002: X6: České Budějovice;6:16, Strakonice;7:22
+8007: : Strakonice;7:46, České Budějovice;8:54
+8008: X: České Budějovice;10:18, Strakonice;11:20
+8011: X: Strakonice;12:52, České Budějovice;13:52
+8042: X: České Budějovice;14:08, Zliv;14:22
+8045: X: Zliv;14:52, České Budějovice;15:06
+2163: X: České Budějovice;15:09, České Velenice;15:57
+2164: X: České Velenice;16:03, České Budějovice;16:50
+2167: X: České Budějovice;17:09, České Velenice;17:57
+8006: 25: České Budějovice;9:05, Strakonice;10:06
+8009: 25: Strakonice;10:52, České Budějovice;11:52
+8010: 25: České Budějovice;12:18, Strakonice;13:20
+8021: 25: Strakonice;14:52, České Budějovice;15:52
+8014: 25: České Budějovice;16:18, Strakonice;17:20
+8017: 25: Strakonice;18:52, České Budějovice;19:52
+102175pk: T: České Budějovice;22:59, České Velenice;23:45
+
+102152pk: 6: České Velenice;4:56, České Budějovice;5:48
+2152: T: České Velenice;4:56, České Budějovice;5:48
+102154pk: X: České Velenice;6:29, České Budějovice;7:17
+2155: : České Budějovice;8:09, České Velenice;8:57
+2156: : České Velenice;9:03, České Budějovice;9:50
+2157: : České Budějovice;10:09, České Velenice;10:57
+2158: : České Velenice;11:03, České Budějovice;11:50
+2159: : České Budějovice;12:09, České Velenice;12:57
+2160: : České Velenice;13:03, České Budějovice;13:50
+2161: : České Budějovice;14:09, České Velenice;14:57
+2162: : České Velenice;15:03, České Budějovice;15:50
+2165: : České Budějovice;16:09, České Velenice;16:57
+2166: : České Velenice;17:03, České Budějovice;17:50
+2169: : České Budějovice;18:09, České Velenice;18:57
+2168: : České Velenice;19:03, České Budějovice;19:50
+2171: : České Budějovice;20:09, České Velenice;20:57
+2170: : České Velenice;21:03, České Budějovice;21:50
+2175: : České Budějovice;22:59, České Velenice;23:45
+
+2150: X: České Velenice;4:00, České Budějovice;4:47
+2151: X: České Budějovice;5:06, České Velenice;5:54
+2154: X: České Velenice;6:29, České Budějovice;7:17
+8004: X: České Budějovice;7:30, Strakonice;8:35
+8009: X: Strakonice;10:52, České Budějovice;11:52
+8010: X: České Budějovice;12:18, Strakonice;13:20
+8013: X: Strakonice;14:24, České Budějovice;15:27
+8014: X: České Budějovice;16:18, Strakonice;17:20
+8017: X: Strakonice;18:52, České Budějovice;19:52
+8046: X: České Budějovice;20:10, Zliv;20:24
+8047: X: Zliv;20:50, České Budějovice;21:04
+8041: 6: Protivín;4:10, České Budějovice;4:47
+8008: 25: České Budějovice;10:18, Strakonice;11:20
+8011: 25: Strakonice;12:52, České Budějovice;13:52
+8020: 25: České Budějovice;14:18, Strakonice;15:20
+8015: 25: Strakonice;16:52, České Budějovice;17:52
+8016: 6: České Budějovice;18:18, Strakonice;19:20
+8018: XT: České Budějovice;21:10, Strakonice;22:09
+8065: XT: Strakonice;22:40, Protivín;23:02
+
+
+1: 56: 1
+2: 6: 4
+3: 5: 2
+3: 6: 3
+4: 6: 2
+4: 5: 4

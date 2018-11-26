@@ -1,0 +1,41 @@
+7511: : Klatovy;4:00, Plzeň hl.n.;5:00
+7511: X: Klatovy;4:00, Plzeň hl.n.;5:00
+1963: X: Klatovy;6:47, Plzeň hl.n.;7:41
+7512: X: Plzeň hl.n.;8:12, Klatovy;9:08
+7517: X: Klatovy;10:48, Rokycany;12:01
+7836: X: Rokycany;14:09, Plzeň hl.n.;14:25
+7534: X: Plzeň hl.n.;14:47, Přeštice;15:14
+7535: X: Přeštice;16:19, Plzeň hl.n.;16:47
+1966: X: Plzeň hl.n.;17:10, Klatovy;18:03
+1960: 25: Plzeň hl.n.;5:37, Klatovy;6:29
+7517: 25: Klatovy;10:48, Plzeň hl.n.;11:43
+7516: 25: Plzeň hl.n.;12:12, Klatovy;13:08
+7521: 25: Klatovy;14:48, Plzeň hl.n.;15:43
+7520: 25: Plzeň hl.n.;16:12, Klatovy;17:09
+7503: : Klatovy;18:45, Plzeň hl.n.;19:43
+
+7502: 25: Plzeň hl.n.;6:40, Klatovy;7:38
+7515: 25: Klatovy;8:46, Plzeň hl.n.;9:47
+7518: 25: Plzeň hl.n.;14:12, Klatovy;15:10
+7516: X: Plzeň hl.n.;12:12, Klatovy;13:08
+1965: X: Klatovy;13:44, Plzeň hl.n.;14:46
+1964: X: Plzeň hl.n.;15:10, Klatovy;16:03
+7501: : Klatovy;16:46, Plzeň hl.n.;17:43
+7522: 25: Plzeň hl.n.;18:12, Klatovy;19:05
+1968: X: Plzeň hl.n.;19:10, Klatovy;20:03
+
+7513: X: Klatovy;5:56, Plzeň hl.n.;6:57
+7530: X: Plzeň hl.n.;7:21, Přeštice;7:53
+7531: X: Přeštice;8:19, Plzeň hl.n.;8:47
+7532: X: Plzeň hl.n.;11:10, Přeštice;11:38
+7533: X: Přeštice;12:19, Plzeň hl.n.;12:47
+1962: X: Plzeň hl.n.;13:10, Klatovy;14:03
+7521: X: Klatovy;14:48, Plzeň hl.n.;15:43
+7520: X: Plzeň hl.n.;16:12, Klatovy;17:09
+
+1961: X: Klatovy;4:48, Plzeň hl.n.;5:43
+7500: X: Plzeň hl.n.;6:11, Klatovy;7:08
+7515: X: Klatovy;8:46, Plzeň hl.n.;9:47
+7514: X: Plzeň hl.n.;10:12, Klatovy;11:10
+7519: X: Klatovy;12:46, Plzeň hl.n.;13:43
+7518: X: Plzeň hl.n.;14:12, Klatovy;15:10
