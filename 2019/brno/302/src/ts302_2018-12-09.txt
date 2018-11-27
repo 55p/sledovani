@@ -1,0 +1,23 @@
+1438: X: Šumperk;4:49, Brno-Královo Pole;7:46
+907: XT: Brno-Královo Pole;9:14, Šumperk;11:41
+908: X: Šumperk;12:09, Brno-Královo Pole;14:45
+915: X: Brno-Královo Pole;17:14, Šumperk;19:43
+906: T: Šumperk;14:09, Brno-Královo Pole;16:45
+917: T: Brno-Královo Pole;19:14, Šumperk;21:41
+912: 6: Šumperk;8:09, Brno-Královo Pole;10:45
+911: 6: Brno-Královo Pole;13:14, Šumperk;15:41
+904: 6: Šumperk;16:09, Brno-Královo Pole;18:45 
+
+914: X6: Šumperk;6:11, Brno-Královo Pole;8:45
+909: X: Brno-Královo Pole;11:14, Šumperk;13:41
+906: X: Šumperk;14:09, Brno-Královo Pole;16:45
+917: X: Brno-Královo Pole;19:14, Šumperk;21:41
+909: 6: Brno-Královo Pole;11:14, Olomouc hl.n.;12:52
+908: 6: Olomouc hl.n.;13:06, Brno-Královo Pole;14:45
+915: 6: Brno-Královo Pole;17:14, Šumperk;19:43
+900: 6: Šumperk;20:15, Brno-Královo Pole;22:43
+903: T: Brno-Královo Pole;6:22, Šumperk;8:41
+
+
+1: 26: 1
+2: 26: 2

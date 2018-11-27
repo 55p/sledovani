@@ -1,0 +1,10 @@
+4764: X: Letovice;5:31, Česká Třebová;6:19
+1975: X: Česká Třebová;6:39, Brno hl.n.;8:16
+1972: X: Brno hl.n.;13:43, Choceň;15:52
+4761: X: Choceň;16:09, Letovice;17:33
+4768: X5: Letovice;18:03, Česká Třebová;18:52
+4765: X5: Česká Třebová;22:10, Letovice;22:56
+4766: 25: Letovice;6:31, Česká Třebová;7:19
+5006: 25: Česká Třebová;8:00, Pardubice hl.n.;9:17
+5009: 25: Kolín;13:42, Pardubice hl.n.;14:29
+4761: 25: Česká Třebová;16:39, Letovice;17:33

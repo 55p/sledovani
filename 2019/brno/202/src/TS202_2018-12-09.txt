@@ -1,0 +1,137 @@
+4641: X: Brno dolní nádraží;4:15, Břeclav;5:20
+4614: X: Břeclav;6:12, Tišnov;8:00
+4927: X: Tišnov;8:58, Vranovice;10:11
+4926: X: Vranovice;10:49, Tišnov;12:00
+4619: X: Tišnov;12:58, Břeclav;14:45
+4624: X: Břeclav;15:10, Tišnov;17:00
+4631: X: Tišnov;17:58, Břeclav;19:45
+4938: 6: Brno dolní nádraží;22:56, Tišnov;23:39
+
+4610: X: Břeclav;5:15, Tišnov;7:00
+4613: X: Tišnov;8:28, Břeclav;10:15
+4622: X: Břeclav;11:41, Tišnov;13:30
+4621: X: Tišnov;13:58, Břeclav;15:42
+4626: X: Břeclav;16:10, Tišnov;18:00
+4633: X: Tišnov;18:28, Vranovice;19:42
+4936: X: Vranovice;21:16, Tišnov;22:30
+
+4921: X: Tišnov;5:58, Šakvice;7:19
+4618: X: Šakvice;8:07, Tišnov;9:30
+4929: X: Tišnov;9:58, Vranovice;11:12
+4928: X: Vranovice;11:46, Tišnov;13:00
+4625: X: Tišnov;14:58, Břeclav;16:44
+4628: X: Břeclav;17:10, Tišnov;19:00
+4917: X: Tišnov;21:28, Šakvice;22:53
+104658sv: X5: Šakvice;23:15, Vranovice;23:22
+4658: X5: Vranovice;23:23, Brno dolní nádraží;23:50
+99992|PSE I|Pohotovostní souprava elektrická I: T: Brno hl.n.;8:00;20:00
+4939: T: Brno dolní nádraží;23:10, Vranovice;23:38
+4667: T: Vranovice;23:43, Břeclav;0:20
+
+4660: X1: Břeclav;3:32, Šakvice;3:58
+4900: X: Šakvice;4:08, Žďár nad Sázavou;6:23
+8746: X: Žďár nad Sázavou;6:50, Havlíčkův Brod;7:26
+8355: X: Havlíčkův Brod;12:05, Jihlava město;12:41
+14872: X: Jihlava město;14:25, Havlíčkův Brod;15:04
+8367: X: Havlíčkův Brod;16:05, Horní Cerekev;17:27
+8372: X: Horní Cerekev;18:45, Havlíčkův Brod;19:52
+5932: zX: Havlíčkův Brod;22:32, Čáslav;23:28
+99992|PSE I|Pohotovostní souprava elektrická I: 6: Brno hl.n.;8:00;20:00
+
+8345: X: Čáslav;4:43, Horní Cerekev;7:16
+8358: X: Horní Cerekev;12:42, Havlíčkův Brod;13:51
+8755: X: Havlíčkův Brod;14:25, Žďár nad Sázavou;15:01
+4605: X: Žďár nad Sázavou;15:34, Vranovice;17:42
+4630: X: Vranovice;18:16, Tišnov;19:30
+4641: T: Vranovice;4:43, Břeclav;5:20
+4612: T: Břeclav;5:44, Tišnov;7:30
+4613: T: Tišnov;8:28, Břeclav;10:15
+4622: T: Břeclav;11:41, Tišnov;13:30
+4623: T: Tišnov;14:28, Břeclav;16:15
+4630: T: Břeclav;17:41, Tišnov;19:30
+4637: zX: Tišnov;20:28, Zaječí;21:59
+4637: X5: Tišnov;20:28, Břeclav;22:16
+
+4612: X: Zaječí;6:01, Tišnov;7:30
+4925: X: Tišnov;7:58, Vranovice;9:08
+4924: X: Vranovice;9:46, Tišnov;11:00
+4933: X: Tišnov;11:58, Vranovice;13:12
+4932: X: Vranovice;13:46, Tišnov;15:00
+4627: X: Tišnov;15:58, Břeclav;17:42
+4644: X: Břeclav;18:10, Brno-Královo Pole;19:33
+970: X: Brno-Královo Pole;20:31, Havlíčkův Brod;21:57
+4600: 6: Břeclav;4:43, Žďár nad Sázavou;7:23
+4905: 6: Žďár nad Sázavou;8:34, Vranovice;10:43
+4910: 6: Vranovice;11:16, Žďár nad Sázavou;13:23
+4911: 6: Žďár nad Sázavou;14:34, Vranovice;16:43
+4916: 6: Vranovice;17:16, Křižanov;19:01
+4917: 6: Křižanov;20:57, Vranovice;22:42
+
+8743: X: Havlíčkův Brod;5:50, Žďár nad Sázavou;6:24
+4903: X: Žďár nad Sázavou;6:34, Vranovice;8:43
+4908: X: Vranovice;9:16, Žďár nad Sázavou;11:23
+4909: X: Žďár nad Sázavou;12:34, Vranovice;14:43
+4914: X: Vranovice;15:16, Žďár nad Sázavou;17:23
+4601: T: Tišnov;5:28, Vranovice;6:42
+4906: T: Vranovice;7:16, Žďár nad Sázavou;9:23
+4907: T: Žďár nad Sázavou;10:34, Vranovice;12:43
+4912: T: Vranovice;13:16, Žďár nad Sázavou;15:23
+4913: T: Žďár nad Sázavou;16:34, Vranovice;18:43
+4918: T: Vranovice;19:16, Žďár nad Sázavou;21:24
+
+4601: X: Žďár nad Sázavou;4:34, Břeclav;7:21
+4642: X: Břeclav;8:10, Tišnov;10:00
+4615: X: Tišnov;10:28, Břeclav;12:15
+4602: X: Břeclav;13:41, Žďár nad Sázavou;16:23
+8766: X: Žďár nad Sázavou;16:50, Havlíčkův Brod;17:26
+14869: X: Havlíčkův Brod;20:05, Jihlava;20:33
+8373: X: Jihlava;20:47, Horní Cerekev;21:29
+
+8342: X: Horní Cerekev;4:36, Havlíčkův Brod;5:47
+8347: X: Havlíčkův Brod;6:48, Horní Cerekev;8:25
+8354: X: Horní Cerekev;10:20, Havlíčkův Brod;11:50
+8357: X: Havlíčkův Brod;13:13, Počátky-Žirovnice;15:02
+8366: X: Počátky-Žirovnice;15:56, Havlíčkův Brod;17:50
+104908: 6: Brno dolní nádraží;9:50, Žďár nad Sázavou;11:23
+4909: 6: Žďár nad Sázavou;12:34, Vranovice;14:43
+4914: 6: Vranovice;15:16, Žďár nad Sázavou;17:23
+4915: 6: Žďár nad Sázavou;18:34, Vranovice;20:43
+4936: 6: Vranovice;21:16, Tišnov;22:30
+
+973: X: Havlíčkův Brod;6:02, Brno-Královo Pole;7:28
+4603: T: Tišnov;6:28, Břeclav;8:15
+4620: T: Břeclav;9:41, Tišnov;11:30
+4617: T: Tišnov;12:28, Břeclav;14:15
+4604: T: Břeclav;15:41, Tišnov;17:30
+4633: T: Tišnov;18:28, Brno dolní nádraží;19:06
+4938: T: Brno dolní nádraží;22:56, Tišnov;23:39
+
+99992|PSE I|Pohotovostní souprava elektrická I: X: Brno hl.n.;8:00;20:00
+4938: X1234: Brno dolní nádraží;22:56, Tišnov;23:39
+
+4611: X: Tišnov;4:28, Břeclav;6:20
+4616: X: Břeclav;7:10, Tišnov;9:01
+4931: X: Tišnov;10:58, Vranovice;12:11
+4930: X: Vranovice;12:49, Tišnov;14:00
+4623: X: Tišnov;14:28, Vranovice;15:42
+4604: X: Vranovice;16:16, Křižanov;18:01
+4915: X: Křižanov;18:57, Vranovice;20:43
+4938: X5: Vranovice;22:16, Tišnov;23:39
+4611: 6: Tišnov;4:28, Brno dolní nádraží;5:06
+4917: T: Křižanov;20:57, Vranovice;22:42
+
+4920: X1234: Vranovice;4:49, Tišnov;6:00
+4923: X1234: Tišnov;6:58, Modřice;7:46
+4600: X5: Vranovice;5:20, Žďár nad Sázavou;7:23
+4905: X5: Žďár nad Sázavou;8:34, Vranovice;10:43
+4910: X5: Vranovice;11:16, Žďár nad Sázavou;13:23
+4911: X5: Žďár nad Sázavou;14:34, Vranovice;16:43
+4916: X5: Vranovice;17:16, Křižanov;19:01
+4601: 6: Žďár nad Sázavou;4:34, Vranovice;6:42
+4906: 6: Vranovice;7:16, Žďár nad Sázavou;9:23
+4907: 6: Žďár nad Sázavou;10:34, Vranovice;12:43
+4912: 6: Vranovice;13:16, Žďár nad Sázavou;15:23
+4913: 6: Žďár nad Sázavou;16:34, Vranovice;18:43
+4918: 6: Vranovice;19:16, Křižanov;21:01
+4903: T: Křižanov;6:57, Vranovice;8:43
+

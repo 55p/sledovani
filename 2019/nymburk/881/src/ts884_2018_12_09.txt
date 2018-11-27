@@ -1,0 +1,84 @@
+15901: X: Čáslav;4:22, Třemošnice;4:56
+15902: X: Třemošnice;5:10, Čáslav;5:43
+15907: X: Čáslav;6:22, Třemošnice;6:56
+15906: X: Třemošnice;7:00, Čáslav;7:33
+21840sv: 5: Čáslav;7:40, Nymburk před.n.;8:29
+21841sv: 5: Nymburk před.n.;13:12, Čáslav;13:53
+15919: X: Čáslav;14:12, Třemošnice;14:46
+15918: X: Třemošnice;15:00, Čáslav;15:33
+15923: X: Čáslav;16:12, Třemošnice;16:46
+15924: X: Třemošnice;17:00, Čáslav;17:33
+5960: X1234: Čáslav;19:30, Kolín;19:52
+15927: 5: Čáslav;18:12, Třemošnice;18:46
+15930: 5: Třemošnice;19:00, Čáslav;19:33
+5950: 6: Čáslav;4:24, Kolín;4:46
+5901: 6: Kolín;5:13, Čáslav;5:36
+5902: 6: Čáslav;5:56, Kolín;6:16
+21842sv: 6: Kolín;6:35, Nymburk před.n.;7:14
+21843sv: 6: Nymburk předjízdné n.;18:50, Kolín;19:20
+5963: 6: Kolín;19:32, Čáslav;19:53
+15931: z25: Čáslav;21:12, Třemošnice;21:44
+
+15900: 6: Třemošnice;4:10, Čáslav;4:43
+102443sv:X1:Nymburk před.n.;4:36, Kolín;4:59
+2443: X: 5:23, Kutná Hora město;5:41
+15903: 6: Čáslav;5:22, Třemošnice;5:56
+15904: 6: Třemošnice;6:10, Čáslav;6:43
+2440: X: Kutná Hora město;6:17, Kutná Hora hl.n.;6:25
+2415: X: Kutná Hora hl.n.;6:37, Malešov;6:58
+2416: X: Malešov;7:03, Kutná Hora hl.n.;7:25
+15909: 6: Čáslav;7:12, Třemošnice;7:46
+2445: X: Kutná Hora hl.n.;7:41, Kutná Hora město;7:48
+15908: 6: Třemošnice;8:12, Čáslav;8:43
+2442: X: Kutná Hora město;8:17, Kutná Hora hl.n.;8:25
+2449: X: Kutná Hora hl.n.;8:28, Kutná Hora město;8:35
+15913: 6: Čáslav;9:12, Třemošnice;9:44
+2444: X: Kutná Hora město;9:52, Kutná Hora hl.n.;10:00
+15910: 6: Třemošnice;10:12, Čáslav;10:43
+2451: X: Kutná Hora hl.n.;10:19, Kutná Hora město;10:26
+15915: 6: Čáslav;11:12, Třemošnice;11:44
+2446: X: Kutná Hora město;11:40, Kutná Hora hl.n.;11:48
+2453: X: Kutná Hora hl.n.;11:57, Kutná Hora město;12:04
+15912: 6: Třemošnice;12:10, Čáslav;12:43
+15917: 6: Čáslav;13:12, Třemošnice;13:44
+2448: X: Kutná Hora město;14:10, Kutná Hora hl.n.;14:18
+15916: 6: Třemošnice;14:12, Čáslav;14:43
+15921: 6: Čáslav;15:12, Třemošnice;15:46
+2455: X: Kutná Hora hl.n.;15:20, Kutná Hora město;15:27
+2452: X: Kutná Hora město;16:17, Kutná Hora hl.n.;16:25
+2459: X: Kutná Hora hl.n.;16:33, Kutná Hora město;16:40
+15925: 6: Čáslav;17:12, Třemošnice;17:46
+15927: X1234: Čáslav;18:12, Třemošnice;18:46
+15928: 6: Třemošnice;18:12, Čáslav;18:43
+15930: X1234: Třemošnice;19:00, Čáslav;19:33
+15929: 6: Čáslav;19:12, Třemošnice;19:46
+5960: X5: Čáslav;19:30, Kolín;19:52
+105960sv:X5:Kolín;20:03,Nymburk předjízdné n.;20:29
+15932: 6: Třemošnice;20:12, Čáslav;20:43
+15931: zX: Čáslav;21:12, Třemošnice;21:44
+5964: 6: Čáslav;22:14, Kolín;22:36
+5955: 6: Kolín;7:48, Čáslav;8:11
+
+15900: X: Třemošnice;4:10, Čáslav;4:43
+15903: X: Čáslav;5:22, Třemošnice;5:56
+15904: XT: Třemošnice;6:10, Čáslav;6:43
+15909: X: Čáslav;7:12, Třemošnice;7:46
+15911: T: Čáslav;7:32, Třemošnice;8:04
+15908: XT: Třemošnice;8:12, Čáslav;8:43
+15913: XT: Čáslav;9:12, Třemošnice;9:44
+15910: XT: Třemošnice;10:12, Čáslav;10:43
+15915: XT: Čáslav;11:12, Třemošnice;11:44
+15912: XT: Třemošnice;12:10, Čáslav;12:43
+15917: XT: Čáslav;13:12, Třemošnice;13:44
+15914: X: Třemošnice;13:59, Čáslav;14:33
+15916: T: Třemošnice;14:12, Čáslav;14:43
+15921: XT: Čáslav;15:12, Třemošnice;15:46
+15920: X: Třemošnice;16:00, Čáslav;16:33
+15922: T: Třemošnice;16:12, Čáslav;16:43
+15925: XT: Čáslav;17:12, Třemošnice;17:46
+15926: X: Třemošnice;18:00, Čáslav;18:33
+15928: T: Třemošnice;18:12, Čáslav;18:43
+15929: XT: Čáslav;19:12, Třemošnice;19:46
+15932: XT: Třemošnice;20:12, Čáslav;20:43
+5964: XT: Čáslav;22:14, Kolín;22:36
+5965: XT: Kolín;23:55, Čáslav;0:17

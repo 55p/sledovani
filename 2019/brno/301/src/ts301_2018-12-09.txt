@@ -1,0 +1,173 @@
+﻿823: X6: Brno-Královo Pole;5:56, Bohumín;8:34
+834: : Bohumín;13:24, Brno-Královo Pole;16:01
+976: : Brno-Královo Pole;16:31, Praha hl.n.;19:52
+965: z25: Praha-Smíchov;21:46, Havlíčkův Brod;23:57
+
+973: 6: Havlíčkův Brod;6:02, Brno-Královo Pole;7:28
+827: T: Brno-Královo Pole;8:56, Bohumín;11:34
+836: T: Bohumín;12:24, Brno-Královo Pole;15:01
+978: T: Brno-Královo Pole;15:31, Praha-Smíchov;19:01
+963: T: Praha-Smíchov;19:46, Havlíčkův Brod;21:57
+975: X: Praha hl.n.;6:03, Brno-Královo Pole;9:28
+829: X: Brno-Královo Pole;10:56, Bohumín;13:34
+832: X: Bohumín;14:24, Brno-Královo Pole;17:01
+974: X: Brno-Královo Pole;17:31, Havlíčkův Brod;18:57
+5918: X: Havlíčkův Brod;19:19, Kolín;20:41
+5917: X1234: Kolín;21:49, Havlíčkův Brod;23:06
+5917: X5: Kolín;21:49, Světlá nad Sázavou;22:52
+
+5900: X: Havlíčkův Brod;3:51, Kolín;5:16
+5940: 6: Světlá nad Sázavou;4:14, Kolín;5:16
+5903: X6: Kolín;6:05, Havlíčkův Brod;7:28
+5906: X6: Havlíčkův Brod;8:51, Kolín;10:14
+5909: X: Kolín;13:42, Havlíčkův Brod;15:05
+5914: X: Havlíčkův Brod;15:19, Kolín;16:39
+5904: T: Žďár nad Sázavou;5:16, Kolín;7:16
+5905: T: Kolín;10:05, Havlíčkův Brod;11:31
+5959: T: Kolín;15:14, Čáslav;15:35
+5958: T: Čáslav;15:55, Kolín;16:16
+5915: XT: Kolín;18:19, Žďár nad Sázavou;20:46
+5913: 6: Kolín;16:19, Havlíčkův Brod;17:41
+5918: 6: Havlíčkův Brod;19:19, Kolín;20:41
+5917: 6: Kolín;21:49, Světlá nad Sázavou;22:52
+
+5904: X: Žďár nad Sázavou;5:16, Nymburk hl.n.;7:56
+5879pk: X: Nymburk hl.n.;8:01, Kolín;8:28
+5904: 6: Žďár nad Sázavou;5:16, Kolín;7:16
+5905: X6: Kolín;10:05, Havlíčkův Brod;11:31
+5910: X6: Havlíčkův Brod;13:12, Kolín;14:32
+5911: X: Kolín;15:05, Havlíčkův Brod;16:27
+5959: 6: Kolín;15:14, Čáslav;15:35
+5958: 6: Čáslav;15:55, Kolín;16:16
+5915: 6: Kolín;18:19, Žďár nad Sázavou;20:46
+5940: T: Světlá nad Sázavou;4:14, Kolín;5:16
+5903: T: Kolín;6:05, Havlíčkův Brod;7:28
+5906: T: Havlíčkův Brod;8:51, Kolín;10:14
+5909: T: Kolín;13:42, Havlíčkův Brod;15:05
+5916: XT: Havlíčkův Brod;17:15, Kolín;18:35
+5963: zX: Kolín;19:32, Čáslav;19:53
+
+5931: X: Čáslav;3:37, Havlíčkův Brod;4:37
+5902: X: Havlíčkův Brod;4:53, Kolín;6:16
+5953: X: Kolín;7:05, Čáslav;7:26
+5952: X: Čáslav;8:13, Kolín;8:34
+5907: X: Kolín;11:43, Havlíčkův Brod;13:04
+5912: X: Havlíčkův Brod;14:33, Kolín;15:54
+5909: 6: Kolín;13:42, Havlíčkův Brod;15:05
+5913: XT: Kolín;16:19, Havlíčkův Brod;17:41
+5918: T: Havlíčkův Brod;19:19, Kolín;20:41
+5917: T: Kolín;21:49, Havlíčkův Brod;23:06
+
+962: X6: Havlíčkův Brod;5:00, Praha-Smíchov;7:10
+977: : Praha-Smíchov;7:51, Brno-Královo Pole;11:28
+831: : Brno-Královo Pole;11:56, Bohumín;14:34
+830: : Bohumín;15:24, Brno-Královo Pole;18:01
+972: : Brno-Královo Pole;18:31, Praha hl.n.;21:52
+670: zX: Praha hl.n.;23:22, Děčín hl.n.;1:01
+
+675: X: Děčín hl.n.;6:26, Praha hl.n.;8:10
+961: XT: Praha hl.n.;17:03, Jihlava;19:23
+975: 6: Praha hl.n.;6:03, Brno-Královo Pole;9:28
+829: 6: Brno-Královo Pole;10:56, Bohumín;13:34
+832: 6: Bohumín;14:24, Brno-Královo Pole;17:01
+845: 6: Brno-Královo Pole;18:56, Bohumín;21:34
+
+960: X6: Jihlava;5:36, Praha-Smíchov;8:09
+960: T: Havlíčkův Brod;6:00, Praha-Smíchov;8:09
+979: : Praha-Smíchov;9:50, Brno-Královo Pole;13:28
+835: : Brno-Královo Pole;13:56, Bohumín;16:34
+826: XT: Bohumín;17:24, Brno-Královo Pole;20:01
+849: T: Brno-Královo Pole;20:56, Bohumín;23:34
+
+980: X6: Brno-Královo Pole;14:31, Praha-Smíchov;18:09
+991: X1234: Praha-Smíchov;18:50, Havlíčkův Brod;20:57
+991: X5: Praha-Smíchov;18:50, Brno-Královo Pole;22:21
+963: 6: Praha-Smíchov;19:46, Havlíčkův Brod;21:57
+840: T: Bohumín;8:24, Brno-Královo Pole;11:01
+962: T: Turku/Abo;15:25, Helsinki;17:23
+989: T: Praha-Smíchov;17:52, Brno-Královo Pole;21:30
+
+971: X: Havlíčkův Brod;5:02, Brno-Královo Pole;6:28
+825: : Brno-Královo Pole;6:56, Bohumín;9:34
+838: : Bohumín;10:24, Brno-Královo Pole;13:01
+837: : Brno-Královo Pole;14:56, Bohumín;17:34
+824: : Bohumín;18:24, Brno-Královo Pole;21:01
+
+988: X6: Brno-Královo Pole;6:31, Praha-Smíchov;10:08
+981: X6: Praha-Smíchov;11:46, Brno-Královo Pole;15:28
+839: X6: Brno-Královo Pole;15:56, Bohumín;18:34
+980: T: Brno-Královo Pole;14:31, Praha-Smíchov;18:09
+991: T: Praha-Smíchov;18:50, Havlíčkův Brod;20:57
+
+844: X6: Bohumín;6:24, Brno-Královo Pole;9:01
+833: X6: Brno-Královo Pole;12:56, Bohumín;15:34
+828: X6: Bohumín;16:24, Brno-Královo Pole;19:01
+849: X6: Brno-Královo Pole;20:56, Bohumín;23:34
+842: T: Bohumín;7:24, Brno-Královo Pole;10:01
+984: T: Brno-Královo Pole;10:31, Praha-Smíchov;14:09
+987: T: Praha-Smíchov;15:52, Brno-Královo Pole;19:28
+847: T: Brno-Královo Pole;19:56, Bohumín;22:34
+
+848: X6: Bohumín;4:24, Brno-Královo Pole;7:01
+827: X6: Brno-Královo Pole;8:56, Bohumín;11:34
+836: X6: Bohumín;12:24, Brno-Královo Pole;15:01
+978: X: Brno-Královo Pole;15:31, Praha-Smíchov;19:01
+963: X: Praha-Smíchov;19:46, Havlíčkův Brod;21:57
+841: 6: Brno-Královo Pole;16:56, Bohumín;19:34
+820: 6: Bohumín;20:24, Brno-Královo Pole;22:58
+
+990: X1: Brno-Královo Pole;5:31, Praha-Smíchov;9:05
+990: X2345: Žďár nad Sázavou;6:32, Praha-Smíchov;9:05
+990: 6: Havlíčkův Brod;7:00, Praha hl.n.;8:52
+985: X: Praha-Smíchov;14:52, Brno-Královo Pole;18:28
+975: T: Havlíčkův Brod;8:02, Brno-Královo Pole;9:28
+829: T: Brno-Královo Pole;10:56, Bohumín;13:34
+832: T: Bohumín;14:24, Brno-Královo Pole;17:01
+845: XT: Brno-Královo Pole;18:56, Bohumín;21:34
+
+846: X6: Bohumín;5:24, Brno-Královo Pole;8:01
+986: : Brno-Královo Pole;8:31, Praha-Smíchov;12:08
+983: : Praha-Smíchov;13:52, Brno-Královo Pole;17:28
+843: XT: Brno-Královo Pole;17:56, Bohumín;20:34
+970: 6: Brno-Královo Pole;20:31, Havlíčkův Brod;21:57
+
+842: X6: Bohumín;7:24, Brno-Královo Pole;10:01
+984: X6: Brno-Královo Pole;10:31, Praha-Smíchov;14:09
+987: X6: Praha-Smíchov;15:52, Brno-Královo Pole;19:28
+844: T: Bohumín;6:24, Brno-Královo Pole;9:01
+833: T: Brno-Královo Pole;12:56, Bohumín;15:34
+828: T: Bohumín;16:24, Brno-Královo Pole;19:01
+817: : Brno-Královo Pole;20:20, Břeclav;21:18
+
+456: : Břeclav;0;00;23:50, Bohumín;1:39
+457: : Bohumín;2:20, Břeclav;4:10
+816: : Břeclav;6:43, Brno dolní n.;7:23
+841: XT: Brno-Královo Pole;16:56, Bohumín;19:34
+820: XT: Bohumín;20:24, Brno-Královo Pole;22:58
+
+821: X6: Brno-Královo Pole;4:56, Bohumín;7:34
+840: X6: Bohumín;8:24, Brno-Královo Pole;11:01
+982: X6: Brno-Královo Pole;12:31, Praha-Smíchov;16:09
+989: X6: Praha-Smíchov;17:52, Brno-Královo Pole;21:30
+988: T: Brno-Královo Pole;6:31, Praha-Smíchov;10:08
+981: T: Praha-Smíchov;11:46, Brno-Královo Pole;15:28
+839: T: Brno-Královo Pole;15:56, Bohumín;18:34
+822: T: Bohumín;19:24, Brno-Královo Pole;22:01
+
+
+1: 6: 8
+2: 6: 2
+2: 7: 6
+4: 6: 3
+5: 6: 5
+5: 7: 3
+6: 6: 6
+7: 6: 1
+8: 7: 12
+9: 7: 14
+9: 6: 14
+11: 7: 10
+12: 6: 18
+13: 6: 10
+14: 6: 7
+15: 6: 15

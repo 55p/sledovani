@@ -1,0 +1,47 @@
+24224: X: Brno-Židenice;15:15, Brno hl.n.;15:21
+1974: X: Brno hl.n.;15:43, Česká Třebová;17:19
+903: 6: Brno-Královo Pole;6:22, Šumperk;8:41
+4762: T: Letovice;5:28, Česká Třebová;6:10
+4763: XT: Česká Třebová;19:05, Letovice;19:52
+
+4766: X: Letovice;6:31, Ústí nad Orlicí;7:34
+5077: X: Ústí nad Orlicí;10:23, Česká Třebová;10:35
+1977: X: Česká Třebová;14:50, Brno hl.n.;16:15
+1976: X: Brno hl.n.;17:43, Česká Třebová;19:18
+4762: 6: Letovice;5:28, Česká Třebová;6:10
+4763: 6: Česká Třebová;19:05, Letovice;19:52
+912: T: Šumperk;8:09, Brno-Královo Pole;10:45
+911: T: Brno-Královo Pole;13:14, Šumperk;15:41
+904: T: Šumperk;16:09, Brno-Královo Pole;18:45
+21970sv: T: Brno-Královo Pole;19:10, Česká Třebová;20:49
+4765: zX: Česká Třebová;22:10, Letovice;22:56
+
+4760: X: Letovice;4:29, Česká Třebová;5:10
+1973: X6: Česká Třebová;5:40, Brno hl.n.;7:16
+905: X6: Brno hl.n.;7:19, Šumperk;9:41
+910: X6: Šumperk;10:09, Brno-Královo Pole;12:45
+913: X6: Brno-Královo Pole;15:14, Šumperk;17:41
+902: X6: Šumperk;18:09, Brno-Královo Pole;20:45
+914: T: Olomouc hl.n.;7:06, Brno-Královo Pole;8:45
+909: T: Brno-Královo Pole;11:14, Olomouc hl.n.;12:52
+908: T: Olomouc hl.n.;13:06, Brno-Královo Pole;14:45
+915: T: Brno-Královo Pole;17:14, Šumperk;19:43
+900: T: Šumperk;20:15, Brno-Královo Pole;22:43
+
+901: X: Brno-Královo Pole;5:14, Šumperk;7:41
+912: X: Šumperk;8:09, Brno-Královo Pole;10:45
+911: X: Brno-Královo Pole;13:14, Šumperk;15:41
+904: X: Šumperk;16:09, Brno-Královo Pole;18:45
+907: 6: Brno-Královo Pole;9:14, Šumperk;11:41
+906: 6: Šumperk;14:09, Brno-Královo Pole;16:45
+917: 6: Brno-Královo Pole;19:14, Olomouc hl.n.;20:52
+919: T: Brno-Královo Pole;7:16, Šumperk;9:41
+910: T: Šumperk;10:09, Brno-Královo Pole;12:45
+913: T: Brno-Královo Pole;15:14, Šumperk;17:41
+902: T: Šumperk;18:09, Brno-Královo Pole;20:45
+
+
+4:6:3
+4:5:4
+3:5:1
+2:6:1
