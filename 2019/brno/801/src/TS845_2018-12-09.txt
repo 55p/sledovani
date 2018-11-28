@@ -1,0 +1,16 @@
+114903pk: X: Nové Město na Moravě;5:02, Bystřice nad Pernštejnem;5:25
+14932: X: Bystřice nad Pernštejnem;5:33, Nové Město na Moravě;5:57
+14905: X: Nové Město na Moravě;6:02, Nedvědice;6:57
+14947: X: Nedvědice;9:01, Tišnov;9:25
+14910: X: Tišnov;12:34, Nové Město na Moravě;13:57
+14933: X: Nové Město na Moravě;14:02, Nedvědice;14:54
+14934: X: Nedvědice;15:00, Nové Město na Moravě;15:57
+14935: X: Nové Město na Moravě;16:02, Nedvědice;16:54
+14936: X: Nedvědice;17:00, Nové Město na Moravě;17:57
+14974: X: Nové Město na Moravě;18:04, Žďár nad Sázavou;18:24
+14974: X5: Nové Město na Moravě;18:04, Žďár nad Sázavou;18:24
+24914: X5: Žďár nad Sázavou;18:40, Havlíčkův Brod;19:16
+8345: 25: Čáslav;4:43, Horní Cerekev;7:16
+5932: z25: Havlíčkův Brod;22:32, Čáslav;23:28
+5915pk: T: Havlíčkův Brod;20:08, Žďár nad Sázavou;20:46
+114977pk: T: Žďár nad Sázavou;20:56, Nové Město na Moravě;21:16
