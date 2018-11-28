@@ -1,0 +1,51 @@
+870: X: Brno hl.n.;8:53, Praha-Smíchov;12:16
+869: X: Praha-Smíchov;13:46, Brno hl.n.;17:03
+860: X: Brno hl.n.;18:53, Pardubice hl.n.;20:55
+872: 25: Brno hl.n.;6:54, Praha hl.n.;10:04
+867: 25: Praha hl.n.;11:58, Brno hl.n.;15:03
+14148: 25: Brno hl.n.;15:13, Brno-Královo Pole;15:27
+14149: 25: Brno-Královo Pole;16:03, Brno hl.n.;16:17
+862: 25: Brno hl.n.;16:53, Praha hl.n.;20:04
+
+876: X6: Pardubice hl.n.;5:37, Praha hl.n.;6:39
+9912: X: Praha hl.n.;6:59, Praha-Radotín;7:17
+9923: X: Praha-Radotín;7:33, Praha hl.n.;7:54
+863: : Praha hl.n.;7:58, Brno hl.n.;11:03
+14112: 25: Brno hl.n.;11:13, Brno-Královo Pole;11:27
+14113: 25: Brno-Královo Pole;12:03, Brno hl.n.;12:17
+866: : Brno hl.n.;12:53, Praha-Smíchov;16:16
+873: : Praha-Smíchov;17:46, Brno hl.n.;21:03
+
+874: X6: Brno hl.n.;4:57, Praha-Smíchov;8:17
+874: T: Česká Třebová;6:14, Praha-Smíchov;8:17
+865: : Praha-Smíchov;9:46, Brno hl.n.;13:03
+14118: 25: Brno hl.n.;13:13, Brno-Královo Pole;13:27
+14119: 25: Brno-Královo Pole;14:03, Brno hl.n.;14:17
+864: : Brno hl.n.;14:53, Praha-Smíchov;18:16
+875: : Praha-Smíchov;20:13, Česká Třebová;22:05
+
+1971: X: Česká Třebová;4:43, Brno hl.n.;6:16
+872: X: Brno hl.n.;6:54, Praha hl.n.;10:04
+867: X: Praha hl.n.;11:58, Brno hl.n.;15:03
+862: X: Brno hl.n.;16:53, Praha hl.n.;20:04
+877: X: Praha hl.n.;20:50, Pardubice hl.n.;21:46
+870: 25: Brno hl.n.;8:53, Praha-Smíchov;12:16
+869: 25: Praha-Smíchov;13:46, Brno hl.n.;17:03
+14154: 25: Brno hl.n.;17:13, Brno-Královo Pole;17:27
+14155: 25: Brno-Královo Pole;18:04, Brno hl.n.;18:19
+860: 6: Brno hl.n.;18:53, Pardubice hl.n.;20:55
+860: T: Brno hl.n.;18:53, Praha hl.n.;22:04
+
+5033: T: Pardubice hl.n.;6:51, Česká Třebová;7:50
+861: T: Česká Třebová;7:51, Brno hl.n.;9:03
+861: X6: Praha hl.n.;5:58, Brno hl.n.;9:03
+14104: 25: Brno hl.n.;9:13, Brno-Královo Pole;9:27
+14105: 25: Brno-Královo Pole;9:37, Brno hl.n.;9:52
+14108: 25: Brno hl.n.;10:12, Brno-Královo Pole;10:26
+14109: 25: Brno-Královo Pole;10:34, Brno hl.n.;10:49
+868: : Brno hl.n.;10:53, Praha-Smíchov;14:16
+871: : Praha-Smíchov;15:46, Brno hl.n.;19:03
+
+
+2: 56: 4
+3: 56: 3

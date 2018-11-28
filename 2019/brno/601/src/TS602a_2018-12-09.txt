@@ -1,0 +1,6 @@
+101770| Ho-Bv zad, Bv-Bo pø|Hodonín - Bøeclav pøední, Bøeclav - Brno zadní: X: Hodonín;5:26, Brno dolní nádraží;6:23
+100803| Bo-Bv zad, Bv-Oc pø|Brno - Bøeclav pøední, Bøeclav - Olomouc zadní: X: Brno dolní nádraží;6:36, Olomouc hl.n.;8:49
+100812| Oc-Bv zad, Bv-Bo pø|Olomouc - Bøeclav pøední, Bøeclav - Brno zadní: X: Olomouc hl.n.;9:09, Brno dolní nádraží;11:23
+100811| Bo-Bv zad, Bv-Oc pø|Brno - Bøeclav pøední, Bøeclav - Olomouc zadní: X: Brno dolní nádraží;14:36, Olomouc hl.n.;16:49
+100804| Oc-Bv zad, Bv-Bo pø|Olomouc - Bøeclav pøední, Bøeclav - Brno zadní: X: Olomouc hl.n.;17:09, Brno dolní nádraží;19:23
+101777| Bo-Bv zad, Bv-Ho pø|Brno - Bøeclav pøední, Bøeclav - Hodonín zadní: zX: Brno dolní nádraží;19:36, Hodonín;20:35

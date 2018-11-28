@@ -1,0 +1,8 @@
+8650: X1: Pardubice hl.n.;4:32, Kolín;5:14
+8653: X: Kolín;6:06, Pardubice hl.n.;6:52
+100874př: X: Pardubice;7:01, Praha-Smíchov;8:17
+100871pk: X1234: Praha-Smíchov;15:46, Pardubice;17:02
+8658: X1234: Pardubice hl.n.;20:34, Kolín;21:22
+100871pk: X5: Praha-Smíchov;15:46, Brno hl.n.;19:03
+100864př: T: Brno hl.n.;14:53, Praha-Smíchov;18:16
+100875pk: T: Praha-Smíchov;20:13, Pardubice;21:25

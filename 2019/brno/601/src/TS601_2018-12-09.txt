@@ -1,0 +1,43 @@
+809: X: Brno dolní nádraží;12:36, Olomouc hl.n.;14:49
+806: X: Olomouc hl.n.;15:09, Brno dolní nádraží;17:23
+1775: X: Brno dolní nádraží;17:36, Hodonín;18:35
+1772: 6: Hodonín;7:26, Brno dolní nádraží;8:23
+805: 25: Brno dolní nádraží;8:36, Olomouc hl.n.;10:49
+810: 25: Olomouc hl.n.;11:09, Brno dolní nádraží;13:23
+811: 25: Brno dolní nádraží;14:36, Olomouc hl.n.;16:49
+804: 25: Olomouc hl.n.;17:09, Brno dolní nádraží;19:23
+201777|Bo-Bv př, Bv-Ho zad|Brno - Břeclav přední, Břeclav - Hodonín zadní: T: Brno dolní nádraží;19:36, Hodonín;20:35
+
+1778: X: Hodonín;4:15, Břeclav;4:30
+801: X: Břeclav;5:30, Olomouc hl.n.;6:49
+814: X: Olomouc hl.n.;7:09, Brno dolní nádraží;9:23
+807: X: Brno dolní nádraží;10:36, Olomouc hl.n.;12:49
+808: X: Olomouc hl.n.;13:09, Brno dolní nádraží;15:23
+1773: X: Brno dolní nádraží;15:36, Hodonín;16:36
+1776: X: Hodonín;17:26, Brno dolní nádraží;18:23
+803: 25: Brno dolní nádraží;6:36, Olomouc hl.n.;8:49
+812: 25: Olomouc hl.n.;9:09, Brno dolní nádraží;11:23
+809: 25: Brno dolní nádraží;12:36, Olomouc hl.n.;14:49
+806: 25: Olomouc hl.n.;15:09, Brno dolní nádraží;17:23
+815: : Brno dolní nádraží;18:36, Olomouc hl.n.;20:49
+800: XT: Olomouc hl.n.;21:09, Břeclav;22:27
+
+1779: X: Břeclav;6:10, Hodonín;6:24
+1772: X: Hodonín;7:26, Brno dolní nádraží;8:23
+805: X: Brno dolní nádraží;8:36, Olomouc hl.n.;10:49
+810: X: Olomouc hl.n.;11:09, Brno dolní nádraží;13:23
+1771: X: Brno dolní nádraží;13:36, Hodonín;14:35
+1774: X: Hodonín;15:26, Brno dolní nádraží;16:23
+813: X: Brno dolní nádraží;16:36, Olomouc hl.n.;18:49
+802: X: Olomouc hl.n.;19:09, Brno dolní nádraží;21:23
+801: 6: Břeclav;5:30, Olomouc hl.n.;6:49
+814: 25: Olomouc hl.n.;7:09, Brno dolní nádraží;9:23
+807: 25: Brno dolní nádraží;10:36, Olomouc hl.n.;12:49
+808: 25: Olomouc hl.n.;13:09, Brno dolní nádraží;15:23
+813: 25: Brno dolní nádraží;16:36, Olomouc hl.n.;18:49
+802: 25: Olomouc hl.n.;19:09, Brno dolní nádraží;21:23
+
+
+1: 56: 1
+2: 56: 3
+3: 56: 2

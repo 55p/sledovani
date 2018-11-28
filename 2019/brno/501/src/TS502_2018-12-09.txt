@@ -1,0 +1,15 @@
+104770sv: X1: Brno dolní nádraží;3:26, Skalice nad Svitavou;3:58
+4770: X: Skalice nad Svitavou;4:11, Letovice;4:23
+4705: X: Letovice;4:59, Brno hl.n.;5:57
+4742: X: Brno hl.n.;6:27, Skalice nad Svitavou;7:18
+4743: X: Skalice nad Svitavou;7:42, Brno hl.n.;8:36
+4710: X: Brno hl.n.;9:01, Letovice;10:01
+4719: X: Letovice;10:58, Brno hl.n.;11:59
+4718: X: Brno hl.n.;13:01, Březová nad Svitavou;14:12
+4727: X: Březová nad Svitavou;14:47, Brno hl.n.;15:59
+4752: X: Brno hl.n.;16:27, Skalice nad Svitavou;17:18
+4755: X: Skalice nad Svitavou;17:42, Brno hl.n.;18:35
+14120: X: Brno hl.n.;18:42, Brno-Královo Pole;18:55
+14121: X: Brno-Královo Pole;19:03, Brno hl.n.;19:17
+4758: X: Brno hl.n.;19:27, Skalice nad Svitavou;20:18
+4017: X5: Skalice nad Svitavou;23:06, Brno hl.n.;23:51

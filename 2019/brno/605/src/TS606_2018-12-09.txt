@@ -1,0 +1,40 @@
+4041: X: Rájec-Jestřebí;5:06, Brno hl.n.;5:43
+4042: X: Brno hl.n.;6:15, Rájec-Jestřebí;6:53
+4045: X: Rájec-Jestřebí;7:10, Brno hl.n.;7:43
+14102: X: Brno hl.n.;8:42, Brno-Královo Pole;8:55
+14103: X: Brno-Královo Pole;9:03, Brno hl.n.;9:18
+14106: X: Brno hl.n.;9:42, Brno-Královo Pole;9:55
+14107: X: Brno-Královo Pole;10:03, Brno hl.n.;10:17
+14112: X: Brno hl.n.;11:13, Brno-Královo Pole;11:27
+4050: X: Brno hl.n.;14:44, Blansko;15:09
+4051: X: Blansko;15:42, Brno hl.n.;16:07
+4056: X: Brno hl.n.;16:44, Rájec-Jestřebí;17:18
+4057: X: Rájec-Jestřebí;17:33, Brno hl.n.;18:11
+4060: X: Brno hl.n.;18:17, Rájec-Jestřebí;18:54
+4061: X: Rájec-Jestřebí;19:35, Brno hl.n.;20:11
+4707: 6: Rájec-Jestřebí;5:50, Brno hl.n.;6:27
+4706: 6: Brno hl.n.;6:57, Letovice;8:01
+4715: 6: Letovice;8:58, Brno hl.n.;9:59
+4012: 6: Brno hl.n.;10:27, Blansko;10:56
+4009: 6: Blansko;11:04, Brno hl.n.;11:31
+4716: 6: Brno hl.n.;12:01, Březová nad Svitavou;13:12
+4725: 6: Březová nad Svitavou;13:47, Brno hl.n.;14:58
+4750: 6: Brno hl.n.;15:27, Blansko;15:56
+4751: 6: Blansko;16:04, Brno hl.n.;16:35
+14152: 6: Brno hl.n.;16:42, Brno-Královo Pole;16:56
+14153: 6: Brno-Královo Pole;17:04, Brno hl.n.;17:19
+14156: 6: Brno hl.n.;17:42, Brno-Královo Pole;17:55
+14157: 6: Brno-Královo Pole;18:34, Brno hl.n.;18:49
+4730: 6: Brno hl.n.;19:01, Letovice;20:01
+4739: 6: Letovice;20:58, Brno hl.n.;21:58
+4712: T: Brno hl.n.;10:01, Letovice;11:01
+4721: T: Letovice;11:58, Brno hl.n.;12:58
+14144: T: Brno hl.n.;13:42, Brno-Královo Pole;13:56
+14145: T: Brno-Královo Pole;14:34, Brno hl.n.;14:49
+4722: T: Brno hl.n.;15:01, Letovice;16:01
+4731: T: Letovice;16:58, Brno hl.n.;17:59
+4756: T: Brno hl.n.;18:27, Blansko;18:56
+4757: T: Blansko;19:04, Brno hl.n.;19:31
+14124: T: Brno hl.n.;19:42, Brno-Královo Pole;19:55
+14125: T: Brno-Královo Pole;20:34, Brno hl.n.;20:49
+4062: XT: Brno hl.n.;20:27, Rájec-Jestřebí;21:10
