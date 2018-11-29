@@ -1,0 +1,111 @@
+19101: X: Benešov u Prahy;4:18, Trhový Štìpánov;5:34
+19104: X: Trhový Štìpánov;5:53, Benešov u Prahy;6:45
+19105: X: Benešov u Prahy;7:04, Trhový Štìpánov;8:02
+19112: X: Trhový Štìpánov;8:30, Benešov u Prahy;9:45
+19111: X: Benešov u Prahy;10:14, Trhový Štìpánov;11:07
+19116: X: Trhový Štìpánov;11:53, Benešov u Prahy;12:45
+19115: X: Benešov u Prahy;14:14, Trhový Štìpánov;15:07
+19122: X: Trhový Štìpánov;15:53, Benešov u Prahy;16:45
+19119: X: Benešov u Prahy;17:14, Trhový Štìpánov;18:07
+19128: X: Trhový Štìpánov;18:30, Benešov u Prahy;19:45
+19125: X: Benešov u Prahy;21:14, Trhový Štìpánov;22:07
+9048: 25: Èerèany;0:02, Praha hl.n.;2:15
+9049: 25: Praha hl.n.;2:30, Èerèany;3:55
+9030: 25: Èerèany;4:35, Jílové u Prahy;5:03
+9035: 25: Jílové u Prahy;5:21, Èerèany;5:55
+26118: 25: Olbramovice;14:23, Sedlèany;14:52
+26125: 25: Sedlèany;15:05, Olbramovice;15:35
+26120: 25: Olbramovice;16:23, Sedlèany;16:52
+26129: 25: Sedlèany;17:05, Olbramovice;17:35
+26124: 25: Olbramovice;18:23, Sedlèany;18:52
+26135: 25: Sedlèany;19:05, Olbramovice;19:35
+26130: 25: Olbramovice;20:23, Sedlèany;20:52
+26139: 25: Sedlèany;21:05, Olbramovice;21:35
+26132: 25: Olbramovice;22:53, Sedlèany;23:22
+
+19102: : Trhový Štìpánov;4:53, Benešov u Prahy;5:45
+19103: : Benešov u Prahy;6:14, Trhový Štìpánov;7:07
+19108: X: Trhový Štìpánov;7:28, Benešov u Prahy;8:45
+26171: X: Benešov u Prahy;14:50, Heømanièky;15:16
+26150: X: Heømanièky;15:19, Sedlèany;16:05
+26127: X: Sedlèany;16:33, Olbramovice;17:08
+26122: X: Olbramovice;17:23, Sedlèany;17:56
+26133: X: Sedlèany;18:23, Olbramovice;18:58
+26128: X: Olbramovice;19:23, Sedlèany;19:56
+19110: 25: Trhový Štìpánov;7:53, Benešov u Prahy;8:45
+19111: 25: Benešov u Prahy;10:14, Trhový Štìpánov;11:07
+19116: 25: Trhový Štìpánov;11:53, Benešov u Prahy;12:45
+19115: 25: Benešov u Prahy;14:14, Trhový Štìpánov;15:07
+19122: 25: Trhový Štìpánov;15:53, Benešov u Prahy;16:45
+19121: 25: Benešov u Prahy;18:14, Trhový Štìpánov;19:07
+19130: 25: Trhový Štìpánov;19:53, Benešov u Prahy;20:45
+19127: T: Benešov u Prahy;22:14, Trhový Štìpánov;23:05
+19129: 6: Benešov u Prahy;22:44, Trhový Štìpánov;23:35
+
+26103: X: Sedlèany;5:03, Olbramovice;5:35
+26102: X: Olbramovice;5:45, Sedlèany;6:18
+26109: X: Sedlèany;6:25, Olbramovice;6:57
+26108: X: Olbramovice;7:00, Sedlèany;7:33
+26115: X: Sedlèany;7:58, Benešov u Prahy;8:44
+26114: X: Benešov u Prahy;10:03, Sedlèany;10:52
+26105: 25: Sedlèany;5:23, Olbramovice;5:53
+26104: 25: Olbramovice;6:23, Sedlèany;6:52
+26111: 25: Sedlèany;7:00, Olbramovice;7:30
+26110: 25: Olbramovice;8:23, Sedlèany;8:52
+26117: 25: Sedlèany;9:05, Olbramovice;9:35
+26114: 25: Olbramovice;10:23, Sedlèany;10:52
+26119: : Sedlèany;11:05, Olbramovice;11:35
+26116: : Olbramovice;12:23, Sedlèany;12:53
+26121: 25: Sedlèany;13:05, Olbramovice;13:35
+26123: X: Sedlèany;13:50, Olbramovice;14:20
+26118: X: Olbramovice;14:23, Sedlèany;14:52
+26151: X: Sedlèany;15:32, Votice;16:14
+26152: X: Votice;16:24, Sedlèany;17:06
+26131: X: Sedlèany;17:23, Olbramovice;17:58
+26126: X: Olbramovice;18:23, Sedlèany;18:56
+26137: X: Sedlèany;19:23, Olbramovice;19:58
+26130: X: Olbramovice;20:23, Sedlèany;20:52
+26139: X: Sedlèany;21:05, Olbramovice;21:35
+26132: X: Olbramovice;22:53, Sedlèany;23:22
+
+26101: X: Sedlèany;4:22, Olbramovice;4:52
+26100: X: Olbramovice;5:00, Sedlèany;5:33
+26107: X: Sedlèany;5:48, Olbramovice;6:20
+26106: X: Olbramovice;6:23, Sedlèany;6:55
+26113: X: Sedlèany;7:03, Olbramovice;7:35
+26112: X: Olbramovice;8:29, Sedlèany;8:58
+26117: X: Sedlèany;9:05, Benešov u Prahy;9:57
+19145: X: Benešov u Prahy;13:14, Vlašim;13:51
+19144: X: Vlašim;15:09, Benešov u Prahy;15:45
+19117: X: Benešov u Prahy;16:14, Trhový Štìpánov;17:07
+19124: X: Trhový Štìpánov;17:30, Benešov u Prahy;18:45
+19149: X: Benešov u Prahy;19:14, Vlašim;19:51
+19148: X: Vlašim;21:09, Benešov u Prahy;21:45
+19127: X1234: Benešov u Prahy;22:14, Trhový Štìpánov;23:05
+19129: X5: Benešov u Prahy;22:44, Trhový Štìpánov;23:35
+
+19100: X: Trhový Štìpánov;3:57, Benešov u Prahy;4:49
+19141: X: Benešov u Prahy;5:14, Vlašim;5:51
+19140: X: Vlašim;6:59, Benešov u Prahy;7:35
+19104: 25: Trhový Štìpánov;5:53, Benešov u Prahy;6:45
+19107: : Benešov u Prahy;8:14, Trhový Štìpánov;9:07
+19114: : Trhový Štìpánov;9:53, Benešov u Prahy;10:45
+19113: : Benešov u Prahy;12:14, Trhový Štìpánov;13:07
+19118: : Trhový Štìpánov;13:53, Benešov u Prahy;14:45
+19147: X: Benešov u Prahy;15:14, Vlašim;15:51
+19146: X: Vlašim;17:09, Benešov u Prahy;17:45
+19121: X: Benešov u Prahy;18:14, Trhový Štìpánov;19:07
+19130: X: Trhový Štìpánov;19:53, Benešov u Prahy;20:45
+19117: 25: Benešov u Prahy;16:14, Trhový Štìpánov;17:07
+19126: 25: Trhový Štìpánov;17:53, Benešov u Prahy;18:45
+19123: 25: Benešov u Prahy;20:14, Trhový Štìpánov;21:07
+
+
+1:6:3
+1:7:4
+2:67:5
+2:5:4
+4:6:4
+4:7:3
+3:67:1
+3:5:3

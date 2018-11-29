@@ -1,0 +1,13 @@
+3880 : -2512,-2612,-0101: Horní Dvořiště;4:23,České Budějovice;5:28
+8040 : X,-2712,-2812,-2912,-3012,-3112 : České Budějovice;7:01,Zliv;7:17
+8043 : X,-2712,-2812,-2912,-3012,-3112 : Zliv;7:31,České Budějovice;7:50
+8224 : X,-2712,-2812,-2912,-3012,-3112 : České Budějovice;9:25,Veselí nad Lužnicí;10:17
+8221 : X,-2712,-2812,-2912,-3012,-3112 : Veselí nad Lužnicí;10:50,České Budějovice;11:36
+8210 : 25 : České Budějovice;16:30,Tábor;17:56
+8215 : 25 : Tábor;18:27,České Budějovice;19:45
+18802 : X : České Budějovice;13:09,Loučovice;15:06
+18807 : X : Loučovice;15:12,České Budějovice;16:50
+18806 : X,-3112 : České Budějovice;17:09,Lipno nad Vltavou;19:14
+3883 : X,-3112 : Lipno nad Vltavou;19:19,Summerau;20:24
+3884 : X,-3112 : Summerau;20:51,České Budějovice;22:05
+3889 : -2412,-2512,-3112: České Budějovice;22:57,Horní Dvořiště;0:06

@@ -1,0 +1,76 @@
+8700 : X : České Velenice;3:23,Veselí nad Lužnicí;4:29
+108701pk : X : Veselí nad Lužnicí;4:52,České Velenice;5:52
+8704 : X : České Velenice;6:10,Veselí nad Lužnicí;7:12
+8323 : 25,-0101 : Jindřichův Hradec;6:42,Veselí nad Lužnicí;7:14
+8302 : X : Veselí nad Lužnicí;7:40,Jindřichův Hradec;8:13
+8302 : 25 : Veselí nad Lužnicí;7:40,Počátky-Žirovnice;8:50
+8305 : 25 : Počátky-Žirovnice;9:15,Veselí nad Lužnicí;10:23
+8305 : X : Jindřichův Hradec;9:47,Veselí nad Lužnicí;10:23
+8306 : X : Veselí nad Lužnicí;11:35,Počátky-Žirovnice;12:40
+8309 : X : Počátky-Žirovnice;13:15,Veselí nad Lužnicí;14:23
+8238 : X,-3112 : Veselí nad Lužnicí;15:37,Tábor;16:09
+8237 : X,-3112 : Tábor;19:27,Veselí nad Lužnicí;19:59
+1930 : T,-2312,-2412,-2512,-1904,-2004,-2104,-0507,-2710 : Veselí nad Lužnicí;16:04,Počátky-Žirovnice;17:07
+8313 : T,-2312,-2412,-2512,-1904,-2004,-2104,-0507,-2710 : Počátky-Žirovnice;17:15,Veselí nad Lužnicí;18:23
+8312 : 6 : Veselí nad Lužnicí;17:35,Počátky-Žirovnice;18:40
+8315 : 6 : Počátky-Žirovnice;19:13,Veselí nad Lužnicí;20:23
+8316 : -2412,-3112 : Veselí nad Lužnicí;21:27,Počátky-Žirovnice;23:05
+8391 : -2412,-3112 : Počátky-Žirovnice;23:14,Jindřichův Hradec;23:36
+
+8321 : X : Jindřichův Hradec;3:58,Veselí nad Lužnicí;4:30
+8322 : X : Veselí nad Lužnicí;4:55,Jindřichův Hradec;5:31
+8324 : X : Jindřichův Hradec;5:55,Počátky-Žirovnice;6:26
+8303 : X : Počátky-Žirovnice;6:47,Veselí nad Lužnicí;8:15
+8304 : X : Veselí nad Lužnicí;9:35,Počátky-Žirovnice;10:40
+8307 : X : Počátky-Žirovnice;11:15,Veselí nad Lužnicí;12:23
+8308 : X : Veselí nad Lužnicí;13:35,Počátky-Žirovnice;14:40
+8311 : X : Počátky-Žirovnice;15:15,Veselí nad Lužnicí;16:25
+8312 : X : Veselí nad Lužnicí;17:35,Počátky-Žirovnice;18:40
+8315 : X : Počátky-Žirovnice;19:13,Veselí nad Lužnicí;20:23
+108313pk : T : Jindřichův Hradec;17:47,Veselí nad Lužnicí;18:23
+108315pk : 6 : Jindřichův Hradec;19:47,Veselí nad Lužnicí;20:23
+8328 : -2412,-2512,-3112 : Veselí nad Lužnicí;20:38,Jindřichův Hradec;21:10
+8325 : 25,-2412,-2512,-3112,-0101 : Jindřichův Hradec;21:39,Veselí nad Lužnicí;22:15
+8330 : 25,-2412,-2512,-3112,-0101 : Veselí nad Lužnicí;22:25,Jindřichův Hradec;22:56
+8329 : X,-3112 : Jindřichův Hradec;22:36,Veselí nad Lužnicí;23:13
+8332 : X,-2412,-2512,-3112 : Veselí nad Lužnicí;23:50,Jindřichův Hradec;0:22
+
+8320 : X,-2712,-2812,-2912,-3012,-3112 : Jindřichův Hradec;4:35,Počátky-Žirovnice;5:02
+8301 : X,-2712,-2812,-2912,-3012,-3112 : Počátky-Žirovnice;5:07,Veselí nad Lužnicí;6:23
+8234 : X,-0101 : Veselí nad Lužnicí;6:59,Tábor;7:33
+8408 : 25 : Tábor;7:08,Ražice;8:36
+8405 : 25 : Ražice;9:21,Tábor;10:50
+18407 : T : Tábor;11:09,Pelhřimov;12:10
+18441 : T : Pelhřimov;13:25,Horní Cerekev;13:50
+18448 : T : Horní Cerekev;14:27,Pelhřimov;14:50
+18410 : T : Pelhřimov;15:23,Tábor;16:23
+8412 : X6 : Tábor;11:08,Ražice;12:36
+8409 : X6 : Ražice;13:21,Tábor;14:50
+8416 : X6 : Tábor;15:08,Ražice;16:36
+8413 : X6 : Ražice;17:21,Tábor;18:50
+8420 : X6,2312,3012,1904,2004,2104,0507,2710,-3112 : Tábor;19:08,Protivín;20:52
+18415 : T,-2312,-2412,-2512,-3012,-1904,-2004,-2104,-0507,-0607,-2809,-2710 : Tábor;16:26,Horní Cerekev;17:53
+1934 : T,-2312,-2412,-2512,-3012,-1904,-2004,-2104,-0507,-0607,-2809,-2710 : Horní Cerekev;18:04,Protivín;20:50
+
+7951 : X : Protivín;4:40,Písek;4:55
+108460pk : X : Písek;4:57,Ražice;5:07
+8401 : X : Ražice;5:13,Tábor;6:50
+8408 : X : Tábor;7:08,Ražice;8:36
+8405 : X : Ražice;9:21,Tábor;10:50
+8414 : X : Tábor;13:08,Ražice;14:36
+8411 : X : Ražice;15:21,Tábor;16:50
+8418 : X : Tábor;17:08,Ražice;18:36
+8415 : X,-2412,-2512,-3112 : Ražice;19:21,Tábor;20:50
+
+8402 : X : Tábor;4:30,Ražice;6:19
+8002 : T,2004,-1904,-0105,-0805,-0507,-2809 : Protivín;6:55,Ražice;7:03
+8090 : 6,2004,-1904,-0105,-0805,-0507,-2809 : Protivín;7:01,Ražice;7:09
+8403 : 2004,-1904,-0105,-0805,-0507,-2809 : Ražice;7:21,Tábor;8:50
+8410 :: Tábor;9:08,Ražice;10:46
+8407 :: Ražice;11:21,Tábor;12:50
+8233 : X : Tábor;14:27,Veselí nad Lužnicí;14:59
+8721 : X,-3112 : Veselí nad Lužnicí;22:30,České Velenice;23:34
+8414 : 25 : Tábor;13:08,Ražice;14:36
+8411 : 25 : Ražice;15:21,Tábor;16:50
+8418 : 25 : Tábor;17:07,Ražice;18:36
+8415 : 25,-2412,-2512,-2612 : Ražice;19:21,Tábor;20:50

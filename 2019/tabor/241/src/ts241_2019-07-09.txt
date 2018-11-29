@@ -1,0 +1,23 @@
+3882 :: Horní Dvořiště;6:06,Rybník;6:13
+18852 :: Rybník;7:04,Lipno nad Vltavou;7:45
+18853 :: Lipno nad Vltavou;8:14,Rybník;8:54
+18854 :: Rybník;9:04,Lipno nad Vltavou;9:45
+18855 :: Lipno nad Vltavou;10:14,Rybník;10:54
+18856 :: Rybník;11:04,Lipno nad Vltavou;11:45
+18857 :: Lipno nad Vltavou;12:14,Rybník;12:54
+18858 :: Rybník;13:04,Lipno nad Vltavou;13:45
+18859 :: Lipno nad Vltavou;14:14,Rybník;14:54
+18860 :: Rybník;15:04,Lipno nad Vltavou;15:45
+18861 :: Lipno nad Vltavou;16:14,Rybník;16:54
+18862 :: Rybník;17:03,Lipno nad Vltavou;17:44
+18863 :: Lipno nad Vltavou;18:14,Rybník;18:54
+18864 :: Rybník;19:04,Lipno nad Vltavou;19:57
+18865 :: Lipno nad Vltavou;20:23,Rybník;21:03
+18866 :: Rybník;21:36,Vyšší Brod klášter;21:57
+
+18890 : X : Vyšší Brod klášter;3:29,Loučovice;3:40
+18871 : X : Loučovice;3:53,Rybník;4:23
+18870 : X : Rybník;4:37,Lipno nad Vltavou;5:16
+18803 : X : Lipno nad Vltavou;5:27,České Budějovice;7:17
+18803 : 25 : Vyšší Brod klášter;5:46,České Budějovice;7:17
+3885 :: České Budějovice;20:21,Horní Dvořiště;21:43

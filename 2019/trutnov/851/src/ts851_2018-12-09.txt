@@ -1,0 +1,76 @@
+1800pk: X6: Trutnov hl.n.;4:17, Kolín;7:10
+1800pk: T: Chlumec nad Cidlinou;6:35, Kolín;7:10
+1110: : Kolín;7:44, Rumburk;10:35
+1105pk: : Rumburk;11:14, Kolín;14:10
+1815: : Kolín;14:42, Trutnov hl.n.;17:37
+1820pk: : Trutnov hl.n.;18:24, Chlumec nad Cidlinou;20:25
+5239: : Chlumec nad Cidlinou;20:47, Hradec Králové hl.n.;21:20
+5238pk: : Hradec Králové hl.n.;22:35, Chlumec nad Cidlinou;23:06
+
+5240pk: X: Chlumec nad Cidlinou;4:37, Velký Osek;5:00
+5249: X: Velký Osek;5:48, Dobšice nad Cidlinou;5:56
+5248pk: X: Dobšice nad Cidlinou;6:19, Velký Osek;6:27
+1803: X: Velký Osek;6:52, Trutnov hl.n.;9:35
+1818pk: X1234: Trutnov hl.n.;16:11, Kolín;19:10
+9300: 25: Kolín;1:08, Praha hl.n.;2:20
+9303pk: 25: Praha hl.n.;2:30, Kolín;3:42
+1803: 25: Kolín;6:42, Trutnov hl.n.;9:35
+1816pk: 25: Trutnov hl.n.;16:09, Kolín;19:10
+1100: 25: Kolín;19:44, Svor;21:57
+6083pk: 25: Svor;22:00, Česká Lípa hl.n.;22:21
+
+1801: X: Kolín;4:52, Trutnov hl.n.;7:41
+1806pk: X: Trutnov hl.n.;8:11, Kolín;11:10
+1103pk: 25: Rumburk;7:14, Kolín;10:10
+1813: : Kolín;12:42, Trutnov hl.n.;15:50
+1818pk: X5: Trutnov hl.n.;16:11, Kolín;19:10
+1100: X5: Kolín;19:44, Svor;21:57
+6083pk: X5: Svor;22:00, Česká Lípa hl.n.;22:21
+
+5730pk: X: Trutnov hl.n.;4:46, Vrchlabí;5:33
+25701: X: Vrchlabí;5:48, Kunčice nad Labem;5:55
+25702pk: X: Kunčice nad Labem;6:01, Vrchlabí;6:08
+5737: X: Vrchlabí;6:38, Trutnov hl.n.;7:27
+1787: X: Trutnov hl.n.;7:43, Hradec Králové hl.n.;8:56
+1784pk: X: Hradec Králové hl.n.;9:03, Trutnov hl.n.;10:17
+1808pk: : Trutnov hl.n.;10:24, Kolín;13:10
+1106: : Kolín;13:44, Šluknov;16:52
+1111pk: X5,25: Šluknov;16:58, Kolín;20:10
+1111pk: X1234: Šluknov;16:58, Mladá Boleslav hl.n.;19:20
+1100: X1234: Mladá Boleslav hl.n.;20:37, Svor;21:57
+6083pk: X1234: Svor;22:00, Česká Lípa hl.n.;22:21
+
+6091pk: X: Česká Lípa;4:31, Doksy;4:44 
+6000: X: Doksy;4:49, Rumburk;6:05
+1103pk: X: Rumburk;7:14, Kolín;10:10
+1809: X: Kolín;10:42, Trutnov hl.n.;13:37
+1801: 6: Chlumec nad Cidlinou;5:31, Trutnov hl.n.;7:41
+1804pk: 25: Trutnov hl.n.;8:09, Chlumec nad Cidlinou;10:25
+1809: 25: Chlumec nad Cidlinou;11:32, Trutnov hl.n.;13:37
+1814pk: : Trutnov hl.n.;14:24, Kolín;17:10
+1102: : Kolín;17:44, Rumburk;20:35
+
+1101pk: X: Rumburk;5:22, Kolín;8:10
+1802pk: 25: Trutnov hl.n.;6:14, Kolín;9:10
+1108: : Kolín;9:44, Rumburk;12:35
+1107pk: : Rumburk;13:14, Kolín;16:10
+1819: : Kolín;16:42, Trutnov hl.n.;19:50
+
+1802pk: X: Trutnov hl.n.;6:14, Chlumec nad Cidlinou;8:25
+1807: X: Chlumec nad Cidlinou;9:32, Trutnov hl.n.;11:50
+1812pk: X: Trutnov hl.n.;12:11, Kolín;15:10
+6000: 25: Česká Lípa hl.n.;5:14, Svor;5:36
+1101pk: 25: Svor;5:55, Kolín;8:10
+1807: 25: Kolín;8:42, Trutnov hl.n.;11:50
+1810pk: 25: Trutnov hl.n.;12:09, Kolín;15:10
+1104: : Kolín;15:44, Rumburk;18:36
+6021pk: : Rumburk;19:14, Mladá Boleslav hl.n.;21:23
+
+1929pk: : Mladá Boleslav město;5:07, Nymburk hl.n.;5:50
+1992: : Nymburk hl.n.;6:04, Rumburk;8:35
+6009pk: : Rumburk;9:14, Mladá Boleslav hl.n.;11:21
+6022: X: Mladá Boleslav hl.n.;12:37, Šluknov;14:50
+1109pk: X: Šluknov;14:58, Kolín;18:10
+6022: 25: Mladá Boleslav hl.n.;12:37, Rumburk;14:34
+1109pk: 25: Rumburk;15:14, Kolín;18:10
+1821: : Kolín;18:42, Trutnov hl.n.;21:44

@@ -1,0 +1,69 @@
+2753: X: Veselí nad Moravou;4:24, Javorník nad Veličkou zast.;4:43
+2700: X: Javorník nad Veličkou zast.;4:49, Hodonín;5:48
+2707: X: Hodonín;6:21, Javorník nad Veličkou zast.;7:29
+2707: 25: Hodonín;6:21, Veselí nad Moravou;6:58
+2706: 25: Vrbovce;8:32, Hodonín;9:39
+2706: X: Javorník nad Veličkou zast.;8:36, Hodonín;9:39
+2711: : Hodonín;10:17, Vrbovce;11:29
+2710: : Vrbovce;12:32, Hodonín;13:51
+2717: : Hodonín;14:17, Velká nad Veličkou;15:21
+2716: X: Velká nad Veličkou;15:34, Hodonín;16:51
+2721: X: Hodonín;17:17, Velká nad Veličkou;18:26
+2756: X: Velká nad Veličkou;18:39, Veselí nad Moravou;18:57
+2718: X: Javorník nad Veličkou zast.;17:31, Hodonín;18:51
+2754: 25: Velká nad Veličkou;16:39, Veselí nad Moravou;16:57
+2740: 25: Veselí nad Moravou;17:12, Hodonín;17:51
+2723: 25: Hodonín;18:17, Velká nad Veličkou;19:21
+2795sv: 25: Velká nad Veličkou;20:30, Javorník nad Veličkou z.;20:33
+2760: 25: Javorník nad Veličkou zast.;20:36, Veselí nad Moravou;20:57
+
+2730: X: Veselí nad Moravou;4:32, Hodonín;5:10
+2705: X: Hodonín;5:16, Vrbovce;6:26
+2704: X: Vrbovce;6:32, Hodonín;7:37
+2709: X: Hodonín;8:17, Vrbovce;9:29
+2708: X: Vrbovce;10:32, Hodonín;11:51
+2713: X: Hodonín;12:17, Javorník nad Veličkou zast.;13:24
+2712: X: Javorník nad Veličkou zast.;13:31, Hodonín;14:51
+2719: X: Hodonín;15:17, Javorník nad Veličkou zast.;16:29
+2754: X1234: Javorník nad Veličkou zast.;16:36, Veselí nad Moravou;16:57
+2759: X1234: Veselí nad Moravou;17:03, Javorník nad Veličkou zast.;17:26
+2718: X: Javorník nad Veličkou zast.;17:31, Hodonín;18:51
+2745: X: Hodonín;19:17, Veselí nad Moravou;19:52
+2744: X: Veselí nad Moravou;20:07, Hodonín;20:41
+112203pk: 25: Veselí nad Moravou;5:16, Uherské Hradiště;5:35
+112253: 25: Uherské Hradiště;5:38, Kunovice;5:41
+4303: 25: Kunovice;5:44, Bylnice;7:13
+4352: T: Bylnice;7:55, Staré Město u Uherského Hradiště;9:50
+4306: 6: Bylnice;7:55, Staré Město u Uherského Hradiště;9:50
+4363: 25: Staré Město u Uherského Hradiště;10:06, Uherské Hradiště;10:12
+104336pk: 25: Bojkovice město;9:20, Staré Město u Uherského Hradiště;10:24
+104341pk: 6: Staré Město u Uherského Hradiště;11:36, Uherské Hradiště;11:42
+4362: 6: Uherské Hradiště;11:44, Staré Město u Uherského Hradiště;11:50
+4365: 6: Staré Město u Uherského Hradiště;12:06, Uherské Hradiště;12:12
+104338pk: 6: Uherské Hradiště;12:18, Staré Město u Uherského Hradiště;12:24
+101728pk: 6: Staré Město u Uh.Hradiště;12:36, Veselí nad Moravou;12:59
+101726pk: T: Staré Město u Uherského Hradiště;10:33, Veselí nad Moravou;10:59
+2718: T: Veselí nad Moravou;18:12, Hodonín;18:51
+
+2701: X: Hodonín;4:35, Javorník nad Veličkou zast.;5:31
+2702: X: Javorník nad Veličkou zast.;5:38, Hodonín;6:39
+2735: X: Hodonín;7:02, Veselí nad Moravou;7:42
+2738: X: Veselí nad Moravou;12:12, Hodonín;12:51
+2715: X: Hodonín;13:17, Velká nad Veličkou;14:26
+2714: X: Velká nad Veličkou;14:39, Hodonín;15:51
+2743: X: Hodonín;16:17, Veselí nad Moravou;16:52
+2740: X: Veselí nad Moravou;17:12, Hodonín;17:51
+2723: X: Hodonín;18:17, Velká nad Veličkou;19:21
+2760: X: Velká nad Veličkou;20:39, Veselí nad Moravou;20:57
+2705: 6: Hodonín;5:16, Javorník nad Veličkou zast.;6:21
+2704: 6: Javorník nad Veličkou zast.;6:36, Veselí nad Moravou;6:57
+2732: 25: Veselí nad Moravou;7:08, Hodonín;7:43
+2709: 25: Hodonín;8:17, Vrbovce;9:29
+2708: 25: Vrbovce;10:32, Hodonín;11:51
+2713: 25: Hodonín;12:17, Javorník nad Veličkou zast.;13:24
+2714: 25: Velká nad Veličkou;14:39, Hodonín;15:51
+2743: 25: Hodonín;16:17, Veselí nad Moravou;16:52
+2759: 25: Veselí nad Moravou;17:03, Velká nad Veličkou;17:21
+2756: 25: Velká nad Veličkou;18:39, Veselí nad Moravou;18:57
+2742: 25: Veselí nad Moravou;19:12, Hodonín;19:51
+2747: 25: Hodonín;20:24, Veselí nad Moravou;20:58

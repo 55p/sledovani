@@ -1,0 +1,48 @@
+1783: T: Náchod;5:04, Hradec Králové hl.n.;5:55
+6273: 6: Jaroměř;8:03, Hradec Králové hl.n.;8:25
+1784: 25: Hradec Králové hl.n.;9:03, Svoboda n.Úpou;10:43
+1791: 25: Svoboda n.Úpou;11:20, Hradec Králové hl.n.;12:56
+1790: 25: Hradec Králové hl.n.;15:03, Svoboda n.Úpou;16:42
+1797: 25: Svoboda n.Úpou;17:17, Hradec Králové hl.n.;18:56
+1791: X: Trutnov hl.n.;11:41, Hradec Králové hl.n.;12:56
+1790: X: Hradec Králové hl.n.;15:03, Trutnov hl.n.;16:18
+1797: X: Trutnov hl.n.;17:41, Hradec Králové hl.n.;18:56
+6276: : Hradec Králové hl.n.;19:33, Jaroměř;19:57
+101768: 6: Jaroměř;22:29,Starkoč;22:50
+5108: 6: Starkoč;22:52, Trutnov hl.n.;23:30
+
+5102: X: Jaroměř;4:55, Trutnov hl.n.;6:20
+1789: X: Trutnov hl.n.;9:42, Hradec Králové hl.n.;10:56
+1787: 25: Trutnov hl.n.;7:43, Hradec Králové hl.n.;8:56
+1788: : Hradec Králové hl.n.;13:03, Trutnov hl.n.;14:17
+1795: X6: Trutnov hl.n.;15:41, Hradec Králové hl.n.;16:56
+1795: XT: Trutnov hl.n.;15:41, Hradec Králové hl.n.;16:56
+1854: T: Pardubice hl.n.;17:45, Hradec Králové hl.n.;18:04
+1794: 6: Hradec Králové hl.n.;19:04, Náchod;19:58
+
+1947: X: Hradec Králové hl.n.;7:05, Doudleby nad Orlicí;7:50
+1948: X: Doudleby nad Orlicí;8:10, Hradec Králové hl.n.;8:53
+1786: X: Hradec Králové hl.n.;11:03, Trutnov hl.n.;12:18
+1782: 6: Hradec Králové hl.n.;7:03, Trutnov hl.n.;8:19
+1793: : Trutnov hl.n.;13:41, Hradec Králové hl.n.;14:56
+1792: : Hradec Králové hl.n.;17:03, Trutnov hl.n.;18:17
+15767: zX: Trutnov hl.n.;19:25, Meziměstí;20:50
+15767: X5: Trutnov hl.n.;19:25, Teplice nad Metují;20:26
+101769vlož: X5: Teplice nad Metují;20:30, Náchod;20:58
+
+1781: X: Trutnov hl.n.;4:41, Starkoč;5:17
+5117: 25: Náchod;6:12, Choceň;7:21
+1870: : Choceň;8:39, Náchod;9:38
+1873: : Náchod;12:21, Choceň;13:21
+1872: X: Choceň;14:39, Hronov;15:48
+1875: X: Hronov;16:09, Choceň;17:21
+1872: 25: Choceň;14:39, Náchod;15:38
+1875: 25: Náchod;16:21, Choceň;17:21
+1874: : Choceň;18:39, Trutnov hl.n.;20:20
+5107: 6: Trutnov hl.n.;20:41, Náchod;21:38
+
+
+1:5:1
+2:6:4
+3:6:3
+4:5:2

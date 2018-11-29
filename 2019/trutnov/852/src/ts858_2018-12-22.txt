@@ -1,0 +1,10 @@
+15763: T: Trutnov hl.n.;15:25, Teplice nad Metují;16:26
+101763|pk V-S|postrk Václavice - Starkoč: T: Teplice nad Metují;16:30, Starkoč;17:18
+15168: T: Starkoč;17:25, Václavice;17:29
+15171: T: Václavice;17:33, Starkoč;17:37
+101762|pk V-Na|postrk Václavice - Náchod: T: Starkoč;17:41, Náchod;17:54
+1877: T: Náchod;18:21, Choceň;19:21
+5638: T: Choceň;20:02, Týniště nad Orlicí;20:27
+5120: X1: Týniště nad Orlicí;4:46, Václavice;5:22
+105140pk: X1: Václavice;5:28, Teplice nad Metují;6:07
+15752: X1: Teplice nad Metují;6:31, Trutnov hl.n.;7:33

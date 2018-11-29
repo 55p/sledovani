@@ -1,0 +1,4 @@
+18800 : X : České Budějovice;9:10,Loučovice;11:06
+18805 : X : Loučovice;11:12,České Budějovice;12:50
+18804 : X : České Budějovice;15:10,Loučovice;17:06
+18809 : X : Loučovice;17:12,České Budějovice;18:47
