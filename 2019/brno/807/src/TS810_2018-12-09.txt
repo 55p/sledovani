@@ -1,0 +1,26 @@
+4101: X: Brno hl.n.;4:08, Uherské Hradiště;6:33
+12206pk: X: Uherské Hradiště;6:46, Veselí nad Moravou;7:07
+12205: X: Veselí nad Moravou;7:16, Staré Město u Uherského Hradiště;7:52
+4361: X: Staré Město u Uherského Hradiště;8:06, Uherský Brod;8:38
+12205: 25: Veselí nad Moravou;7:16, Uherské Hradiště;7:36
+4337: 25: Uherské Hradiště;7:46, Bojkovice;8:30
+4390sv: 6: Bojkovice;8:36, Uherský Brod, 854
+4352pk: T: Bojkovice;8:36, Uherský Brod, 854
+4307: : Uherský Brod;9:05, Bylnice;9:59
+4308: : Bylnice;10:05, Uherský Brod;10:59
+4309: : Uherský Brod;11:05, Bylnice;11:59
+4310: : Bylnice;12:05, Uherský Brod;12:59
+4311: : Uherský Brod;13:05, Bylnice;13:59
+4312: : Bylnice;14:05, Uherský Brod;14:59
+4313: X1234,25: Uherský Brod;15:05, Bylnice;15:59
+4314: X1234,25: Bylnice;16:05, Uherský Brod;16:59
+4315: X1234,25: Uherský Brod;17:05, Bylnice;17:59
+4316: X1234,6: Bylnice;18:05, Veselí nad Moravou;19:43
+1738: X1234: Veselí nad Moravou;21:01, Brno hl.n.;22:33
+4366: X5: Uherský Brod;15:20, Staré Město u Uherského Hradiště;15:50
+4369: X5: Staré Město u Uherského Hradiště;16:04, Uherský Brod;16:34
+4368: X5: Uherský Brod;17:20, Staré Město u Uherského Hradiště;17:53
+12257: X5: Staré Město u Uherského Hradiště;18:06, Uherské Hradiště;18:12
+1734: X5: Uherské Hradiště;18:40, Brno-Židenice;20:28
+1737: X5: Brno-Židenice;21:32, Veselí nad Moravou;22:58
+1738: T: Bylnice;19:25, Brno hl.n.;22:33

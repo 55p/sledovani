@@ -4,12 +4,12 @@
 4912: X: Vranovice;13:16, Žďár nad Sázavou;15:23
 4913: X: Žďár nad Sázavou;16:34, Vranovice;18:43
 4918: X: Vranovice;19:16, Křižanov;21:01
-4682: 6: Vlkov u Tišnova;4:37, Žďár nad Sázavou;5:11
+4682: 6: Křižanov;4:50, Žďár nad Sázavou;5:11
 4903: 6: Žďár nad Sázavou;6:34, Vranovice;8:43
 4908: 6: Vranovice;9:16, Brno dolní nádraží;9:47
-4939: 6: Tišnov;22:28, Vranovice;23:38
+4939: 6: Brno dolní nádraží;23:10, Vranovice;23:38
 4667: 6: Vranovice;23:43, Břeclav;0:20
-4600: T: Vranovice;5:20, Žďár nad Sázavou;7:23
+4600: T: Břeclav;4:43, Žďár nad Sázavou;7:23
 4905: T: Žďár nad Sázavou;8:34, Vranovice;10:43
 4910: T: Vranovice;11:16, Žďár nad Sázavou;13:23
 4911: T: Žďár nad Sázavou;14:34, Vranovice;16:43

@@ -1,8 +1,6 @@
 4834: X5: Brno hl.n.;14:45, Okříšky;16:25
 70101: X5: Okříšky;16:58, Brno-Horní Heršpice;18:51
-4090sv: 6: Brno dolní nádraží;7:16, Brno-Královo Pole;7:30
 1643: 6: Brno-Královo Pole;7:55, Frenštát pod Radhoštěm;10:51
 1644: 6: Frenštát pod Radhoštěm;11:23, Valašské Meziříčí;11:56
 3175: T: Valašské Meziříčí;17:13, Frenštát pod Radhoštěm;17:46
 1646: T: Frenštát pod Radhoštěm;18:28, Brno-Královo Pole;21:22
-4099sv: T: Brno-Královo Pole;22:13, Brno dolní nádraží;22:26

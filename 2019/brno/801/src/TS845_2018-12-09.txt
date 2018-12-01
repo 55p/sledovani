@@ -7,10 +7,9 @@
 14934: X: Nedvědice;15:00, Nové Město na Moravě;15:57
 14935: X: Nové Město na Moravě;16:02, Nedvědice;16:54
 14936: X: Nedvědice;17:00, Nové Město na Moravě;17:57
-14974: X: Nové Město na Moravě;18:04, Žďár nad Sázavou;18:24
 14974: X5: Nové Město na Moravě;18:04, Žďár nad Sázavou;18:24
 24914: X5: Žďár nad Sázavou;18:40, Havlíčkův Brod;19:16
-8345: 25: Čáslav;4:43, Horní Cerekev;7:16
+8345: 25: Čáslav;4:43, Havlíčkův Brod;5:41
 5932: z25: Havlíčkův Brod;22:32, Čáslav;23:28
 5915pk: T: Havlíčkův Brod;20:08, Žďár nad Sázavou;20:46
 114977pk: T: Žďár nad Sázavou;20:56, Nové Město na Moravě;21:16

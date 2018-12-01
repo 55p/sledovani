@@ -4,11 +4,11 @@
 4972: X: Brno-Lesná;14:49, Tišnov;15:13
 4981: X: Tišnov;15:44, Brno-Lesná;16:09
 4980: X: Brno-Lesná;16:49, Tišnov;17:13
-4603: 6: Žďár nad Sázavou;5:34, Břeclav;8:15
+4603: 6: Tišnov;6:28, Břeclav;8:15
 4620: 6: Břeclav;9:41, Tišnov;11:30
-4617: 6: Tišnov;12:28, Šakvice;13:52
-4604: 6: Vranovice;16:16, Křižanov;18:01
-104633: 6: Tišnov;18:28, Brno hl.n.;19:06
+4617: 6: Tišnov;12:28, Břeclav;14:15
+4604: 6: Břeclav;15:41, Tišnov;17:30
+4633: 6: Tišnov;18:28, Brno dolní nádraží;19:06
 
 4957: X: Tišnov;5:43, Brno-Lesná;6:11
 4956: X: Brno-Lesná;6:49, Tišnov;7:13
@@ -21,5 +21,5 @@
 104908: T: Brno dolní nádraží;9:50, Žďár nad Sázavou;11:23
 4909: T: Žďár nad Sázavou;12:34, Vranovice;14:43
 4914: T: Vranovice;15:16, Žďár nad Sázavou;17:23
-4915: T: Křižanov;18:57, Vranovice;20:43
+4915: T: Žďár nad Sázavou;18:34, Vranovice;20:43
 4936: T: Vranovice;21:16, Tišnov;22:30

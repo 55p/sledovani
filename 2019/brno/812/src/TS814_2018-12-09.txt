@@ -1,0 +1,47 @@
+4802: X: Zastávka u Brna;4:17, Jihlava;5:56
+14862pk: X: Jihlava;6:05, Jihlava-Bosch Diesel;6:09
+4865: X: Jihlava-Bosch Diesel;6:14, Třebíč;7:12
+4868: X: Třebíč;7:36, Jihlava;8:27
+4809: X: Jihlava;9:30, Brno hl.n.;12:10
+104410| zadní|zadní část: X: Brno hl.n.;14:54, Moravské Bránice;15:26
+14424: X: Moravské Bránice;15:31, Ivančice;15:41
+14425: X: Ivančice;15:46, Moravské Bránice;15:56
+14426: X: Moravské Bránice;16:01, Ivančice;16:11
+14427: X: Ivančice;16:16, Moravské Bránice;16:26
+104435| přední|přední část: X: Moravské Bránice;16:31, Brno hl.n.;17:04
+4452| zadní|zadní část: X: Brno hl.n.;17:54, Ivančice;18:41
+4455| přední|přední část: X: Ivančice;19:16, Brno hl.n.;20:04
+4461: 6: Rakšice;7:12, Moravské Bránice;7:28
+14412: 6: Moravské Bránice;7:31, Ivančice;7:41
+14415: 6: Ivančice;8:16, Moravské Bránice;8:26
+4460: 6: Moravské Bránice;8:29, Bohutice;8:50
+4425: 6: Bohutice;9:07, Moravské Bránice;9:28
+14416: 6: Moravské Bránice;9:31, Ivančice;9:41
+14417: 6: Ivančice;10:16, Moravské Bránice;10:26
+4426: 6: Moravské Bránice;10:29, Bohutice;10:50
+4427: 6: Bohutice;11:07, Moravské Bránice;11:28
+14418: 6: Moravské Bránice;11:31, Ivančice;11:41
+14419: 6: Ivančice;12:16, Moravské Bránice;12:26
+4430: 6: Moravské Bránice;12:29, Bohutice;12:50
+4431: 6: Bohutice;13:07, Moravské Bránice;13:28
+14420: 6: Moravské Bránice;13:31, Ivančice;13:41
+14421: 6: Ivančice;14:16, Moravské Bránice;14:26
+4462: 6: Moravské Bránice;14:29, Bohutice;14:50
+4433: 6: Bohutice;15:07, Moravské Bránice;15:28
+14424: 6: Moravské Bránice;15:31, Ivančice;15:41
+14427: 6: Ivančice;16:16, Moravské Bránice;16:26
+4464: 6: Moravské Bránice;16:29, Bohutice;16:50
+4465: 6: Bohutice;17:07, Moravské Bránice;17:28
+14430: 6: Moravské Bránice;17:31, Ivančice;17:41
+14433: 6: Ivančice;18:16, Moravské Bránice;18:26
+4466: 6: Moravské Bránice;18:29, Bohutice;18:50
+4467: 6: Bohutice;19:07, Moravské Bránice;19:28
+14434: 6: Moravské Bránice;19:31, Ivančice;19:41
+14435: 6: Ivančice;20:16, Moravské Bránice;20:26
+104417| přední|přední část: 6: Moravské Bránice;20:31, Brno hl.n.;21:04
+4820: T: Brno hl.n.;0:35, Rapotice;1:18
+4825: T: Rapotice;5:29, Brno hl.n.;6:10
+4824: T: Brno hl.n.;6:39, Náměšť nad Oslavou;7:39
+4807: T: Náměšť nad Oslavou;9:12, Brno hl.n.;10:10
+4854: zX: Brno hl.n.;21:45, Zastávka u Brna;22:14
+4432: X5: Brno hl.n.;21:54, Rakšice;22:45

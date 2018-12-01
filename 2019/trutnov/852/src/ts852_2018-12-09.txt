@@ -1,7 +1,7 @@
 7150: T: Letohrad;5:52, Ústí nad Orlicí;6:10
 7149pk: T: Ústí nad Orlicí;6:17, Mlýnický Dvůr;7:37
 1948: 25: Letohrad;7:29, Hradec Králové hl.n.;8:53
-1949pk: 25: Hradec Králové hl.n.;9:05, Hradec Králové hl.n.;8:56
+1949pk: 25: Hradec Králové hl.n.;9:05, Letohrad;10:27
 1785: X: Trutnov hl.n.;5:42, Pardubice hl.n.;7:26
 1949pk: X: Pardubice hl.n.;8:37, Letohrad;10:27
 1952: : Letohrad;11:33, Hradec Králové hl.n.;12:52

@@ -99,15 +99,11 @@
 4936: 6: Vranovice;21:16, Tišnov;22:30
 
 973: X: Havlíčkův Brod;6:02, Brno-Královo Pole;7:28
-4603: T: Tišnov;6:28, Břeclav;8:15
-4620: T: Břeclav;9:41, Tišnov;11:30
-4617: T: Tišnov;12:28, Břeclav;14:15
-4604: T: Břeclav;15:41, Tišnov;17:30
-4633: T: Tišnov;18:28, Brno dolní nádraží;19:06
+4611: T: Tišnov;4:28, Brno dolní nádraží;5:06
 4938: T: Brno dolní nádraží;22:56, Tišnov;23:39
 
 99992|PSE I|Pohotovostní souprava elektrická I: X: Brno hl.n.;8:00;20:00
-4938: X1234: Brno dolní nádraží;22:56, Tišnov;23:39
+4938: X1234: Vranovice;22:16, Tišnov;23:39
 
 4611: X: Tišnov;4:28, Břeclav;6:20
 4616: X: Břeclav;7:10, Tišnov;9:01
@@ -135,3 +131,4 @@
 4918: 6: Vranovice;19:16, Křižanov;21:01
 4903: T: Křižanov;6:57, Vranovice;8:43
 
+99991| DKV|Údržba DKV: XT:

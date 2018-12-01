@@ -1,0 +1,10 @@
+111091vložsv: X1: Bratislava-Nové Mesto;0:19, Púchov;2:57
+200614vlož: X2345: Žilina;3:07, Púchov;3:50
+3340: X: Púchov;4:42, Trenčín;5:19
+1734: X: Trenčín;5:33, Bratislava-Nové Mesto;7:19
+1737: X: Bratislava hl.st.;15:36, Trenčín;17:22
+3329: X: Trenčín;17:40, Žilina;19:17
+17718: T: Žilina;18:03;b;20:56
+
+344: : Žilina;11:27, Ostrava-Svinov;13:15
+347: : Ostrava-Svinov;16:44, Žilina;18:33

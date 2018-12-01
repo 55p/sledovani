@@ -1,9 +1,9 @@
 1783: T: Náchod;5:04, Hradec Králové hl.n.;5:55
 6273: 6: Jaroměř;8:03, Hradec Králové hl.n.;8:25
-1784: 25: Hradec Králové hl.n.;9:03, Svoboda n.Úpou;10:43
-1791: 25: Svoboda n.Úpou;11:20, Hradec Králové hl.n.;12:56
-1790: 25: Hradec Králové hl.n.;15:03, Svoboda n.Úpou;16:42
-1797: 25: Svoboda n.Úpou;17:17, Hradec Králové hl.n.;18:56
+1784: 25: Hradec Králové hl.n.;9:03, Svoboda nad Úpou;10:43
+1791: 25: Svoboda nad Úpou;11:20, Hradec Králové hl.n.;12:56
+1790: 25: Hradec Králové hl.n.;15:03, Svoboda nad Úpou;16:42
+1797: 25: Svoboda nad Úpou;17:17, Hradec Králové hl.n.;18:56
 1791: X: Trutnov hl.n.;11:41, Hradec Králové hl.n.;12:56
 1790: X: Hradec Králové hl.n.;15:03, Trutnov hl.n.;16:18
 1797: X: Trutnov hl.n.;17:41, Hradec Králové hl.n.;18:56
@@ -16,7 +16,7 @@
 1787: 25: Trutnov hl.n.;7:43, Hradec Králové hl.n.;8:56
 1788: : Hradec Králové hl.n.;13:03, Trutnov hl.n.;14:17
 1795: X6: Trutnov hl.n.;15:41, Hradec Králové hl.n.;16:56
-1795: XT: Trutnov hl.n.;15:41, Hradec Králové hl.n.;16:56
+1795: T: Trutnov hl.n.;15:41, Pardubice hl.n.;17:18
 1854: T: Pardubice hl.n.;17:45, Hradec Králové hl.n.;18:04
 1794: 6: Hradec Králové hl.n.;19:04, Náchod;19:58
 
