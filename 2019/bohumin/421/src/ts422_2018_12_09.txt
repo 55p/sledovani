@@ -41,7 +41,7 @@
 1603:25: Ostrava-Stodolní;6:00, Ostrava-Kunčice;6:07
 28912sv:2512,0101: Bohumín;6:04, Ostrava-Kunčice;6:35
 2850:25: Ostrava-Kunčice;6:52, Ostrava-Svinov;7:04
-3055:25: Ostrava-Svinov;7:48, Ostrava-Kunčice;8:00
+103055:25: Ostrava-Svinov;7:48, Ostrava-Kunčice;8:00
 2854:25: Ostrava-Kunčice;8:52, Ostrava-Svinov;9:04
 2861:25: Ostrava-Svinov;9:48, Ostrava-Kunčice;10:00
 2858:25: Ostrava-Kunčice;10:52, Ostrava-Svinov;11:04

@@ -1,0 +1,29 @@
+1352: : Staré Město u Uherského Hradiště;5:28, Praha hl.n.;8:23
+1353: : Praha hl.n.;9:09, Staré Město u Uherského Hradiště;12:02
+1360: : Staré Město u Uherského Hradiště;12:28, Praha hl.n.;15:23
+1361: 5,7: Praha hl.n.;16:09, Kraków Główny;23:32
+1361: 1,2,3,4,6: Praha hl.n.;16:09, Bohumín;19:49
+
+1356: 1,6: Kraków Główny;4:36, Praha hl.n.;11:23
+1356: 2,3,4,5,7: Bohumín;7:56, Praha hl.n.;11:23
+1357: : Praha hl.n.;12:09, Bohumín;15:42
+1366: : Bohumín;15:56, Praha hl.n.;19:23
+1367: : Praha hl.n.;20:09, Košice;4:29
+
+1358: : Košice;5:07, Praha hl.n.;13:23
+1359: : Praha hl.n.;14:09, Košice;22:42
+101350: : Košice;23:11, Spišská Nová Ves;0:32
+
+1350: : Spišská Nová Ves;0:33, Praha hl.n.;7:23
+1351: : Praha hl.n.;8:09, Karviná hl.n.;12:02
+1362: : Karviná hl.n.;12:38, Praha hl.n.;16:23
+1363: : Praha hl.n.;17:09, Staré Město u Uherského Hradiště;20:02
+
+1354: : Bohumín;5:50, Praha hl.n.;9:23
+1355: : Praha hl.n.;10:09, Bohumín;13:42
+1364: : Bohumín;13:56, Praha hl.n.;17:23
+1365: : Praha hl.n.;18:09, Bohumín;21:42
+
+
+4::1
+5::5

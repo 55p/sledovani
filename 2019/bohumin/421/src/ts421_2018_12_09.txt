@@ -11,7 +11,7 @@
 1627:X: Ostrava-Stodolní;18:00, Havířov;18:17
 1632:X: Havířov;19:33, Ostrava-Stodolní;19:50
 1631:X: Ostrava-Stodolní;20:00, Český Těšín;20:38
-28910:25: Bohumín;6:01, Ostrava-Svinov;6:14
+28910sv:25: Bohumín;6:01, Ostrava-Svinov;6:14
 3403:25: Ostrava-Svinov;6:18, Ostrava-Kunčice;6:29
 2835:25: Ostrava-Kunčice;6:34, Český Těšín;7:07
 3410:25: Český Těšín;7:45, Opava východ;9:13

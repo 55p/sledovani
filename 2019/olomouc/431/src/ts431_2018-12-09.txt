@@ -1,0 +1,128 @@
+3702: : Prostějov hl.n.;4:23, Olomouc hl.n.;4:48
+3331: X: Olomouc hl.n.;4:56, Hranice na Moravě;5:51
+3332: X: Hranice na Moravě;6:03, Olomouc hl.n.;7:01
+3331: 25: Olomouc hl.n.;4:56, Přerov;5:17
+4033: 25: Přerov;5:20, Nezamyslice;5:48
+4032: 25: Nezamyslice;6:07, Přerov;6:37
+3860: 25: Přerov;7:05, Olomouc hl.n.;7:27
+3843: : Olomouc hl.n.;7:34, Přerov;7:54
+3844: : Přerov;8:05, Olomouc hl.n.;8:27
+3845: : Olomouc hl.n.;9:34, Přerov;9:54
+3229: X: Přerov;10:26, Vsetín;11:43
+3226: X: Vsetín;12:07, Olomouc hl.n.;13:59
+1717: X: Olomouc hl.n.;14:14, Střelná;16:28
+3212: X: Střelná;16:34, Přerov;18:23
+3239: X: Přerov;19:26, Valašské Meziříčí;20:22
+3236: X: Valašské Meziříčí;22:05, Přerov;23:02
+3229: 25: Přerov;10:26, Hranice na Moravě;10:51
+3232: 25: Hranice na Moravě;11:04, Přerov;11:29
+3848: 25: Přerov;12:05, Olomouc hl.n.;12:27
+3735: 6: Olomouc hl.n.;17:33, Prostějov hl.n.;17:58
+3735: T: Olomouc hl.n.;17:33, Nezamyslice;18:18
+3744: T: Nezamyslice;20:40, Prostějov hl.n.;20:57
+
+4031: X: Přerov;4:16, Nezamyslice;4:49
+3706: X: Nezamyslice;5:00, Olomouc hl.n.;5:54
+3842: 25: Přerov;5:05, Olomouc hl.n.;5:27
+3707: : Olomouc hl.n.;6:03, Nezamyslice;6:54
+4036: : Nezamyslice;7:07, Přerov;7:37
+3205: X: Přerov;13:26, Horní Lideč;15:18
+3210: X: Horní Lideč;15:30, Přerov;17:18
+3237: X: Přerov;18:26, Vsetín;19:43
+3234: X: Vsetín;19:50, Přerov;21:15
+3752: 6: Přerov;22:05, Šumperk;23:29
+3325: XT: Přerov;22:46, Studénka;23:38
+
+3312: X: Studénka;4:10, Hranice na Moravě;4:37
+3201: X: Hranice na Moravě;5:30, Střelná;6:46
+3204: X: Střelná;6:51, Přerov;8:47
+3752: X: Přerov;22:05, Šumperk;23:29
+
+3705: : Šumperk;4:24, Prostějov hl.n.;5:53
+3708: X: Prostějov hl.n.;6:00, Olomouc hl.n.;6:26
+3711: X: Olomouc hl.n.;6:52, Prostějov hl.n.;7:17
+1420: X: Prostějov hl.n.;7:35, Olomouc hl.n.;7:52
+3335: X: Olomouc hl.n.;13:55, Hranice na Moravě;14:52
+3338: X: Hranice na Moravě;15:04, Olomouc hl.n.;15:59
+3235: X: Olomouc hl.n.;16:55, Vsetín;18:45
+3203: 25: Olomouc hl.n.;11:34, Horní Lideč;14:27
+3210: 25: Horní Lideč;15:30, Přerov;17:18
+3237: 25: Přerov;18:26, Vsetín;19:43
+3234: 25: Vsetín;19:50, Přerov;21:15
+3325: 6: Přerov;22:46, Studénka;23:38
+3752: T: Přerov;22:05, Šumperk;23:29
+
+3241: X: Vsetín;5:04, Střelná;5:30
+1716: X: Střelná;5:34, Olomouc hl.n.;7:30
+3227: X: Olomouc hl.n.;7:55, Vsetín;9:43
+3228: X: Vsetín;13:02, Olomouc hl.n.;15:01
+1719: X: Olomouc hl.n.;15:20, Horní Lideč;17:18
+3312: 25: Studénka;4:10, Hranice na Moravě;4:37
+3221: 25: Hranice na Moravě;4:52, Vsetín;5:46
+3201: 25: Vsetín;6:21, Střelná;6:46
+3204: 25: Střelná;6:51, Vsetín;7:18
+3226: 25: Vsetín;12:07, Přerov;13:29
+3335: 25: Přerov;14:26, Střelná;16:17
+3254: 25: Střelná;16:24, Horní Lideč;16:28
+3214: : Horní Lideč;17:32, Přerov;19:21
+3211: X: Přerov;21:01, Střelná;22:56
+3239: 25: Přerov;19:26, Valašské Meziříčí;20:22
+3236: 25: Valašské Meziříčí;22:05, Přerov;23:02
+
+1714: X: Střelná;4:36, Olomouc hl.n.;6:36
+3225: X: Olomouc hl.n.;6:51, Vsetín;8:43
+1718: X: Vsetín;14:00, Olomouc hl.n.;15:30
+3233: X: Olomouc hl.n.;15:55, Vsetín;17:43
+3250: 25: Střelná;4:21, Vsetín;4:48
+1716: 25: Vsetín;6:02, Hranice na Moravě;6:53
+3334: 25: Hranice na Moravě;7:03, Přerov;7:28
+3227: 25: Přerov;8:26, Vsetín;9:43
+1718: 25: Vsetín;14:00, Hranice na Moravě;14:52
+3338: 25: Hranice na Moravě;15:04, Přerov;15:29
+3223: 25: Hranice na Moravě;6:34, Vsetín;7:25
+
+3222: X: Vsetín;3:50, Olomouc hl.n.;5:53
+3333: X: Olomouc hl.n.;6:02, Hranice na Moravě;6:56
+3334: X: Hranice na Moravě;7:03, Olomouc hl.n.;7:59
+3337: X: Olomouc hl.n.;14:55, Hranice na Moravě;15:51
+3222: 25: Vsetín;3:50, Přerov;5:13
+3211: 6: Přerov;21:01, Střelná;22:56
+3211: T: Přerov;21:01, Hranice na Moravě;21:26
+3213: T: Hranice na Moravě;21:47, Střelná;23:03
+
+3311: : Hranice na Moravě;8:30, Suchdol nad Odrou;8:52
+3314: : Suchdol nad Odrou;9:10, Hranice na Moravě;9:29
+3313: X: Hranice na Moravě;10:35, Suchdol nad Odrou;10:53
+3316: X: Suchdol nad Odrou;11:10, Hranice na Moravě;11:29
+3315: : Hranice na Moravě;12:30, Suchdol nad Odrou;12:52
+3318: : Suchdol nad Odrou;13:10, Hranice na Moravě;13:28
+3317: : Hranice na Moravě;15:00, Studénka;15:28
+3320: : Studénka;15:57, Hranice na Moravě;16:25
+3319: : Hranice na Moravě;16:45, Suchdol nad Odrou;17:03
+3322: : Suchdol nad Odrou;17:10, Hranice na Moravě;17:29
+3321: : Hranice na Moravě;18:30, Suchdol nad Odrou;18:52
+3324: : Suchdol nad Odrou;19:10, Hranice na Moravě;19:29
+3323: : Hranice na Moravě;20:30, Suchdol nad Odrou;20:52
+3326: : Suchdol nad Odrou;23:23, Hranice na Moravě;23:41
+
+3223: X: Hranice na Moravě;6:34, Vsetín;7:25
+3224: X: Vsetín;8:20, Přerov;9:44
+3846: X: Přerov;10:05, Olomouc hl.n.;10:27
+3203: X: Olomouc hl.n.;11:34, Střelná;14:34
+3208: X: Střelná;14:40, Olomouc hl.n.;17:01
+3735: X: Olomouc hl.n.;17:33, Nezamyslice;18:18
+3744: X: Nezamyslice;20:40, Prostějov hl.n.;20:57
+
+
+1:67:1
+2:6:4
+5:67:2
+2:5:5
+4:7:4
+4:5:3
+3:6:3
+3:7:5
+7:67:6
+8:567:8
+7:5:9
+9:67:9

@@ -1,4 +1,4 @@
-9502: X: Praha-Vršovice;5:42, Mladá Boleslav město;7:29
+﻿9502: X: Praha-Vršovice;5:42, Mladá Boleslav město;7:29
 9504: T: Praha-Vršovice;7:42, Mladá Boleslav hl.n.;9:21
 1945: X: Mladá Boleslav město;8:01, Praha-Vršovice;9:47
 1937: 6: Praha-Vršovice;8:40, Turnov;11:19
@@ -55,7 +55,7 @@
 9511: X: Mladá Boleslav hl.n.;12:37, Praha-Vršovice;14:27
 9531: 7: Mělník;14:11, Praha-Vršovice;15:27
 109531sv: 7:Praha-Vršovice;15:35, Praha jih;15:39;16:33, Praha-Vršovice;16:37
-1124: X: Ostrava střed;13:42, Olomouc hl.n.;16:52
+1142: X: Praha-Vršovice;15:12, Tanvald;18:03
 1147: 6: Tanvald;13:50, Praha-Vršovice;16:47
 1140: 25: Praha-Vršovice;17:12, Tanvald;20:12
 2645: X5: Tanvald;18:27, Železný Brod;18:53
@@ -74,4 +74,4 @@
 9519: 25: Mladá Boleslav město;20:25, Praha-Vršovice;22:27
 9538: X5: Praha-Vršovice;21:42, Mělník;22:50
 109599sv: X5: Mělník;23:01, Všetaty;23:10
-9551: X5: Orsova;4:00, Caransebes;6:10
+9551: X5: Všetaty;23:23, Praha hl.n.;0:13
