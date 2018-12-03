@@ -5,7 +5,7 @@
 1169: : Ústí nad Labem hl.n; 13:27, Liberec; 15:28
 1164: 16 : Liberec; 16:28, Ústí nad Labem hl.n; 18:32
 1175: 10 : Ústí nad Labem hl.n; 19:27, Liberec; 21:28
-6618: 10 : Liberec; 22:48, Česká Lípa 0:00
+6618: 10 : Liberec; 22:48, Česká Lípa;0:00
 
 6601: 11 : Česká Lípa; 3:55, Liberec; 5:07
 1174: : Liberec; 6:28, Ústí nad Labem hl.n; 8:32
