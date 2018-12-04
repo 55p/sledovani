@@ -1,4 +1,3 @@
-
 1176: X6, 1904, 0105, 0805, 0507, -2004, -0607  : Liberec; 4:27, Ústí nad Labem hl.n; 6:32
 1163: : Ústí nad Labem hl.n; 7:27, Liberec; 9:28
 1170: : Liberec; 10:28, Ústí nad Labem hl.n; 12:32
