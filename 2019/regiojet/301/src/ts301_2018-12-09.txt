@@ -1,0 +1,27 @@
+1041: : Praha hl.n.;7:20, Bratislava hl.st.;11:12
+1048: : Bratislava hl.st.;12:47, Praha hl.n.;16:42
+1049: : Praha hl.n.;18:20, Brno dolní n.;20:52
+
+1040: 1,2,3,4,5,6: Brno dolní n.;5:00, Praha hl.n.;7:43
+1033: : Praha hl.n.;9:20, Wien Hbf;13:23
+1034: : Wien Hbf;14:39, Praha hl.n.;18:42
+1051: : Praha hl.n.;20:20, Brno hl.n.;22:54
+
+1042: : Brno dolní n.;6:07, Praha hl.n.;8:43
+1043: : Praha hl.n.;11:20, Bratislava hl.st.;15:12
+1050: : Bratislava hl.st.;15:26, Praha hl.n.;19:42
+
+1031: 1,2,3,4,5,6: Praha hl.n.;5:20, Wien Hbf;9:22
+1031: 7: Brno dolní n.;7:49, Wien Hbf;9:22
+1032: : Wien Hbf;10:39, Praha hl.n.;14:42
+1037: : Praha hl.n.;16:20, Wien Hbf;20:22
+
+1030: : Wien Hbf;6:39, Praha hl.n.;10:42
+1035: : Praha hl.n.;13:20, Wien Hbf;17:22
+1036: : Wien Hbf;18:39, Praha hl.n.;22:42
+
+
+3::1
+5:123457:4
+5:6:2
+1:6:4

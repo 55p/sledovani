@@ -1,0 +1,5 @@
+1046: : Bratislava hl.st.;8:47, Praha hl.n.;12:42
+1047: : Praha hl.n.;17:20, Bratislava hl.st.;21:12
+
+1044: : Bratislava hl.st.;5:45, Praha hl.n.;9:42
+1045: : Praha hl.n.;15:20, Bratislava hl.st.;19:12
