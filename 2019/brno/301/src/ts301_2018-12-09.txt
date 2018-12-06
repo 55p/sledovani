@@ -84,7 +84,7 @@
 991: X5: Praha-Smíchov;18:50, Brno-Královo Pole;22:21
 963: 6: Praha-Smíchov;19:46, Havlíčkův Brod;21:57
 840: T: Bohumín;8:24, Brno-Královo Pole;11:01
-962: T: Turku/Abo;15:25, Helsinki;17:23
+982: T: Brno-Královo Pole;12:31, Praha-Smíchov;16:09
 989: T: Praha-Smíchov;17:52, Brno-Královo Pole;21:30
 
 971: X: Havlíčkův Brod;5:02, Brno-Královo Pole;6:28
