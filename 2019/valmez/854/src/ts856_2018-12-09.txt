@@ -1,0 +1,19 @@
+3220: X: Vsetín;3:24, Hranice na Moravě;4:15
+3221: X: Hranice na Moravě;4:52, Vsetín;5:46
+3230: X: Vsetín;10:00, Hranice na Moravě;10:58
+21955sv: X: Hranice na Moravě;11:05, Valašské Meziříčí;11:30
+3171: 25: Valašské Meziříčí;13:15, Frenštát pod Radhoštěm;13:48
+3110: 25: Frenštát pod Radhoštěm;17:49, Valašské Meziříčí;18:22
+3259: : Valašské Meziříčí;20:25, Vsetín;20:45
+23227: 7: Vsetín;21:40, Bylnice;22:31
+
+23200: X1: Bylnice;3:58, Vsetín;4:48
+113255pk: X: Valašské Meziříčí;4:40, Velké Karlovice;5:54
+13256: X: Velké Karlovice;6:28, Vsetín;7:15
+113265pk: X: Vsetín;13:53, Velké Karlovice;14:41
+13268: X: Velké Karlovice;14:53, Vsetín;15:45
+113269pk: X: Vsetín;15:53, Velké Karlovice;16:41
+13272: X: Velké Karlovice;17:23, Vsetín;18:15
+3249: z25: Vsetín;20:25, Střelná;20:53
+3256: z25: Střelná;21:01, Horní Lideč;21:05
+103248: z25: Horní Lideč;21:15, Valašské Meziříčí;22:00

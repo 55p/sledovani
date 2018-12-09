@@ -1,0 +1,158 @@
+103900pk: X : Valašské Meziříčí; 04:15, Bystřice pod Hostýnem; 04:47
+3921: X : Bystřice pod Hostýnem; 04:50, Valašské Meziříčí; 05:23
+3902: : Valašské Meziříčí; 06:15, Kojetín; 07:49
+3953: : Kojetín; 08:09, Kroměříž; 08:21
+3973: T : Kroměříž; 09:19, Hulín; 09:27
+3934: T : Hulín; 09:39, Kojetín; 10:02
+3955: T : Kojetín; 10:38, Kroměříž; 10:50
+3954: T : Kroměříž; 11:37, Kojetín; 11:49
+3957: T : Kojetín; 12:09, Kroměříž; 12:21
+203911pk: X : Kroměříž; 12:47, Hulín; 12:55
+3974: X : Hulín; 13:04, Kroměříž; 13:12
+3977: X : Kroměříž; 13:22, Hulín; 13:30
+3976: X1234 : Hulín; 14:04, Kroměříž; 14:12
+203917pk: X1234 : Kroměříž; 14:45, Hulín; 14:53	
+3978: X : Hulín; 15:04, Kroměříž; 15:12
+3979: X : Kroměříž; 15:20, Hulín; 15:28
+3980: X : Hulín; 16:02, Kroměříž; 16:10
+14247: X : Kroměříž; 16:12, Hulín; 16:20
+3945: X : Hulín; 16:26, Holešov; 16:35
+3944: X : Holešov; 16:45, Kroměříž; 17:10
+3981: X : Kroměříž; 17:22, Hulín; 17:30
+3982: X : Hulín; 18:02, Kroměříž; 18:10
+3947: X : Kroměříž; 19:12, Holešov; 19:48
+3946: X : Holešov; 20:10, Kroměříž; 20:34
+3937: X : Kroměříž; 21:07, Bystřice pod Hostýnem; 21:43
+3938: X : Bystřice pod Hostýnem; 21:55, Kojetín; 22:49
+3965: X : Kojetín; 22:59, Kroměříž; 23:11
+
+3901: X : Kroměříž; 04:25, Holešov; 04:43
+3940: X : Holešov; 04:46, Kroměříž; 05:12
+114213pk: X : Kroměříž; 06:12, Hulín; 06:20
+3943: X : Hulín; 06:30, Holešov; 06:39
+3933: 6 : Kroměříž; 06:47, Bystřice pod Hostýnem; 07:31
+13902pk: X : Holešov; 07:16, Kroměříž; 07:34
+3934: 6 : Bystřice pod Hostýnem; 09:05, Kojetín; 10:02
+3955: 6 : Kojetín; 10:38, Kroměříž; 10:50
+3975: X : Kroměříž; 11:22, Hulín; 11:30
+3935: X : Hulín; 12:29, Bystřice pod Hostýnem; 12:53
+3936: X : Bystřice pod Hostýnem; 13:05, Hulín; 13:29
+14220: X : Hulín; 13:37, Kroměříž; 13:45
+3913: T : Kojetín; 13:45, Rožnov pod Radhoštěm; 15:52
+13915pk: X5 : Kroměříž; 13:55, Rožnov pod Radhoštěm; 15:52
+13917pk: X1234 : Kroměříž; 14:45, Valašské Meziříčí; 16:11
+13212: X5 : Rožnov pod Radhoštěm; 15:56, Valašské Meziříčí; 16:16
+3916: X : Valašské Meziříčí; 16:33, Hulín; 17:30
+13224: T : Rožnov pod Radhoštěm; 16:45, Valašské Meziříčí; 17:05
+114228pk: X :Hulín; 17:39, Kroměříž; 17:47
+113227pk: T : Valašské Meziříčí; 18:20, Rožnov pod Radhoštěm; 18:40
+13228: T : Rožnov pod Radhoštěm; 18:43, Valašské Meziříčí; 19:02
+13215: T : Valašské Meziříčí; 19:25, Rožnov pod Radhoštěm; 19:45
+3922: T : Rožnov pod Radhoštěm; 19:48, Kojetín; 21:49
+3929: 6 : Kroměříž; 21:42, Osíčko; 22:33
+3963: T : Kojetín; 22:09, Kroměříž; 22:21
+
+3940: T : Osíčko; 04:23, Kroměříž; 05:12
+14213: X : Kroměříž; 06:12, Vizovice; 07:41
+3971: 25 : Kroměříž; 07:17, Hulín; 07:25
+3972: 25 : Hulín; 08:02, Kroměříž; 08:10
+14217: 25 : Kroměříž; 08:12, Vizovice; 09:18
+14214: X : Vizovice; 08:32, Zlín střed; 08:54
+14214pk: X : Zlín střed; 09:04, Hulín; 09:35
+103934pk: X : Hulín; 09:39, Kroměříž; 09:47
+14219: X : Kroměříž; 10:12, Vizovice; 11:18
+14220: X : Vizovice; 12:27, Hulín; 13:32
+14220vlož: X : Hulín; 13:37, Kroměříž; 13:45
+14220: 25 : Vizovice; 12:27, Kroměříž; 13:45
+14259: X : Kroměříž; 14:12, Zlín střed; 15:05
+14243: 25 : Kroměříž; 14:12, Vizovice; 15:18
+14260: X : Zlín střed; 15:20, Otrokovice; 15:37
+14226: 25 : Vizovice; 15:22, Otrokovice; 16:07
+14245: X : Otrokovice; 15:48, Zlín střed; 16:04
+14262: X : Zlín střed; 16:20, Otrokovice; 16:37
+14265: X : Otrokovice; 17:18, Zlín střed; 17:35
+14249: T : Otrokovice; 17:56, Vizovice; 18:35
+14232: T : Vizovice; 18:57, Otrokovice; 19:40
+14264: X : Zlín střed; 19:00, Otrokovice; 19:17
+14235: 25 : Otrokovice; 20:18, Vizovice; 21:01
+14237: X : Otrokovice; 21:55, Vizovice; 22:53
+14236: 25 : Vizovice; 22:00, Zlín střed; 22:22
+14237: 25 : Zlín střed; 22:30, Vizovice; 22:53
+
+14200: X6 : Vizovice; 03:45, Otrokovice; 04:27
+14240: T : Vizovice; 04:02, Otrokovice; 04:41
+14203: : Otrokovice; 04:48, Vizovice; 05:28
+14204: : Vizovice; 05:32, Otrokovice; 06:10
+14211: X : Otrokovice; 06:18, Vizovice; 07:11
+14212: X : Vizovice; 07:22, Otrokovice; 08:03
+14214: T : Otrokovice; 09:21, Hulín; 09:35
+103934: T : Hulín;  09:39, Kroměříž; 09:47
+14255: X : Otrokovice; 09:48, Zlín střed; 10:06
+14219: T : Kroměříž; 10:12, Vizovice; 11:18
+14218: T : Vizovice; 11:22, Otrokovice; 12:02
+14254: X : Zlín střed; 13:20, Otrokovice; 13:37
+14241: X : Otrokovice; 13:48, Zlín střed; 14:04
+114241pk: 25 : Otrokovice; 13:48, Vizovice; 14:28
+14258: X : Zlín střed; 14:20, Otrokovice; 14:37
+14244: 25 : Vizovice; 14:32, Kojetín; 15:49
+14227: X : Otrokovice; 15:18, Vizovice; 16:08
+14228: X : Vizovice; 16:22, Kroměříž; 17:47
+3923: 25 : Kojetín; 16:23, Kroměříž; 16:35
+3981: 25 : Kroměříž; 17:22, Hulín; 17:30
+3982: 25 : Hulín; 18:02, Kroměříž; 18:10
+14233: : Kroměříž; 18:12, Vizovice; 19:18
+14234: X6 : Vizovice; 20:42, Otrokovice; 21:27
+114234pk: T : Vizovice; 20:42, Otrokovice; 21:27
+104245pk: X : Otrokovice; 21:52, Hulín; 22:06
+4245: T : Otrokovice; 21:52, Hulín; 22:06
+103938pk: X : Hulín; 22:24, Kroměříž; 22:32
+3938: T : Hulín; 22:24, Kroměříž; 22:32
+3939: T : Kroměříž; 22:45, Hulín; 22:53
+3984: T : Hulín; 23:02, Kroměříž; 23:10
+
+3950: X : Kroměříž; 04:17, Kojetín; 04:27
+3931: X : Kojetín; 04:34, Bystřice pod Hostýnem;  05:31
+3932: X : Bystřice pod Hostýnem; 06:32, Kroměříž; 07:12
+3971: X : Kroměříž; 07:17, Hulín; 07:25
+3972: X : Hulín; 08:02, Kroměříž; 08:10
+3973: X : Kroměříž; 09:19, Hulín; 09:27
+14214: 6 : Otrokovice; 09:21, Hulín; 09:35
+21940sv: X : Hulín; 09:31, Kroměříž; 09:39
+103934pk: 6 : Hulín; 09:39, Kroměříž; 09:47
+14219: 6 : Kroměříž; 10:12, Vizovice; 11:18
+14218: 6 : Vizovice; 11:22, Otrokovice; 12:02
+3954: X : Kroměříž; 11:37, Kojetín; 11:49
+3911: X : Kojetín; 12:23, Kroměříž; 12:35
+3911pk: X : Kroměříž; 12:47, Valašské Meziříčí; 14:12
+14241: 25 : Otrokovice; 13:48, Vizovice; 14:28
+3912: X : Valašské Meziříčí; 14:30, Kroměříž; 15:47
+114244pk: 25 : Vizovice; 14:32, Kroměříž; 15:36
+14247pk: X : Kroměříž; 16:12, Hulín; 16:20
+14247: X : Hulín; 16:27, Zlín střed; 17:04
+14247: 25 : Kroměříž; 16:12, Vizovice; 17:28
+14246: X : Zlín střed; 17:20, Otrokovice; 17:37
+14248: 25 : Vizovice; 17:32, Otrokovice; 18:11
+14231: X : Otrokovice; 17:48, Vizovice; 18:28
+114233: T : Otrokovice; 18:38, Vizovice; 19:18
+14232: X : Vizovice; 18:57, Otrokovice; 19:40
+14235: X : Otrokovice; 20:18, Vizovice; 21:01
+14234: T : Vizovice; 20:42, Otrokovice; 21:27
+14236: X : Vizovice; 22:00, Otrokovice; 22:52
+
+14201: X : Otrokovice; 03:20, Vizovice; 04:04
+14202: X : Vizovice ; 04:25, Otrokovice; 05:07
+14207: X : Otrokovice; 05:25, Vizovice; 06:18
+14208: X : Vizovice; 06:22, Otrokovice; 07:07
+14251: X : Otrokovice; 07:18, Zlín střed; 07:35
+114214př: X : Zlín střed; 09:04, Hulín; 09:35
+103934vlož: XT : Kojetín; 09:39, Kroměříž; 09:47
+114219pk: X : Kroměříž; 10:12, Vizovice; 11:18
+14218: X6 : Vizovice; 11:22, Otrokovice; 12:02
+114220vlož: X : Otrokovice; 13:17, Kroměříž; 13:45
+3913: T : Kroměříž; 13:45, Rožnov pod Radhoštěm; 15:52
+3915: X5 : Kroměříž; 13:55, Rožnov pod Radhoštěm; 15:52
+3917: X1234 : Kroměříž; 14:45, Valašské Meziříčí; 16:11
+113212pk: X5: Rožnov pod Radhoštěm; 15:56, Valašské Meziříčí; 16:16
+113224pk: T : Rožnov pod Radhoštěm; 16:45, Valašské Meziříčí; 17:05
+13227: T : Valašské Meziříčí; 18:20, Rožnov pod Radhoštěm; 18:40
+113228pk: T : Rožnov pod Radhoštěm; 18:43, Valašské Meziříčí; 19:02

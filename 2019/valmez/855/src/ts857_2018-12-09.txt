@@ -1,0 +1,44 @@
+3900: X: Valašské Meziříčí;4:15, Hulín;5:25
+3970: X: Hulín;6:04, Kroměříž;6:12
+3933: X: Kroměříž;6:47, Bystřice p.Hostýnem;7:31
+3934: X: Bystřice p.Hostýnem;9:05, Kojetín;10:02
+3955: X: Kojetín;10:38, Kroměříž;10:50
+3931: 7: Kroměříž;4:47, Hulín;4:55
+103940pk: 7: Hulín;5:04, Kroměříž;5:12
+3900: 6: Valašské Meziříčí;4:15, Kojetín;5:49
+3951: 6: Kojetín;6:23, Kroměříž;6:35
+13905: 25: Kroměříž;6:38, Zborovice;7:05
+13906: 25: Zborovice;7:08, Kroměříž;7:35
+13907: 25: Kroměříž;8:38, Zborovice;9:05
+13908: 25: Zborovice;9:13, Kroměříž;9:40
+3975: 25: Kroměříž;11:22, Hulín;11:30
+3986: 25: Hulín;12:01, Kroměříž;12:09
+13909: : Kroměříž;12:38, Zborovice;13:05
+13910: 25: Zborovice;13:08, Kroměříž;13:35
+13910: X: Zborovice;13:08, Kojetín;13:49
+13911: 25: Kroměříž;14:38, Zborovice;15:05
+13910: X: Zborovice;13:08, Kojetín;13:49
+13912: 25: Zborovice;15:08, Kroměříž;15:35
+13914: X: Zborovice;15:18, Kroměříž;15:45
+13915: : Kroměříž;16:38, Zborovice;17:05
+13916: T: Zborovice;17:08, Kroměříž;17:35
+13916: X6: Zborovice;17:08, Kojetín;17:49
+13917: T: Kroměříž;18:28, Zborovice;19:05
+13917: X6: Kojetín;18:23, Zborovice;19:05
+13918: : Zborovice;19:08, Hulín;19:50
+4244: X: Hulín;21:22, Otrokovice;21:36
+4245: X: Otrokovice;21:52, Hulín;22:06
+3984: X: Hulín;23:02, Kroměříž;23:10
+21942sv: T: Hulín;20:01, Kroměříž;20:09
+3946: 6: Hulín;20:26, Kroměříž;20:34
+
+13901: X: Kroměříž;4:20, Zborovice;4:47
+13902: X: Zborovice;4:50, Kroměříž;5:17
+13903: X: Kroměříž;5:25, Zborovice;5:52
+13904: X: Zborovice;6:00, Kroměříž;6:27
+13905: X: Kroměříž;6:38, Zborovice;7:05
+13906: X: Zborovice;7:08, Kroměříž;7:35
+13907: X: Kroměříž;8:38, Zborovice;9:05
+13908: X: Zborovice;9:13, Kroměříž;9:40
+3911: X: Kojetín;12:23, Valašské Meziříčí;14:12
+103913pk: Kroměříž;13: 45, Valašské Meziříčí;15:19

@@ -1,0 +1,178 @@
+12841: 6 : Frýdek-Místek; 04:02, Hnojník; 04:20
+12840: 6 : Hnojník; 04:25, Frýdek-Místek; 04:48
+3100: X : Frýdek-Místek; 04:27, Valašské Meziříčí; 05:56
+3120: 25 : Frýdek-Místek; 04:57, Frenštát pod Radhoštěm město; 05:41
+3123: 25 : Frenštát pod Radhoštěm město; 05:47, Frýdek-Místek; 06:26
+3163: X : Valašské Meziříčí; 06:15, Frenštát pod Radhoštěm; 06:48
+3122: 25 : Frýdek-Místek; 06:27, Frenštát pod Radhoštěm město, 07:11 
+103125: X : Frenštát pod Radhoštěm; 06:51, Frýdek-Místek; 07:26
+13181sv: 25 : Frenštát pod Radhoštěm město; 07:14, Frenštát pod Radhoštěm město; 07:17
+3164: 25 : Frenštát pod Radhoštěm; 08:11, Valašské Meziříčí; 08:44
+3165: 25 : Valašské Meziříčí; 09:15, Frenštát pod Radhoštěm; 09:48
+3166: 25 : Frenštát pod Radhoštěm; 10:27, Valašské Meziříčí; 11:00
+3167: 25 : Valašské Meziříčí; 11:15, Frenštát pod Radhoštěm; 11:48
+13190sv: 25 : Frenštát pod Radhoštěm;12:40, Frenštát pod Radhoštěm město; 12:43
+3169: 25 : Frenštát pod Radhoštěm město; 12:46, Frenštát pod Radhoštěm; 12:48
+3168: 25 : Frenštát pod Radhoštěm; 13:23, Valašské Meziříčí; 14:00
+3170sv: X : Frýdek-Místek; 14:44, Frýdlant nad Ostravicí; 15:00
+3170: X : Frýdlant nad Ostravicí; 15:14, Valašské Meziříčí; 16:16
+3175: X6 : Valašské Meziříčí; 17:13, Frenštát pod Radhoštěm; 17:46
+3172: X6 : Frenštát pod Radhoštěm; 18:09, Frenštát pod Radhoštěm město; 18:11
+13193sv: X6 : Frenštát pod Radhoštěm město; 18:14, Frenštát pod Radhoštěm; 18:17
+13196sv: X6 : Frenštát pod Radhoštěm; 18:40, Frenštát pod Radhoštěm město, 18:43
+3179: X6 : Frenštát pod Radhoštěm město; 18:46, Frenštát pod Radhoštěm; 18:48
+3176: X6 : Frenštát pod Radhoštěm; 20:09, Frenštát pod Radhoštěm město, 20:11
+13195sv: X6 : Frenštát pod Radhoštěm město; 20:14, Frenštát pod Radhoštěm; 20:17
+3111: T : Valašské Meziříčí; 20:16, Ostrava hl. n.; 22:04
+13198sv: X6 : Frenštát pod Radhoštěm; 20:40, Frenštát pod Radhoštěm město; 20:43
+3111: X6 : Frenštát pod Radhoštěm město; 20:46, Ostrava hl. n.; 22:04
+3148: : Ostrava hl. n.; 22:22, Frenštát pod Radhoštěm město, 23:35
+13199sv: : Frenštát pod Radhoštěm město; 23:38, Frenštát pod Radhoštěm; 23:41
+
+13180sv: 25 : Frenštát pod Radhoštěm; 04:12, Frenštát pod Radhoštěm město; 04:15
+3101: 25 : Frenštát pod Radhoštěm město; 04:18, Ostrava hl. n.; 05:34
+3160: X : Frenštát pod Radhoštěm; 04:46, Valašské Meziříčí; 05:22
+3161: X : Valašské Meziříčí; 05:35, Frýdlant nad Ostravicí; 06:39
+3154: 25 : Ostrava hl. n.; 06:18, Frýdlant nad Ostravicí; 07:10
+3162: X : Frýdlant nad Ostravicí; 07:14, Frenštát pod Radhoštěm; 07:32
+3164: X : Frenštát pod Radhoštěm; 08:11, Valašské Meziříčí; 08:44
+3165: X : Valašské Meziříčí; 09:15, Frenštát pod Radhoštěm; 09:48
+3166: X : Frenštát pod Radhoštěm; 10:27, Valašské Meziříčí; 11:00
+3167: X : Valašské Meziříčí; 11:15, Frenštát pod Radhoštěm; 11:48
+13190sv: X : Frenštát pod Radhoštěm; 12:40, Frenštát pod Radhoštěm město; 12:43
+3169: X : Frenštát pod Radhoštěm město; 12:46, Frenštát pod Radhoštěm; 12:48
+3168: X : Frenštát pod Radhoštěm; 13:23, Valašské Meziříčí; 14:00
+113108pk: 25 : Frýdlant nad Ostravicí; 07:44, Ostravice; 07:54
+13111: 25 : Ostravice; 08:00, Frýdlant nad Ostravicí; 08:10
+113110pk: 25 : Frýdlant nad Ostravicí; 08:42, Ostravice; 08:52
+13113: 25 : Ostravice; 09:00, Frýdlant nad Ostravicí; 09:10
+113112pk: 25 : Frýdlant nad Ostravicí; 09:14, Ostravice; 09:24
+13115: 25 : Ostravice; 09:30, Frýdlant nad Ostravicí; 09:40
+113114pk: 25 : Frýdlant nad Ostravicí; 09:44, Ostravice; 09:54
+13117: 25 : Ostravice; 10:00, Frýdlant nad Ostravicí; 10:10
+113116pk: 25 : Frýdlant nad Ostravicí; 10:42, Ostravice; 10:52
+13119: 25 : Ostravice; 11:00, Frýdlant nad Ostravicí; 11:10
+113118pk: 25 : Frýdlant nad Ostravicí; 11:42, Ostravice; 11:52
+13121: 25 : Ostravice; 12:00, Frýdlant nad Ostravicí; 12:10
+113120pk: 25 : Frýdlant nad Ostravicí; 12:42, Ostravice; 12:52
+13123: 25 : Ostravice; 13:00, Frýdlant nad Ostravicí; 13:10
+113122pk: 25 : Frýdlant nad Ostravicí; 13:42, Ostravice; 13:52
+13125: 25 : Ostravice; 14:00, Frýdlant nad Ostravicí; 14:10
+113124pk: 25 : Frýdlant nad Ostravicí; 14:42, Ostravice; 14:52
+13127: 25 : Ostravice; 15:00, Frýdlant nad Ostravicí; 15:10
+113126pk: 25 : Frýdlant nad Ostravicí; 15:42, Ostravice; 15:52
+13129: 25 : Ostravice; 16:00, Frýdlant nad Ostravicí; 16:10
+113128pk: 25 : Frýdlant nad Ostravicí; 16:42, Ostravice; 16:52
+13131: 25 : Ostravice; 17:00, Frýdlant nad Ostravicí; 17:10
+13131sv: 25 : Frýdlant nad Ostravicí; 17:20, Frýdek-Místek; 17:37
+3112: 25 : Frýdek-Místek; 18:27, Valašské Meziříčí; 20:00
+3113: : Valašské Meziříčí; 21:36, Ostrava hl. n.; 23:34
+
+3150: : Ostrava hl. n.; 00:05, Frýdlant nad Ostravicí; 00:54
+13100: X : Frýdlant nad Ostravicí; 04:42, Ostravice; 04:52
+13103: X : Ostravice; 05:00, Frýdlant nad Ostravicí; 05:10
+13102: : Frýdlant nad Ostravicí; 05:42, Ostravice; 05:52
+13105: : Ostravice; 06:00. Frýdlant nad Ostravicí; 06:10
+13104: : Frýdlant nad Ostravicí; 06:42, Ostravice; 06:52
+13107: : Ostravice; 07:00, Frýdlant nad Ostravicí; 07:10
+13106: X : Frýdlant nad Ostravicí; 07:14, Ostravice; 07:24
+13109: X : Ostravice; 07:30, Frýdlant nad Ostravicí; 07:40
+13108: : Frýdlant nad Ostravicí; 07:44, Ostravice; 07:54
+13111: X : Ostravice; 08:00, Frýdlant nad Ostravicí; 08:10
+13110: : Frýdlant nad Ostravicí; 08:42, Ostravice; 08:52
+13113: X : Ostravice; 09:00, Frýdlant nad Ostravicí; 09:10
+113113pk: 25 : Ostravice; 09:00, Frýdlant nad Ostravicí; 09:10
+13112: 25 : Frýdlant nad Ostravicí; 09:14, Ostravice; 09:24
+113115pk: 25 : Ostravice; 09:30, Frýdlant nad Ostravicí; 09:40
+13114: : Frýdlant nad Ostravicí; 09:44, Ostravice; 09:54
+13117: X : Ostravice; 10:00, Frýdlant nad Ostravicí; 10:10
+113117pk: 25 : Ostravice; 10:00, Frýdlant nad Ostravicí; 10:10
+13116: : Frýdlant nad Ostravicí; 10:42, Ostravice; 10:52
+13119: X : Ostravice; 11:00, Frýdlant nad Ostravicí; 11:10
+113119pk: 25 : Ostravice; 11:00, Frýdlant nad Ostravicí; 11:10
+13118: : Frýdlant nad Ostravicí; 11:42, Ostravice; 11:52
+13121: X : Ostravice; 12:00, Frýdlant nad Ostravicí; 12:10
+113121pk: 25 : Ostravice; 12:00, Frýdlant nad Ostravicí; 12:10
+13120: : Frýdlant nad Ostravicí; 12:42, Ostravice; 12:52
+13123: X : Ostravice; 13:00, Frýdlant nad Ostravicí; 13:10
+113123pk: 25 : Ostravice; 13:00, Frýdlant nad Ostravicí; 13:10
+13122: : Frýdlant nad Ostravicí; 13:42, Ostravice; 13:52
+13125: X : Ostravice; 14:00, Frýdlant nad Ostravicí; 14:10
+113125pk: 25 : Ostravice; 14:00, Frýdlant nad Ostravicí; 14:10
+13124: : Frýdlant nad Ostravicí; 14:42, Ostravice; 14:52
+13127: X : Ostravice; 15:00, Frýdlant nad Ostravicí; 15:10
+113127pk: 25 : Ostravice; 15:00, Frýdlant nad Ostravicí; 15:10
+13126: Frýdlant nad Ostravicí; 15:42, Ostravice; 15:52
+13129: X : Ostravice; 16:00, Frýdlant nad Ostravicí; 16:10
+113129pk: 25 : Ostravice; 16:00, Frýdlant nad Ostravicí; 16:10
+13128: Frýdlant nad Ostravicí; 16:42, Ostravice; 16:52
+13131: X : Ostravice; 17:00, Frýdlant nad Ostravicí; 17:10
+113131pk: 25 : Ostravice; 17:00, Frýdlant nad Ostravicí; 17:10
+13130: : Frýdlant nad Ostravicí; 17:42, Ostravice; 17:52
+13133: : Ostravice; 18:00, Frýdlant nad Ostravicí; 18:10
+13132: : Frýdlant nad Ostravicí; 18:42, Ostravice; 18:52
+13135: : Ostravice; 19:00, Frýdlant nad Ostravicí; 19:10
+13134: : Frýdlant nad Ostravicí; 19:42, Ostravice; 19:52
+13137: : Ostravice; 20:00, Frýdlant nad Ostravicí; 20:10
+13136: : Frýdlant nad Ostravicí; 20:42, Ostravice; 20:52
+13139: : Ostravice; 21:35, Frýdek-Místek; 22:00
+
+112803pk: X : Frýdek-Místek; 04:32, Cieszyn; 05:27
+12803: 25 : Frýdek-Místek; 04:32, Cieszyn; 05:27
+12804: : Cieszyn; 05:33, Frýdek-Místek; 06:20
+112807pk: X : Frýdek-Místek; 06:34, Cieszyn; 07:25
+12807: 25 : Frýdek-Místek; 06:34, Cieszyn; 07:25
+12808: : Cieszyn; 07:31, Frýdek-Místek; 08:20
+12811: : Frýdek-Místek; 08:34, Cieszyn; 09:27
+12812: : Cieszyn; 09:33, Frýdek-Místek; 10:20
+12815: : Frýdek-Místek; 10:34, Český Těšín; 11:14
+12816: : Český Těšín; 11:41, Frýdek-Místek; 12:20
+12819: : Frýdek-Místek; 12:34, Český Těšín; 13:14
+12820: : Český Těšín; 13:41, Frýdek-Místek; 14:20
+12823: : Frýdek-Místek; 14:34, Český Těšín; 15:14
+112824pk: X : Český Těšín; 15:41, Frýdek-Místek; 16:20
+12824: 25 : Český Těšín; 15:41, Frýdek-Místek; 16:20
+12827: : Frýdek-Místek; 16:34, Český Těšín; 17:14
+12828: : Český Těšín; 17:41, Frýdek-Místek; 18:20
+12831: : Frýdek-Místek; 18:34, Český Těšín; 19:15
+12832: : Český Těšín; 19:42, Frýdek-Místek; 20:21
+12835: : Frýdek-Místek; 20:34, Český Těšín; 21:15
+12836: : Český Těšín; 21:41, Frýdek-Místek; 22:20
+12839: : Frýdek-Místek; 23:05, Český Těšín; 23:42
+
+12802: : Český Těšín; 04:37, Frýdek-Místek; 05:20
+12805: : Frýdek-Místek; 05:34, Český Těšín; 06:14
+112806pk: X : Český Těšín; 06:41, Frýdek-Místek; 07:20
+12806: 25 : Český Těšín; 06:41, Frýdek-Místek; 07:20
+12809: : Frýdek-Místek; 07:34, Český Těšín; 08:14
+12810: : Český Těšín; 08:41, Frýdek-Místek; 09:20
+12813: : Frýdek-Místek; 09:34, Český Těšín; 10:14
+12814: : Český Těšín; 10:41, Frýdek-Místek; 11:20
+12817: : Frýdek-Místek; 11:34, Cieszyn; 12:27
+12818: : Cieszyn; 12:33, Frýdek-Místek; 13:20
+12821: : Frýdek-Místek; 13:34, Cieszyn; 14:27
+112822pk: X : Cieszyn; 14:33, Frýdek-Místek; 15:20
+12822: 25 : Cieszyn; 14:33, Frýdek-Místek; 15:20
+12825: : Frýdek-Místek; 15:34, Cieszyn; 16:27
+112826pk: Cieszyn; 16:33, Frýdek-Místek; 17:20
+12826: 25 : Cieszyn; 16:33, Frýdek-Místek; 17:20
+12829: : Frýdek-Místek; 17:34, Cieszyn; 18:25
+12830: : Cieszyn; 18:31, Frýdek-Místek; 19:21
+12833: : Frýdek-Místek; 19:34, Cieszyn; 20:27
+12834: : Cieszyn; 20:33, Frýdek-Místek; 21:21
+12837: : Frýdek-Místek; 21:34, Cieszyn; 22:27
+12838: : Cieszyn; 22:33, Frýdek-Místek; 23:20
+
+12803: X : Frýdek-Místek; 04:33, Cieszyn; 05:27
+112804pk: X : Cieszyn; 05:33, Frýdek-Místek; 06:20
+3163: 25 : Valašské Meziříčí; 06:15, Frenštát pod Radhoštěm; 06:48
+12807: X : Frýdek-Místek; 06:34, Cieszyn; 07:25
+3125: 25 : Frenštát pod Radhoštěm; 06:51, Frýdek-Místek; 07:26
+112808pk: X : Cieszyn; 07:31, Frýdek-Místek; 08:20
+112821pk: X : Frýdek-Místek; 13:34, Cieszyn; 14:27
+12822: X : Cieszyn; 14:33, Frýdek-Místek; 15:20
+112825pk: X : Frýdek-Místek; 15:34, Cieszyn; 16:27
+12826: X : Cieszyn; 15:33, Frýdek-Místek; 17:20
+3174: X : Frýdek-Místek; 17:57, Frýdlant nad Ostravicí; 18:10
+3177: X : Frýdlant nad Ostravicí; 18:43, Frýdek-Místek; 18:56
+3114: z25 : Frýdek-Místek; 21:34, Valašské Meziříčí; 22:45

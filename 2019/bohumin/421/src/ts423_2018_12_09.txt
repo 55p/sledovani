@@ -9,7 +9,7 @@
 2948:10: Mosty u Jablunkova;18:05, Studénka;19:51
 2955:10: Studénka;20:08, Návsí;21:45
 2956:10: Návsí;22:15, Bohumín;23:15
-2948:2412,3112: Mosty u Jablinkova;18:05, Bohumín;19:19
+2948:2412,3112: Mosty u Jablunkova;18:05, Bohumín;19:19
 
 2925:: Bohumín;6:41, Mosty u Jablunkova;7:54
 2928:: Mosty u Jablunkova;8:06, Ostrava-Svinov;9:34
@@ -24,8 +24,8 @@
 
 2959:X6: Návsí;3:45, Mosty u Jablunkova;3:53
 2958:X6: Mosty u Jablunkova;4:02, Návsí;4:10
-3302:25,2712,2812,2912,3012,3112: Návsí;4:12, Bohumín;5:15
-2922:X,-2712,-2812,-2912,-3012,-3112: Návsí;5:15, Bohumín;6:18
+103302:25,2712,2812,3112: Návsí;4:12, Bohumín;5:15
+2922:X,-2712,-2812,-3112: Návsí;5:15, Bohumín;6:18
 2927:: Bohumín;7:41, Mosty u Jablunkova;8:54
 2930:: Mosty u Jablunkova;9:03, Ostrava-Svinov;10:34
 2935:: Ostrava-Svinov;11:23, Mosty u Jablunkova;12:54

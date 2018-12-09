@@ -79,7 +79,7 @@
 3227: 25: Přerov;8:26, Vsetín;9:43
 1718: 25: Vsetín;14:00, Hranice na Moravě;14:52
 3338: 25: Hranice na Moravě;15:04, Přerov;15:29
-3223: 25: Hranice na Moravě;6:34, Vsetín;7:25
+3233: 25: Přerov;16:26, Vsetín;17:43
 
 3222: X: Vsetín;3:50, Olomouc hl.n.;5:53
 3333: X: Olomouc hl.n.;6:02, Hranice na Moravě;6:56

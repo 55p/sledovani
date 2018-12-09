@@ -12,7 +12,7 @@
 3717: : Kouty nad Desnou;7:50, Nezamyslice;10:18
 3722: : Nezamyslice;11:40, Kouty nad Desnou;14:04
 3731: X: Kouty nad Desnou;14:50, Nezamyslice;17:18
-3731: X: Kouty nad Desnou;14:50, Nezamyslice;17:18
+3736: X: Nezamyslice;17:40, Kouty nad Desnou;20:05
 3731: 25: Kouty nad Desnou;14:50, Prostějov hl.n.;16:58
 3736: 25: Prostějov hl.n.;18:00, Kouty nad Desnou;20:05
 3753: : Kouty nad Desnou;20:51, Olomouc hl.n.;22:42

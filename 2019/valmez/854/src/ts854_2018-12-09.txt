@@ -1,0 +1,87 @@
+13255: : Valašské Meziříčí; 04:40, Velké Karlovice; 05:54
+13280: 25 : Velké Karlovice; 05:58, Vsetín; 06:24
+113256pk: X : Velké Karlovice; 06:28, Vsetín; 07:15
+13259: : Vsetín; 07:42, Velké Karlovice, 08:34
+13262: : Velké Karlovice; 09:58, Vsetín; 10:45
+123215pk: X : Vsetín; 12:36, Horní Lideč; 12:59
+3244: X : Horní Lideč; 13:22, Vsetín; 13:45
+13267: X : Vsetín; 14:53, Velké Karlovice; 15:41
+113270pk: X : Velké Karlovice; 15:53, Vsetín; 16:45
+13271: X : Vsetín; 17:23, Velké Karlovice; 18:11
+13274: X : Velké Karlovice; 18:18, Vsetín; 19:05
+13273: X : Vsetín; 19:13, Velké Karlovice; 20:01
+13276: X : Velké Karlovice; 20:08, Vsetín; 20:55
+
+13251: X : Vsetín; 03:06, Velké Karlovice; 03:54
+13254: X : Velké Karlovice; 05:08, Vsetín; 05:57
+13257: X : Vsetín; 06:22, Velké Karlovice; 07:14
+13258: X : Velké Karlovice; 07:48, Vsetín; 08:35
+13261: : Vsetín; 09:52, Velké Karlovice; 10:44
+13264: : Velké Karlovice; 11:13, Vsetín; 12:00
+13263: X : Vsetín; 12:33, Velké Karlovice; 13:21
+13275: 25 : Vsetín; 12:53, Velké Karlovice; 13:41
+13266: : Velké Karlovice; 13:53, Vsetín; 14:45
+113267pk: X : Vsetín; 14:53, Velké Karlovice; 15:41
+13267: 25 : Vsetín; 14:53, Velké Karlovice; 15:41
+13270: : Velké Karlovice; 15:53, Vsetín; 16:45
+13271: 25 : Vsetín; 17:23, Velké Karlovice; 18:11
+13274: 25 : Velké Karlovice; 18:18, Vsetín; 19:05
+13273: 25 : Vsetín; 19:13, Velké Karlovice; 20:01
+13276: 25 : Velké Karlovice; 20:08, Vsetín; 20:55
+
+113251pk: X2345 : Vsetín; 03:06, Velké Karlovice; 03:54
+13252: X2345 : Velké Karlovice; 03:58, Vsetín; 04:44
+13253: 25 : Vsetín; 04:06, Velké Karlovice; 04:54
+23201: X1 : Vsetín; 04:11, Bylnice; 05:02
+103241pk: X2345 : Vsetín; 05:04, Horní Lideč; 05:25
+13254: 25 : Velké Karlovice; 05:08, Vsetín; 05:57
+23204: X1 : Bylnice; 05:09, Horní Lideč; 05:36
+23203: X : Horní Lideč; 05:45, Bylnice; 06:12
+103201pk: 25 : Vsetín; 06:21, Horní Lideč; 06:41
+23208: X : Bylnice; 06:26, Horní Lideč; 06:53
+23205: : Horní Lideč; 07:00, Bylnice; 07:26
+23210: : Bylnice; 08:02, Horní Lideč; 08:29
+23209: : Horní Lideč; 09:30, Bylnice; 09:56
+23212: : Bylnice; 10:02, Horní Lideč; 10:29
+3255: : Horní Lideč; 11:31, Střelná zastávka; 11:35
+3242: : Střelná zastávka; 11:38, Vsetín; 12:05
+23215: : Vsetín; 12:36, Bylnice; 13:56
+23218: : Bylnice; 14:01, Horní Lideč; 14:28
+23217: X : Horní Lideč; 14:31, Bylnice; 14:57
+23220: X : Bylnice; 15:00, Horní Lideč; 15:27
+23219: : Horní Lideč; 15:31, Bylnice; 15:57
+23222: : Bylnice; 16:02, Horní Lideč; 16:29
+23221: : Horní Lideč; 17:30, Bylnice; 17:56
+23224: : Bylnice;18:02, Vsetín; 19:44 
+3249: zX : Vsetín; 20:25, Střelná zastávka; 20:53
+3256: zX : Střelná zastávka; 21:01, Horní Lideč; 21:05
+103248pk: zX : Horní Lideč; 21:12, Vsetín; 21:38
+23227: X6 : Vsetín; 21:40, Bylnice; 22:31
+
+113251pk: X1 : Vsetín; 03:06, Velké Karlovice; 03:54
+13252: X1 : Velké Karlovice; 03:58, Vsetín; 04:44
+23202: X2345 : Bylnice; 04:05, Horní Lideč; 04:32
+23201: X2345 : Horní Lideč; 04:35, Bylnice; 05:02
+103241pk: X1 : Vsetín; 05:04, Horní Lideč; 05:25
+23204: X2345 : Bylnice; 05:09, Horní Lideč; 05:36
+123203pk: X : Horní Lideč; 05:45, Valašské Klobouky; 05:54
+23206: 25 : Bylnice; 05:58, Vsetín; 06:48
+23206: X : Valašské Klobouky; 06:15, Vsetín; 06:48
+3245: X6 : Vsetín; 07:27, Horní Lideč; 07:51
+3240: X6 : Horní Lideč; 07:56, Vsetín; 08:18
+3247: : Vsetín; 09:46, Střelná zastávka; 10:15
+3252: : Střelná zastávka; 10:21, Horní Lideč; 10:25
+23213: : Horní Lideč; 11:30, Bylnice; 11:56
+23214: X : Bylnice; 12:02, Vsetín; 13:00
+23214: 25 : Bylnice; 12:02, Horní Lideč; 12:29
+3244: 25 : Horní Lideč; 13:22, Vsetín; 13:45
+13265: : Vsetín; 13:53, Velké Karlovice; 14:41
+113268pk: X : Velké Karlovice; 14:53, Vsetín; 15:49
+13268: 25 : Velké Karlovice; 14:53, Vsetín; 15:49
+13269: : Vsetín; 15:53, Velké Karlovice; 16:41
+113272pk: X : Velké Karlovice; 17:23, Vsetín; 18:15
+13272: 25 : Velké Karlovice; 17:23, Vsetín; 18:15
+23225: X6 : Vsetín; 18:30, Bylnice; 19:56
+23225: T : Vsetín; 18:30, Horní Lideč; 18:53
+25223: T : Horní Lideč; 18:54, Bylnice; 19:20
+3248: : Bylnice; 20:45, Valašské Meziříčí; 22:00

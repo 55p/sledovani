@@ -33,7 +33,7 @@
 3714:25,2712,2812,3112: Nezamyslice;7:40, Olomouc hl.n.;8:26
 3823:25,2712,2812,3112: Olomouc hl.n.;13:34, Nezamyslice;14:34
 3828:25,2712,2812,3112: Nezamyslice;15:24, Olomouc hl.n.;16:27
-3883:25,2712,2812,3112: Olomouc hl.n.;17:34, Nezamyslice;18:34
+3833:25,2712,2812,3112: Olomouc hl.n.;17:34, Nezamyslice;18:34
 
 3706:25,2712,2812,3112: Nezamyslice;5:00, Olomouc hl.n.;5:54
 3330:X,-2712,-2812,-3112: Hranice na Moravě;4:18, Přerov;4:42
@@ -59,7 +59,7 @@
 3726:: Prostějov hl.n.;14:00, Kouty nad Desnou;16:06
 3737:: Kouty nad Desnou;16:50, Olomouc hl.n.;18:25
 3737:10: Olomouc hl.n.;18:33, Nezamyslice;19:18
-3242:10: Nezamyslice;19:40, Kouty nad Desnou;22:13
+3742:10: Nezamyslice;19:40, Kouty nad Desnou;22:13
 
 3709:11: Kouty nad Desnou;4:50, Olomouc hl.n.;6:22
 3815:: Olomouc hl.n.;6:33, Nezamyslice;7:32

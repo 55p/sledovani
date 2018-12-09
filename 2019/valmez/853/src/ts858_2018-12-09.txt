@@ -1,0 +1,10 @@
+12841: X: Frýdek-Místek;4:02, Hnojník;4:20
+12840: X: Hnojník;4:25, Frýdek-Místek;4:48
+112805pk: X: Frýdek-Místek;5:34, Český Těšín;6:14
+12806: X: Český Těšín;6:41, Frýdek-Místek;7:20
+112823pk: : Frýdek-Místek;14:34, Český Těšín;15:14
+12824: X: Český Těšín;15:41, Frýdek-Místek;16:20
+3114: zX: Frýdek-Místek;21:34, Valašské Meziříčí;22:45
+
+3173: X: Valašské Meziříčí;14:32, Frýdlant nad Ostravicí;15:39
+103173sv: X: Frýdlant nad Ostravicí;15:50; Frýdek-Místek;16:07

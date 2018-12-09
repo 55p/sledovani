@@ -1,54 +1,54 @@
-2153: X: Èeské Budìjovice;6:35, Èeské Velenice;7:27
-8704: 25: Èeské Velenice;6:10, Veselí nad Lunicí;7:12
-8705: 25: Veselí nad Lunicí;7:34, Èeské Velenice;8:32
-8710: : Èeské Velenice;9:21, Veselí nad Lunicí;10:20
-8709: : Veselí nad Lunicí;11:38, Èeské Velenice;12:35
-8714: : Èeské Velenice;13:21, Veselí nad Lunicí;14:20
-8713: : Veselí nad Lunicí;15:38, Èeské Velenice;16:35
-8718: : Èeské Velenice;17:21, Veselí nad Lunicí;18:20
-8717: : Veselí nad Lunicí;19:38, Èeské Velenice;20:35
-8722: : Èeské Velenice;22:14, Veselí nad Lunicí;23:13
+2153: X: ÄŒeskÃ© BudÄ›jovice;6:35, ÄŒeskÃ© Velenice;7:27
+8704: 25: ÄŒeskÃ© Velenice;6:10, VeselÃ­ nad LuÅ¾nicÃ­;7:12
+8705: 25: VeselÃ­ nad LuÅ¾nicÃ­;7:34, ÄŒeskÃ© Velenice;8:32
+8710: : ÄŒeskÃ© Velenice;9:21, VeselÃ­ nad LuÅ¾nicÃ­;10:20
+8709: : VeselÃ­ nad LuÅ¾nicÃ­;11:38, ÄŒeskÃ© Velenice;12:35
+8714: : ÄŒeskÃ© Velenice;13:21, VeselÃ­ nad LuÅ¾nicÃ­;14:20
+8713: : VeselÃ­ nad LuÅ¾nicÃ­;15:38, ÄŒeskÃ© Velenice;16:35
+8718: : ÄŒeskÃ© Velenice;17:21, VeselÃ­ nad LuÅ¾nicÃ­;18:20
+8717: : VeselÃ­ nad LuÅ¾nicÃ­;19:38, ÄŒeskÃ© Velenice;20:35
+8722: : ÄŒeskÃ© Velenice;22:14, VeselÃ­ nad LuÅ¾nicÃ­;23:13
 
-8701: : Veselí nad Lunicí;4:52, Èeské Velenice;5:52
-8706: X: Èeské Velenice;6:49, Veselí nad Lunicí;8:20
-8708: 25: Èeské Velenice;7:16, Veselí nad Lunicí;8:20
-8707: : Veselí nad Lunicí;9:38, Èeské Velenice;10:35
-8712: X: Èeské Velenice;11:21, Veselí nad Lunicí;12:20
-8711: X: Veselí nad Lunicí;13:38, Èeské Velenice;14:35
-8716: : Èeské Velenice;15:21, Veselí nad Lunicí;16:20
-8715: : Veselí nad Lunicí;17:38, Èeské Velenice;18:35
-8720: : Èeské Velenice;19:21, Veselí nad Lunicí;20:20
-8719: : Veselí nad Lunicí;21:39, Èeské Velenice;22:49
+8701: : VeselÃ­ nad LuÅ¾nicÃ­;4:52, ÄŒeskÃ© Velenice;5:52
+8706: X: ÄŒeskÃ© Velenice;6:49, VeselÃ­ nad LuÅ¾nicÃ­;8:20
+8708: 25: ÄŒeskÃ© Velenice;7:16, VeselÃ­ nad LuÅ¾nicÃ­;8:20
+8707: : VeselÃ­ nad LuÅ¾nicÃ­;9:38, ÄŒeskÃ© Velenice;10:35
+8712: X: ÄŒeskÃ© Velenice;11:21, VeselÃ­ nad LuÅ¾nicÃ­;12:20
+8711: X: VeselÃ­ nad LuÅ¾nicÃ­;13:38, ÄŒeskÃ© Velenice;14:35
+8716: : ÄŒeskÃ© Velenice;15:21, VeselÃ­ nad LuÅ¾nicÃ­;16:20
+8715: : VeselÃ­ nad LuÅ¾nicÃ­;17:38, ÄŒeskÃ© Velenice;18:35
+8720: : ÄŒeskÃ© Velenice;19:21, VeselÃ­ nad LuÅ¾nicÃ­;20:20
+8719: : VeselÃ­ nad LuÅ¾nicÃ­;21:39, ÄŒeskÃ© Velenice;22:49
 
-2152: X: Èeské Velenice;4:56, Èeské Budìjovice;5:48
-8222: X: Èeské Budìjovice;6:43, Veselí nad Lunicí;7:30
-8236: X: Veselí nad Lunicí;8:01, Tábor;8:29
-8209: X: Tábor;12:09, Èeské Budìjovice;13:29
-8044: X: Èeské Budìjovice;15:42, Protivín;16:39
-8064: X: Protivín;17:50, Horaïovice pøedmìstí;18:33
-8063: X: Horaïovice pøedmìstí;19:18, Protivín;19:58
+2152: X: ÄŒeskÃ© Velenice;4:56, ÄŒeskÃ© BudÄ›jovice;5:48
+8222: X: ÄŒeskÃ© BudÄ›jovice;6:43, VeselÃ­ nad LuÅ¾nicÃ­;7:30
+8236: X: VeselÃ­ nad LuÅ¾nicÃ­;8:01, TÃ¡bor;8:29
+8209: X: TÃ¡bor;12:09, ÄŒeskÃ© BudÄ›jovice;13:29
+8044: X: ÄŒeskÃ© BudÄ›jovice;15:42, ProtivÃ­n;16:39
+8064: X: ProtivÃ­n;17:50, HoraÅ¾Äovice pÅ™edmÄ›stÃ­;18:33
+8063: X: HoraÅ¾Äovice pÅ™edmÄ›stÃ­;19:18, ProtivÃ­n;19:58
 
-8050: X: Protivín;4:56, Strakonice;5:26
-1933: X: Strakonice;5:44, Èeské Budìjovice;6:50
-631: X: Èeské Budìjovice;9:12, Písek mìsto;10:04
-632: X: Písek mìsto;11:50, Èeské Budìjovice;12:45
-8210: X: Èeské Budìjovice;16:30, Tábor;17:56
-8215: X: Tábor;18:27, Veselí nad Lunicí;18:59
-8240: X: Veselí nad Lunicí;21:29, Tábor;21:59
-7971: 25: Protivín;9:44, Písek mìsto;10:04
-7970: 25: Písek mìsto;10:08, Protivín;10:28
-8049: 6: Protivín;21:07, Èeské Budìjovice;21:45
-8022: 6: Èeské Budìjovice;22:59, Protivín;23:35
+8050: X: ProtivÃ­n;4:56, Strakonice;5:26
+1933: X: Strakonice;5:44, ÄŒeskÃ© BudÄ›jovice;6:50
+631: X: ÄŒeskÃ© BudÄ›jovice;9:12, PÃ­sek mÄ›sto;10:04
+632: X: PÃ­sek mÄ›sto;11:50, ÄŒeskÃ© BudÄ›jovice;12:45
+8210: X: ÄŒeskÃ© BudÄ›jovice;16:30, TÃ¡bor;17:56
+8215: X: TÃ¡bor;18:27, VeselÃ­ nad LuÅ¾nicÃ­;18:59
+8240: X: VeselÃ­ nad LuÅ¾nicÃ­;21:29, TÃ¡bor;21:59
+7971: 25: ProtivÃ­n;9:44, PÃ­sek mÄ›sto;10:04
+7970: 25: PÃ­sek mÄ›sto;10:08, ProtivÃ­n;10:28
+8049: 6: ProtivÃ­n;21:07, ÄŒeskÃ© BudÄ›jovice;21:45
+8022: 6: ÄŒeskÃ© BudÄ›jovice;22:59, ProtivÃ­n;23:35
 
-8231: X: Tábor;4:48, Veselí nad Lunicí;5:18
-8232: X: Veselí nad Lunicí;6:01, Tábor;6:29
-8207: X: Tábor;9:29, Èeské Budìjovice;10:48
-633: X1234: Èeské Budìjovice;11:12, Písek mìsto;12:04
-634: X1234: Písek mìsto;15:50, Èeské Budìjovice;16:45
-635: X: Èeské Budìjovice;17:12, Písek mìsto;18:04
-8035: X: Písek mìsto;19:39, Èeské Budìjovice;20:41
-8213: 25: Tábor;16:09, Èeské Budìjovice;17:22
-8212: 25: Èeské Budìjovice;18:23, Tábor;19:43
+8231: X: TÃ¡bor;4:48, VeselÃ­ nad LuÅ¾nicÃ­;5:18
+8232: X: VeselÃ­ nad LuÅ¾nicÃ­;6:01, TÃ¡bor;6:29
+8207: X: TÃ¡bor;9:29, ÄŒeskÃ© BudÄ›jovice;10:48
+633: X1234: ÄŒeskÃ© BudÄ›jovice;11:12, PÃ­sek mÄ›sto;12:04
+634: X1234: PÃ­sek mÄ›sto;15:50, ÄŒeskÃ© BudÄ›jovice;16:45
+635: X: ÄŒeskÃ© BudÄ›jovice;17:12, PÃ­sek mÄ›sto;18:04
+8035: X: PÃ­sek mÄ›sto;19:39, ÄŒeskÃ© BudÄ›jovice;20:41
+8213: 25: TÃ¡bor;16:09, ÄŒeskÃ© BudÄ›jovice;17:22
+8212: 25: ÄŒeskÃ© BudÄ›jovice;18:23, TÃ¡bor;19:43
 
 
 2:56:1

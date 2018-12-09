@@ -20,6 +20,7 @@
 727: T: Praha hl.n.;19:31, České Budějovice;21:52
 8022: XT: České Budějovice;22:59, Strakonice;0:05
 
+705: T: Praha hl.n.;7:31, České Budějovice;9:58
 653: X6: Strakonice;4:57, České Budějovice;5:49
 534: X: České Budějovice;7:55, Praha-Holešovice;10:10
 533: X: Praha-Holešovice;14:48, České Budějovice;17:08

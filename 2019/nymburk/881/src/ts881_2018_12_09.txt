@@ -41,7 +41,7 @@
 22210: 6: Kolín;14:46, Ledečko;15:52
 22213: 6: Ledečko;16:06, Kolín;17:15
 2461: 6: Kolín;17:40, Kutná Hora město;17:59
-5957: T: Kolín;11:40, Čáslav;12:03
+5951: T,2004,-1904,-0507,-2809:Kolín;7:05, Čáslav;7:25
 2447: T: Čáslav;7:47, Kutná Hora město;8:09
 2444: 7: Kutná Hora město;9:52, Kutná Hora hl.n.;10:00
 2451: 7: Kutná Hora hl.n.;10:19, Kutná Hora město;10:26

@@ -32,8 +32,8 @@
 1617:X: Opava východ;12:15, Český Těšín;13:38
 1622:X: Český Těšín;14:11, Opava východ;15:36
 1625:X: Opava východ;16:15, Český Těšín;17:38
-1630:X: Český Těšín;18:11, Opava východ;19:36
-1633:X: Opava východ;20:10, Bohumín;20:59
+1630:23: Český Těšín;18:11, Opava východ;19:36
+1633:23: Opava východ;20:10, Bohumín;20:59
 1630:3112: Český Těšín;18:11, Ostrava-Svinov;19:00
 28907sv:3112: Ostrava-Svinov;19:04, Bohumín;19:15
 3402:25: Český Těšín;4:48, Opava východ;6:10
@@ -44,7 +44,7 @@
 3421:25: Opava východ;14:42, Český Těšín;16:05
 3428:25: Český Těšín;16:45, Opava východ;18:18
 3429:25: Opava východ;18:42, Český Těšín;20:05
-2832:25,-2412: Český Těšín;20:43, Ostrava-Svinov;21:34
+2832:36: Český Těšín;20:43, Ostrava-Svinov;21:34
 28917sv:36: Ostrava-Svinov;21:41, Bohumín;21:54
 
 28900sv:X: Bohumín;3:36, Ostrava-Svinov;3:48
