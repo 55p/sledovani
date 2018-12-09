@@ -1,1 +1,1 @@
-99995|NPP|Nehodový vlak: X: Brno-Maloměřice;0:00;23:59
+99995|NPP|Nehodový vlak:: Brno-Maloměřice;0:00;23:59
