@@ -41,4 +41,4 @@
 13907: X: Kroměříž;8:38, Zborovice;9:05
 13908: X: Zborovice;9:13, Kroměříž;9:40
 3911: X: Kojetín;12:23, Valašské Meziříčí;14:12
-103913pk: Kroměříž;13: 45, Valašské Meziříčí;15:19
+103913pk: T:Kroměříž;13:45, Valašské Meziříčí;15:19

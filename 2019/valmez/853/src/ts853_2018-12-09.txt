@@ -102,7 +102,7 @@
 13124: : Frýdlant nad Ostravicí; 14:42, Ostravice; 14:52
 13127: X : Ostravice; 15:00, Frýdlant nad Ostravicí; 15:10
 113127pk: 25 : Ostravice; 15:00, Frýdlant nad Ostravicí; 15:10
-13126: Frýdlant nad Ostravicí; 15:42, Ostravice; 15:52
+13126: :Frýdlant nad Ostravicí; 15:42, Ostravice; 15:52
 13129: X : Ostravice; 16:00, Frýdlant nad Ostravicí; 16:10
 113129pk: 25 : Ostravice; 16:00, Frýdlant nad Ostravicí; 16:10
 13128: Frýdlant nad Ostravicí; 16:42, Ostravice; 16:52
