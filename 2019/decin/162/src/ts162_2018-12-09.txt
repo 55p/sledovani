@@ -1,4 +1,4 @@
-6961pk: X: Děčín hl.n.;6:00, Ústí nad Labem západ;6:41
+﻿6961pk: X: Děčín hl.n.;6:00, Ústí nad Labem západ;6:41
 6850pk: 25: Děčín hl.n.;4:59, Ústí nad Labem západ;5:33
 783: : Ústí nad Labem západ;6:47, Kolín;8:40
 792pk: : Kolín;9:14, Ústí nad Labem západ;11:10
@@ -7,8 +7,8 @@
 795: XT,-2312,-2412,-2512,-3112,-1904,-2004,-2104,-0507,-0607,-2809,-2710: Ústí nad Labem západ;18:47, Kolín;20:40
 780pk: XT,-2312,-2412,-2512,-3112,-1904,-2004,-2104,-0507,-0607,-2809,-2710: Kolín;21:14, Ústí nad Labem hl.n.;23:15
 
-1688pk: : Ústí nad Labem hl.n.;4:42, Kadaň-Prunéřov;6:07
-1689: : Kadaň-Prunéřov;6:15, Ústí nad Labem hl.n.;7:37
+1688pk: X: Ústí nad Labem hl.n.;4:42, Kadaň-Prunéřov;6:07
+1689: X: Kadaň-Prunéřov;6:15, Ústí nad Labem hl.n.;7:37
 785: : Ústí nad Labem západ;8:47, Kolín;10:40
 790pk: : Kolín;11:14, Ústí nad Labem západ;13:10
 791: : Ústí nad Labem západ;14:47, Kolín;16:40

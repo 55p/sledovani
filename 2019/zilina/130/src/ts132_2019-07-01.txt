@@ -1,0 +1,23 @@
+103990vložsv: X: Čadca;3:11, Skalité;3:43
+3994sv: X: Skalité;4:41, Skalité-Serafínov;4:49
+3943: X: Skalité-Serafínov;4:55, Žilina;6:14
+3407: T,-0507: Žilina;6:25, Liptovský Mikuláš;8:17
+3906: X: Žilina;6:48, Čadca;7:26
+3909: X: Čadca;8:35, Žilina;9:13
+3912: X: Žilina;9:48, Čadca;10:26
+3915: X: Čadca;11:35, Žilina;12:13
+3918: X: Žilina;12:48, Čadca;13:26
+3921: X: Čadca;14:35, Žilina;15:13
+1753: X: Žilina;15:54, Ružomberok;16:49
+3429: 6,0507: Žilina;17:34, Ružomberok;18:51
+
+3400: 1,3008: Liptovský Mikuláš;3:46, Žilina;5:14
+3400: 2,3,4,5,25,-3008: Ružomberok;4:11, Žilina;5:14
+3407: X: Žilina;6:25, Liptovský Mikuláš;8:17
+3420: X: Liptovský Mikuláš;13:33, Žilina;15:12
+3407: 6,0507: Žilina;6:25, Liptovský Mikuláš;8:17
+3412pk: 6,0507: Liptovský Mikuláš;9:50, Žilina;11:27
+3946: X: Žilina;15:48, Skalité;16:57
+104477pk: X: Skalité;17:11, Čadca;17:31
+3931: X: Čadca;19:24, Žilina;20:02
+3936: X: Žilina;21:58, Čadca;22:36
