@@ -1,0 +1,64 @@
+18533: 6: Mšeno;6:10, Mělník;6:48
+8551: X: Mladá Boleslav hl.n.;5:28, Mělník;6:59
+8552: 6: Mělník;7:06, Mladá Boleslav hl.n.;8:32
+18530: X: Mělník;7:06, Mšeno;7:44
+18535: X: Mšeno;7:55, Všetaty;8:47
+18532: X: Všetaty;8:51, Mšeno;9:44
+18537: X: Mšeno;9:47, Mělník;10:28
+108508pk: 6: Mladá Boleslav hl.n.;8:40, Mladá Boleslav mšsto, 8:46
+8513: 6: Mladá Boleslav město;9:14, Mladá Boleslav hl.n.;9:20
+8510: 6: Mladá Boleslav hl.n.;9:25, Mladá Boleslav město;9:31
+18551: 6: Mladá Boleslav město;9:33, Mladá Boleslav hl.n.;9:39
+8518: X: Mělník;11:06, Lomnice nad Popelkou;14:55
+8518: 6: Mladá Boleslav hl.n.;13:23, Lomnice nad Popelkou;14:55
+8525|pk Mla-MBo|postrk Mladějov - Ml. Boleslav: X: Lomnice nad Popelkou;14:58, Mladá Boleslav hl.n.;16:35
+8527: 6: Mladějov v Čechách;16:23, Mělník;18:48
+18534: 6: Mělník;19:06, Mšeno;19:44
+18539: 6: Mšeno;20:09, Mělník;20:48
+6058: X: Nymburk hl.n.;21:04, Řepov;21:51
+18558: T: Mladá Boleslav hl.n.;22:11, Mladá Boleslav město;22:17
+106059pk: X: Řepov;22:20, Mladá Boleslav hl.n.;22:38
+18525: XT: Mladá Boleslav hl.n.;22:42, Mšeno;23:25
+18538: 6: Mělník;22:53, Mšeno;23:31
+
+8500: X6: Mšeno;4:25, Stará Paka;7:19
+18533: T: Mšeno;6:10, Mělník;6:48
+8552: T: Mělník;7:06, Mladá Boleslav hl.n.;8:32
+8549: X: Stará Paka;7:31, Mladějov v Čechách;8:27
+8511: 6: Mladějov v Čechách;7:34, Mělník;10:28
+108508pk: T: Mladá Boleslav hl.n.;8:40, Mladá Boleslav město;8:46
+8513: T: Mladá Boleslav město;9:14, Mladá Boleslav hl.n.;9:20
+8510: T: Mladá Boleslav hl.n.;9:25, Mladá Boleslav město;9:31
+18551: T: Mladá Boleslav město;9:33, Mladá Boleslav hl.n.;9:39
+8515: X: Mladějov v Čechách;9:39, Mělník;12:48
+8554: 6: Mělník;11:06, Mladá Boleslav město;13:11
+8518: T: Mladá Boleslav hl.n.;13:23, Mladějov v Čechách;14:22
+8519: 6: Mladá Boleslav město;13:29, Mladá Boleslav hl.n.;13:35
+8522: X: Mělník;13:06, Mšeno;13:45
+8517: X: Mšeno;14:09, Mělník;14:49
+8556: X: Mělník;15:05, Mladá Boleslav hl.n.;16:32
+8527: T: Mladějov v Čechách;16:23, Mělník;18:48
+8544: X1234: Mladá Boleslav hl.n.;18:40, Sobotka;19:21
+18534: T: Mělník;19:06, Mšeno;19:44
+8533: X1234: Mladá Boleslav město;19:14, Mělník;20:48
+18539: T: Mšeno;20:09, Mělník;20:48
+8534: 6: Mladá Boleslav hl.n.;22:20, Mladějov v Čechách;23:23
+18536: X1234: Mělník;22:25, Mšeno;23:03
+18538: T: Mělník;22:53, Mšeno;23:31
+
+18531: X: Mšeno;4:52, Mělník;5:30
+8550: X: Mělník;5:33, Mladá Boleslav město;7:00
+18521: X: Mladá Boleslav město;7:02, Mšeno;7:53
+8511: T: Mladějov v Čechách;7:34, Mělník;10:28
+18522: X: Mšeno;7:56, Mladá Boleslav město;8:54
+18551: X: Mladá Boleslav město;9:33, Mladá Boleslav hl.n.;9:39
+8554: T: Mělník;11:06, Mladá Boleslav město;13:11
+8514: X: Mladá Boleslav hl.n.;11:24, Lomnice nad Popelkou;12:54
+8519: T: Mladá Boleslav město;13:29, Mladá Boleslav hl.n.;13:35
+8521|pk DBo-MBo|postrk D. Bouzov - Ml. Boleslav: X: Lomnice nad Popelkou;12:58, Mělník;16:49
+18541: X: Mělník;16:54, Všetaty;17:04
+18540: X: Všetaty;17:10, Mělník;17:21
+8558: X: Mělník;17:24, Mladá Boleslav město;19:00
+108533pk: X1234: Mladá Boleslav město;19:14, Mladá Boleslav hl.n.;19:20
+8533: X5: Mladá Boleslav město;19:14, Mělník;20:48
+18536: X5: Mělník;22:25, Mšeno;23:03
