@@ -6,5 +6,5 @@
 4765: X5: Česká Třebová;22:10, Letovice;22:56
 4766: 25: Letovice;6:31, Česká Třebová;7:19
 5006: 25: Česká Třebová;8:00, Pardubice hl.n.;9:17
-5009: 25: Kolín;13:42, Pardubice hl.n.;14:29
+5009: 25: Pardubice;14:43, Česká Třebová; 15:57
 4761: 25: Česká Třebová;16:39, Letovice;17:33

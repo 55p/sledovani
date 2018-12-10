@@ -1,4 +1,4 @@
-﻿823: X6: Brno-Královo Pole;5:56, Bohumín;8:34
+823: X6: Brno-Královo Pole;5:56, Bohumín;8:34
 834: : Bohumín;13:24, Brno-Královo Pole;16:01
 976: : Brno-Královo Pole;16:31, Praha hl.n.;19:52
 965: z25: Praha-Smíchov;21:46, Havlíčkův Brod;23:57
@@ -139,7 +139,7 @@
 828: T: Bohumín;16:24, Brno-Královo Pole;19:01
 817: : Brno-Královo Pole;20:20, Břeclav;21:18
 
-456: : Břeclav;0;00;23:50, Bohumín;1:39
+456: : Břeclav;0:00;23:50, Bohumín;1:39
 457: : Bohumín;2:20, Břeclav;4:10
 816: : Břeclav;6:43, Brno dolní n.;7:23
 841: XT: Brno-Královo Pole;16:56, Bohumín;19:34
