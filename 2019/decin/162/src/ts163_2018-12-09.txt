@@ -1,4 +1,4 @@
-6421: X: Děčín hl.n.;4:50, Litoměřice město;5:45
+﻿6421: X: Děčín hl.n.;4:50, Litoměřice město;5:45
 6422pk: X: Litoměřice město;5:57, Ústí nad Labem západ;6:21
 6423: X: Ústí nad Labem západ;6:28, Litoměřice město;6:49
 6424pk: X: Litoměřice město;7:02, Ústí nad Labem západ;7:26
@@ -41,3 +41,6 @@
 6967pk: X: Děčín hl.n.;15:02, Ústí nad Labem hl.n.;15:25
 6964: X: Ústí nad Labem hl.n.;16:32, Děčín hl.n.;16:55
 6969: z25: Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:47
+
+
+4::0
