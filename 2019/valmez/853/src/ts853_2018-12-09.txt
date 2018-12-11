@@ -154,7 +154,7 @@
 112822pk: X : Cieszyn; 14:33, Frýdek-Místek; 15:20
 12822: 25 : Cieszyn; 14:33, Frýdek-Místek; 15:20
 12825: : Frýdek-Místek; 15:34, Cieszyn; 16:27
-112826pk: Cieszyn; 16:33, Frýdek-Místek; 17:20
+112826pk:X: Cieszyn; 16:33, Frýdek-Místek; 17:20
 12826: 25 : Cieszyn; 16:33, Frýdek-Místek; 17:20
 12829: : Frýdek-Místek; 17:34, Cieszyn; 18:25
 12830: : Cieszyn; 18:31, Frýdek-Místek; 19:21
