@@ -1,0 +1,79 @@
+14057: X: Olomouc hl.n.;03:31, Prostějov hl.n.;05:08
+14061: X: Prostějov hl.n.;05:10, Nezamyslice;05:32
+14060: X: Nezamyslice;05:35, Senice na Hané;06:54
+14060: 25: Prostějov hl.n.;06:17, Senice na Hané;06:54
+14063:: Senice na Hané;06:58, Prostějov hl.n.;07:38
+14062:: Kostelec na Hané;08:20, Červenka;09:35
+13849: X: Červenka;11:10, Litovel předměstí;11:19
+13850: X: Litovel předměstí;12:35, Červenka;12:44
+13807: X: Červenka;13:10, Senice na Hané;13:47
+13807: 25: Červenka;13:10, Litovel předměstí;13:19
+23803: 25: Litovel předměstí;13:25, Mladeč;13:35
+13806: X: Senice na Hané;14:08, Červenka;14:44
+23802: 25: Mladeč;14:20, Litovel předměstí;14:30
+13806: 25: Litovel předměstí;14:35, Červenka;14:44
+13809: X: Červenka;15:10, Senice na Hané;15:47
+13809: 25: Červenka;15:10, Litovel předměstí;15:19
+23807: 25: Litovel předměstí;15:25, Mladeč;15:35
+23806: 25: Mladeč;16:20, Litovel předměstí;16:30
+13808: X: Senice na Hané;16:08, Červenka;16:44
+23806: 25: Mladeč;16:20, Litovel předměstí;16:30
+13808: 25: Litovel předměstí;16:35, Červenka;16:44
+13851:: Červenka;17:11, Litovel předměstí;17:20
+13852:: Litovel předměstí;18:35, Červenka;18:44
+13853:: Červenka;19:14, Litovel předměstí;19:23
+13854: 7: Litovel předměstí;20:06, Červenka;20:15
+13856: X6: Litovel předměstí;20:35, Červenka;20:44
+13855:: Červenka;21:11, Litovel předměstí;21:20
+13858: X: Litovel předměstí;22:17, Červenka;22:26
+13858: 25: Litovel předměstí;22:17, Červenka;22:26
+13857:: Červenka;22:56, Litovel město;23:04
+13860:: Litovel město;23:06, Červenka;23:14
+
+14057: 6: Olomouc hl.n.;03:31, Litovel předměstí;04:05
+114057pk: X: Červenka;03:56, Litovel předměstí;04:05
+13840: X6: Litovel předměstí;04:26, Červenka;04:35
+13801: X: Červenka;05:23, Senice na Hané;05:48
+13801: 6: Červenka;05:23, Litovel předměstí;05:32
+13803: X: Senice na Hané;06:12, Litovel předměstí;06:27
+13844: X6: Litovel předměstí;06:35, Červenka;06:44 
+3792: 7: Olomouc hl.n.;06:41, Červenka;06:59
+13845:: Červenka;07:13, Litovel předměstí;07:22
+13846:: Litovel předměstí;08:35, Červenka;08:44
+13847:: Červenka;09:11, Litovel předměstí;09:20
+23801: 25: Litovel předměstí;09:25, Mladeč;09:35
+23800: 25: Mladeč;10:23, Litovel předměstí;10:33
+13848:: Litovel předměstí;10:35, Červenka;10:44
+13849: 25: Červenka;11:10, Litovel předměstí;11:19
+14069: X: Červenka;12:23, Prostějov hl.n.;13:47
+14069: 25: Litovel předměstí;12:33, Prostějov hl.n.;13:47
+14068: 25: Prostějov hl.n.;14:10, Červenka;15:35
+14070: X: Prostějov hl.n.;14:26, Červenka;15:35
+14075:: Červenka;16:10, Prostějov hl.n.;17:47
+14076: 25: Prostějov hl.n.;18:10, Červenka;19:35
+14078: X: Prostějov hl.n.;18:26, Červenka;19:35
+14079:: Červenka;19:54, Prostějov hl.n.;21:47
+3748: X6: Prostějov hl.n.;22:30, Olomouc hl.n.;22:57
+3749: X6: Olomouc hl.n.;23:33, Prostějov hl.n.;23:58
+
+14056: X: Prostějov hl.n.;04:01, Červenka;05:16
+13841:: Červenka;05:38, Litovel předměstí;05:47
+13842:: Litovel předměstí;05:56, Červenka;06:05
+13843:: Červenka;06:10, Litovel předměstí;06:19
+13805: X: Litovel předměstí;06:52, Senice na Hané;07:07
+13804: X: Senice na Hané;07:10, Červenka;07:35
+13804: 25: Litovel předměstí;07:26, Červenka;07:35
+14065:: Červenka;08:23, Prostějov hl.n.;09:47
+14066:: Prostějov hl.n.;12:10, Červenka;13:35
+14073:: Červenka;14:10, Prostějov hl.n.;15:47
+14072: 25: Prostějov hl.n.;16:10, Červenka;17:35
+14074: X: Prostějov hl.n.;16:26, Červenka;17:35
+14077:: Červenka;18:10, Prostějov hl.n.;19:47
+14080:: Prostějov hl.n.;20:10, Červenka;21:35
+13811: X: Červenka;21:43, Senice na Hané;22:32
+13811: 25: Červenka;21:43, Litovel předměstí;21:52
+13858: 6,7: Litovel předměstí;22:17, Červenka;22:26
+113858sv: 25: Červenka;22:34, Olomouc hl.n.;22:52
+14052: X: Senice na Hané;22:54, Olomouc hl.n.;23:28
+
+
