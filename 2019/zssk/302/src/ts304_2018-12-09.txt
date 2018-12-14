@@ -1,0 +1,7 @@
+11091sv: 1: Bratislava hl.st.;0:46, Žilina;4:25
+704: X: Žilina;5:20, Bratislava hl.st.;7:47
+705: X: Bratislava hl.st.;9:13, Žilina;11:40
+712: X: Žilina;12:20, Bratislava hl.st.;14:47
+713: X1234: Bratislava hl.st.;17:13, Žilina;19:40
+15713: X5: Bratislava hl.st.;17:13, Košice;22:57
+17610: 7: Košice;13:45, Bratislava hl.st.;19:31

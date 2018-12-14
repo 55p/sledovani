@@ -1,0 +1,26 @@
+11093: X1: Bratislava hl.st.;2:50, Trenčín;4:18
+767: : Trenčín;5:04, Košice;9:53
+608: : Košice;12:07, Bratislava hl.st.;17:47
+717: 10: Bratislava hl.st.;20:13, Žilina;22:40
+
+615: 11: Žilina;1:37, Košice;4:44
+602: : Košice;6:07, Bratislava hl.st.;11:47
+609: : Bratislava hl.st.;14:13, Košice;19:53
+
+600: : Košice;4:07, Bratislava hl.st.;9:47
+607: : Bratislava hl.st.;12:13, Košice;17:53
+100442: : Košice;22:07, Žilina;1:08
+
+100443: : Žilina;5:00, Košice;8:23
+606: : Košice;10:07, Bratislava hl.st.;15:47
+613: : Bratislava hl.st.;18:13, Košice;23:53
+
+604: : Košice;8:07, Bratislava hl.st.;13:47
+611: : Bratislava hl.st.;16:13, Košice;21:53
+614: : Košice;23:45, Žilina;2:51
+
+702: X: Žilina;4:20, Bratislava hl.st.;6:47
+704: 37: Žilina;5:20, Bratislava hl.st.;7:47
+605: : Bratislava hl.st.;10:13, Košice;15:53
+764: X6: Košice;18:07, Trenčín;23:00
+17764: T: Košice;18:07, Bratislava hl.st.;0:10

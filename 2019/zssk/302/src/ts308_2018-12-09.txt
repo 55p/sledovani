@@ -1,0 +1,7 @@
+601: : Bratislava hl.st.;6:13, Košice;11:53
+610: : Košice;14:07, Bratislava hl.st.;19:47
+719: zX: Bratislava hl.st.;22:13, Trenčín;23:33
+
+700: X: Trenčín;4:37, Bratislava hl.st.;6:07
+603: : Bratislava hl.st.;8:13, Košice;13:53
+612: : Košice;16:07, Bratislava hl.st.;21:47

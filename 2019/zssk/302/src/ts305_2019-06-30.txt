@@ -1,0 +1,23 @@
+3460: X: Liptovský Mikuláš;4:28, Žilina;6:06
+706: X: Žilina;6:20, Bratislava hl.st.;8:47
+707: X: Bratislava hl.st.;11:13, Žilina;13:40
+714: X: Žilina;14:20, Bratislava hl.st.;16:47
+1745: X: Bratislava hl.st.;17:36, Trenčín;19:28
+79132: 7: Košice;13:02, Prešov;13:42
+17612: 7: Prešov;15:36, Bratislava hl.st.;21:04
+
+1732: X: Trenčín;4:42, Bratislava hl.st.;6:24
+703: X: Bratislava hl.st.;7:13, Žilina;9:40
+710: X: Žilina;10:20, Bratislava hl.st.;12:47
+711: X1234: Bratislava hl.st.;15:13, Žilina;17:40
+15711: X5: Bratislava hl.st.;15:13, Prešov;21:11
+79131: X5: Prešov;21:50, Košice;22:37
+16702: 6: Trenčín;5:25, Bratislava hl.st.;6:47
+705: 6: Bratislava hl.st.;9:13, Žilina;11:40
+712: 7: Žilina;12:20, Bratislava hl.st.;14:47
+713: 7: Bratislava hl.st.;17:13, Žilina;19:40
+3437: zX: Žilina;21:57, Liptovský Mikuláš;23:33
+
+
+1: 6: 1
+2: 6: 2

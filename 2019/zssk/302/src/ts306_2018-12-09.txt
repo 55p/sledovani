@@ -1,0 +1,4 @@
+100520: : Košice;5:12, Bratislava hl.st.;10:00
+100044: : Bratislava hl.st.;12:01, Wien Hbf;13:22
+100045: : Wien Hbf;14:37, Bratislava hl.st.;15:58
+100525: : Bratislava hl.st.;18:01, Košice;22:48
