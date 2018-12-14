@@ -1,0 +1,9 @@
+6200: X: Fiľakovo;4:08, Zvolen;5:40
+6205: X: Zvolen;6:17, Fiľakovo;7:39
+6218: : Fiľakovo;13:10, Zvolen;14:40
+6227: : Zvolen;17:24, Fiľakovo;18:52
+
+6202: X: Fiľakovo;5:04, Zvolen;6:32
+6217: X: Zvolen;12:20, Fiľakovo;13:52
+6222: X: Fiľakovo;15:10, Zvolen;16:40
+6235: X: Zvolen;21:04, Fiľakovo;22:32

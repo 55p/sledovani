@@ -1,0 +1,26 @@
+﻿7502: X: Horná Štubňa;4:53, Vrútky;5:41
+7540: 25: Horná Štubňa;5:53, Vrútky;6:41
+7507: : Vrútky;7:19, Horná Štubňa;8:07
+5612: : Horná Štubňa;10:17, Prievidza;11:11
+5619: X: Prievidza;12:41, Horná Štubňa;13:41
+7522: X: Horná Štubňa;14:53, Vrútky;15:41
+7525: X: Vrútky;16:19, Horná Štubňa;17:07
+5627: 25: Prievidza;16:41, Horná Štubňa;17:41
+7528: : Horná Štubňa;17:53, Vrútky;18:41
+7537: z25: Vrútky;22:20, Horná Štubňa;23:08
+
+7561: X: Vrútky;4:48, Horná Štubňa;5:36
+7506: X: Horná Štubňa;6:53, Vrútky;7:41
+7511: X: Vrútky;9:19, Horná Štubňa;10:07
+7516: X: Horná Štubňa;11:53, Vrútky;12:41
+7565: X: Vrútky;14:52, Horná Štubňa;15:40
+7502: 25: Horná Štubňa;4:53, Vrútky;5:41
+7551: 6: Vrútky;19:19, Horná Štubňa;20:07
+7535: 7: Vrútky;21:19, Horná Štubňa;22:07
+
+7560: X: Horná Štubňa;5:19, Vrútky;6:06
+7563: X: Vrútky;6:50, Horná Štubňa;7:38
+7518: X: Horná Štubňa;12:53, Vrútky;13:41
+7521: X: Vrútky;14:19, Horná Štubňa;15:07
+7544: X: Horná Štubňa;15:53, Vrútky;16:41
+7527: X: Vrútky;17:19, Horná Štubňa;18:07

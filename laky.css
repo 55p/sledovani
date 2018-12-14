@@ -421,6 +421,9 @@ br + .lakVozidla {
 .br_cerveny {
   color: #e51616;
 }
+.br_vinovy {
+  color: #98272B;
+}
 
 .br_rudy_blesk {
   background: #FF5151;

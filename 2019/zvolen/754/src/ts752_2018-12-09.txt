@@ -1,0 +1,18 @@
+7360: : Zvolen;6:35, Banská Bystrica;7:13
+7315: X: Banská Bystrica;11:29, Zvolen;11:59
+6219: X,-2712,-2812,-3112,-0201,-0301,-0401: Zvolen;13:24, Fiľakovo;14:52
+6224: X,-2712,-2812,-3112,-0201,-0301,-0401: Fiľakovo;16:16, Zvolen;17:40
+7365: 25: Banská Bystrica;8:16, Zvolen;8:49
+6219: 25,2712,2812,3112,0201,0301,0401: Zvolen;13:24, Lučenec;14:26
+6230: 25,2712,2812,3112,0201,0301,0401: Lučenec;18:54, Zvolen;20:11
+
+6203: X,-2712,-2812,-3112,-0201,-0301,-0401: Zvolen;5:29, Fiľakovo;6:56
+6205: 25,2712,2812,3112,0201,0301,0401: Zvolen;6:17, Fiľakovo;7:39
+6210: : Fiľakovo;9:10, Zvolen;10:40
+107217pk: : Zvolen;16:01, Banská Bystrica;16:30
+7327: : Banská Bystrica;17:32, Zvolen;18:02
+956: : Zvolen;19:02, Žilina;21:05
+
+945: : Žilina;6:55, Zvolen;8:55
+946: : Zvolen;11:02, Žilina;13:05
+953: : Žilina;14:55, Zvolen;16:55

@@ -1,0 +1,17 @@
+7542: X: Zvolen;6:19, Vrútky;8:41
+107511pk: X: Vrútky;9:19, Horná Štubňa;10:07
+7520: X: Horná Štubňa;13:53, Vrútky;14:41
+7549: X: Vrútky;15:19, Zvolen;17:16
+7544: 7,2204,-2104: Zvolen;14:25, Vrútky;16:41
+7551: 7,2204,-2104: Vrútky;19:19, Zvolen;21:21
+
+6201: X: Zvolen;4:12, Fiľakovo;5:40
+6206: X: Fiľakovo;7:00, Zvolen;8:40
+6211: X: Zvolen;9:24, Fiľakovo;10:52
+6220: X: Fiľakovo;14:10, Zvolen;15:40
+6225: X: Zvolen;16:31, Lučenec;17:41
+6230: X: Lučenec;18:54, Zvolen;20:11
+107542pk: 25: Zvolen;6:19, Vrútky;8:41
+7511: 25: Vrútky;9:19, Horná Štubňa;10:07
+7519: 25: Horná Štubňa;11:53, Vrútky;12:41
+7549: 25: Vrútky;15:19, Zvolen;17:16

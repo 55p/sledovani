@@ -1,0 +1,8 @@
+7202: : Brezno;7:24, Banská Bystrica;8:21
+7311: : Banská Bystrica;9:29, Zvolen;9:59
+7314: : Zvolen;11:11, Banská Bystrica;11:42
+7209: : Banská Bystrica;12:35, Brezno;13:34
+7210: : Brezno;14:18, Banská Bystrica;15:26
+7323: : Banská Bystrica;15:29, Zvolen;15:59
+7330: : Zvolen;19:11, Banská Bystrica;19:43
+7225: : Banská Bystrica;20:35, Brezno;21:37

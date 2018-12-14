@@ -1,0 +1,15 @@
+1720: : Prievidza;4:32, Leopoldov;6:18
+1721: : Leopoldov;7:41, Prievidza;9:28
+1724: : Prievidza;12:28, Leopoldov;14:19
+1725: : Leopoldov;15:41, Prievidza;17:27
+5530: X: Prievidza;18:42, Topoľčany;19:50
+5580: 6: Prievidza;19:15, Topoľčany;20:23
+5074: X6: Topoľčany;21:04, Nitra;22:00
+5038: X6: Nitra;22:55, Nové Zámky;23:44
+11728: 7: Prievidza;18:34, Bratislava hl.st.;21:29
+
+5001: : Nové Zámky;4:26, Prievidza;7:55
+1722: : Prievidza;8:28, Leopoldov;10:19
+1723: : Leopoldov;11:41, Prievidza;13:28
+1726: : Prievidza;16:28, Leopoldov;18:19
+1727: : Leopoldov;19:41, Prievidza;21:28

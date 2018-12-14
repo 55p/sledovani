@@ -1,0 +1,3 @@
+7361: X: Brezno;4:54, Zvolen;6:34
+7364: X: Zvolen;14:29, Banská Bystrica;15:08
+7215: X: Banská Bystrica;15:50, Brezno;16:54

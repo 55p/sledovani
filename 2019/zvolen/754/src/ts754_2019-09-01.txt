@@ -1,0 +1,12 @@
+﻿7540: X: Zvolen;4:25, Vrútky;6:41
+7542: 25: Zvolen;6:19, Vrútky;8:41
+7547: : Vrútky;11:19, Zvolen;13:19
+7217: : Zvolen;16:01, Brezno;17:45
+
+7363: X: Brezno;5:58, Zvolen;7:50
+7363: 25: Brezno;5:58, Banská Bystrica;7:04
+7381: 25: Banská Bystrica;7:31, Zvolen;7:59
+7318: : Zvolen;13:11, Banská Bystrica;13:41
+7213: : Banská Bystrica;14:38, Brezno;15:38
+7216: : Brezno;18:12, Banská Bystrica;19:20
+7335: : Banská Bystrica;21:29, Zvolen;22:02
