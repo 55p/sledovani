@@ -1,4 +1,4 @@
-11093: X1: Bratislava hl.st.;2:50, Trenčín;4:18
+﻿11093sv: X1: Bratislava hl.st.;2:50, Trenčín;4:18
 767: : Trenčín;5:04, Košice;9:53
 608: : Košice;12:07, Bratislava hl.st.;17:47
 717: 10: Bratislava hl.st.;20:13, Žilina;22:40

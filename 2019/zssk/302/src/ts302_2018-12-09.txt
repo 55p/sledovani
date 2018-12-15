@@ -1,2 +1,2 @@
-44: : Košice;7:11, Bratislava hl.st.;11:51
-45: : Bratislava hl.st.;16:06, Košice;20:42
+﻿44|Ke-Ba: : Košice;7:11, Bratislava hl.st.;11:51
+45|Ba-Ke: : Bratislava hl.st.;16:06, Košice;20:42
