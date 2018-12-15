@@ -1,0 +1,58 @@
+24101: X: Veselí nad Moravou;04:17, Moravský Písek;04:35
+24100: X: Moravský Písek;04:47, Bzenec;04:53
+24103: X: Bzenec;05:02, Moravský Písek;05:08
+24102: X: Moravský Písek;05:17, Bzenec;05:23
+24105: 6: Veselí nad Moravou;05:24, Moravský Písek;05:42
+24105: X: Bzenec;05:36, Moravský Písek;05:42
+24104: X: Moravský Písek;05:57, Bzenec;06:03
+24107: X: Bzenec;06:06, Moravský Písek;06:12
+24106: X: Moravský Písek;06:16, Bzenec;06:22
+24109: X: Bzenec;06:36, Moravský Písek;06:42
+24108: X6: Moravský Písek;06:47, Bzenec;06:53
+24111: T: Veselí nad Moravou;06:50, Moravský Písek;07:08
+24111: X6: Bzenec;07:02, Moravský Písek;07:08
+24110: X6: Moravský Písek;07:17, Bzenec;07:23
+24113: X6: Bzenec;07:44, Moravský Písek;07:50
+24112: X6: Moravský Písek;08:07, Bzenec;08:13
+24115: X6: Bzenec;08:36, Moravský Písek;08:42
+24114:: Moravský Písek;08:47, Bzenec;08:53
+24117:: Bzenec;09:02, Moravský Písek;09:08
+24116:: Moravský Písek;09:17, Bzenec;09:23
+24119:: Bzenec;09:44, Moravský Písek;09:50
+24118:: Moravský Písek;10:07, Bzenec;10:13
+24121:: Bzenec;10:36, Moravský Písek;10:42
+24120:: Moravský Písek;10:47, Bzenec;10:53
+24123:: Bzenec;11:02, Moravský Písek;11:08
+24122:: Moravský Písek;11:17, Bzenec;11:23
+24125:: Bzenec;11:44, Moravský Písek;11:50
+24124:: Moravský Písek;12:07, Bzenec;12:13
+24127:: Bzenec;12:36, Moravský Písek;12:42
+24126:: Moravský Písek;12:47, Bzenec;12:53
+24129:: Bzenec;13:02, Moravský Písek;13:08
+24128:: Moravský Písek;13:17, Bzenec;13:23
+24131:: Bzenec;13:36, Moravský Písek;13:42
+24130: X: Moravský Písek;13:57, Bzenec;14:03
+24133: X: Bzenec;14:06, Moravský Písek;14:12
+24132:: Moravský Písek;14:17, Bzenec;14:23
+24135:: Bzenec;14:36, Moravský Písek;14:42
+24134:: Moravský Písek;14:47, Bzenec;14:53
+24137:: Bzenec;15:02, Moravský Písek;15:08
+24136:: Moravský Písek;15:17, Bzenec;15:23
+24139:: Bzenec;15:36, Moravský Písek;15:42
+24138: X: Moravský Písek;15:57, Bzenec;16:03
+24141: X: Bzenec;16:06, Moravský Písek;16:12
+24140:: Moravský Písek;16:17, Bzenec;16:23
+24143:: Bzenec;16:36, Moravský Písek;16:42
+24142:: Moravský Písek;16:47, Bzenec;16:53
+24145:: Bzenec;17:02, Moravský Písek;17:08
+24144:: Moravský Písek;17:17, Bzenec;17:23
+24147:: Bzenec;17:44, Moravský Písek;17:50
+24146:: Moravský Písek;18:07, Bzenec;18:13
+24149:: Bzenec;18:36, Moravský Písek;18:42
+24148:: Moravský Písek;18:54, Bzenec;19:00
+24151:: Bzenec;19:03, Moravský Písek;19:09
+24150:: Moravský Písek;19:17, Bzenec;19:23
+24153:: Bzenec;19:44, Moravský Písek;19:50
+24152:: Moravský Písek;20:07, Bzenec;20:13
+24155:: Bzenec;20:50, Moravský Písek;20:56
+24154:: Moravský Písek;20:59, Veselí nad Moravou;21:22

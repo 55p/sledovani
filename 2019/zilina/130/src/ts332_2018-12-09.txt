@@ -1,0 +1,4 @@
+3403: X: Žilina;5:18, Liptovský Mikuláš;6:55
+3408: X: Liptovský Mikuláš;7:50, Žilina;9:27
+3423: X: Žilina;14:30, Poprad-Tatry;17:16
+3432: X: Poprad-Tatry;18:50, Žilina;21:39

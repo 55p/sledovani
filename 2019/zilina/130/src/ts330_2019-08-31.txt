@@ -1,0 +1,10 @@
+﻿3490sv: 25: Vrútky;0:23, Žilina;0:39
+3407: X: Žilina;6:25, Liptovský Mikuláš;8:17
+3418: X: Liptovský Mikuláš;12:36, Žilina;14:14
+4474: X: Žilina;14:48, Zwardoń;16:10
+4477: X: Zwardoń;16:42, Žilina;18:13
+3403: 25: Žilina;5:18, Liptovský Mikuláš;6:55
+103412: 25: Liptovský Mikuláš;9:50, Žilina;11:27
+3481: 6,0111: Žilina;12:30, Poprad-Tatry;15:20
+3432: 6,0111: Poprad-Tatry;18:50, Žilina;21:39
+3445: 5,6,3110: Žilina;22:50, Vrútky;23:09

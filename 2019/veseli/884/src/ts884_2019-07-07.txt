@@ -1,0 +1,78 @@
+104303pk: X: Veselí nad Moravou;05:21, Bojkovice;06:25
+104332sv: X:: Bojkovice;06:33, Bojkovice město;06:38
+4332: X: Bojkovice město;06:43, Uherské Hradiště;07:32
+4337: X: Uherské Hradiště;07:46, Bojkovice město;08:34
+104337sv: X:: Bojkovice město;08:39, Bojkovice;08:44 
+104336sv: X:: Bojkovice;09:10, Bojkovice město;09:15
+4336: X: Bojkovice město;09:20, Staré Město u Uherského Hradiště;10:24
+104343pk: X: Staré Město u Uherského Hradiště;13:36, Bojkovice;14:30
+104342sv: X:: Bojkovice;15:23, Bojkovice město;15:28
+4342: X: Bojkovice město;15:33, Staré Město u Uherského Hradiště;16:23
+4317: X: Staré Město u Uherského Hradiště;17:39, Bylnice;19:26
+4318: 1,2,3,4: Bylnice;20:55, Veselí nad Moravou;22:40
+4318: 5: Bylnice;20:55, Kyjov;23:09
+104127pk: 5: Kyjov;23:42, Veselí nad Moravou;0:07
+
+104321pk: X: Veselí nad Moravou;04:21, Uherské Hradiště;04:40
+4321: X: Uherské Hradiště;04:47, Luhačovice;05:37
+14304: X: Luhačovice;05:44, Újezdec u Luhačovic;05:58
+14305: X: Újezdec u Luhačovic;06:14, Luhačovice;06:28
+14308: X: Luhačovice;06:44, Újezdec u Luhačovic;06:58
+14307: X: Újezdec u Luhačovic;07:14, Luhačovice;07:28
+14310: X: Luhačovice;09:22, Újezdec u Luhačovic;09:36
+14309: X: Újezdec u Luhačovic;10:14, Luhačovice;10:28
+14312: X: Luhačovice;11:22, Újezdec u Luhačovic;11:36
+14311: X: Újezdec u Luhačovic;12:14, Luhačovice;12:28
+14314: X: Luhačovice;13:32, Újezdec u Luhačovic;13:46
+14313: X: Újezdec u Luhačovic;14:16, Luhačovice;14:30
+14316: X: Luhačovice;15:32, Újezdec u Luhačovic;15:46
+101729pk: T: Veselí nad Moravou;15:02, Staré Město u Uherského Hradiště;15:27
+104345pk: T: Staré Město u Uherského Hradiště;15:36, Újezdec u Luhačovic;16:14
+14315: X,T: Újezdec u Luhačovic;16:16, Luhačovice;16:30
+14318: X: Luhačovice;17:29, Újezdec u Luhačovic;17:43
+14332: T: Luhačovice;17:36, Újezdec u Luhačovic;17:50
+14317: X: Újezdec u Luhačovic;17:48, Luhačovice;18:02
+14333: 7: Újezdec u Luhačovic;17:55, Luhačovice;18:09
+14320: X,T: Luhačovice;18:42, Újezdec u Luhačovic;18:56
+14335: T: Újezdec u Luhačovic;19:02, Luhačovice;19:16
+14319: X: Újezdec u Luhačovic;19:48, Luhačovice;20:02
+14324: T: Luhačovice;19:59, Újezdec u Luhačovic;20:13
+14338: X: Luhačovice;21:28, Újezdec u Luhačovic;21:42
+14339: X,T: Újezdec u Luhačovic;21:48, Luhačovice;22:02
+
+4323: X: Luhačovice;04:34, Bylnice;06:23
+14304: 6: Luhačovice;05:44, Újezdec u Luhačovic;05:58
+4305: 6: Újezdec u Luhačovic;06:14, Luhačovice;06:28
+14330: 6: Luhačovice;06:49, Újezdec u Luhačovic;07:03
+4304: X: Bylnice;06:50, Bojkovice;07:30
+104304pk: X: Bojkovice;07:33, Staré Město u Uherského Hradiště;08:25
+14331: 6: Újezdec u Luhačovic;07:09, Luhačovice;07:23
+101724pk: X: Staré Město u Uherského Hradiště;08:33, Veselí nad Moravou;08:59 
+14310: 6: Luhačovice;09:22, Újezdec u Luhačovic;09:36
+104336pk: 6: Újezdec u Luhačovic;09:40, Staré Město u Uherského Hradiště;10:24
+101726pk: 6: Staré Město u Uherského Hradiště;10:33, Veselí nad Moravou;10:59
+102710pk: X: Veselí nad Moravou;13:12, Strážnice;13:22
+2741: X: Strážnice;13:54, Veselí nad Moravou;14:04
+4166: X7: Veselí nad Moravou;14:25, Kyjov;14:54
+4173: X7: Kyjov;15:07, Veselí nad Moravou;15:35
+4170: X7: Veselí nad Moravou;16:25, Kyjov;16:52
+4177: X7: Kyjov;17:08, Veselí nad Moravou;17:35
+4172: X7: Veselí nad Moravou;18:25, Kyjov;18:52
+4179: X7: Kyjov;19:08, Veselí nad Moravou;19:35
+4174: 25: Veselí nad Moravou;20:05, Kyjov;20:34
+
+4163: X: Kyjov;05:07, Veselí nad Moravou;05:35
+104108pk: X: Veselí nad Moravou;06:22, Kyjov;06:50
+4105: T: Kyjov;06:38, Veselí nad Moravou;07:05
+4167: X: Kyjov;07:07, Veselí nad Moravou;07:35
+2736: X: Veselí nad Moravou;08:12, Hodonín;08:51
+2739: X: Hodonín;11:17, Veselí nad Moravou;11:52
+4164: X: Veselí nad Moravou;12:35, Kyjov;12:54
+4171: X: Kyjov;13:07, Uherské Hradiště;14:03
+12208: X: Uherské Hradiště;14:29, Veselí nad Moravou;14:53 
+101729pk: T: Veselí nad Moravou;15:02, Staré Město u Uherského Hradiště;15:27 
+4168: X: Veselí nad Moravou;15:22, Kyjov;15:51
+104345: T: Staré Město u Uherského Hradiště;15:36, Bojkovice;16:30
+4175: X: Kyjov;16:09, Veselí nad Moravou;16:37
+121995sv: T:: Bojkovice;16:53, Bylnice;17:24
+4316: T: Bylnice;18:05, Veselí nad Moravou;19:43
