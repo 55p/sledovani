@@ -1,0 +1,17 @@
+3471:X,6:Liptovský Mikuláš;4:10,Poprad-Tatry;5:11
+3474:X:Poprad-Tatry;6:27,Liptovský Mikuláš;7:28
+3412:X:Liptovský Mikuláš;9:50,Žilina;11:27
+3421:X:Žilina;13:34,Poprad-Tatry;16:22
+3428:X:Poprad-Tatry;16:42,Žilina;19:27
+3934:X:Žilina;20:48,Čadca;21:28
+3478:6:Poprad-Tatry;22:47,Liptovský Mikuláš;22:53
+
+3943:25:Čadca;5:35,Žilina;6:14
+3441:X:Skalité-Serafínov;5:44,Kraľovany;8:05
+3442:X:Kraľovany;9:36,Žilina;10:17
+7825:X:Žilina;11:46,Košice;16:41
+7826:X:Košice;17:27,Poprad-Tatry;19:16
+3478:X:Poprad-Tatry;22:47,Liptovský Mikuláš;22:53
+3423:25:Žilina;14:30,Liptovský Mikuláš;16:27
+3428:25:Liptovský Mikuláš;17:31,Žilina;19:27
+3428:25:Žilina;20:48,Čadca;21:28

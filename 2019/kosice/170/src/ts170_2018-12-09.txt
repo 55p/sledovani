@@ -1,0 +1,3 @@
+1964: :Čierna nad Tisou;5:53,Košice;7:28
+8819:6,2104:Košice;19:06,Čierna nad Tisou;20:52
+8821:XT,-2104:Košice;21:06,Čierna nad Tisou;22:49

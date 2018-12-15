@@ -1,0 +1,10 @@
+8860: :Čierna nad Tisou;9:00,Čop;9:40
+8861: :Čop;10:35,Čierna nad Tisou;11:39
+8862: :Čierna nad Tisou;17:07,Čop;17:46
+8863: :Čop;18:30,Čierna nad Tisou;19:41
+
+8804: :Čierna nad Tisou;5:01,Košice;6:54
+7806: :Košice;7:18,Poprad-Tatry;9:36
+7817: :Poprad-Tatry;10:47,Košice;12:41
+8811:25:Košice;14:16,Čierna nad Tisou;15:59
+8817:X:Košice;17:16,Čierna nad Tisou;18:59

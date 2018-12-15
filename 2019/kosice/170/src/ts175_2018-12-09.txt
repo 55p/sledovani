@@ -1,0 +1,6 @@
+8800:X,6,-2204:Čierna nad Tisou;3:01,Košice;4:54
+8502:X:Košice;5:36,Lipany;7:13
+8517:X:Lipany;11:03,Košice;12:24
+8518:X:Košice;13:35,Lipany;14:58
+8527:X:Lipany;16:03,Košice;17:24
+8819:XT,-2104:Košice;19:06,Čierna nad Tisou;20:52

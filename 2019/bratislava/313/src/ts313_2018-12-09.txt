@@ -1,0 +1,37 @@
+﻿1861:X: Kúty;4:48,Bratislava hl.st.;5:42
+831: :Bratislava hl.st.;6:04,Banská Bstrica;9:26
+836: :Banská Bstrica;10:31,Bratislava hl.st.;13:58
+815: :Bratislava hl.st.;16:04,Zvolen os.st.;18:56
+
+7302: :Zvolen os.st.;5:22,Banská Bstrica;5:55
+832: :Banská Bstrica;6:31,Bratislava hl.st.;9:58
+813: :Bratislava hl.st.;12:04,Zvolen os.st.;14:56
+814: :Zvolen os.st.;17:00,Bratislava hl.st.;19:58
+
+2070:X:Bratislava Nové mesto;4:13,Kúty;5:28
+1863:X,-2712,-2812,-3112,-0201,-0301,-0401:Kúty;5:58,Bratislava hl.st.;6:53
+2043:2712,2812,3112,0201,0301,0401:Kúty;5:58,Bratislava hl.st.;7:07
+811: :Bratislava hl.st.;8:04,Zvolen os.st.;10:56
+812: :Zvolen os.st.;13:00,Bratislava hl.st.;15:58
+845: :Bratislava hl.st.;18:04,Banská Bstrica;21:26
+7337: :Banská Bstrica;22:28,Zvolen os.st.;22:59
+
+830: :Banská Bstrica;4:31,Bratislava hl.st.;7:58
+835: :Bratislava hl.st.;10:04,Banská Bstrica;13:26
+840: :Banská Bstrica;14:31,Bratislava hl.st.;17:58
+847: :Bratislava hl.st.;20:04,Banská Bstrica;23:26
+
+100800:X,6,-2412,-2512,-2612,-0101,-2004,-2104,-2204,-0607,-0211:Zvolen os.st.;1:59,Nové Zámky;4:00
+1872:7,2412,2512,2612,0101,2004,2104,2204,0607,0211:Nové Zámky;5:18,Bratislava hl.st.;6:30
+1874:X,6,-2412,-2512,-2612,-0101,-2004,-2104,-2204,-0607,-0211:Nové Zámky;5:54,Bratislava hl.st.;7:06
+871:X,-2712,-2812,-3112,-0201,-0301,-0401:Bratislava hl.st.;14:57,Nové Zámky;15:59
+4339:25,2712,2812,3112,0201,0301,0401:Bratislava hl.st.;21:09,Nové Zámky;22:38
+
+100801:X,6,-2412,-2512,-2612,-0101,-2004,-2104,-2204,-0607,-0211:Nové Zámky;0:57,Zvolen os.st.;2:56
+7303:X:Banská Bstrica;5:41,Zvolen os.st.;6:14
+810: :Zvolen os.st.;9:00,Bratislava hl.st.;11:58
+839: :Bratislava hl.st.;24:04,Banská Bstrica;17:26
+816: :Zvolen os.st.;19:00,Bratislava hl.st.;21:58
+
+
+

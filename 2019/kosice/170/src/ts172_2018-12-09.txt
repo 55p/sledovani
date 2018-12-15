@@ -1,0 +1,11 @@
+8500: :Košice;3:58,Lipny;5:56
+8509: :Lipny;6:46,Košice;8:31
+8807: :Košice;10:06,Čierna nad Tisou;11:51
+8814: :Čierna nad Tisou;14:01,Košice;15:54
+1936:X:Košice;16:14,Prešov;16:42
+
+1931:X:Prešov;6:00,Košice;6:29
+7810:X:Košice;9:27,Poprad-Tatry;11:16
+7821:X:Poprad-Tatry;12:47,Košice;14:43
+7822:X:Košice;15:27,Poprad-Tatry;17:16
+7833:X:Poprad-Tatry;18:47,Košice;20:43
