@@ -1,0 +1,122 @@
+14001:X: Olomouc hl.n.;4:14, Drahanovice;5:07
+3703:25: Olomouc hl.n.;5:00, Prostějov hl.n.;5:26
+24704:25: Prostějov hl.n.;6:35, Dzbel;7:24
+24707:25: Dzbel;7:35, Prostějov hl.n.;8:23
+14004:X: Drahanovice;5:42, Olomouc hl.n.;6:26
+14007:X: Olomouc hl.n.;6:33, Drahanovice;7:18
+114010:X: Drahanovice;7:42, Olomouc hl.n.;8:26
+14013:X: Olomouc hl.n.;8:33, Senice na Hané;9:06
+14018:X: Senice na Hané;10:52, Olomouc hl.n.;11:26
+14021:X: Olomouc hl.n.;11:33, Senice na Hané;12:06
+14024:X: Senice na Hané;12:52, Olomouc hl.n.;13:26
+14027:X: Olomouc hl.n.;13:33, Drahanovice;14:26
+24712:25: Prostějov hl.n.;13:00, Dzbel;13:54
+24715:25: Dzbel;14:05, Prostějov hl.n.;14:53
+14030:X: Drahanovice;14:42, Olomouc hl.n.;15:26
+24716:25: Prostějov hl.n.;15:02, Dzbel;15:54
+14033:X: Olomouc hl.n.;15:33, Drahanovice;16:16
+14036:X: Drahanovice;16:42, Olomouc hl.n.;17:26
+24719:25: Dzbel;16:05, Prostějov hl.n.;16:53
+24720:25: Prostějov hl.n.;17:02, Chornice;18:12
+24725:25: Chornice;18:15, Prostějov hl.n.;19:21
+14039:X: Olomouc hl.n.;17:33, Drahanovice;18:16
+14042:X: Drahanovice;18:42, Olomouc hl.n.;19:26
+3741:X: Olomouc hl.n.;21:03, Prostějov hl.n.;21:29
+24728:X: Prostějov hl.n.;22:27, Dzbel;23:17
+24791: : Dzbel;23:23, Konice;23:29
+
+24790:: Konice;4:22, Dzbel;4:29
+24701:: Dzbel;4:35, Prostějov hl.n.;5:23
+24702:: Prostějov hl.n.;5:35, Dzbel;6:24
+24705:: Dzbel;6:35, Prostějov hl.n.;7:22
+24706:: Prostějov hl.n.;8:02, Dzbel;8:54
+24709:: Dzbel;9:05, Prostějov hl.n.;9:54
+24708:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Prostějov hl.n.;10:02, Dzbel;10:54
+124708:25: Prostějov hl.n.;10:02, Moravská Třebová;11:40
+24711:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Dzbel;11:05, Prostějov hl.n.;11:53
+24712:X: Prostějov hl.n.;13:00, Dzbel;13:54
+24713:25: Moravská Třebová;11:49, Prostějov hl.n.;13:21
+24715:X: Dzbel;14:05, Prostějov hl.n.;14:53
+24716:X: Prostějov hl.n.;15:02, Dzbel;15:54
+24719:X: Dzbel;16:05, Prostějov hl.n.;16:53
+24720:X: Prostějov hl.n.;17:02, Dzbel;17:54
+24723:X,2712,2812,0201: Dzbel;18:05, Prostějov hl.n.;18:53
+24723:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Dzbel;18:05, Olomouc hl.n.;19:26
+24724:25,2712,2812,0201,-2412: Prostějov hl.n.;19:00, Dzbel;19:54
+24729:25,2712,2812,0201,-2412: Dzbel;20:05, Olomouc hl.n.;21:26
+14045:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;19:33, Senice na Hané;20:06
+14048:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Senice na Hané;20:52, Olomouc hl.n.;21:26
+3745:: Olomouc hl.n.;22:33, Prostějov hl.n.;22:59
+
+24700:X,-2712,-2812,-2912,-3012,-3112: Prostějov hl.n.;4:35, Dzbel;5:24
+24703:X,-2712,-2812,-2912,-3012,-3112: Dzbel;5:35, Prostějov hl.n.;6:24
+24704:X: Prostějov hl.n.;6:35, Dzbel;7:24
+24707:X: Dzbel;7:35, Prostějov hl.n.;8:23
+24708:2712,2812,0201: Prostějov hl.n.;10:02, Dzbel;10:54
+24710:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Prostějov hl.n.;11:32, Dzbel;12:24
+124713:X: Dzbel;12:34, Prostějov hl.n.;13:21
+24714:X: Prostějov hl.n.;14:02, Dzbel;14:54
+24717:X: Dzbel;15:05, Prostějov hl.n.;15:54
+24718:X: Prostějov hl.n.;16:02, Dzbel;16:54
+24721:X: Dzbel;17:05, Prostějov hl.n.;17:54
+24724:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Prostějov hl.n.;19:00, Dzbel;19:54
+24729:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Dzbel;20:05, Olomouc hl.n.;21:26
+14051:: Olomouc hl.n.;22:35, Drahanovice;23:16
+14002:6: Drahanovice;4:33, Olomouc hl.n.;5:18
+13803:6: Olomouc hl.n.;5:33, Litovel předměstí;6:27
+3708:T: Prostějov hl.n.;6:00, Olomouc hl.n.;6:26
+14007:T: Olomouc hl.n.;6:33, Drahanovice;7:18
+13800:6: Litovel předměstí;6:35, Olomouc hl.n.;7:26
+14010:T: Drahanovice;7:42, Senice na Hané;7:50
+14013:6: Olomouc hl.n.;8:33, Senice na Hané;9:06
+14014:T: Senice na Hané;8:52, Olomouc hl.n.;9:26
+14017:T: Olomouc hl.n.;10:33, Drahanovice;11:14
+14018:6: Senice na Hané;10:52, Olomouc hl.n.;11:26
+14023:6: Olomouc hl.n.;12:33, Senice na Hané;13:06
+14024:T: Drahanovice;12:32, Olomouc hl.n.;13:26
+14029:T: Olomouc hl.n.;14:33, Senice na Hané;15:06
+14030:6: Senice na Hané;14:52, Olomouc hl.n.;15:26
+14035:6: Olomouc hl.n.;16:33, Senice na Hané;17:06
+14036:T: Senice na Hané;16:52, Olomouc hl.n.;17:26
+14041:T: Olomouc hl.n.;18:33, Senice na Hané;19:06
+14042:6: Senice na Hané;18:52, Olomouc hl.n.;19:26
+14045:6: Olomouc hl.n.;19:33, Senice na Hané;20:06
+14044:1904,0105,0805: Senice na Hané;19:52, Olomouc hl.n.;20:26
+14047:1904,0105,0805: Olomouc hl.n.;20:33, Senice na Hané;21:06
+14048:25: Senice na Hané;20:52, Olomouc hl.n.;21:26
+14052:1904,0105,0805: Senice na Hané;22:54, Olomouc hl.n.;23:28
+
+14002:X7: Drahanovice;4:33, Olomouc hl.n.;5:18
+13803:X7: Olomouc hl.n.;5:33, Litovel předměstí;6:27
+3708:6: Prostějov hl.n.;6:00, Olomouc hl.n.;6:26
+13800:X7: Litovel předměstí;6:35, Olomouc hl.n.;7:26
+14007:6: Olomouc hl.n.;6:33, Drahanovice;7:18
+14010:6: Drahanovice;7:42, Senice na Hané;7:50
+14011:X: Olomouc hl.n.;7:33, Senice na Hané;8:06
+14014:X6: Senice na Hané;8:52, Olomouc hl.n.;9:26
+14013:T: Olomouc hl.n.;8:33, Senice na Hané;9:06
+14017:X6: Olomouc hl.n.;10:33, Drahanovice;11:14
+14018:T: Senice na Hané;10:52, Olomouc hl.n.;11:26
+14020:X: Drahanovice;11:42, Olomouc hl.n.;12:26
+14023:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;12:33, Drahanovice;13:26
+14023:T,2712,2812,3112,0101,0201: Olomouc hl.n.;12:33, Senice na Hané;13:06
+14024:6: Senice na Hané;12:52, Olomouc hl.n.;13:26
+14026:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Drahanovice;13:42, Olomouc hl.n.;14:26
+14026:2712,2812,0201: Senice na Hané;13:52, Olomouc hl.n.;14:26
+14030:T: Senice na Hané;14:52, Olomouc hl.n.;15:26
+14029:X6: Olomouc hl.n.;14:33, Senice na Hané;15:06
+14032:X: Senice na Hané;15:52, Olomouc hl.n.;16:26
+14035:X7: Olomouc hl.n.;16:33, Senice na Hané;17:06
+14036:6: Senice na Hané;16:52, Olomouc hl.n.;17:26
+14038:X: Senice na Hané;17:52, Olomouc hl.n.;18:26
+14041:X6: Olomouc hl.n.;18:33, Senice na Hané;19:06
+14042:T: Drahanovice;18:42, Olomouc hl.n.;19:26
+14044:X6: Senice na Hané;19:52, Olomouc hl.n.;20:26
+14045:T: Olomouc hl.n.;19:33, Senice na Hané;20:06
+14047:X6: Olomouc hl.n.;20:33, Senice na Hané;21:06
+14048:1904,0105,0805: Senice na Hané;20:52, Olomouc hl.n.;21:26
+14051:1904,0105,0805: Olomouc hl.n.;22:35, Drahanovice;23:16
+21952sv:X: Senice na Hané;21:11, Olomouc hl.n.;21:35
+14052:6,7: Senice na Hané;22:54, Olomouc hl.n.;23:28
+
+

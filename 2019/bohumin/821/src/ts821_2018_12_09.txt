@@ -1,0 +1,135 @@
+21960sv:X: Bohumín;3:14, Studénka;3:42
+123100pk:X: Studénka;4:14, Štramberk;4:39
+23131:X: Štramberk;4:46, Studénka;5:12
+21962sv:6: Bohumín;4:40, Studénka;5:15
+23104:X6: Studénka;5:27, Veřovice;6:29
+23105:X6: Veřovice;6:43, Studénka;7:34
+23130:X6: Studénka;8:12, Štramberk;8:44
+23133:X6: Štramberk;9:23, Studénka;9:49
+23134:X: Studénka;12:09, Štramberk;12:38
+21966:T: Bohumín;13:13, Studénka;13:44
+23137:X: Štramberk;13:21, Studénka;13:49
+23112:: Studénka;14:09, Věřovice;14:51
+23115:: Veřovice;15:08. Studénka;15:49
+23116:: Studénka;16:09, Veřovice;16:50
+23119:: Veřovice;17:08, Studénka;17:49
+23120:: Studénka;18:09, Veřovice;18:51
+23147:: Veřovice;19:43, Kopřivnice;20:04
+23148:: Kopřivnice;20:08, Štramberk;20:11
+123139pk:: Štramberk;20:21, Studénka;20:47
+28958sv:: Studénka;21:16, Suchdol nad Odrou;21:27
+13316:X7: Suchdol nad Odrou;23:34, Budišov nad Budišovkou;0:33
+
+13301:X6: Budišov nad Budišovkou;3:13, Suchdol nad Odrou;4:13
+13300:X: Suchdol nad Odrou;5:11, Budišov nad Budišovkou;6:15
+13305:X: Budišov nad Budišovkou;6:35, Vítkov;6:56
+13305pk:X: Vítkov;7:02, Suchdol nad Odrou;7:50
+13304:: Suchdol nad Odrou;9:16, Budišov nad Budišovkou;10:24
+13309:: Budišov nad Budišovkou;11:38, Suchdol nad Odrou;12:44
+13308:: Suchdol nad Odrou;13:16, Budišov nad Budišovkou;14:24
+13315:X1234,6: Budišov nad Budišovkou;15:35, Suchdol nad Odrou;16:50
+13315pk:5,7: Budišov nad Budišovkou;15:35, Suchdol nad Odrou;16:50
+13312:: Suchdol nad Odrou;17:21, Budišov nad Budišovkou;18:27
+13319:: Budišov nad Budišovkou;19:25, Suchdol nad Odrou;20:30
+
+13300pk:X: Suchdol nad Odrou;5:11, Vítkov;5:51
+13331:X: Vítkov;5:57, Suchdol nad Odrou;6:40
+13302:X: Suchdol nad Odrou;7:16, Budišov nad Budišovkou;8:24
+13307:X: Budišov nad Budišovkou;9:35, Suchdol nad Odrou;10:50
+13332:X: Suchdol nad Odrou;11:13, Vítkov;11:56
+13333:X: Vítkov;13:02, Suchdol nad Odrou;13:50
+113308pk:7: Suchdol nad Odrou;13:16, Budišov nad Budišovkou;14:24
+113340pk:5: Suchdol nad Odrou;14:16, Odry;14:30
+13335:5: Odry;14:37, Suchdol nad Odrou;14:50
+13315:7: Budišov nad Budišovkou;15:35, Suchdol nad Odrou;16:50
+113310pk:5: Suchdol nad Odrou;15:16, Budišov nad Budišovkou;16:24
+13317:5: Budišov nad Budišovkou;17:35, Suchdol nad Odrou;18:50
+21967sv:5,6: Suchdol nad Odrou;21:02, Bohumín;21:49
+
+28951pk:X: Suchdol nad Odrou;3:30, Studénka;3:41
+23100::X: Studénka;4:14, Veřovice;4:54
+23101:X: Veřovice;5:08, Studénka;5:47
+21961:X: Studénka;5:52, Bohumín;6:20
+21966:X: Bohumín;13:13, Suchdol nad Odrou;13:58
+13340:X: Suchdol nad Odrou;14:16, Odry;14:30
+21968:25: Bohumín;14:02, Suchdol nad Odrou;14:47
+13335:X1234: Odry;14:37, Suchdol nad Odrou;14:50
+113335pk:5: Odry;14:37, Suchdol nad Odrou;14:50
+13310:: Suchdol nad Odrou;15:16, Budišov nad Budišovkou;16:24
+113317pk:5,7: Budišov nad Budišovkou;17:35, Suchdol nad Odrou;18:50
+13317:X1234,6: Budišov nad Budišovkou;17:35, Suchdol nad Odrou;18:50
+13314:: Suchdol nad Odrou;19:21, Budišov nad Budišovkou;20:40
+
+13303:: Budišov nad Budišovkou;4:35, Suchdol nad Odrou;5:40
+13330:X: Suchdol nad Odrou;6:11, Vítkov;6:50
+13305:X: Vítkov;7:02, Suchdol nad Odrou;7:50
+13330:25: Suchdol nad Odrou;6:11, Odry;6:24
+13331:25: Odry;6:27, Suchdol nad Odrou;6:40
+13302:25: Suchdol nad Odrou;7:16, Budišov nad Budišovkou;8:24
+13307:25: Budišov nad Budišovkou;9:35, Suchdol nad Odrou;10:50
+13332:25: Suchdol nad Odrou;11:13, Vítkov;11:56
+13308pk:5: Suchdol nad Odrou;13:16, Budišov nad Budišovkou;14:24
+13335:6,7: Vítkov;14:05, Suchdol nad Odrou;14:50
+13315:5: Budišov nad Budišovkou;15:35, Suchdol nad Odrou;16:50
+213310pk:7: Suchdol nad Odrou;15:16, Budišov nad Budišovkou;16:24
+13317:7: Budišov nad Budišovkou;17:35, Suchdol nad Odrou;18:50
+
+3371:: Suchdol nad Odrou;4:28, Studénka;4:41
+123102pk:X: Studénka;5:01, Veřovice;5:49
+123104pk:6: Studénka;5:27, Kopřivnice;5:57
+23103:X: Veřovice;6:03, Studénka;6:49
+23106:X: Studénka;7:12, Veřovice;8:14
+23141:X: Veřovice;8:28, Kopřivnice;8:49
+23142:X: Kopřivnice;9:10, Veřovice;9:34
+23109:X: Veřovice;9:48, Studénka;10:47
+23132:X: Studénka;11:22, Štramberk;11:52
+23135:X: Štramberk;12:21, Studénka;12:49
+23110:X: Studénka;13:09, Veřovice;13:51
+123113pk:X: Veřovice;14:08, Studénka;14:49
+223104pk:T: Studénka;5:27, Veřovice;6:29
+23105:T: Veřovice;6:43, Kopřivnice;7:09
+23140:6: Kopřivnice;7:13, Veřovice;7:29
+23107:6: Veřovice;7:43, Studénka;8:47
+123106pk:T: Kopřivnice;7:55, Štramberk;7:59
+23107:T: Štramberk;8:06, Studénka;8:47
+23108:25: Studénka;9:11, Veřovice;10:24
+23143:25: Veřovice;11:43, Kopřivnice;11:59
+23144:25: Kopřivnice;12:03, Veřovice;12:18
+23145:25: Veřovice;12:28, Příbor;12:51
+23146:25: Příbor;13:01, Veřovice;13:23
+23111:25: Veřovice;14:00, Studénka;14:49
+23114:: Studénka;15:09, Veřovice;15:51
+23117:: Veřovice;16:08, Studénka;16:49
+3370:: Studénka;17:06, Suchdol nad Odrou;17:18
+3373:: Suchdol nad Odrou;17:49, Studénka;18:00
+23122:: Studénka;21:11, Veřovice;21:50
+23123:: Veřovice;22:25, Studénka;23:00
+23138:: Studénka;23:21, Štramberk;23:45
+
+23129:: Štramberk;4:16, Studénka;4:42
+23102:X: Studénka;5:01, Veřovice;5:49
+23103pk:X: Veřovice;6:03, Kopřivnice;6:19
+23140:X: Kopřivnice;7:13, Veřovice;7:29
+23107:X: Veřovice;7:43, Studénka;8:47
+23108:X: Studénka;9:11, Veřovice;10:24
+23143:X: Veřovice;11:43, Kopřivnice;11:59
+23144:X: Kopřivnice;12:03, Veřovice;12:18
+23145:X: Veřovice;12:28, Příbor;12:51
+23146:X: Příbor;13:01, Veřovice;13:23
+23113:X: Veřovice;14:08, Studénka;14:49
+23102:6: Studénka;5:01, Štramberk;5:34
+23104pk:T: Studénka;5:27, Štramberk;6:04
+23103:25: Štramberk;6:16, Studénka;6:49
+23106:25: Studénka;7:12, Veřovice;8:14
+23141:25: Veřovice;8:28, Kopřivnice;8:49
+23142:25: Kopřivnice;9:10, Veřovice;9:34
+23109:25: Veřovice;9:48, Studénka;10:47
+23132:25: Studénka;11:22, Štramberk;11:52
+23135:25: Štramberk;12:21, Studénka;12:49
+23110:25: Studénka;13:09, Štramberk;13:38
+23111pk:25: Štramberk;14:21, Studénka;14:49
+23118:: Studénka;17:09, Veřovice;17:51
+23121:: Veřovice;18:08, Studénka;18:49
+23136:: Studénka;19:22, Štramberk;19:52
+23139:: Štramberk;20:21, Studénka;20:47
+21967sv:: Studénka;21:22, Bohumín;21:49

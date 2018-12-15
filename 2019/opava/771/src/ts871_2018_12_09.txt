@@ -1,0 +1,180 @@
+13401:6,-2004: Opava východ;3:43, Hlučín;4:19
+13403pk:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Opava východ;4:42, Hlučín;5:19
+13400:6,-2004: Hlučín;4:32, Opava východ;5:12
+13402:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hlučín;5:32, Opava východ;6:12
+13407vlož:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Opava východ;6:42, Hlučín;7:20
+13406:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hlučín;7:32, Opava východ;8:12
+3441:T,11: Opava východ;3:17, Ostrava-Svinov;3:51
+23450:0201: Opava východ;4:40, Hradec nad Moravicí;4:53
+3444:T,11: Ostrava-Svinov;4:32, Opava východ;5:07
+23451:0201: Hradec nad Moravicí;4:58, Opava východ;5:12
+23452:6,2712,2812,3112,0201,1904,0105,0805,-2004,: Opava východ;5:17, Hradec nad Moravicí;5:31
+23453:6,2712,2812,3112,0201,1904,0105,0805,-2004,: Hradec nad Moravicí;6:06, Opava východ;6:20
+23454:25,-2512,2612,2712,2812,2912,3012,3112,-0101,0201,-0301,-0401,2906,3006: Opava východ;6:40, Hradec nad Moravicí;6:54
+23455:25,-2512,2612,2712,2812,2912,3012,3112,-0101,0201,-0301,-0401,2906,3006: Hradec nad Moravicí;7:06, Opava východ;7:20
+23456:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;7:48, Hradec nad Moravicí;8:02
+23457:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hradec nad Moravicí;8:06, Opava východ;8:20
+23458:: Opava východ;8:40, Hradec nad Moravicí;8:54
+23459:: Hradec nad Moravicí;9:06, Opava východ;9:20
+23460:: Opava východ;9:40, Hradec nad Moravicí;9:54
+23461:: Hradec nad Moravicí;10:06, Opava východ;10:20
+23462:: Opava východ;10:40, Hradec nad Moravicí;10:54
+23463:: Hradec nad Moravicí;11:06, Opava východ;11:20
+23464:: Opava východ;11:40, Hradec nad Moravicí;11:54
+23465:: Hradec nad Moravicí;12:06, Opava východ;12:20
+23466:: Opava východ;12:40, Hradec nad Moravicí;12:54
+23467:: Hradec nad Moravicí;13:06, Opava východ;13:20
+23468:: Opava východ;13:40, Hradec nad Moravicí;13:54
+23469:: Hradec nad Moravicí;14:06, Opava východ;14:20
+23470:: Opava východ;14:40, Hradec nad Moravicí;14:54
+23471:: Hradec nad Moravicí;15:06, Opava východ;15:20
+23472:: Opava východ;15:40, Hradec nad Moravicí;15:54
+23473:: Hradec nad Moravicí;16:06, Opava východ;16:20
+23474:: Opava východ;16:40, Hradec nad Moravicí;16:54
+23475:: Hradec nad Moravicí;17:06, Opava východ;17:20
+23476:16: Opava východ;17:40, Hradec nad Moravicí;17:54
+23477:16: Hradec nad Moravicí;18:06, Opava východ;18:20
+23478:10: Opava východ;18:40, Hradec nad Moravicí;18:54
+23479:10: Hradec nad Moravicí;19:06, Opava východ;19:20
+23480:10: Opava východ;19:40, Hradec nad Moravicí;19:54
+23481:10: Hradec nad Moravicí;20:06, Opava východ;20:20
+3451:10: Opava východ;21:42, Ostrava-Svinov;22:16
+3372:10: Ostrava-Svinov;22:50, Suchdol nad Odrou;23:20
+13386:X7,-2312,-2412,-2512,-3112,-1904,-2004,-2104: Suchdol nad Odrou;23:36, Nový Jičín město;23:50
+
+13351:X6,1904,0105,0805,-2004: Nový Jičín město;4:00, Suchdol nad Odrou;4:14
+13352:X,-2712,-2812,-2912,-3012,-3112: Suchdol nad Odrou;4:25, Nový Jičín město;4:39
+13353:X,-2712,-2812,-2912,-3012,-3112: Nový Jičín město;4:43, Suchdol nad Odrou;4:57
+13354:X6,1904,0105,0805,-2004: Suchdol nad Odrou;5:15, Nový Jičín město;5:29
+13355:X6,1904,0105,0805,-2004: Nový Jičín město;5:33, Suchdol nad Odrou;5:47
+13356:: Suchdol nad Odrou;6:11, Nový Jičín město;6:25
+13357:: Nový Jičín město;6:28, Suchdol nad Odrou;6:42
+13358:: Suchdol nad Odrou;7:10, Nový Jičín město;7:24
+13359:: Nový Jičín město;7:38, Suchdol nad Odrou;7:52
+13360:: Suchdol nad Odrou;8:20, Nový Jičín město;8:34
+13361:: Nový Jičín město;8:38, Suchdol nad Odrou;8:52
+13362:: Suchdol nad Odrou;9:10, Nový Jičín město;9:24
+13363:: Nový Jičín město;9:35, Suchdol nad Odrou;9:49
+13364:: Suchdol nad Odrou;10:10, Nový Jičín město;10:24
+13365:: Nový Jičín město;10:38, Suchdol nad Odrou;10:52
+13366:: Suchdol nad Odrou;11:15, Nový Jičín město;11:29
+13367:: Nový Jičín město;11:35, Suchdol nad Odrou;11:49
+13368:: Suchdol nad Odrou;12:10, Nový Jičín město;12:24
+13369:: Nový Jičín město;12:30, Suchdol nad Odrou;12:44
+13370:: Suchdol nad Odrou;13:15, Nový Jičín město;13:29
+13371:: Nový Jičín město;13:38, Suchdol nad Odrou;13:52
+13372:: Suchdol nad Odrou;14:15, Nový Jičín město;14:29
+13373:: Nový Jičín město;14:38, Suchdol nad Odrou;14:52
+13374:: Suchdol nad Odrou;15:15, Nový Jičín město;15:29
+13375:: Nový Jičín město;15:38, Suchdol nad Odrou;15:52
+13376:: Suchdol nad Odrou;16:11, Nový Jičín město;16:25
+13377:: Nový Jičín město;16:38, Suchdol nad Odrou;16:52
+13378:: Suchdol nad Odrou;17:15, Nový Jičín město;17:29
+13379:: Nový Jičín město;17:38, Suchdol nad Odrou;17:52
+13380:10: Suchdol nad Odrou;18:10, Nový Jičín město;18:24
+13381:10: Nový Jičín město;18:38, Suchdol nad Odrou;18:52
+13382:10: Suchdol nad Odrou;19:20, Nový Jičín město;19:34
+13383:10: Nový Jičín město;20:30, Suchdol nad Odrou;20:44
+13384:10: Suchdol nad Odrou;21:36, Nový Jičín město;21:50
+13385:10: Nový Jičín město;22:38, Suchdol nad Odrou;22:52
+21969sv:5,6,2312,2512,2612,2712,2812,2912,3012,1804,1904,2004,2104,3004,0705: Suchdol nad Odrou;23:32, Studénka;23:43
+
+28951sv:X,-2712,-2812,-2912,-3012,-3112: Suchdol nad Odrou;3:30, Studénka;3:41
+23300:X,-2712,-2812,-2912,-3012,-3112: Studénka;4:12, Bílovec;4:23
+23301:X,-2712,-2812,-2912,-3012,-3112: Bílovec;4:29, Studénka;4:40
+23302:X,-2712,-2812,-2912,-3012,-3112: Studénka;4:45, Bílovec;4:56
+23303:X,-2712,-2812,-2912,-3012,-3112: Bílovec;5:01, Studénka;5:12
+23304:X,-2712,-2812,-2912,-3012,-3112: Studénka;5:24, Bílovec;5:35
+23305:X,-2712,-2812,-2912,-3012,-3112: Bílovec;5:39, Studénka;5:50
+23306:X6,1904,0105,0805,-2004: Studénka;6:05, Bílovec;6:16
+23307:X6,1904,0105,0805,-2004,: Bílovec;6:29, Studénka;6:40
+23308:: Studénka;7:00, Bílovec;7:11
+23309:: Bílovec;7:15, Studénka;7:26
+23310:X6,1904,0105,0805,-2004,: Studénka;8:10, Bílovec;8:21
+23313:X6,1904,0105,0805,-2004,: Bílovec;8:35, Studénka;8:46
+23312:: Studénka;9:10, Bílovec;9:21
+23315:: Bílovec;10:35, Studénka;10:46
+23314:: Studénka;11:10, Bílovec;11:21
+23317:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Bílovec;11:39, Studénka;11:50
+23316:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Studénka;12:10, Bílovec;12:21
+23319:: Bílovec;12:39, Studénka;12:50
+23318:: Studénka;13:24, Bílovec;13:35
+23321:X,-2712,-2812,-2912,-3012,-3112: Bílovec;13:39, Studénka;13:50
+23320:X,-2712,-2812,-2912,-3012,-3112: Studénka;14:10, Bílovec;14:21
+23323:: Bílovec;14:39, Studénka;14:50
+23322:: Studénka;15:20, Bílovec;15:31
+23325:: Bílovec;15:39, Studénka;15:50
+23324:: Studénka;16:10, Bílovec;16:21
+23327:: Bílovec;16:39, Studénka;16:50
+23326:: Studénka;17:20, Bílovec;17:31
+23329:: Bílovec;17:39, Studénka;17:50
+23328:10: Studénka;18:10, Bílovec;18:21
+23331:10: Bílovec;18:39, Studénka;18:50
+23330:10: Studénka;19:20, Bílovec;19:31
+23333:10: Bílovec;20:39, Studénka;20:50
+23332:10: Studénka;21:24, Bílovec;21:35
+23335:10: Bílovec;21:39, Ostrava-Svinov;22:14
+3450:10: Ostrava-Svinov;23:05, Opava východ;23:41
+
+3441:6: Opava východ;3:17, Ostrava-Svinov;3:51
+3444:6: Ostrava-Svinov;4:32, Opava východ;5:07
+13401:X,2712,2812,3112,0201,1904,0105,0805: Opava východ;3:43, Hlučín;4:19
+13451:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Opava východ;4:02, Chuchelná;4:29
+13448:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;4:34, Kravaře ve Slezsku;4:51
+13400:X,2712,2812,3112,0201,1904,0105,0805: Hlučín;4:32, Opava východ;5:12
+13453:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;5:00, Chuchelná;5:16
+13452:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;5:35, Kravaře ve Slezsku;5:52
+13405:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;5:42, Hlučín;6:19
+13455:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;6:00, Chuchelná;6:16
+13454:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;6:35, Kravaře ve Slezsku;6:52
+13404:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;6:32, Opava východ;7:12
+13457:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;7:00, Chuchelná;7:16
+13456:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;7:35, Kravaře ve Slezsku;7:52
+13409:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;7:42, Hlučín;8:19
+13459:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;8:00, Chuchelná;8:16
+13458:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;8:35, Kravaře ve Slezsku;8:52
+13408:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;8:32, Opava východ;9:12
+13461:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;9:00, Chuchelná;9:16
+13460:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;9:35, Kravaře ve Slezsku;9:52
+13413:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;9:42, Hlučín;10:19
+13463:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;10:00, Chuchelná;10:16
+13462:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;10:35, Kravaře ve Slezsku;10:52
+13412:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;10:32, Opava východ;11:12
+13465:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;11:00, Chuchelná;11:16
+13464:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;11:35, Kravaře ve Slezsku;11:52
+13417:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;11:42, Hlučín;12:19
+13467:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;12:00, Chuchelná;12:16
+13466:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;12:35, Kravaře ve Slezsku;12:52
+13416:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;12:32, Opava východ;13:12
+13469:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;13:00, Chuchelná;13:16
+13468:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;13:35, Kravaře ve Slezsku;13:52
+13421:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;13:42, Hlučín;14:19
+13471:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;14:00, Chuchelná;14:16
+13470:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;14:35, Kravaře ve Slezsku;14:52
+13420:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;14:32, Opava východ;15:12
+13473:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;15:00, Chuchelná;15:16
+13472:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;15:35, Kravaře ve Slezsku;15:52
+13425:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;15:42, Hlučín;16:19
+13475:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;16:00, Chuchelná;16:16
+13474:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;16:35, Kravaře ve Slezsku;16:52
+13424:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;16:32, Opava východ;17:12
+13477:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;17:00, Chuchelná;17:16
+13476:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;17:35, Kravaře ve Slezsku;17:52
+13429:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;17:42, Hlučín;18:19
+13479:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;18:00, Chuchelná;18:16
+13478:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;18:35, Kravaře ve Slezsku;18:52
+13428:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;18:32, Opava východ;19:12
+13481:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;19:00, Chuchelná;19:16
+13480:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;19:35, Kravaře ve Slezsku;19:52
+13433:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;19:42, Hlučín;20:19
+13483:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;20:00, Chuchelná;20:16
+13482:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;20:35, Kravaře ve Slezsku;20:52
+13432:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;20:32, Opava východ;21:12
+13485:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;21:00, Chuchelná;21:16
+13484:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;21:35, Kravaře ve Slezsku;21:52
+13437:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Opava východ;21:42, Hlučín;22:19
+13487:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;22:00, Chuchelná;22:16
+13486:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;22:35, Kravaře ve Slezsku;22:52
+13436:25,2712,2812,2912,3012,3112,0101,0201,2906,3006: Hlučín;22:32, Opava východ;23:12
+13489:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Kravaře ve Slezsku;23:00, Chuchelná;23:16
+13488:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Chuchelná;23:20, Opava východ;23:45

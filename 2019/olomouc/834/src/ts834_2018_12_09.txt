@@ -1,0 +1,127 @@
+3535:2712,2812,3112,0201: Olomouc hl.n.;5:33, Moravský Beroun;6:29
+3540:2712,2812,3112,0201: Moravský Beroun;6:41, Olomouc hl.n.;7:32
+13703:25: Olomouc hl.n.;6:34, Uničov;7:20
+13705:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;6:58, Uničov;7:41
+3628:25: Uničov;7:44, Olomouc hl.n.;8:27
+13726:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Uničov;8:34, Olomouc hl.n.;9:17
+3629:2712,2812,3112,0201: Olomouc hl.n.;7:47, Hanušovice;9:53
+3543:-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;9:37, Hrubá Voda;10:13
+3546:-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hrubá Voda;10:45, Olomouc hl.n.;11:23
+3547:25: Olomouc hl.n.;11:36, Hrubá Voda;12:06
+3632:2712,2812,3112,0201: Hanušovice;10:06, Olomouc hl.n.;12:17
+3633:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;11:37, Hanušovice;13:53
+3550:25: Hrubá Voda;12:45, Olomouc hl.n.;13:23
+13725:2712,2812,3112,0201: Olomouc hl.n.;12:37, Uničov;13:17
+3660:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hanušovice;14:18, Šumperk;15:02
+13732::2712,2812,3112,0201: Uničov;14:34, Olomouc hl.n.;15:17
+3551:25: Olomouc hl.n.;13:37, Hrubá Voda;14:15
+3554:25: Hrubá Voda;14:37, Olomouc hl.n.;15:23
+3638:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Šumperk;15:30, Olomouc hl.n.;17:17
+3638:X,-2912,-3012,-0101: Šumperk;15:30, Olomouc hl.n.;17:17
+
+21951:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;4:31, Hlubočky;4:53
+3532:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hlubočky;5:02, Olomouc hl.n.;5:25
+3623:25: Olomouc hl.n.;4:53, Uničov;5:35
+3535:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;5:33, Moravský Beroun;6:29
+3624:25: Uničov;6:34, Olomouc hl.n.;7:19
+3540:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Moravský Beroun;6:41, Olomouc hl.n.;7:32
+3541:0201: Olomouc hl.n.;7:33, Hrubá Voda;8:02
+3541:25: Olomouc hl.n.;7:33, Moravský Beroun;8:29
+3629:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;7:47, Hanušovice;9:53
+3544:25: Moravský Beroun;9:32, Olomouc hl.n.;10:25
+3544:0201: Hrubá Voda;9:56, Olomouc hl.n.;10:25
+3632:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hanušovice;10:06, Olomouc hl.n.;12:17
+3633:25,2712,2812,2912,3012,3112,0101,0201: Olomouc hl.n.;11:37, Šumperk;12:59
+13725:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;12:37, Uničov;13:17
+13732:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Uničov;14:34, Olomouc hl.n.;15:17
+3636:25,2712,2812,2912,3012,3112,0101,0201: Šumperk;14:32, Olomouc hl.n.;16:17
+3639:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;15:37, Uničov;16:17
+103638:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Uničov;16:34, Olomouc hl.n.;17:17
+13727:25,2712,2812,2912,3012,3112,0101,0201: Olomouc hl.n.;16:37, Uničov;17:17
+3640:3112: Uničov;17:34, Olomouc hl.n.;18:19
+3641:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;17:37, Uničov;18:17
+13736:10: Uničov;18:34, Olomouc hl.n.;19:17
+3643:: Olomouc hl.n.;19:37, Šumperk;20:59
+3646:1,2,3,4,7: Šumperk;22:51, Uničov;23:30
+3646:5,6: Šumperk;22:51, Olomouc hl.n.;0:09
+
+3530:25: Moravský Beroun;4:01, Olomouc hl.n.;4:49
+3535:25: Olomouc hl.n.;5:33, Moravský Beroun;6:29
+13722:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Uničov;5:37, Olomouc hl.n.;6:20
+3540:25: Moravský Beroun;6:41, Olomouc hl.n.;7:32
+13703:X: Olomouc hl.n.;6:34, Uničov;7:20
+3628:X: Uničov;7:44, Olomouc hl.n.;8:27
+3629:25: Olomouc hl.n.;7:47, Hanušovice;9:53
+3879:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;8:52, Přerov;9:16
+3878:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Přerov;9:38, Olomouc hl.n.;10:02
+3543:2712,2812,3112,0201: Olomouc hl.n.;9:37, Hrubá Voda;10:13
+3546:2712,2812,3112,0201: Hrubá Voda;10:45, Olomouc hl.n.;11:23
+3632:25: Hanušovice;10:06, Olomouc hl.n.;12:17
+3547:X: Olomouc hl.n.;11:36, Hrubá Voda;12:06
+13725:25: Olomouc hl.n.;12:37, Uničov;13:17
+3550:X: Hrubá Voda;12:45, Olomouc hl.n.;13:23
+13732:25: Uničov;14:34, Olomouc hl.n.;15:17
+3551:X: Olomouc hl.n.;13:37, Hrubá Voda;14:15
+3639:25: Olomouc hl.n.;15:37, Uničov;16:17
+3554:X: Hrubá Voda;14:37, Olomouc hl.n.;15:23
+3557:X: Olomouc hl.n.;15:42, Hrubá Voda;16:14
+3560:X: Hrubá Voda;16:45, Olomouc hl.n.;17:23
+3561:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;17:35, Hrubá Voda;18:06
+3564:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hrubá Voda;18:39, Olomouc hl.n.;19:23
+3642:25: Šumperk;18:30, Olomouc hl.n.;20:17
+3567:: Olomouc hl.n.;20:37, Moravský Beroun;21:32
+3506:: Moravský Beroun;22:12, Olomouc hl.n.;23:04
+3569:: Olomouc hl.n.;23:33, Moravský Beroun;0:22
+
+3533:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;5:07, Hrubá Voda;5:37
+3536:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hrubá Voda;5:47, Olomouc hl.n.;6:22
+3539:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;6:35, Hrubá Voda;7:20
+3542:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hrubá Voda;7:47, Olomouc hl.n.;8:19
+103628:2512,0101: Šumperk;7:04, Olomouc hl.n.;8:27
+3505:X: Olomouc hl.n.;9:01, Krnov;10:51
+3502:X: Krnov;11:05, Olomouc hl.n.;12:55
+3553:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-1103,-1203,-1303,-1403,-1503: Olomouc hl.n.;13:55, Moravský Beroun;14:52
+3555:X,2712,2812,3112,0201,0102,1103,1203,1303,1403,1503: Olomouc hl.n.;14:35, Moravský Beroun;15:30
+3558:X: Moravský Beroun;15:32, Olomouc hl.n.;16:27
+3559:X: Olomouc hl.n.;16:35, Hrubá Voda;17:17
+3562:X: Hrubá Voda;17:50, Olomouc hl.n.;18:23
+3563:X: Olomouc hl.n.;18:35, Moravský Beroun;19:29
+3504:X: Moravský Beroun;20:05, Olomouc hl.n.;20:57
+
+3531:: Olomouc hl.n.;3:48, Moravský Beroun;4:45
+3534:: Moravský Beroun;4:59, Olomouc hl.n.;5:53
+3537:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-1103,-1203,-1303,-1403,-1503: Olomouc hl.n.;6:02, Hrubá Voda;6:29
+3539:25,2712,2812,2912,3012,3112,0101,0201: Olomouc hl.n.;6:35, Hrubá Voda;7:20
+3538:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-1103,-1203,-1303,-1403,-1503: Hrubá Voda;6:44, Olomouc hl.n.;7:23
+3541:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;7:33, Hrubá Voda;8:02
+3542:25,2712,2812,2912,3012,3112,0101,0201: Hrubá Voda;7:47, Olomouc hl.n.;8:19
+3505:0201: Olomouc hl.n.;9:01, Krnov;10:51
+3631:25: Olomouc hl.n.;9:33, Šumperk;10:54
+3544:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hrubá Voda;9:56, Olomouc hl.n.;10:25
+3545:X: Olomouc hl.n.;10:35, Hrubá Voda;11:17
+3548:X: Hrubá Voda;11:50, Olomouc hl.n.;12:22
+3549:X: Olomouc hl.n.;12:35, Hrubá Voda;13:17
+3502:0201: Krnov;11:05, Olomouc hl.n.;12:55
+3634:25: Šumperk;13:01, Olomouc hl.n.;14:20
+3552:X: Hrubá Voda;13:58, Olomouc hl.n.;14:28
+3555:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-1103,-1203,-1303,-1403,-1503: Olomouc hl.n.;14:35, Hrubá Voda;15:08
+3555:25: Olomouc hl.n.;14:35, Domašov n.Bystřicí;15:22
+21950:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-1103,-1203,-1303,-1403,-1503: Hrubá Voda;15:12, Olomouc hl.n.;16:00
+3558:25: Domašov n.Bystřicí;15:44, Olomouc hl.n.;16:27
+3559:25: Olomouc hl.n.;16:35, Hrubá Voda;17:17
+3562:25: Hrubá Voda;17:50, Olomouc hl.n.;18:23
+3563:6: Olomouc hl.n.;18:35, Moravský Beroun;19:29
+3563:T: Olomouc hl.n.;18:35, Hrubá Voda;19:08
+3566:T: Hrubá Voda;19:12, Olomouc hl.n.;19:45
+3504:6: Moravský Beroun;20:05, Olomouc hl.n.;20:57
+
+3530:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Moravský Beroun;4:01, Olomouc hl.n.;4:49
+3623:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;4:53, Hanušovice;7:19
+3623:0201: Olomouc hl.n.;4:53, Šumperk;6:19
+3653:0201: Šumperk;7:09, Hanušovice;7:53
+3654:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Hanušovice;8:06, Šumperk;8:46
+3636:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Šumperk;14:32, Olomouc hl.n.;16:17
+3639:2712,2812: Olomouc hl.n.;15:37, Šumperk;17:10
+13727:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Olomouc hl.n.;16:37, Uničov;17:17
+3640:X,-2712,-2812,-2912,-3012,-3112,-0101,-0201: Uničov;17:34, Olomouc hl.n.;18:19
+3642:2712,2812,3112,0201: Šumperk;18:30, Olomouc hl.n.;20:17

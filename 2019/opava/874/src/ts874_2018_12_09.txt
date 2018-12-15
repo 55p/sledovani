@@ -1,0 +1,106 @@
+13401:X,-2712,-2812,-3112,-0201: Opava východ;3:43, Hlučín;4:19
+13403pk:6,2712,2812,3112,0201,1904,0105,0805,-2004: Opava východ;4:42, Hlučín;5:19
+13400:X,-2712,-2812,-3112,-0201: Hlučín;4:32, Opava východ;5:12
+13453:6,2712,2812,3112,0201,1904,0105,0805,-2004: Kravaře ve Slezsku;5:00, Chuchelná;5:16
+13452:6,2712,2812,3112,0201,1904,0105,0805,-2004: Chuchelná;5:35, Kravaře ve Slezsku;5:52
+13405:: Opava východ;5:42, Hlučín;6:19
+13455:25,-2512,2612,2712,2812,2912,3012,3112,0201,-0301,-0401: Kravaře ve Slezsku;6:00, Chuchelná;6:16
+13454:25,-2512,2612,2712,2812,2912,3012,3112,0201,-0301,-0401: Chuchelná;6:35, Kravaře ve Slezsku;6:52
+13407pk:X,-2712,-2812,-3112,-0201,-0102,-1804: Opava východ;6:42, Dolní Benešov;7:09
+13457:25,2712,2812,3112,0201: Kravaře ve Slezsku;7:00, Chuchelná;7:16
+13440:X,-2712,-2812,-3112,-0201,-0102,-1804: Dolní Benešov;7:13, Opava východ;7:39
+23456:X,-2712,-2812,-3112,-0201: Opava východ;7:48, Hradec nad Moravicí;8:02
+23457:X,-2712,-2812,-3112,-0201: Hradec nad Moravicí;8:06, Opava východ;8:20
+13456:25,2712,2812,3112,0201: Chuchelná;7:35, Kravaře ve Slezsku;7:52
+13459:25,2712,2812,3112,0201: Kravaře ve Slezsku;8:00, Chuchelná;8:16
+13458:25,2712,2812,3112,0201: Chuchelná;8:35, Kravaře ve Slezsku;8:52
+13461:25,2712,2812,3112,0201: Kravaře ve Slezsku;9:00, Chuchelná;9:16
+13460:25,2712,2812,3112,0201: Chuchelná;9:35, Kravaře ve Slezsku;9:52
+13463:25,2712,2812,3112,0201: Kravaře ve Slezsku;10:00, Chuchelná;10:16
+13462:25,2712,2812,3112,0201: Chuchelná;10:35, Kravaře ve Slezsku;10:52
+13465:25,2712,2812,3112,0201: Kravaře ve Slezsku;11:00, Chuchelná;11:16
+13464:25,2712,2812,3112,0201: Chuchelná;11:35, Kravaře ve Slezsku;11:52
+13467:25,2712,2812,3112,0201: Kravaře ve Slezsku;12:00, Chuchelná;12:16
+13466:25,2712,2812,3112,0201: Chuchelná;12:35, Kravaře ve Slezsku;12:52
+13419:X,-2712,-2812,-3112,-0201: Opava východ;12:42, Hlučín;13:19
+13469:25,2712,2812,3112,0201: Kravaře ve Slezsku;13:00, Chuchelná;13:16
+13418:X,-2712,-2812,-3112,-0201: Hlučín;13:32, Opava východ;14:12
+13468:25,2712,2812,3112,0201: Chuchelná;13:35, Kravaře ve Slezsku;13:52
+13471:25,2712,2812,3112,0201: Kravaře ve Slezsku;14:00, Chuchelná;14:16
+13470:25,2712,2812,3112,0201: Chuchelná;14:35, Kravaře ve Slezsku;14:52
+13423pk:X,-2712,-2812,-3112,-0201: Opava východ;14:42, Hlučín;15:19
+13473:25,2712,2812,3112,0201: Kravaře ve Slezsku;15:00, Chuchelná;15:16
+13422:X,-2712,-2812,-3112,-0201: Hlučín;15:32, Opava východ;16:12
+13472:25,2712,2812,3112,0201: Chuchelná;15:35, Kravaře ve Slezsku;15:52
+13475:25,2712,2812,3112,0201: Kravaře ve Slezsku;16:00, Chuchelná;16:16
+13474:25,2712,2812,3112,0201: Chuchelná;16:35, Kravaře ve Slezsku;16:52
+13427:X,-2712,-2812,-3112,-0201: Opava východ;16:42, Hlučín;17:19
+13477:25,2712,2812,3112,0201: Kravaře ve Slezsku;17:00, Chuchelná;17:16
+13426:X,-2712,-2812,-3112,-0201: Hlučín;17:32, Opava východ;18:12
+13476:25,2712,2812,3112,0201: Chuchelná;17:35, Kravaře ve Slezsku;17:52
+13479:25,2712,2812,3112,0201: Kravaře ve Slezsku;18:00, Chuchelná;18:16
+13478:25,2712,2812,3112,0201: Chuchelná;18:35, Kravaře ve Slezsku;18:52
+13431:X,-2712,-2812,-3112,-0201: Opava východ;18:42, Hlučín;19:19
+13481:25,2712,2812,0201,-2412: Kravaře ve Slezsku;19:00, Chuchelná;19:16
+13430:X,-2712,-2812,-3112,-0201: Hlučín;19:32, Opava východ;20:12
+13480:25,2712,2812,0201,-2412: Chuchelná;19:35, Kravaře ve Slezsku;19:52
+13483:25,2712,2812,0201,-2412: Kravaře ve Slezsku;20:00, Chuchelná;20:16
+13482:25,2712,2812,0201,-2412: Chuchelná;20:35, Kravaře ve Slezsku;20:52
+13435:X,-2712,-2812,-3112,-0201: Opava východ;20:42, Hlučín;21:19
+13485:25,2712,2812,0201,-2412: Kravaře ve Slezsku;21:00, Chuchelná;21:16
+13434:X,-2712,-2812,-3112,-0201: Hlučín;21:32, Opava východ;22:12
+13484:25,2712,2812,0201,-2412: Chuchelná;21:35, Kravaře ve Slezsku;21:52
+13487:25,2712,2812,0201,-2412: Kravaře ve Slezsku;22:00, Chuchelná;22:16
+13486:25,2712,2812,0201,-2412: Chuchelná;22:35, Kravaře ve Slezsku;22:52
+13439:X,-2712,-2812,-3112,-0201: Opava východ;22:42, Hlučín;23:19
+13489:25,2712,2812,0201,-2412: Kravaře ve Slezsku;23:00, Chuchelná;23:16
+13488:25,2712,2812,0201,-2412: Chuchelná;23:20, Opava východ;23:45
+13438:X,-2712,-2812,-3112,-0201: Hlučín;23:23, Opava východ;24:00
+
+23450:X,-2712,-2812,-3112,-0201: Opava východ;4:40, Hradec nad Moravicí;4:53
+23451:X,-2712,-2812,-3112,-0201: Hradec nad Moravicí;4:58, Opava východ;5:12
+23452:X,-2712,-2812,-3112,-0201: Opava východ;5:17, Hradec nad Moravicí;5:31
+23453:X,-2712,-2812,-3112,-0201: Hradec nad Moravicí;6:06, Opava východ;6:20
+23454:X,-2712,-2812,-3112,-0201: Opava východ;6:40, Hradec nad Moravicí;6:54
+23455:X,-2712,-2812,-3112,-0201: Hradec nad Moravicí;7:06, Opava východ;7:20
+3516:: Opava východ;7:39, Rýmařov;9:41
+3517:: Rýmařov;10:24, Opava východ;12:23
+3522:: Opava východ;13:39, Rýmařov;15:41
+3523:: Rýmařov;16:24, Opava východ;18:23
+3472:T,-2412: Opava východ;20:23, Krnov;21:00
+3474:X,-2712,-2812,-2912,-3012,-3112: Opava východ;21:26, Krnov;22:05
+3475:X,-2712,-2812,-2912,-3012,-3112: Krnov;22:09, Opava východ;22:40
+3476:X6,-3112: Opava východ;22:46, Krnov;23:27
+
+3500:25,-2512,2612,2712,2812,2912,3012,3112,-0101,-0201,-0301,-0401: Krnov;3:40, Moravský Beroun;4:47
+3503:25,-2512,2612,2712,2812,2912,3012,3112,-0101,-0201,-0301,-0401: Moravský Beroun;6:33, Bruntál;7:04
+3461:X,-2712,-2812,-2912,-3012,-3112: Krnov;3:45, Opava východ;4:22
+3514:X,-2712,-2812,-2912,-3012,-3112: Opava východ;5:19, Bruntál;6:52
+3514:: Bruntál;7:06, Rýmařov;7:41
+3515:: Rýmařov;8:24, Opava východ;10:23
+3520:: Opava východ;11:39, Rýmařov;13:41
+3521:: Rýmařov;14:24, Opava východ;16:23
+3526:: Opava východ;17:39, Bruntál;18:52
+3526:10: Bruntál;18:52, Rýmařov;19:41
+3527:10: Rýmařov;19:45, Valšov;20:11
+1135:1,2,3,4,6,T,-2412,-3112,-1804,-3004,-0705: Valšov;20:15, Bruntál;20:24
+3590:5,1804,3004,0705,-1904: Valšov;20:25, Moravský Beroun;20:45
+3507:5,1804,3004,0705,-1904: Moravský Beroun;21:34, Bruntál;22:05
+
+3500:X,-2712,-2812,-2912,-3012,-3112: Krnov;3:40, Moravský Beroun;4:47
+3510:X,-2712,-2812,-2912,-3012,-3112: Valšov;4:25, Rýmařov;4:50
+3511:X,-2712,-2812,-2912,-3012,-3112: Rýmařov;4:55, Valšov;5:20
+1134:6,2712,2812,3112,1904,0105,0805,-2004: Bruntál;5:34, Valšov;5:42
+3512:X6,1904,0105,0805,-2004: Valšov;5:46, Rýmařov;6:11
+3513:X6,2712,2812,-2912,-3012,3112,1904,0105,0805,-2004: Rýmařov;6:17, Opava východ;8:23
+3513:7,2412,2612,2004,2104,2204: Bruntál;7:08, Opava východ;8:23
+3518:: Opava východ;9:39, Rýmařov;11:41
+3519:X,-2712,-2812,-3112,-0201: Rýmařov;12:24, Krnov;13:38
+3519:25,2712,2812,3112,0201: Rýmařov;12:24, Opava východ;14:26
+3471:X,-2712,-2812,-3112,-0201: Krnov;14:24, Opava východ;15:08
+3524:: Opava východ;15:39, Rýmařov;17:41
+3525:: Rýmařov;18:24, Opava východ;20:20
+23482:10: Opava východ;20:40, Hradec nad Moravicí;20:54
+23483:10: Hradec nad Moravicí;21:06, Opava východ;21:20
+23484:10: Opava východ;21:46, Hradec nad Moravicí;22:00
+23485:10: Hradec nad Moravicí;22:15, Opava východ;22:29
