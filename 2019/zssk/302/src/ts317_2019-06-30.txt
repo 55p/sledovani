@@ -1,0 +1,9 @@
+﻿701: X: Bratislava hl.st.;5:13, Žilina;7:40
+708: X: Žilina;8:20, Bratislava hl.st.;10:47
+709: X: Bratislava hl.st.;13:13, Žilina;15:40
+716: X: Žilina;16:20, Bratislava hl.st.;18:47
+16706: 6: Trenčín;7:25, Bratislava hl.st.;8:47
+16702: T: Trenčín;5:25, Bratislava hl.st.;6:47
+705: T: Bratislava hl.st.;9:13, Žilina;11:40
+714: T: Žilina;14:20, Bratislava hl.st.;16:47
+719: z25: Bratislava hl.st.;22:13, Trenčín;23:33
