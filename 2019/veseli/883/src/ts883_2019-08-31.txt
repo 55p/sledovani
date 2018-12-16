@@ -1,0 +1,143 @@
+14500: X: Hodonín;05:46, Zaječí;06:54
+14521: X: Zaječí;07:10, Čejč;07:44
+14506: 25: Hodonín;09:46, Zaječí;10:54
+14506: X: Čejč;10:22, Zaječí;10:54
+14523:: Zaječí;11:06, Čejč;11:35
+14508: 25: Čejč;12:22, Zaječí;12:54
+14511: 25: Zaječí;13:06, Hodonín;14:14
+14526: X: Čejč;13:12, Zaječí;13:54
+14513: X: Zaječí;14:06, Hodonín;15:14
+14516: X: Hodonín;15:43, Zaječí;16:54
+14519: X: Zaječí;17:06, Kobylí na Moravě;17:24
+14534: X: Kobylí na Moravě;17:33, Zaječí;17:54
+14518: 25: Hodonín;17:43, Zaječí;18:54
+14525: X: Zaječí;18:06, Čejč;18:35
+14527: 25: Zaječí;19:06, Čejč;19:35
+14528: 25: Čejč;20:22, Zaječí;20:54
+14529: 25: Zaječí;21:06, Čejč;21:37
+
+14520: X: Čejč;04:19, Zaječí;04:50
+14501: X: Zaječí;05:06, Hodonín;06:15
+14500: 6: Čejč;06:22, Zaječí;06:54
+14502: X: Hodonín;06:46, Zaječí;07:54
+14521: 6: Zaječí;07:10, Čejč;07:44
+14531: X: Zaječí;08:02, Kobylí na Moravě;08:20
+14524: 25: Čejč;08:22, Zaječí;08:54
+14524: X: Kobylí na Moravě;08:33, Zaječí;08:54
+14509:: Zaječí;09:06, Hodonín;10:15
+14508: X: Hodonín;11:46, Zaječí;12:54
+14511: X: Zaječí;13:06, Hodonín;14:14
+14512: 25: Hodonín;13:43, Zaječí;14:54
+14514: X: Hodonín;14:43, Zaječí;15:54
+14515: 25: Zaječí;15:06, Čejč;15:35
+14517: X: Zaječí;16:06, Hodonín;17:03
+14516: 25: Čejč;16:12, Zaječí;16:54
+14519: 25: Zaječí;17:06, Hodonín;18:14
+14518: X: Hodonín;17:43, Zaječí;18:54
+14527: X: Zaječí;19:06, Kobylí na Moravě;19:24
+14536: X: Kobylí na Moravě;19:33, Zaječí;19:54
+14535: X: Zaječí;20:06, Kobylí na Moravě;20:24
+14528: X: Kobylí na Moravě;20:33, Zaječí;20:54
+14529: X: Zaječí;21:08, Čejč;21:37
+
+14522: X: Čejč;05:22, Zaječí;05:54
+14503: X: Zaječí;06:10, Hodonín;07:15
+4252: X: Hodonín;07:34, Břeclav;07:56
+4279: X: Břeclav;10:08, Kúty;10:27
+4278: X: Kúty;11:35, Břeclav;11:54
+4281: X: Břeclav;12:08, Kúty;12:27
+4280: X: Kúty;13:35, Břeclav;13:54
+4283: X: Břeclav;14:08, Kúty;14:27
+4282: 1,2,3,4,5: Kúty;14:35, Břeclav;14:54
+
+104269sv: 1,2,3,4,5: Břeclav;04:24, Brodské;04:35
+4269: 1,2,3,4,5: Brodské;04:36, Kúty;04:41
+4270: 1,2,3,4,5: Kúty;05:04, Břeclav;05:23
+4271: 1,2,3,4,5: Břeclav;05:35, Kúty;05:54
+4272: 1,2,3,4,5: Kúty;06:04, Břeclav;06:23
+4273: 6,7: Břeclav;06:15, Kúty;06:34
+4275: 1,2,3,4,5: Břeclav;06:34, Kúty;06:53
+4274:: Kúty;07:28, Břeclav;07:47
+4277: 6: Břeclav;08:08, Kúty;08:27
+4257: X: Břeclav;09:34, Hodonín;09:55
+4276: 6: Kúty;09:35, Břeclav;09:54
+4258: X: Hodonín;10:04, Břeclav;10:26
+4279: 25: Břeclav;10:08, Kúty;10:27
+4259: X: Břeclav;11:34, Hodonín;11:55
+4278: 25: Kúty;11:35, Břeclav;11:54
+4260: X: Hodonín;12:04, Břeclav;12:26
+4281:25: Břeclav;12:08, Kúty;12:27
+4261: X: Břeclav;13:04, Hodonín;13:25
+4280: 25: Kúty;13:35, Břeclav;13:54
+14512: X: Hodonín;13:43, Zaječí;14:54
+4283: 25: Břeclav;14:08, Kúty;14:27
+14515: X: Zaječí;15:06, Hodonín;16:14
+4284: 6,7: Kúty;15:35, Břeclav;15:54
+4285: 7: Břeclav;16:08, Kúty;16:27
+4262: X: Hodonín;16:34, Břeclav;16:56
+4263: X: Břeclav;17:34, Hodonín;17:55
+4286: 7: Kúty;17:35, Břeclav;17:54
+4264: X: Hodonín;18:04, Břeclav;18:26
+4287: 6,7: Břeclav;18:08, Kúty;18:27
+4265: X: Břeclav;19:34, Hodonín;19:55
+4288: 6,7: Kúty;19:35, Břeclav;19:54
+4266: X: Hodonín;20:04, Břeclav;20:26
+4554: 3108,0709,1409,2109,2809,0510: Břeclav;20:43, Mikulov na Moravě;21:05
+4555: 3108,0709,1409,2109,2809,0510: Mikulov na Moravě;21:54, Břeclav;22:16
+4666: X: Břeclav;22:38, Vranovice;23:15
+4667: X: Vranovice;23:43, Břeclav;00:20
+
+104660pk: 1: Břeclav;03:32, Šakvice;03:58
+4660: 2,3,4,5: Břeclav;03:32, Šakvice;03:58
+4660: X: Šakvice;04:11, Hustopeče u Brna;04:21
+14602: X: Hustopeče u Brna;04:46, Šakvice;04:56
+14603: X: Šakvice;04:59, Hustopeče u Brna;05:09
+14604: X: Hustopeče u Brna;05:50, Šakvice;06:00
+14605: X: Šakvice;06:03, Hustopeče u Brna;06:13
+14606: X: Hustopeče u Brna;06:50, Šakvice;07:00
+14607: X: Šakvice;07:03, Hustopeče u Brna;07:13
+14608: X: Hustopeče u Brna;07:50, Šakvice;08:00
+14609: X: Šakvice;08:03, Hustopeče u Brna;08:13
+14610: X: Hustopeče u Brna;08:48, Šakvice;08:58
+14611: X: Šakvice;09:01, Hustopeče u Brna;09:11
+14612: X: Hustopeče u Brna;09:52, Šakvice;10:02
+14613: X: Šakvice;10:05, Hustopeče u Brna;10:15
+14614: X: Hustopeče u Brna;10:48, Šakvice;10:58
+14615: X: Šakvice;11:01, Hustopeče u Brna;11:11
+14616: X: Hustopeče u Brna;11:52, Šakvice;12:02
+14617: X: Šakvice;12:05, Hustopeče u Brna;12:15
+14618: X: Hustopeče u Brna;12:48, Šakvice;12:58
+14619: X: Šakvice;13:01, Hustopeče u Brna;13:11
+14620: X: Hustopeče u Brna;13:48, Šakvice;13:58
+14621: X: Šakvice;14:01, Hustopeče u Brna;14:11
+14622: X: Hustopeče u Brna;14:48, Šakvice;14:58
+14623: X: Šakvice;15:01, Hustopeče u Brna;15:11
+14624: X: Hustopeče u Brna;15:50, Šakvice;16:00
+14625: X: Šakvice;16:03, Hustopeče u Brna;16:13
+14626: X: Hustopeče u Brna;16:48, Šakvice;16:58
+14627: X: Šakvice;17:01, Hustopeče u Brna;17:11
+14628: X: Hustopeče u Brna;17:50, Šakvice;18:00
+14629: X: Šakvice;18:03, Hustopeče u Brna;18:13
+14630: X: Hustopeče u Brna;18:43, Šakvice;18:53
+14631: X: Šakvice;19:05, Hustopeče u Brna;19:15
+14632: X: Hustopeče u Brna;19:43, Šakvice;19:53
+14633: X: Šakvice;20:05, Hustopeče u Brna;20:15
+14634: X: Hustopeče u Brna;20:45, Šakvice;20:55
+14635: X: Šakvice;21:05, Hustopeče u Brna;21:15
+4665: X: Hustopeče u Brna;21:40, Břeclav;22:21
+4267: X: Břeclav;22:34, Hodonín;22:55
+
+4243: X: Hodonín;04:20, Uherské Hradiště;05:04
+4250: 25: Hodonín;05:03, Břeclav;05:24
+4251: 25: Břeclav;05:34, Hodonín;05:55
+2707: 25: Hodonín;06:21, Veselí nad Moravou;06:58
+12206: X: Uherské Hradiště;06:46, Veselí nad Moravou;07:07
+4162: X: Veselí nad Moravou;07:14, Kyjov;07:44
+4169: X: Kyjov;09:07, Veselí nad Moravou;09:35
+2742: X: Veselí nad Moravou;19:12, Hodonín;19:51
+2747: X: Hodonín;20:24, Veselí nad Moravou;20:58
+2746:: Veselí nad Moravou;21:07, Hodonín;21:41
+
+
+2:67:6
+3:67:3

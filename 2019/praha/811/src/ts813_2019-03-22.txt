@@ -44,6 +44,7 @@
 9501: T: Všetaty;5:22, Praha-Vršovice;6:27
 26267: X: Tanvald;7:13, Železný Brod;7:40
 1143: X6: Tanvald;7:50, Praha-Vršovice;10:47
+1937: T: Praha-Vršovice;8:40, Turnov;11:19
 105404pk: X: Železný Brod;07:51, Turnov;08:09
 101143: 6: Praha-Vršovice;10:55, Praha jih;10:59;12:21, Praha-Vršovice;12:25
 9530: X: Praha-Vršovice;12:42, Mělník;13:50

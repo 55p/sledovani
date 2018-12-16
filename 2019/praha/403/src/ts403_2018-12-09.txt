@@ -1,4 +1,4 @@
-109196sv: X2345,6: Říčany;0:11, Praha jih;0:40
+﻿109196sv: X2345,6: Říčany;0:11, Praha jih;0:40
 129003sv: 7: Praha jih;3:44, Praha hl.n.;3:55
 109401pksv: X: Praha jih;4:45, Praha hl.n.;4:56
 2505: 7: Praha hl.n.;4:05, Benešov u Prahy;5:08
@@ -55,7 +55,6 @@
 2550: 25: Benešov u Prahy;15:52, Praha hl.n.;16:52
 2557: : Praha hl.n.;17:05, Benešov u Prahy;18:08
 102560pk: X: Benešov u Prahy;18:52, Praha hl.n.;19:52
-2550: 25: Benešov u Prahy;15:52, Praha hl.n.;16:52
 2567: : Praha hl.n.;19:35, Benešov u Prahy;20:38
 2570: : Benešov u Prahy;20:52, Praha hl.n.;21:52
 2573: : Praha hl.n.;22:05, Benešov u Prahy;23:08
