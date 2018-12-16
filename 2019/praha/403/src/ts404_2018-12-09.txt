@@ -1,0 +1,174 @@
+106902sv|pk PLi-PMa|pk Pha-Libeň - Pha Masarykovo: X6: Praha jih;3:50, Praha-Libeň;4:03;4:10, Praha Masarykovo nádraží;4:15
+106902sv: 7: Praha jih;3:50, Praha Masarykovo nádraží;4:15
+6902: : Praha Masarykovo nádraží;4:35, Ústí nad Labem hl.n.;6:51
+6943: : Ústí nad Labem hl.n.;7:05, Roudnice nad Labem;7:52
+6944: : Roudnice nad Labem;8:06, Ústí nad Labem hl.n.;8:51
+6945: : Ústí nad Labem hl.n.;9:05, Roudnice nad Labem;9:52
+6946: : Roudnice nad Labem;10:06, Ústí nad Labem hl.n.;10:51
+6947: : Ústí nad Labem hl.n.;11:05, Roudnice nad Labem;11:52
+6948: : Roudnice nad Labem;12:06, Ústí nad Labem hl.n.;12:51
+6915: X: Ústí nad Labem hl.n.;13:05, Praha Masarykovo nádraží;15:23
+6915: 25: Ústí nad Labem hl.n.;13:05, Roudnice nad Labem;13:52
+6914: 25: Roudnice nad Labem;14:06, Ústí nad Labem hl.n.;14:51
+6919: 25: Ústí nad Labem hl.n.;15:05, Roudnice nad Labem;15:52
+6918: 25: Roudnice nad Labem;16:06, Ústí nad Labem hl.n.;16:51
+6923: 25: Ústí nad Labem hl.n.;17:05, Roudnice nad Labem;17:52
+6922: 25: Roudnice nad Labem;18:06, Ústí nad Labem hl.n.;18:51
+6920: X: Praha Masarykovo nádraží;15:35, Ústí nad Labem hl.n.;17:51
+6925: 25: Ústí nad Labem hl.n.;19:05, Praha Masarykovo nádraží;21:23
+6951: X: Ústí nad Labem hl.n.;18:05, Roudnice nad Labem;18:52
+6952: X: Roudnice nad Labem;20:06, Ústí nad Labem hl.n.;20:51
+6925: 25: Ústí nad Labem hl.n.;19:05, Praha Masarykovo nádraží;21:23
+
+109616sv: 7: Praha jih;6:52, Praha Masarykovo nádraží;7:20
+6905: X6: Ústí nad Labem hl.n.;5:06, Praha Masarykovo nádraží;7:23
+6906: X: Praha Masarykovo nádraží;7:38, Ústí nad Labem hl.n.;9:51
+9616: 25: Praha Masarykovo nádraží;7:35, Kralupy nad Vltavou;8:15
+6906: 25: Kralupy nad Vltavou;8:27, Ústí nad Labem hl.n.;9:51
+6911: : Ústí nad Labem hl.n.;10:05, Praha Masarykovo nádraží;12:23
+6914: X: Praha Masarykovo nádraží;12:35, Ústí nad Labem hl.n.;14:51
+9632: 25: Praha Masarykovo nádraží;12:35, Nelahozeves;13:29
+9637: 25: Nelahozeves;14:26, Praha Masarykovo nádraží;15:23
+6919: X: Ústí nad Labem hl.n.;15:05, Praha Masarykovo nádraží;17:23
+6920: 25: Praha Masarykovo nádraží;15:35, Ústí nad Labem hl.n.;17:51
+6926: X: Praha Masarykovo nádraží;17:35, Ústí nad Labem hl.n.;19:51
+6951: 25: Ústí nad Labem hl.n.;18:05, Roudnice nad Labem;18:52
+6953: X: Ústí nad Labem hl.n.;20:05, Roudnice nad Labem;20:52
+6952: 25: Roudnice nad Labem;20:06, Ústí nad Labem hl.n.;20:51
+
+6901: X: Roudnice nad Labem;4:36, Praha Masarykovo nádraží;5:51
+6901: 25: Kralupy nad Vltavou;5:12, Praha Masarykovo nádraží;5:51
+9608: : Praha Masarykovo nádraží;6:05, Kralupy nad Vltavou;6:45
+9613: : Kralupy nad Vltavou;7:12, Praha Masarykovo nádraží;7:51
+9618: : Praha Masarykovo nádraží;8:05, Kralupy nad Vltavou;8:45
+9621: : Kralupy nad Vltavou;9:12, Praha Masarykovo nádraží;9:51
+9624: : Praha Masarykovo nádraží;10:05, Kralupy nad Vltavou;10:45
+9627: : Kralupy nad Vltavou;11:12, Praha Masarykovo nádraží;11:51
+9630: : Praha Masarykovo nádraží;12:05, Kralupy nad Vltavou;12:45
+9633: : Kralupy nad Vltavou;13:12, Praha Masarykovo nádraží;13:51
+9636: : Praha Masarykovo nádraží;14:05, Kralupy nad Vltavou;14:45
+9639: : Kralupy nad Vltavou;15:12, Praha Masarykovo nádraží;15:51
+9642: : Praha Masarykovo nádraží;16:05, Kralupy nad Vltavou;16:45
+9645: : Kralupy nad Vltavou;17:12, Praha Masarykovo nádraží;17:51
+9648: : Praha Masarykovo nádraží;18:05, Kralupy nad Vltavou;18:45
+9651: : Kralupy nad Vltavou;19:12, Praha Masarykovo nádraží;19:51
+9656: : Praha Masarykovo nádraží;20:05, Kralupy nad Vltavou;20:45
+9657: : Kralupy nad Vltavou;21:12, Praha Masarykovo nádraží;21:51
+9662: : Praha Masarykovo nádraží;22:05, Kralupy nad Vltavou;22:45
+6927: 5,6: Roudnice nad Labem;22:22, Kralupy nad Vltavou;23:10
+
+9600: 25: Praha hl.n.;0:30, Kralupy nad Vltavou;1:08
+9603: X6: Kralupy nad Vltavou;4:12, Praha Masarykovo nádraží;4:51
+9604: X6: Praha Masarykovo nádraží;5:05, Kralupy nad Vltavou;5:45
+9607: X: Kralupy nad Vltavou;6:02, Praha Masarykovo nádraží;6:39
+9609: 25: Kralupy nad Vltavou;6:12, Praha Masarykovo nádraží;6:51
+9614: : Praha Masarykovo nádraží;7:05, Kralupy nad Vltavou;7:45
+9617: : Kralupy nad Vltavou;8:12, Praha Masarykovo nádraží;8:51
+9622: : Praha Masarykovo nádraží;9:05, Kralupy nad Vltavou;9:45
+9623: : Kralupy nad Vltavou;10:12, Praha Masarykovo nádraží;10:51
+9628: : Praha Masarykovo nádraží;11:05, Kralupy nad Vltavou;11:45
+9629: : Kralupy nad Vltavou;12:12, Praha Masarykovo nádraží;12:51
+9634: : Praha Masarykovo nádraží;13:05, Kralupy nad Vltavou;13:45
+9635: : Kralupy nad Vltavou;14:12, Praha Masarykovo nádraží;14:51
+9640: : Praha Masarykovo nádraží;15:05, Kralupy nad Vltavou;15:45
+9641: : Kralupy nad Vltavou;16:12, Praha Masarykovo nádraží;16:51
+9646: : Praha Masarykovo nádraží;17:05, Kralupy nad Vltavou;17:45
+9647: : Kralupy nad Vltavou;18:12, Praha Masarykovo nádraží;18:51
+9652: : Praha Masarykovo nádraží;19:05, Kralupy nad Vltavou;19:45
+9655: : Kralupy nad Vltavou;20:12, Praha Masarykovo nádraží;20:51
+9660: : Praha Masarykovo nádraží;21:05, Kralupy nad Vltavou;21:45
+9661: : Kralupy nad Vltavou;22:12, Praha Masarykovo nádraží;22:51
+9666: : Praha Masarykovo nádraží;23:06, Kralupy nad Vltavou;23:45
+
+9605: X: Kralupy nad Vltavou;4:42, Praha Masarykovo nádraží;5:23
+9606: X: Praha Masarykovo nádraží;5:35, Kralupy nad Vltavou;6:15
+9611: X: Kralupy nad Vltavou;6:22, Praha Masarykovo nádraží;7:09
+6905: 7: Ústí nad Labem hl.n.;5:06, Praha Masarykovo nádraží;7:23
+9616: X: Praha Masarykovo nádraží;7:35, Kralupy nad Vltavou;8:15
+106905sv: 7: Praha Masarykovo nádraží;7:41, Praha jih;8:19
+9619: X: Kralupy nad Vltavou;8:42, Praha Masarykovo nádraží;9:23
+109619sv: X: Praha Masarykovo nádraží;9:28, Praha jih;10:00
+200684pksv: T: Praha jih;14:27, Praha hl.n.;14:38
+100684pk: T: Praha hl.n.;14:51, Děčín hl.n.;16:31
+129017sv: X: Praha jih;15:27, Praha hl.n.;15:38
+9145: X: Praha hl.n.;15:47, Strančice;16:22
+9146: X: Strančice;16:38, Praha hl.n.;17:12
+9153: X: Praha hl.n.;17:47, Strančice;18:22
+9154: X: Strančice;18:38, Praha hl.n.;19:12
+689: T: Děčín hl.n.;17:26, Praha hl.n.;19:10
+100689sv: T: Praha hl.n.;19:17, Praha jih;19:25
+129018sv: X: Praha hl.n.;19:27, Praha jih;19:38
+
+99999: : Údržba SÚ;7:30;18:00
+
+9605: 25: Kralupy nad Vltavou;4:42, Praha Masarykovo nádraží;5:23
+106904sv: X: Praha jih;5:28, Praha-Libeň;5:45
+6904: X: Praha-Libeň;5:52, Ústí nad Labem hl.n.;7:51
+9606: 25: Praha Masarykovo nádraží;5:35, Kralupy nad Vltavou;6:15
+6904: 25: Kralupy nad Vltavou;6:27, Ústí nad Labem hl.n.;7:51
+6909: : Ústí nad Labem hl.n.;8:05, Praha Masarykovo nádraží;10:23
+9626: X: Praha Masarykovo nádraží;10:35;Kralupy nad Vltavou;11:15
+9626: 25: Praha Masarykovo nádraží;10:35;Nelahozeves;11:29
+9631: X: Kralupy nad Vltavou;12:42, Praha Masarykovo nádraží;13:23
+9631: 25: Nelahozeves;12:26, Praha Masarykovo nádraží;13:23
+6916: : Praha Masarykovo nádraží;13:35, Ústí nad Labem hl.n.;15:51
+6921: : Ústí nad Labem hl.n.;16:05, Praha Masarykovo nádraží;18:23
+9650: X: Praha Masarykovo nádraží;18:35;Kralupy nad Vltavou;19:15
+9650: 25: Praha Masarykovo nádraží;18:35;Nelahozeves;19:29
+9653: X: Kralupy nad Vltavou;19:42, Praha Masarykovo nádraží;20:23
+9653: 25: Nelahozeves;19:33, Praha Masarykovo nádraží;20:23
+9658: X: Praha Masarykovo nádraží;20:35;Kralupy nad Vltavou;21:15
+9658: 25: Praha Masarykovo nádraží;20:35;Nelahozeves;21:29
+9659: X: Kralupy nad Vltavou;21:42, Praha Masarykovo nádraží;22:23
+9659: 25: Nelahozeves;21:33, Praha Masarykovo nádraží;22:23
+9664: : Praha Masarykovo nádraží;22:35, Vraňany;23:30
+109691sv: : Vraňany;23:35, Kralupy nad Vltavou;23:43
+
+6900: X: Kralupy nad Vltavou;4:25, Ústí nad Labem hl.n.;5:51
+6907: X: Ústí nad Labem hl.n.;6:05, Praha Masarykovo nádraží;8:23
+6907: 25: Roudnice nad Labem;6:51, Praha Masarykovo nádraží;8:23
+9620: : Praha Masarykovo nádraží;8:35, Nelahozeves;9:29
+9625: : Nelahozeves;10:26, Praha Masarykovo nádraží;11:23
+6912: : Praha Masarykovo nádraží;11:35, Ústí nad Labem hl.n.;13:51
+6917: : Ústí nad Labem hl.n.;14:05, Praha Masarykovo nádraží;16:23
+6922: X: Praha Masarykovo nádraží;16:35, Ústí nad Labem hl.n.;18:51
+9644: 25: Praha Masarykovo nádraží;16:35, Nelahozeves;17:29
+9649: 25: Nelahozeves;18:26, Praha Masarykovo nádraží;19:23
+9654: 25: Praha Masarykovo nádraží;19:35, Kralupy nad Vltavou;20:15
+6925: X: Ústí nad Labem hl.n.;19:05, Praha Masarykovo nádraží;21:23
+6928: X: Praha Masarykovo nádraží;21:35, Děčín hl.n.;23:48
+9663: 25: Kralupy nad Vltavou;22:42, Praha Masarykovo nádraží;23:23
+109663sv: 25: Praha Masarykovo nádraží;23:28, Praha jih;23:59
+
+1993: : Děčín hl.n.;0:16, Lovosice;0:50
+6903: : Lovosice;4:34, Praha Masarykovo nádraží;6:23
+9315: X: Praha Masarykovo nádraží;6:31, Kolín;7:41
+9320: X: Kolín;7:50, Praha Masarykovo nádraží;9:05
+9610: 25: Praha Masarykovo nádraží;6:35, Nelahozeves;7:29
+9619: 25: Nelahozeves;8:26, Praha Masarykovo nádraží;9:23
+6908: 25: Praha Masarykovo nádraží;9:35, Ústí nad Labem hl.n.;11:51
+6910: X: Praha Masarykovo nádraží;9:35, Ústí nad Labem hl.n.;11:51
+6913: : Ústí nad Labem hl.n.;12:05, Praha Masarykovo nádraží;14:23
+6918: X: Praha Masarykovo nádraží;14:35, Ústí nad Labem hl.n.;16:51 
+6923: X: Ústí nad Labem hl.n.;17:05, Praha Masarykovo nádraží;19:23
+9654: X: Praha Masarykovo nádraží;19:35, Kralupy nad Vltavou;20:15
+9663: X: Kralupy nad Vltavou;22:42, Praha Masarykovo nádraží;23:23
+109663sv: X: Praha Masarykovo nádraží;23:28, Praha jih;23:59
+9638: 25: Praha Masarykovo nádraží;14:35, Nelahozeves;15:29
+9643: 25: Nelahozeves;16:26, Praha Masarykovo nádraží;17:23
+6924: 25: Praha Masarykovo nádraží;17:35, Ústí nad Labem hl.n.;19:51
+6953: 25: Ústí nad Labem hl.n.;20:05, Roudnice nad Labem;20:52
+
+
+1: 6,7: 9
+2: 7: 2
+2: 5: 8
+2: 6: 5
+4: 5,6: 3
+6: 6: 2
+7: 5: 7
+7: 6: 7
+8: 7: 1
+8: 6: 6
+9: 7: 3
+9: 6: 8
