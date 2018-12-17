@@ -1,4 +1,4 @@
-28100: X: Praha-Libeň;4:30, Roztoky u Prahy;4:48
+﻿28100: X: Praha-Libeň;4:30, Roztoky u Prahy;4:48
 28101: X: Roztoky u Prahy;5:14, Praha-Libeň;5:31
 28106: X: Praha-Libeň;6:00, Roztoky u Prahy;6:18
 28107: X: Roztoky u Prahy;6:44, Praha-Hostivař;7:11
@@ -12,7 +12,7 @@
 28127: X: Roztoky u Prahy;13:44, Praha-Hostivař;14:11
 28132: X: Praha-Hostivař;14:17, Roztoky u Prahy;14:48
 28133: X: Roztoky u Prahy;15:14, Praha-Hostivař;15:41
-28138: X: Praha-Hostivař;15:87, Roztoky u Prahy;16:18
+28138: X: Praha-Hostivař;15:47, Roztoky u Prahy;16:18
 28139: X: Roztoky u Prahy;16:44, Praha-Hostivař;17:11
 28144: X: Praha-Hostivař;17:17, Roztoky u Prahy;17:48
 28145: X: Roztoky u Prahy;18:14, Praha-Hostivař;18:41
