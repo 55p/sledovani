@@ -308,16 +308,15 @@ $lak['sukafon_najbrt_pismo'] = array(
 );
  */
 
-// $lak['cd_cargo'] = array(731017, 742442);
-// $lak['ponorka_cervena'] = array(731010, 731056, 731057, 731058);
+$lak['cd_cargo'] = array(731056, 742209, 742442);
+$lak['ponorka_cervena'] = array(731010, 731057, 731058, 731059);
 $lak['kocour_zeleny'] = [742452]; //array(742129);
-// $lak['kocour_tmavecerveny'] = array(742239, 742370);
-// $lak['kocour_cervenohnedy'] = array(742170);
-// $lak['kocour_cerveny'] = array(742013, 742081, 742140, 742200, 742201, 742217, 742316);
-// $lak['kocour_hokejka'] = array(742317);
-// $lak['kocour_zluty'] = array(742434);
-// $lak['lego_8'] = array(708008);
-// $lak['lego_10'] = array(708010);
+$lak['kocour_tmavecerveny'] = array(742239, 742370);
+$lak['kocour_cervenohnedy'] = array(742170);
+$lak['kocour_bezovy'] = [742008, 742013, 742081, 742140, 742157, 742200, 742201, 742217, 742253, 742316, 742333, 742409];
+$lak['kocour_hokejka'] = array(742317);
+$lak['kocour_zluty'] = array(742434);
+$lak['lego_8'] = array(708008, 708010, 708012);
 
 $lak['berta_107'] = [749107];
 $lak['berta_seda'] = [749006];

@@ -671,8 +671,13 @@ br + .lakVozidla {
 
 
 .cd_cargo {
+  /*
   background: #9BE3FF;
   color: #181892;
+  */
+  background: #181892;
+  color: #fff;
+  
 }
 
 .ponorka_cervena {
@@ -686,7 +691,7 @@ br + .lakVozidla {
 }
 
 .kocour_tmavecerveny {
-  background: #9B2424;
+  background: #D71111 ;
   color: #FFF200;
 }
 
@@ -695,14 +700,14 @@ br + .lakVozidla {
   color: #FFF200;
 }
 
-.kocour_cerveny {
+.kocour_bezovy {
   background: #E72525;
-  color: #FED77A;
+  color: #FEE3A7;
 }
 
 .kocour_hokejka {
   background: #E72525;
-  color: #FED77A;
+  color: #FFF200;
   border-left: 1ex solid #FED77A;
   border-right: 1ex solid #FED77A;
 }
@@ -714,17 +719,18 @@ br + .lakVozidla {
 
 .lego_8 {
   background: #DDDDDD;
-  color: #CC0000;
-  border-left: 1ex solid #0000A0;
-  border-right: 1ex solid #0000A0;
+  color: #0000ff;
+  border-left: 1ex solid #CC0000;
+  border-right: 1ex solid #CC0000;
 }
 
+/*
 .lego_10 {
   background: #D8BCA0;
   color: #B30000;
   border-left: 1ex solid #0000A0;
   border-right: 1ex solid #0000A0;
-}
+}*/
 
 .berta_seda {
   background: #DDDDDD;
