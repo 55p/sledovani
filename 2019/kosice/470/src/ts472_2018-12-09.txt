@@ -1,0 +1,28 @@
+8507: X: Lipany;5:57, Košice;7:24
+8506: : Košice;7:35, Lipany;8:58
+8513: 25: Lipany;9:03, Košice;10:24
+8519: X: Lipany;12:03, Košice;13:24
+8520: X1234: Košice;14:36, Lipany;15:56
+8531: X1234: Lipany;18:03, Košice;19:24
+8520: X5,T: Košice;14:36, Čirč;16:47
+8531: X5,T: Čirč;17:10, Košice;19:24
+8520: 6: Košice;14:36, Prešov;15:17
+8527: 6: Prešov;16:42, Košice;17:24
+7834: : Košice;21:27, Spišská Nová Ves;22:47
+
+7801: : Spišská Nová Ves;3:15, Košice;4:38
+8801: X: Košice;5:06, Čierna nad Tisou;6:51
+8808: X: Čierna nad Tisou;8:01, Košice;9:54
+8512: X: Košice;10:17, Prešov;11:05
+1937: X: Prešov;14:17, Košice;14:51
+1934: X: Košice;15:14, Prešov;15:42
+1937: X: Prešov;16:17, Košice;16:53
+8502: 25: Košice;5:36, Prešov;6:18
+8507: 6: Prešov;6:42, Kysak;7:06
+8510: 6: Kysak;9:53, Lipany;10:56
+8517: 6: Lipany;11:03, Košice;12:24
+8518: 6: Košice;13:35, Lipany;14:56
+8525: 6: Lipany;15:03, Košice;16:24
+8527: T: Prešov;16:42, Košice;17:24
+8526: : Košice;17:36, Lipany;18:56
+108537pk: z25: Lipany;20:29, Košice;22:22

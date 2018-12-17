@@ -1,0 +1,25 @@
+107890pksv: X: Košice;2:01, Poprad-Tatry;3:12
+7803: X: Poprad-Tatry;3:36, Košice;5:24
+8508: X: Košice;8:36, Prešov;9:19
+8515: X: Prešov;10:44, Kysak;11:05
+8514: X: Kysak;11:53, Lipany;12:56
+8521: X: Lipany;13:03, Košice;14:22
+8524: X: Košice;16:36, Lipany;17:56
+107810pk: 25: Košice;9:27, Poprad-Tatry;11:16
+7821: 25: Poprad-Tatry;12:47, Košice;14:43
+8524: 25: Košice;16:36, Prešov;17:15
+
+108500pk: X1,T: Prešov;5:19, Lipany;5:56
+8549: X: Lipany;6:20, Prešov;6:58
+8591sv: X: Prešov;11:06, Košice;11:46
+8811: X: Košice;14:16, Čierna nad Tisou;15:59
+8818: X: Čierna nad Tisou;16:01, Košice;17:54
+108509: 6: Lipany;6:46, Prešov;7:26
+8515: 6: Prešov;10:44, Kysak;11:05
+8514: 6: Kysak;11:53, Lipany;12:56
+8521: 6: Lipany;13:03, Košice;14:22
+8517: T: Lipany;11:03, Košice;12:24
+8518: T: Košice;13:35, Lipany;14:56
+8525: T: Lipany;15:03, Košice;16:24
+8518: : Košice;18:36, Lipany;19:56
+8525: : Lipany;20:29, Košice;22:22

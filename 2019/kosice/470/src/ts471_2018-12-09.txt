@@ -1,0 +1,15 @@
+8897sv: X1,T: Košice;3:40, Michaľany;4:17
+8825: : Michaľany;5:00, Čierna nad Tisou;5:48
+8806: : Čierna nad Tisou;7:01, Košice;8:54
+8510: T: Košice;9:26, Lipany;10:56
+8521: T: Lipany;13:03, Košice;14:22
+7820: X: Košice;14:24, Poprad-Tatry;16:25
+7829: X: Poprad-Tatry;16:47, Košice;18:41
+8821: 6,2104: Košice;21:06, Čierna nad Tisou;22:49
+
+7890sv: X: Košice;2:01, Poprad-Tatry;3:12
+7807: X: Poprad-Tatry;5:15, Košice;7:31
+8815: X: Košice;16:06, Michaľany;16:58
+8800: 7,2204: Čierna nad Tisou;3:01, Košice;4:54
+3422: 25: Košice;11:27, Svit;13:37
+7825: 25: Svit;14:26, Košice;16:41
