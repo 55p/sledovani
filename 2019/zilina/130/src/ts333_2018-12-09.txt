@@ -1,3 +1,3 @@
-3402: X: Liptovský Mikuláš;5:02, Žilina;6:31
+﻿3404: X: Liptovský Mikuláš;5:50, Žilina;7:27
 3425: X: Žilina;15:34, Liptovský Hrádok;17:19
 3450: X: Liptovský Hrádok;18:23, Liptovský Mikuláš;18:36
