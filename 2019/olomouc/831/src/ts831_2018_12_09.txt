@@ -1,4 +1,4 @@
-1660pk:T: Opava východ;6:14, Krnov;6:47
+﻿1660pk:T: Opava východ;6:14, Krnov;6:47
 1661:6: Lipová Lázně;5:16, Krnov;6:58
 1121:25: Krnov;7:06, Ostrava střed;8:16
 1128:25: Ostrava střed;9:42, Krnov;10:56
@@ -27,7 +27,7 @@
 1123pk:: Opava východ;9:37, Ostrava-Svinov;9:57
 1126:: Ostrava-Svinov;12:00, Olomouc hl.n.;14:52
 1131:: Olomouc hl.n.;15:05, Ostrava-Svinov;17:59
-2881pk: Ostrava-Svinov;19:48, Ostrava-Kunčice;20:00
+2881pk:: Ostrava-Svinov;19:48, Ostrava-Kunčice;20:00
 2878:: Ostrava-Kunčice;20:52, Ostrava-Svinov;21:04
 3448:: Ostrava-Svinov;21:58, Opava východ;22:35
 

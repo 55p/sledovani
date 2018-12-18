@@ -1,4 +1,4 @@
-3702: : Prostějov hl.n.;4:23, Olomouc hl.n.;4:48
+﻿3702: : Prostějov hl.n.;4:23, Olomouc hl.n.;4:48
 3331: X: Olomouc hl.n.;4:56, Hranice na Moravě;5:51
 3332: X: Hranice na Moravě;6:03, Olomouc hl.n.;7:01
 3331: 25: Olomouc hl.n.;4:56, Přerov;5:17
@@ -38,13 +38,14 @@
 3204: X: Střelná;6:51, Přerov;8:47
 3752: X: Přerov;22:05, Šumperk;23:29
 
-3705: : Šumperk;4:24, Prostějov hl.n.;5:53
+3705: X: Šumperk;4:24, Prostějov hl.n.;5:53
 3708: X: Prostějov hl.n.;6:00, Olomouc hl.n.;6:26
 3711: X: Olomouc hl.n.;6:52, Prostějov hl.n.;7:17
 1420: X: Prostějov hl.n.;7:35, Olomouc hl.n.;7:52
 3335: X: Olomouc hl.n.;13:55, Hranice na Moravě;14:52
 3338: X: Hranice na Moravě;15:04, Olomouc hl.n.;15:59
 3235: X: Olomouc hl.n.;16:55, Vsetín;18:45
+3705: 25: Šumperk;4:24, Olomouc hl.n.;5:22
 3203: 25: Olomouc hl.n.;11:34, Horní Lideč;14:27
 3210: 25: Horní Lideč;15:30, Přerov;17:18
 3237: 25: Přerov;18:26, Vsetín;19:43
