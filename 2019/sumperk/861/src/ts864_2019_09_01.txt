@@ -1,0 +1,9 @@
+13001:X: Šumperk;5:14, Zábřeh na Moravě;5:33
+13000:X: Zábřeh na Moravě;5:46, Velké Losiny;6:26
+13037:X: Velké Losiny;6:30, Šumperk;6:50
+113005pk:X: Šumperk;7:06, Zábřeh na Moravě;7:24
+13006:X: Zábřeh na Moravě;8:49, Šumperk;9:06
+13036:X: Šumperk;14:05, Velké Losiny;14:25
+13015:X: Velké Losiny;14:29, Zábřeh na Moravě;15:07
+13016:X: Zábřeh na Moravě;16:31, Sobotín;17:07
+13055:X: Sobotín;17:29, Šumperk;17:48

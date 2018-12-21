@@ -1,0 +1,44 @@
+3600:25: Hanušovice;4:26, Šumperk;5:06
+13001:25: Šumperk;5:14, Zábřeh na Moravě;5:33
+3650:X: Hanušovice;4:59, Šumperk;5:41
+13000:25: Zábřeh na Moravě;5:46, Šumperk;6:04
+3653:25: Šumperk;7:09, Hanušovice;7:53
+3654:25: Hanušovice;8:06, Šumperk;8:46
+3657:: Šumperk;11:13, Hanušovice;11:53
+3658:: Hanušovice;12:06, Šumperk;12:43
+3611:X: Šumperk;14:14, Jeseník;16:04
+13021:T: Šumperk;16:50, Zábřeh na Moravě;17:07
+13020:T: Zábřeh na Moravě;18:26, Šumperk;18:44
+13023:T: Šumperk;18:51, Zábřeh na Moravě;19:07
+3614:X: Jeseník;17:47, Šumperk;19:47
+13022:25: Zábřeh na Moravě;20:54, Šumperk;21:14
+21953sv:: Šumperk;22:13, Zábřeh na Moravě;22:25
+3665: : Zábřeh na Moravě;22:29, Hanušovice;23:16
+
+13650:X: Hanušovice;4:05, Staré Město pod Sněžníkem;4:24
+13651:X: Staré Město pod Sněžníkem;4:29, Hanušovice;4:50
+13652:: Hanušovice;4:55, Staré Město pod Sněžníkem;5:14
+13653:: Staré Město pod Sněžníkem;5:29, Hanušovice;5:50
+13654:X: Hanušovice;5:58, Staré Město pod Sněžníkem;6:17
+13655:X: Staré Město pod Sněžníkem;6:22, Hanušovice;6:43
+13656:: Hanušovice;6:55, Staré Město pod Sněžníkem;7:14
+13657:: Staré Město pod Sněžníkem;7:29, Hanušovice;7:50
+13658:: Hanušovice;8:04, Staré Město pod Sněžníkem;8:23
+13661:: Staré Město pod Sněžníkem;9:37, Hanušovice;9:58
+13662:: Hanušovice;10:05, Staré Město pod Sněžníkem;10:24
+13663:: Staré Město pod Sněžníkem;11:29, Hanušovice;11:50
+13664:: Hanušovice;12:05, Staré Město pod Sněžníkem;12:24
+13667:: Staré Město pod Sněžníkem;13:19, Hanušovice;13:40
+13666:: Hanušovice;14:05, Staré Město pod Sněžníkem;14:24
+13669:X: Staré Město pod Sněžníkem;14:29, Hanušovice;14:50
+13668:X: Hanušovice;15:05, Staré Město pod Sněžníkem;15:24
+13671:: Staré Město pod Sněžníkem;15:29, Hanušovice;15:50
+13670:: Hanušovice;16:05, Staré Město pod Sněžníkem;16:24
+13673:X: Staré Město pod Sněžníkem;16:29, Hanušovice;16:50
+13672:X: Hanušovice;17:05, Staré Město pod Sněžníkem;17:24
+13675:: Staré Město pod Sněžníkem;17:29, Hanušovice;17:50
+13674:: Hanušovice;18:05, Staré Město pod Sněžníkem;18:24
+13679:25: Staré Město pod Sněžníkem;19:29, Hanušovice;19:50
+13681:X: Staré Město pod Sněžníkem;19:38, Hanušovice;19:59
+13678:: Hanušovice;20:05, Staré Město pod Sněžníkem;20:24
+13683:: Staré Město pod Sněžníkem;21:09, Hanušovice;21:30

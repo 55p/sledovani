@@ -1,4 +1,4 @@
-103900pk: X : Valašské Meziříčí; 04:15, Bystřice pod Hostýnem; 04:47
+﻿103900pk: X : Valašské Meziříčí; 04:15, Bystřice pod Hostýnem; 04:47
 3921: X : Bystřice pod Hostýnem; 04:50, Valašské Meziříčí; 05:23
 3902: : Valašské Meziříčí; 06:15, Kojetín; 07:49
 3953: : Kojetín; 08:09, Kroměříž; 08:21
@@ -122,8 +122,7 @@
 14219: 6 : Kroměříž; 10:12, Vizovice; 11:18
 14218: 6 : Vizovice; 11:22, Otrokovice; 12:02
 3954: X : Kroměříž; 11:37, Kojetín; 11:49
-3911: X : Kojetín; 12:23, Kroměříž; 12:35
-3911pk: X : Kroměříž; 12:47, Valašské Meziříčí; 14:12
+103911|pk Kr-VM|postrk Kroměříž - Valašské Meziříčí: X : Kojetín; 12:23, Valašské Meziříčí; 14:12
 14241: 25 : Otrokovice; 13:48, Vizovice; 14:28
 3912: X : Valašské Meziříčí; 14:30, Kroměříž; 15:47
 114244pk: 25 : Vizovice; 14:32, Kroměříž; 15:36

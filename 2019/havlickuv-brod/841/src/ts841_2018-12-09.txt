@@ -1,0 +1,201 @@
+4860: 6: Třebíč;04:14, Jihlava;05:08
+8741: X: Havlíčkův Brod;04:50, Žďár nad Sázavou;05:24
+8742: X: Žďár nad Sázavou;05:50, Havlíčkův Brod;06:25
+8745: X: Havlíčkův Brod;06:49, Žďár nad Sázavou;07:25
+8748: X: Žďár nad Sázavou;07:44, Havlíčkův Brod;08:19
+114866pk: T: Jihlava;09:22, Havlíčkův Brod;09:50
+8351: T: Havlíčkův Brod;10:05, Horní Cerekev;11:25
+108354pk: 6: Jihlava;11:22, Havlíčkův Brod;11:50
+8355: 6: Havlíčkův Brod;12:05, Jihlávka;13:29
+108358pk:T: Horní Cerekev;12:42, Havlíčkův Brod;13:51
+8753: X: Havlíčkův Brod;12:53, Křižanov;13:58
+8762: X: Křižanov;14:03, Havlíčkův Brod;15:05
+8359: T: Havlíčkův Brod;14:05, Horní Cerekev;15:26
+108362: 6: Jihlávka;14:15, Havlíčkův Brod;15:50
+8759: X: Havlíčkův Brod;15:25, Žďár nad Sázavou;16:01
+8367: 6: Havlíčkův Brod;16:05, Horní Cerekev;17:27
+108366pk: T: Horní Cerekev;16:28, Havlíčkův Brod;17:50
+8369: T: Havlíčkův Brod;18:05, Jihlava město;18:45
+8372: 6: Horní Cerekev;18:45, Havlíčkův Brod;19:52
+108372pk: T: Jihlava město;19:20, Havlíčkův Brod;19:52
+14869: 6: Havlíčkův Brod;20:05, Jihlava;20:33
+8767: T: Havlíčkův Brod;22:09, Žďár nad Sázavou;22:47
+4889: 6: Jihlava;22:40, Třebíč;23:29
+
+8740: X: Žďár nad Sázavou;04:09, Havlíčkův Brod;04:44
+4860: T: Třebíč;04:14, Jihlava;05:08
+8341: X: Havlíčkův Brod;04:48, Horní Cerekev;06:13
+8342: T: Jihlava;05:18, Havlíčkův Brod;05:47
+114905pk: 6: Žďár nad Sázavou;05:33, Nové Město na Moravě;05:53
+14962: 6: Nové Město na Moravě;06:04, Žďár nad Sázavou;06:24
+8347: T: Havlíčkův Brod;06:48, Jihlava;07:18
+8346: X: Jihlava;07:27, Havlíčkův Brod;07:51
+108347pk: T: Jihlava;07:33, Horní Cerekev;08:25
+8748: 6: Žďár nad Sázavou;07:44, Havlíčkův Brod;08:19
+108347: T: Horní Cerekev;08:30, Počátky-Žirovnice;08:48
+8352: T: Počátky-Žirovnice;09:11, Jihlava;10:11
+8354: T: Jihlava;11:22, Havlíčkův Brod;11:50
+8355: T: Havlíčkův Brod;12:05, Jihlávka;13:29
+108753pk: 5: Havlíčkův Brod;12:53, Žďár nad Sázavou;13:28
+8758: 5: Žďár nad Sázavou;13:42, Havlíčkův Brod;14:15
+108362pk: T: Jihlávka;14:15, Havlíčkův Brod;15:50
+4883: X: Havlíčkův Brod;15:13, Třebíč;17:03
+8367: T: Havlíčkův Brod;16:05, Počátky-Žirovnice;17:58
+8374: T: Počátky-Žirovnice;18:50, Jihlava;19:53
+24887: X: Třebíč;19:30, Náměšť nad Oslavou;20:04
+8767: 6: Havlíčkův Brod;22:09, Žďár nad Sázavou;22:47
+
+121915sv: 1: Jihlava;03:17, Okříšky;03:42
+104823pk: 1: Okříšky;03:57, Rapotice;04:57
+104825pk: 2,3,4,5: Náměšť nad Oslavou;05:12, Rapotice;05:24
+4866: X: Rapotice;05:30, Jihlava;07:22
+4864: 6: Náměšť nad Oslavou;05:48, Okříšky;06:25
+104864pk: 6: Okříšky;06:28, Jihlava;07:04
+8744: T: Žďár nad Sázavou;06:32, Havlíčkův Brod;07:07
+8346: X: Jihlava;07:27, Havlíčkův Brod;07:51
+8346: 6: Jihlava;07:27, Havlíčkův Brod;07:51
+8747: T: Havlíčkův Brod;07:49, Žďár nad Sázavou;08:24
+114863pk: 6: Havlíčkův Brod;08:05, Jihlava město;08:40
+14863: X: Havlíčkův Brod;08:05, Jihlava;08:32
+14866: 6: Jihlava město;09:10, Havlíčkův Brod;09:50
+8752: T: Žďár nad Sázavou;09:37, Havlíčkův Brod;10:12
+108351pk: 6: Havlíčkův Brod;10:05, Horní Cerekev;11:25
+108355: T: Havlíčkův Brod;12:05, Jihlávka;13:29
+8358: 6: Horní Cerekev;12:42, Havlíčkův Brod;13:51
+8362: T: Jihlávka;14:15, Havlíčkův Brod;15:50
+8361: X: Jihlava;14:58, Horní Cerekev;15:38
+8757: 6: Havlíčkův Brod;15:10, Žďár nad Sázavou;15:46
+108367pk: T: Havlíčkův Brod;16:05, Horní Cerekev;17:27
+8764: 6: Žďár nad Sázavou;16:09, Havlíčkův Brod;16:45
+108366pk: X: Horní Cerekev;16:28, Havlíčkův Brod;17:50
+8763: 6: Havlíčkův Brod;16:48, Žďár nad Sázavou;17:24
+8369: X: Havlíčkův Brod;18:05, Horní Cerekev;19:23
+8768: 6: Žďár nad Sázavou;18:40, Havlíčkův Brod;19:12
+
+8381: X: Horní Cerekev;04:47, Počátky-Žirovnice;05:05
+8344: X: Počátky-Žirovnice;05:11, Havlíčkův Brod;07:34
+8346: 6: Horní Cerekev;06:40, Jihlava;07:18
+108346pk: 6: Jihlava;07:27, Havlíčkův Brod;07:51
+114863pk: X: Havlíčkův Brod;08:05, Jihlava;08:32
+14863: 6: Havlíčkův Brod;08:05, Jihlava město;08:40
+114866pk: 6: Jihlava město;09:10, Havlíčkův Brod;09:50
+128304pk: X: Jihlava;09:22, Havlíčkův Brod;09:50
+28311: X: Havlíčkův Brod;10:05, Slavonice;12:47
+8351: 6: Havlíčkův Brod;10:05, Horní Cerekev;11:25
+108358pk: 6: Horní Cerekev;12:42, Havlíčkův Brod;13:51
+28312: X: Slavonice;13:00, Dačice;13:26
+8359: 6: Havlíčkův Brod;14:05, Kostelec u Jihlavy;15:05
+208359: T: Havlíčkův Brod;14:05, Kostelec u Jihlavy;15:05
+28334: X: Dačice;14:20, Kostelec u Jihlavy;15:16
+28321: 6: Kostelec u Jihlavy;15:12, Slavonice;16:44
+128321: T: Kostelec u Jihlavy;15:12, Dačice;16:16
+28333: X: Kostelec u Jihlavy;15:22, Dačice;16:23
+28336: T: Dačice;16:34, Kostelec u Jihlavy;17:39
+28318: 6: Slavonice;17:10, Kostelec u Jihlavy;18:59
+28325: T: Kostelec u Jihlavy;18:18, Slavonice;19:48
+28327: 6: Kostelec u Jihlavy;19:07, Slavonice;20:43
+28374: 5: Dačice;20:45, Telč;21:05
+28377: 5: Telč;21:15, Dačice;21:34
+28376: 5: Dačice;22:20, Telč;22:40
+28349: 1,2,3,4: Dačice;22:21, Slavonice;22:47
+
+28300: X: Slavonice;04:09, Kostelec u JIhlavy;05:52
+28354: 6: Telč;06:19, Kostelec u Jihlavy;06:54
+28331: X: Kostelec u Jihlavy;06:37, Dačice město;07:36
+28306: T: Slavonice;08:13, Kostelec u Jihlavy;09:37
+28307: 6: Kostelec u Jihlavy;08:20, Slavonice;09:51
+28308: X: Dačice město;09:09, Kostelec u Jihlavy;10:10
+28309: T: Kostelec u Jihlavy;10:18, Slavonice;12:07
+28309: X: Kostelec u Jihlavy;10:18, Telč;10:53
+28310: 6: Slavonice;11:07, Kostelec u Jihlavy;12:40
+28373: X: Telč;12:35, Dačice;12:54
+28332: X: Dačice;13:00, Kostelec u Jihlavy;14:11
+28312: T: Slavonice;13:00, Kostelec u Jihlavy;14:40
+28315: 6: Kostelec u Jihlavy;13:16, Slavonice;14:42
+28319: X: Kostelec u Jihlavy;14:21, Slavonice;16:03
+28314: 6: Slavonice;15:06, Kostelec u Jihlavy;16:40
+28321: T: Kostelec u Jihlavy;15:12, Slavonice;16:44
+28323: 6: Kostelec u Jihlavy;17:10, Slavonice;18:49
+28318: X: Slavonice;17:10, Kostelec u Jihlavy;18:59
+28320: T: Slavonice;18:13, Kostelec u Jihlavy;19:45
+28344: 6: Slavonice;19:05, Telč;19:52
+28327: X: Kostelec u Jihlavy;19:07, Dačice;20:16
+128327: 5: Dačice;20:17, Slavonice;20:43
+28355: T: Kostelec u Jihlavy;20:19, Telč;20:55
+28374: 1,2,3,4: Dačice;20:45, Telč;21:05
+28377: 1,2,3,4: Telč;21:15, Dačice;21:34
+28346: 5: Slavonice;21:50, Dačice;22:16 
+28376: 1,2,3,4: Dačice;22:20, Telč;22:40
+28349: 5: Dačice;22:21, Slavonice;22:47
+
+28343: X: Telč;04:20, Slavonice;05:08
+28342: X: Slavonice;05:14, Dačice;05:40
+28330: X: Dačice;06:48, Kostelec u Jihlavy;07:55
+28330: T: Telč;07:19, Kostelec u Jihlavy;07:55
+28306: 6: Slavonice;08:13, Kostelec u Jihlavy;09:37
+28307: T: Kostelec u Jihlavy;08:20, Slavonice;09:51
+28307: X: Kostelec u Jihlavy;08:20, Telč;08:56
+28345: X: Telč;09:37, Slavonice;10:25
+28309: 6: Kostelec u Jihlavy;10:18, Slavonice;12:07
+28310: X7: Slavonice;11:07, Kostelec u Jihlavy;12:40
+28312: 6: Slavonice;13:00, Kostelec u Jihlavy;14:40
+28315: X7: Kostelec u Jihlavy;13:16, Slavonice;14:42
+28314: X7: Slavonice;15:06, Kostelec u Jihlavy;16:40
+108359: 6: Kostelec u Jihlavy;15:08, Horní Cerekev;15:26
+8366: 6: Horní Cerekev; 16:28, Havlíčkův Brod;17:50
+28323: T: Kostelec u Jihlavy;17:10, Telč;17:46
+28323: X: Kostelec u Jihlavy;17:10, Slavonice;18:49
+8369: 6: Havlíčkův Brod;18:05, Jihlava;18:34
+28344: X: Slavonice;19:05, Telč;19:52
+28356: X: Telč;20:28, Kostelec u Jihlavy;21:03
+28357: X: Kostelec u Jihlavy;21:28, Telč;22:04
+
+28350: X6: Telč;04:04, Kostelec u Jihlavy;04:40
+8342: 6: Kostelec u Jihlavy;04:56, Havlíčkův Brod;05:47
+28301: X: Kostelec u Jihlavy;04:57, Slavonice;06:38 
+8743: 6: Havlíčkův Brod;05:50, Žďár nad Sázavou;06:24
+8477: 6: Žďár nad Sázavou;06:32, Havlíčkův Brod;07:07
+28304: X: Slavonice;07:03, Havlíčkův Brod;09:50
+8346: T: Jihlava;07:27, Havlíčkův Brod;07:51
+8747: 6: Havlíčkův Brod;07:49, Žďár nad Sázavou;08:24
+14863: T: Havlíčkův Brod;08:05, Jihlava město;08:40
+14866: T: Jihlava město;09:10, Havlíčkův Brod;09:50
+8351: T: Havlíčkův Brod;10:05, Horní Cerekev;11:25
+128311pk: X: Havlíčkův Brod;10:05, Jihlava;10:33
+8752: 6: Žďár nad Sázavou;09:37, Havlíčkův Brod;10:12
+8571: 6: Havlíčkův Brod;11:41, Žďár nad Sázavou;12:17
+8756: 6: Žďár nad Sázavou;12:29, Havlíčkův Brod;13:05
+8358: T: Horní Cerekev;12:42, Havlíčkův Brod;13:51
+108359pk: T: Havlíčkův Brod;14:05, Horní Cerekev;15:26
+8363: X: Jihlava;13:53, Horní Cerekev;16:45
+8366: T: Horní Cerekev;16:28, Havlíčkův Brod;17:50
+8368: X: Horní Cerekev;17:08 Havlíčkův Brod;18:41
+108369pk: T: Havlíčkův Brod;18:05, Jihlava město;18:45
+8765: X: Havlíčkův Brod;19:05, Nové Město na Moravě;19:59
+8372: T: Jihlava město;19:20, Havlíčkův Brod;19:52
+8770: X: Nové Město na Moravě;20:04, Havlíčkův Brod;20:58
+14869: T: Havlíčkův Brod;20:05, Jihlava;20:33
+14871: 1,2,3,4: Havlíčkův Brod;21:05, Jihlava město;21:39
+4889: 1,2,3,4: Jihlava město;22:32, Jihlava;22:36
+
+8341: 6: Havlíčkův Brod;04:48, Jihlava;05:16
+8341: T: Havlíčkův Brod;04:48, Jihlava město;05:38
+14862: T: Jihlava město;05:42, Havlíčkův Brod;06:43
+14862: X6: Jihlava;06:05, Havlíčkův Brod;06:43
+8347: 6: Havlíčkův Brod;06:48, Počátky-Žirovnice;08:48
+8352: 6: Počátky-Žirovnice;09:11, Jihlava;10:11
+8749: X: Havlíčkův Brod;09:48, Žďár nad Sázavou;10:24
+8754: X: Žďár nad Sázavou;10:40, Havlíčkův Brod;11:15
+8354: 6: Jihlava;11:22, Havlíčkův Brod;11:50
+8751: X7: Havlíčkův Brod;11:41, Žďár nad Sázavou;12:17
+108355pk: 6: Havlíčkův Brod;12:05, Jihlávka;13:29
+8756: X7: Žďár nad Sázavou;12:29, Havlíčkův Brod;13:05
+105910pk: T: Havlíčkův Brod;13:12, Světlá nad Sázavou;13:28
+109206pk: T: Světlá nad Sázavou;13:43, Ledeč nad Sázavou;14:09
+8362: 6: Jihlávka;14:15, Havlíčkův Brod;15:50 
+9267: T: Ledeč nad Sázavou;15:03, Havlíčkův Brod;15:49
+108367pk: 6: Havlíčkův Brod;16:05, Jihlava;16:35
+9266: X: Havlíčkův Brod;16:49, Ledeč nad Sázavou;17:42
+9269: X: Ledeč nad Sázavou;17:45, Havlíčkův Brod;18:33
+14871: 5: Havlíčkův Brod;21:05, Jihlava město;21:39
+4889: 5: Jihlava město;22:32, Třebíč;23:29

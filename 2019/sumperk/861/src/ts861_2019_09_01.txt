@@ -1,0 +1,63 @@
+13031:vX: Kouty nad Desnou;4:12, Šumperk;4:47
+13030:X: Šumperk;5:05, Velké Losiny;5:25
+3601:6: Šumperk;4:53, Jeseník;6:34
+13003:X: Velké Losiny;5:29, Zábřeh na Moravě;6:07
+13002:X: Zábřeh na Moravě;6:32, Šumperk;6:49
+13050:X: Šumperk;7:05, Sobotín;7:24
+3602:T: Jeseník;5:30, Šumperk;7:23
+13051:X: Sobotín;7:45, Šumperk;8:02
+3604:6: Jeseník;7:46, Šumperk;9:31
+13011:X: Šumperk;11:07, Zábřeh na Moravě;11:24
+13012:X: Zábřeh na Moravě;12:32, Šumperk;12:49
+13013:X: Šumperk;13:07, Zábřeh na Moravě;13:24
+13014:X: Zábřeh na Moravě;14:51, Velké Losiny;15:26
+13041:X: Velké Losiny;15:30, Šumperk;15:49
+3613:: Šumperk;16:14, Jeseník;18:04
+3616:X: Jeseník;18:41, Šumperk;20:43
+1434:25: Jeseník;18:46, Šumperk;20:30
+3619:X6: Šumperk;21:00, Jeseník;22:33
+
+3600:X: Jeseník;3:27, Šumperk;5:06
+13001:X: Šumperk;5:14, Bludov;5:20
+3603:X: Bludov;5:37, Jeseník;7:17
+3602:6: Jeseník;5:30, Šumperk;7:23
+3604:X7: Jeseník;7:46, Šumperk;9:31
+13015:25: Šumperk;14:48, Zábřeh na Moravě;15:07
+3661:X: Šumperk;15:14, Hanušovice;15:54
+13016:25: Zábřeh na Moravě;16:31, Šumperk;16:49
+3662:X: Hanušovice;16:18, Šumperk;17:04
+3615:: Šumperk;18:27, Hanušovice;19:10
+1429pk:X: Hanušovice;20:02, Lipová Lázně;20:53
+13634:X: Lipová Lázně;20:59, Javorník ve Slezsku;21:48
+3616:T: Hanušovice;20:05, Šumperk;20:43
+3619:T: Šumperk;21:00, Jeseník;22:33
+
+13601:: Javorník ve Slezsku;4:10, Lipová Lázně;4:58
+13600:25: Lipová Lázně;5:23, Javorník ve Slezsku;6:11
+13604:X: Lipová Lázně;5:43, Javorník ve Slezsku;6:31
+13605:25: Javorník ve Slezsku;6:15, Jeseník;7:03
+13608:25: Lipová Lázně;7:09, Javorník ve Slezsku;7:57
+13607:X: Javorník ve Slezsku;6:33, Jeseník;7:34
+13609:25: Javorník ve Slezsku;8:01, Lipová Lázně;8:49
+13610:25: Lipová Lázně;9:09, Javorník ve Slezsku;9:57
+13613:25: Javorník ve Slezsku;10:01, Lipová Lázně;10:49
+13614:25: Lipová Lázně;11:09, Javorník ve Slezsku;11:57
+13615:25: Javorník ve Slezsku;12:01, Lipová Lázně;12:49
+13616:25: Lipová Lázně;13:09, Javorník ve Slezsku;13:57
+13617:25: Javorník ve Slezsku;14:01, Lipová Lázně;14:48
+3620:25: Lipová Lázně;15:09, Javorník ve Slezsku;15:57
+3612:X: Jeseník;15:47, Šumperk;17:29
+13621:6: Javorník ve Slezsku;16:01, Lipová Lázně;16:49
+13623:T: Javorník ve Slezsku;16:01, Lipová Lázně;17:01
+13023:X: Šumperk;18:51, Zábřeh na Moravě;19:07
+13626:25: Lipová Lázně;17:09, Javorník ve Slezsku;17:57
+13022:X: Zábřeh na Moravě;20:54, Šumperk;21:14
+13627:25: Javorník ve Slezsku;18:01, Lipová Lázně;18:49
+13634:25: Lipová Lázně;20:59, Javorník ve Slezsku;21:48
+13042:X: Šumperk;23:34, Kouty nad Desnou;0:09
+
+
+1:7:1
+2:6:1
+2:7:2
+3:67:3
