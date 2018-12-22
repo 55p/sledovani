@@ -1,4 +1,5 @@
-﻿18320: X,-2712,-2812,-3112: Čelákovice;5:58, Mochov;6:06
+﻿18339sv:X,-2712,-2812,-3112:Praha-Vysočany;5:34, Čelákovice;5:56
+18320: =: Čelákovice;5:58, Mochov;6:06
 18321: =: Mochov;6:51, Čelákovice;6:57
 18322: =: Čelákovice;7:08, Mochov;7:16
 18323: =: Mochov;7:51, Čelákovice;7:57
@@ -10,3 +11,4 @@
 18329: =: Mochov;18:36, Čelákovice;18:42
 18330: =: Čelákovice;18:54, Mochov;19:02
 18331: =: Mochov;19:06, Čelákovice;19:12
+18338sv:=: Čelákovice;19:14, Praha-Čakovice;19:52
