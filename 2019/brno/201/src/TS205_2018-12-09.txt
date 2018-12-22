@@ -1,1 +1,1 @@
-99993|PSE II|Pohotovostní souprava elektrická II: X: Brno hl.n.;0:00;23:59
+﻿99993|PSE II|Pohotovostní souprava elektrická II: : Brno hl.n.;0:00;23:59

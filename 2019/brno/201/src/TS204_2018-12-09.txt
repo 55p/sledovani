@@ -1,4 +1,4 @@
-24082sv: X2345: Brno dolní nádraží;3:40, Brno-Židenice;3:45
+﻿24082sv: X2345: Brno dolní nádraží;3:40, Brno-Židenice;3:45
 24083sv: X2345: Brno-Židenice;3:51, Vyškov na Moravě;4:19
 24000: X: Vyškov na Moravě;4:30, Brno-Chrlice;5:10
 24001: X: Brno-Chrlice;5:18, Křenovice horní n.;5:35
@@ -41,4 +41,4 @@
 24034: zX: Křenovice horní n.;21:52, Brno-Chrlice;22:10
 24035: zX: Brno-Chrlice;23:05, Vyškov na Moravě;23:42
 24084sv: X1234: Vyškov na Moravě;23:50, Brno-Židenice;0:19
-24085sv: X1234: Brno-Židenice;0:25, Brno dolní nádraží;0:30
+24085sv: X2345: Brno-Židenice;0:25, Brno dolní nádraží;0:30
