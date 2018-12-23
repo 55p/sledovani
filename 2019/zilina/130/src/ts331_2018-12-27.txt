@@ -1,9 +1,9 @@
-1750: X: Poprad-Tatry;4:13, Liptovský Mikuláš;5:21
+﻿1750: X: Poprad-Tatry;4:13, Liptovský Mikuláš;5:21
 3404: X: Liptovský Mikuláš;5:50, Žilina;7:27
 3470: 6: Poprad-Tatry;3:58, Liptovský Mikuláš;4:58
 3479: 6: Liptovský Mikuláš;22:20, Poprad-Tatry;23:40
-3481: T: Žilina;12:30, Poprad-Tatry;15:20
-3432: T: Poprad-Tatry;18:50, Žilina;21:39
+3481: T,-3012,-0101: Žilina;12:30, Poprad-Tatry;15:20
+3432: T,-3012,-0101: Poprad-Tatry;18:50, Žilina;21:39
 3445: zX: Žilina;22:50, Vrútky;23:09
 
 3453: X: Vrútky;4:58, Poprad-Tatry;7:13

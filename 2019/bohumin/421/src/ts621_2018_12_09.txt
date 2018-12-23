@@ -21,8 +21,8 @@
 2890sv:X: Ostrava-Kunčice;6:05, Ostrava-Svinov;6:15
 3304:25: Bohumín;6:13, Ostrava-Svinov;6:28
 3054:: Ostrava-Svinov;6:38, Mošnov\, Ostrava Airport;7:00
-3055:: Mošnov\, Ostrava Airport;7:20, Ostrava-Svinov;7:42
-3055:X: Ostrava-Svinov;7:48, Ostrava-Kunčice;8:00
+103055:25: Mošnov\, Ostrava Airport;7:20, Ostrava-Svinov;7:42
+3055:X: Mošnov\, Ostrava Airport;7:20, Ostrava-Kunčice;8:00
 2892sv:X: Ostrava-Kunčice;8:05, Ostrava-Svinov;8:15
 3362:: Ostrava-Svinov;9:42, Suchdol nad Odrou;10:04
 3363:: Suchdol nad Odrou;11:54, Bohumín;12:33
