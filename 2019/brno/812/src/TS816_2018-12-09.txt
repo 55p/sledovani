@@ -1,4 +1,4 @@
-4441: 6: Ivančice;0:28, Střelice;0:49
+﻿4441: 6: Ivančice;0:28, Střelice;0:49
 4440: 6: Střelice;0:56, Ivančice;1:19
 14401: X6: Ivančice;4:13, Moravské Bránice;4:23
 14400: X6: Moravské Bránice;4:31, Ivančice;4:41
@@ -50,7 +50,7 @@
 14428: X: Moravské Bránice;17:01, Ivančice;17:11
 4453| přední|přední část: X: Ivančice;17:16, Brno hl.n.;18:04
 104414| zadní|zadní část: X: Brno hl.n.;18:54, Moravské Bránice;19:26
-4505: 6: Znojmo;5:58, Hrušovany nad Jevišovkou;6:28
+4505: 6: Hrušovany nad Jevišovkou;6:30, Břeclav; 7:15
 4506: 6: Břeclav;7:40, Znojmo;8:55
 4511: 6: Znojmo;11:00, Břeclav;12:17
 4514: 6: Břeclav;13:40, Znojmo;14:59
