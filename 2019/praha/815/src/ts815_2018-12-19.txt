@@ -66,7 +66,7 @@
 25907: 25: Rudná u Prahy;8:11, Praha hl.n.;9:07
 25910: 25: Praha hl.n.;9:54, Rudná u Prahy;10:46
 25913: 25: Rudná u Prahy;12:11, Praha hl.n.;13:24
-25916: 25: 
+25916: 25: Praha hl.n.;13:54, Rudná u Prahy;14:48 
 25921: 25: Rudná u Prahy;16:11, Praha hl.n.;17:24
 25924: 25: Praha hl.n.;17:54, Rudná u Prahy;18:48
 25929: 25: Rudná u Prahy;20:11, Praha hl.n.;21:24

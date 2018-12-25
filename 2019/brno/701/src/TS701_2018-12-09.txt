@@ -1,22 +1,22 @@
-668: : Brno hl.n.;7:27, Plzeň hl.n.;13:56
-661: : Plzeň hl.n.;6:03, Brno hl.n.;12:30
-662: : Brno hl.n.;13:27, Plzeň hl.n.;19:56
-667: : Plzeň hl.n.;12:03, Brno hl.n.;18:30
+668: : Brno hl.n.;7:27, Jihlava;9:18
+661: : Jihlava;10:40, Brno hl.n.;12:30
+662: : Brno hl.n.;13:27, Jihlava;15:18
+667: : Jihlava;16:40, Brno hl.n.;18:30
 650: XT: Brno hl.n.;19:27, Jihlava;21:17
 
-653: : Strakonice;4:57, Brno hl.n.;10:30
-664: : Brno hl.n.;11:27, Plzeň hl.n.;17:56
-665: : Plzeň hl.n.;10:03, Brno hl.n.;16:30
+653: : Jihlava;8:40, Brno hl.n.;10:30
+664: : Brno hl.n.;11:27, Jihlava;13:18
+665: : Jihlava;14:40, Brno hl.n.;16:30
 652: : Brno hl.n.;17:27, Jihlava;19:18
 
 4801: X: Jihlava;4:41, Brno hl.n.;7:10
 4816: X: Brno hl.n.;15:45, Jihlava;18:22
 
 651: X6: Jihlava;6:40, Brno hl.n.;8:30
-666: X5,25: České Budějovice;14:04, Plzeň hl.n.;15:56
-663: X5,25: Plzeň hl.n.;8:03, České Budějovice;9:55
-660: : Brno hl.n.;15:27, Plzeň hl.n.;21:56
-669: : Plzeň hl.n.;14:03, Brno hl.n.;20:30
+666: X5,25: Brno hl.n.;9:27, Jihlava;11:18
+663: X5,25: Jihlava;12:40, Brno hl.n.;14:30
+660: : Brno hl.n.;15:27, Jihlava;17:18
+669: : Jihlava;18:40, Brno hl.n.;20:30
 
 
 1:6:4
