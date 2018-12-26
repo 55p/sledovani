@@ -349,3 +349,6 @@ $lak['kocour_vleckovy'] = [740692];
 
 $lak['hektor_modry'] = [720003, 721532];
 $lak['hektor_svetle_modry'] = [721549];
+
+$lak['elinka'] = [401001];
+$lak['bobinka'] = [100003];
