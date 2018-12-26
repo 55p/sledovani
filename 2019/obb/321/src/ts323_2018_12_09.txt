@@ -1,6 +1,6 @@
 70pk:: Wien Hbf;7:10, Praha hl.n.;11:07
 79:: Praha hl.n.;12:50, Graz Hbf;19:33
-850pk:: Graz Hbf;20:25, Wien Hbf;23:03
+100850pk:: Graz Hbf;20:25, Wien Hbf;23:03
 
 553:: Wien Hbf;6:56, Graz Hbf;9:33
 76pk:: Graz Hbf;10:26, Praha hl.n.;17:07
