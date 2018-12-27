@@ -1,0 +1,50 @@
+1995: 25: Děčín hl.n.;1:03, Česká Kamenice;1:31
+6651: 25: Česká Kamenice;4:47, Děčín hl.n.;5:17
+6463: 25: Děčín hl.n.;6:02, Ústí nad Labem západ;6:51
+6849: X: Most;23:15, Ústí nad Labem hl.n.;0:24
+106860sv: X: Ústí nad Labem západ;3:46, Krupka-Bohosudov;3:59
+6860: X: Krupka-Bohosudov;3:59, Bílina;4:24
+16501: X: Bílina;4:27, Ústí nad Labem hl.n.;5:11
+16502: X: Ústí nad Labem hl.n.;5:28, Bílina;6:12
+16505: X: Bílina;6:38, Ústí nad Labem hl.n.;7:22
+16506: : Ústí nad Labem hl.n.;8:28, Bílina;9:12
+16509: : Bílina;10:38, Ústí nad Labem hl.n.;11:22
+16510: : Ústí nad Labem hl.n.;12:28, Bílina;13:12
+16515: : Bílina;14:38, Ústí nad Labem hl.n.;15:22
+16530: X: Ústí nad Labem hl.n.;15:28, Úpořiny;15:54
+16531: X: Úpořiny;15:57, Ústí nad Labem hl.n.;16:22
+16518: : Ústí nad Labem hl.n.;16:28, Bílina;17:12
+16523: : Bílina;18:38, Ústí nad Labem hl.n.;19:22
+16524: X: Ústí nad Labem hl.n.;20:28, Bílina;21:12
+116524sv: X: Bílina;21:14, Most;21:24
+6849: X5: Most;23:15, Ústí nad Labem hl.n.;0:24
+6849|pk Tep-ÚnL|postrk Teplice v Čechách - Ústí nad Labem hl.n.: X1234: Most;23:15, Ústí nad Labem hl.n.;0:24
+
+16500: X: Ústí nad Labem hl.n.;4:17, Bílina;5:01
+16503: X: Bílina;5:38, Ústí nad Labem hl.n.;6:22
+16504: : Ústí nad Labem hl.n.;6:28, Bílina;7:12
+16507: : Bílina;8:38, Ústí nad Labem hl.n.;9:22
+16508: : Ústí nad Labem hl.n.;10:28, Bílina;11:12
+16511: : Bílina;12:38, Ústí nad Labem hl.n.;13:22
+16514: : Ústí nad Labem hl.n.;14:28, Bílina;15:12
+16519: : Bílina;16:38, Ústí nad Labem hl.n.;17:22
+16522: : Ústí nad Labem hl.n.;18:28, Bílina;19:12
+6459: : Bílina;20:38, Štětí;22:13
+
+6450: : Štětí;4:18, Ústí nad Labem západ;5:07
+6460: X: Ústí nad Labem západ;5:11, Děčín hl.n.;5:58
+6481: 25: Ústí nad Labem západ;5:27, Ústí nad Labem-Střekov;5:31
+6463: X: Děčín hl.n.;6:02, Ústí nad Labem-Střekov;6:44
+6462: : Ústí nad Labem-Střekov;6:55, Děčín hl.n.;7:34
+6465: : Děčín hl.n.;8:02, Ústí nad Labem-Střekov;8:44
+6464: : Ústí nad Labem-Střekov;9:13, Děčín hl.n.;9:55
+6469: : Děčín hl.n.;12:02, Ústí nad Labem-Střekov;12:44
+6468: : Ústí nad Labem-Střekov;13:13, Děčín hl.n.;13:55
+6471: : Děčín hl.n.;14:02, Ústí nad Labem-Střekov;14:44
+6470: : Ústí nad Labem-Střekov;15:13, Děčín hl.n.;15:55
+6473: : Děčín hl.n.;16:02, Ústí nad Labem-Střekov;16:44
+6472: : Ústí nad Labem-Střekov;17:13, Děčín hl.n.;17:55
+6475: : Děčín hl.n.;18:02, Ústí nad Labem-Střekov;18:44
+6474: : Ústí nad Labem-Střekov;19:13, Děčín hl.n.;19:55
+6971: XT: Děčín hl.n.;22:28, Ústí nad Labem západ;23:00
+6848: XT: Ústí nad Labem hl.n.;23:34, Teplice v Čechách;23:56

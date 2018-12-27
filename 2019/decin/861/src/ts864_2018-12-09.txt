@@ -1,0 +1,6 @@
+6600: : Liberec;5:08, Děčín hl.n.;7:10
+6605: : Děčín hl.n.;8:44, Liberec;10:54
+6606: : Liberec;11:01, Děčín hl.n.;13:10
+6611: : Děčín hl.n.;14:44, Liberec;16:54
+6612: : Liberec;17:01, Děčín hl.n.;19:10
+6617: : Děčín hl.n.;20:42, Liberec;22:45

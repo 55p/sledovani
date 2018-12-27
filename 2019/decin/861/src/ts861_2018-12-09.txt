@@ -1,0 +1,13 @@
+1911: X: Rumburk;5:16, Děčín hl.n.;6:22
+6650: : Děčín hl.n.;6:34, Rumburk;7:50
+6655: : Rumburk;8:00, Děčín hl.n.;9:19
+6654: : Děčín hl.n.;10:35, Rumburk;11:50
+6659: : Rumburk;12:00, Děčín hl.n.;13:19
+6658: : Děčín hl.n.;14:35, Rumburk;15:50
+6663: : Rumburk;16:02, Děčín hl.n.;17:19
+6662: X: Děčín hl.n.;17:35, Rumburk;18:48
+6664: 25: Děčín hl.n.;18:35, Rumburk;19:50
+106667pk: X5: Rumburk;20:00, Děčín hl.n.;21:19
+6667: X1234,25: Rumburk;20:00, Děčín hl.n.;21:19
+106668pk: T: Děčín hl.n.;22:35, Rumburk;23:51
+6668: X1234: Děčín hl.n.;22:35, Rumburk;23:51

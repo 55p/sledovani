@@ -1,0 +1,238 @@
+6620: X: Česká Lípa hl.n.;4:20, Děčín hl.n.;5:03
+6623: X: Děčín hl.n.;5:06, Česká Lípa hl.n.;5:53
+6624: X: Česká Lípa hl.n.;5:56, Děčín hl.n.;6:42
+106625pk: X: Děčín hl.n.;22:40, Česká Lípa hl.n.;23:22
+106090sv: 25: Česká Lípa hl.n.;3:44, Nový Bor;3:57
+6001: 25: Nový Bor;4:01, Mladá Boleslav hl.n.;5:12
+6002: 25: Mladá Boleslav hl.n.;5:21, Svor;6:48
+6005: 25: Svor;7:07, Mladá Boleslav hl.n.;8:34
+6006: 25: Mladá Boleslav hl.n.;9:23, Svor;10:48
+6011: 25: Svor;11:11, Mladá Boleslav hl.n.;12:34
+6010: 25: Mladá Boleslav hl.n.;13:23, Česká Lípa hl.n.;14:21
+
+106090sv: X: Česká Lípa hl.n.;3:44, Nový Bor;3:57
+6001: X: Nový Bor;4:01, Mladá Boleslav hl.n.;5:12
+6002: X: Mladá Boleslav hl.n.;5:21, Svor;6:48
+106005pk: X: Svor;7:07, Česká Lípa hl.n.;7:30
+6620: 25: Česká Lípa hl.n.;4:20, Děčín hl.n.;5:03
+6623: 25: Děčín hl.n.;5:06, Česká Lípa hl.n.;5:53
+6624: 25: Česká Lípa hl.n.;5:56, Děčín hl.n.;6:42
+106607pk: 25: Děčín hl.n.;10:44, Česká Lípa hl.n.;11:24
+6013: X: Česká Lípa hl.n.;13:37, Mladá Boleslav hl.n.;14:34
+6013: 25: Česká Lípa hl.n.;13:37, Mladá Boleslav město;14:46
+9559: X: Mladá Boleslav hl.n.;14:41, Všetaty;15:18
+9574: 25: Mladá Boleslav město;15:32, Turnov;16:29
+9558: X: Všetaty;15:41, Mladějov v Čechách;17:21
+9575: 25: Turnov;17:23, Mladá Boleslav město;18:20
+8531: 25: Mladá Boleslav město;18:29, Mladá Boleslav hl.n.;18:35
+8544: 25: Mladá Boleslav hl.n.;18:40, Mladá Boleslav město;18:46
+9578: 25: Mladá Boleslav město;19:32, Turnov;20:28
+9579: 25: Turnov;20:41, Mladá Boleslav hl.n.;21:16
+8531: X: Mladějov v Čechách;17:35, Mladá Boleslav hl.n.;18:35
+8532: X: Mladá Boleslav hl.n.;19:23, Mladějov v Čechách;20:21
+8537: X: Mladějov v Čechách;20:34, Mladá Boleslav hl.n.;21:34
+18558: 6: Mladá Boleslav hl.n.;22:11, Mladá Boleslav město;22:17
+18525: 6: Mladá Boleslav město;22:32, Mšeno;23:25
+
+106096sv: X: Mladá Boleslav hl.n.;4:23, Mladá Boleslav město;4:29
+6035: X: Mladá Boleslav město;4:33, Nymburk hl.n.;5:21
+8504: X: Nymburk hl.n.;6:31, Mladějov v Čechách;8:13
+8513: X: Mladějov v Čechách;8:29, Mladá Boleslav hl.n.;9:20
+8510: X: Mladá Boleslav hl.n.;9:25, Mladějov v Čechách;10:26
+9560: 6: Mladá Boleslav hl.n.;4:37, Turnov;5:18
+9561: 6: Turnov;5:34, Mladá Boleslav hl.n.;6:12
+9562: T: Mladá Boleslav hl.n.;5:39, Turnov;6:32
+9563: T: Turnov;7:27, Mladá Boleslav hl.n.;8:06
+8502: 6: Mladá Boleslav hl.n.;6:17, Řepov;6:28
+8553: 6: Mšeno;8:08, Mělník;8:48
+8508: T: Mladá Boleslav hl.n.;8:40, Mladějov v Čechách;9:37
+8553: 6: Mšeno;8:08, Mělník;8:48
+8512: 6: Mělník;9:05, Mladějov v Čechách;11:35
+8517: T: Mšeno;14:09, Mělník;14:49
+8519: X: Mladějov v Čechách;12:32, Mladá Boleslav hl.n.;13:35
+8523: 6: Mladějov v Čechách;14:25, Mělník;16:49
+8524: X: Mladá Boleslav hl.n.;15:25, Mladějov v Čechách;16:21
+8526: 7: Mladá Boleslav hl.n.;17:23, Mladějov v Čechách;18:21
+8529: X: Mladějov v Čechách;16:35, Mladá Boleslav město;17:28
+109576pk: X: Mladá Boleslav město;17:33, Mladá Boleslav hl.n.;17:39
+8532: 6: Mladá Boleslav hl.n.;19:23, Mladějov v Čechách;20:21
+9576: X: Mladá Boleslav město;17:33, Turnov;18:33
+9577: X: Turnov;19:27, Mladá Boleslav hl.n.;20:10
+8537|pk Mlm-Mlh|postrk Mladá Boleslav město - Mladá Boleslav hl.n.: 6: Mladějov v Čechách;20:34, Mladá Boleslav hl.n.;21:34
+
+106096sv: 25: Mladá Boleslav hl.n.;4:23, Mladá Boleslav město;4:29
+6035: 25: Mladá Boleslav město;4:33, Nymburk hl.n.;5:21
+6040: 25: Nymburk hl.n.;7:04, Mladá Boleslav město;7:49
+6039: 25: Mladá Boleslav město;8:06, Nymburk hl.n.;8:51
+106042pk: 25: Nymburk hl.n.;9:04, Mladá Boleslav hl.n.;9:41
+9564: X: Mladá Boleslav hl.n.;6:29, Turnov;7:19
+9565: X: Turnov;9:27, Mladá Boleslav hl.n.;10:10
+9568: 25: Mladá Boleslav hl.n.;9:44, Turnov;10:28
+9567: 25: Turnov;11:27, Mladá Boleslav hl.n.;12:10
+9572: 25: Mladá Boleslav hl.n.;13:44, Turnov;14:28
+108520pk: X: Mladá Boleslav hl.n.;14:25, Dolní Bousov;14:58
+8541: X: Dolní Bousov;15:02, Mladá Boleslav hl.n.;15:38
+9573: 25: Turnov;15:30, Mladá Boleslav město;16:21
+1946: X: Mladá Boleslav hl.n.;15:47, Turnov;16:29
+8525: 25: Mladá Boleslav město;16:29, Mladá Boleslav hl.n.;16:35
+18556: 25: Mladá Boleslav hl.n.;16:40, Mladá Boleslav město;16:46
+9576: 25: Mladá Boleslav město;17:33, Turnov;18:33
+9577: 25: Turnov;19:27, Mladá Boleslav hl.n.;20:10
+9575: X: Turnov;17:23, Mladá Boleslav město;18:20
+8542: X1234: Mladá Boleslav;18:32, Dolní Bousov;18:58
+8543: X1234: Dolní Bousov;19:02, Mladá Boleslav hl.n.;19:28
+9578: X: Mladá Boleslav město;19:32, Turnov;20:28
+9579: X: Turnov;20:41, Mladá Boleslav hl.n.;21:16
+8534: X1234: Mladá Boleslav hl.n.;22:20, Mladějov v Čechách;23:23
+
+9562: 6: Mladá Boleslav hl.n.;5:39, Turnov;6:32
+8503: X: Mladějov v Čechách;5:33, Poděbrady;7:19
+8502: 7: Mladá Boleslav hl.n.;6:17, Mladá Boleslav město;6:23
+8553: T: Mladá Boleslav město;6:46, Mladá Boleslav hl.n.;6:51
+108594sv: X: Poděbrady;7:23, Nymburk hl.n.;7:32
+15809: X: Nymburk hl.n.;8:04, Jičín;9:29
+15810: X: Jičín;10:37, Nymburk hl.n.;11:49
+9563: 6: Turnov;7:27, Mladá Boleslav hl.n.;8:06
+8508: 6: Mladá Boleslav hl.n.;8:40, Mladějov v Čechách;9:37
+8512: 7: Mělník;9:05, Mšeno;9:44
+8517: 6: Mšeno;14:09, Mělník;14:49
+8523: 7: Mladějov v Čechách;14:25, Mladá Boleslav hl.n.;15:20
+6046: X: Nymburk hl.n.;12:37, Mladá Boleslav město;13:20
+6045: X: Mladá Boleslav město;13:52, Nymburk hl.n.;14:40
+6050: X: Nymburk hl.n.;15:04, Mladá Boleslav město;15:55
+6051: X: Mladá Boleslav město;16:06, Nymburk hl.n.;16:51
+6054: X: Nymburk hl.n.;17:04, Mladá Boleslav město;17:55
+6053: X: Mladá Boleslav město;18:06, Nymburk hl.n.;18:51
+8532: 7: Mladá Boleslav hl.n.;19:23, Mladějov v Čechách;20:21
+8537|pk Mlm-Mlh|postrk Mladá Boleslav město - Mladá Boleslav hl.n.: 7: Mladějov v Čechách;20:34, Mladá Boleslav hl.n.;21:34
+6056|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město: X1234: Nymburk hl.n.;19:04, Mladá Boleslav město;19:49
+6056: X5: Nymburk hl.n.;19:04, Mladá Boleslav město;19:49
+6055: X: Mladá Boleslav město;20:06, Nymburk hl.n.;20:51
+6058|pk Mlh-Řep|postrk Mladá Boleslav hl.n. - Řepov: X: Nymburk hl.n.;21:04, Řepov;21:51
+8526: 6: Mladá Boleslav hl.n.;17:23, Mladějov v Čechách;18:21
+8534: T: Mladá Boleslav hl.n.;22:20, Mladějov v Čechách;23:23
+6059: X: Řepov;22:20, Kolín;23:50
+
+5800: 6: Kolín;0:53, Praha hl.n.;2:19
+5801: 6: Praha hl.n.;2:30, Kolín;3:55
+6038: X6: Kolín;4:01, Mladá Boleslav hl.n.;5:08
+8550: 7: Mšeno;6:13, Mladá Boleslav město;7:00
+108500pk: X: Mladá Boleslav hl.n.;5:14, Mladějov v Čechách;6:19
+108500pk: 6: Mladá Boleslav hl.n.;5:14, Mladá Boleslav město;5:20
+8503: 6: Mladá Boleslav město;6:24, Poděbrady;7:19
+8507: X: Mladějov v Čechách;6:33, Mladá Boleslav hl.n.;7:36
+18521: 7: Mladá Boleslav město;7:02, Mladá Boleslav hl.n.;7:08
+108594sv: 6: Poděbrady;7:23, Nymburk hl.n.;7:32
+6042: 6: Nymburk hl.n.;9:04, Mladá Boleslav město;9:49
+6041: 6: Mladá Boleslav město;10:06, Nymburk hl.n.;10:51
+6044: 6: Nymburk hl.n.;11:04, Mladá Boleslav město;11:49
+6043: 6: Mladá Boleslav město;12:06, Nymburk hl.n.;12:51
+6048: 6: Nymburk hl.n.;13:04, Mladá Boleslav město;13:49
+6047: 6: Mladá Boleslav město;14:06, Nymburk hl.n.;14:51
+6050: 6: Nymburk hl.n.;15:04, Mladá Boleslav město;15:55
+6051: 6: Mladá Boleslav město;16:06, Nymburk hl.n.;16:51
+6054: 6: Nymburk hl.n.;17:04, Mladá Boleslav město;17:55
+6053: 6: Mladá Boleslav město;18:06, Nymburk hl.n.;18:51
+8506: 7: Mladá Boleslav hl.n.;7:24, Mladějov v Čechách;8:19
+8515: 7: Mladějov v Čechách;9:39, Mladá Boleslav hl.n.;10:35
+108514pk: X: Mladá Boleslav hl.n.;11:24, Mladá Boleslav město;11:30
+9570: X: Mladá Boleslav město;11:33, Turnov;12:28
+9569: X: Turnov;13:27, Mladá Boleslav hl.n.;14:10
+8520: X: Mladá Boleslav hl.n.;14:25, Mladějov v Čechách;15:21
+8525: X: Lomnice n.Popelkou;14:58, Mladá Boleslav hl.n.;16:35
+8526: X: Mladá Boleslav hl.n.;17:23, Mladějov v Čechách;18:21
+8522: 7: Mělník;13:06, Mšeno;13:45
+8533: 7: Mladějov v Čechách;18:25, Mladá Boleslav hl.n.;19:20
+6056|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město: 6: Nymburk hl.n.;19:04, Mladá Boleslav město;19:49
+6055: 6: Mladá Boleslav město;20:06, Nymburk hl.n.;20:51
+8560: 7: Mšeno;20:31, Mladá Boleslav město;21:28
+6058: 6: Nymburk hl.n.;21:04, Řepov;21:51
+6057: 6: Řepov;21:53, Kolín;23:29
+8537: 7: Mladá Boleslav město;21:28, Mladá Boleslav hl.n.;21:34
+
+5800: 7: Kolín;0:53, Praha hl.n.;2:19
+5801: 7: Praha hl.n.;2:30, Kolín;3:55
+6038: 7: Kolín;4:01, Mladá Boleslav hl.n.;5:08
+8500: 7: Mladá Boleslav hl.n.;5:14, Mladá Boleslav město;5:20
+8501: X6: Mladějov v Čechách;4:30, Mladá Boleslav hl.n.;5:26
+8551: 6: Mantova;6:00, Roma Termini;9:43
+8550: 6: Balatonszentgyörgy;4:38, Nagykanizsa;5:24
+18521: 6: Mladá Boleslav město;7:02, Mladá Boleslav hl.n.;7:08
+9562: X: Mladá Boleslav hl.n.;5:39, Turnov;6:32
+9563: X: Turnov;7:27, Nymburk hl.n.;8:51
+8503: T: Mladá Boleslav město;6:24, Poděbrady;7:19
+108594sv: T: Poděbrady;7:23, Nymburk hl.n.;7:32
+8506: 6: Mladá Boleslav hl.n.;7:24, Mladějov v Čechách;8:19
+8515: 6: Mladějov v Čechách;9:39, Mladá Boleslav hl.n.;10:35
+6042: XT: Nymburk hl.n.;9:04, Mladá Boleslav město;9:49
+6041: XT: Mladá Boleslav město;10:06, Nymburk hl.n.;10:51
+6044|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město: X: Nymburk hl.n.;11:04, Mladá Boleslav město;11:49
+6044: T: Nymburk hl.n.;11:04, Mladá Boleslav město;11:49
+8515: 6: Mladějov v Čechách;9:39, Mladá Boleslav hl.n.;10:35
+6043: T: Mladá Boleslav město;12:06, Nymburk hl.n.;12:51
+6048: T: Nymburk hl.n.;13:04, Mladá Boleslav město;13:49
+6047: T: Mladá Boleslav město;14:06, Nymburk hl.n.;14:51
+8540: X: Mladá Boleslav město;12:24, Dolní Bousov;12:51
+8521: X: Dolní Bousov;14:02, Mladá Boleslav hl.n.;14:38
+6049: X: Mladá Boleslav hl.n.;14:41, Nymburk hl.n.;15:20
+6052: X: Nymburk hl.n.;16:12, Mladá Boleslav město;16:58
+8522: 6: Mělník;13:06, Mšeno;13:45
+6050: T: Nymburk hl.n.;15:04, Mladá Boleslav město;15:55
+6051: T: Mladá Boleslav město;16:06, Nymburk hl.n.;16:51
+6054: T: Nymburk hl.n.;17:04, Mladá Boleslav město;17:55
+6053: T: Mladá Boleslav město;18:06, Nymburk hl.n.;18:51
+9576: X: Mladá Boleslav město;17:33, Mladá Boleslav hl.n.;17:39
+8533: 6: Mladějov v Čechách;18:25, Mladá Boleslav hl.n.;19:20
+6056|pk Mlh-Mlm|postrk Mladá Boleslav hl.n. - Mladá Boleslav město: T: Nymburk hl.n.;19:04, Mladá Boleslav město;19:49
+8544: X5: Mladá Boleslav hl.n.;18:40, Sobotka;19:21
+8545: X5: Sobotka;19:50, Mladá Boleslav hl.n.;20:35
+6055: 7: Mladá Boleslav město;20:06, Nymburk hl.n.;20:51
+8560: 6: Mšeno;20:31, Mladá Boleslav město;21:28
+6058: 7: Nymburk hl.n.;21:04, Řepov;21:51
+8537: 6: Mladá Boleslav město;21:28, Mladá Boleslav hl.n.;21:34
+6057: 7: Řepov;21:53, Kolín;23:29
+8534: X5: Mladá Boleslav hl.n.;22:20, Mladějov v Čechách;23:23
+
+9560: X: Mladá Boleslav hl.n.;4:37, Turnov;5:18
+9561: X: Turnov;5:34, Mladá Boleslav hl.n.;6:12
+8502: X: Mladá Boleslav hl.n.;6:17, Mladějov v Čechách;7:18
+8509: X: Mladějov v Čechách;7:23, Mladá Boleslav hl.n.;8:30
+9568: X: Mladá Boleslav hl.n.;9:44, Turnov;10:28
+9567: X: Turnov;11:27, Mladá Boleslav hl.n.;12:10
+8505: 25: Mladějov v Čechách;6:22, Mladá Boleslav hl.n.;7:20
+9566: 25: Mladá Boleslav hl.n.;7:44, Turnov;8:28
+9565: 25: Turnov;9:27, Mladá Boleslav hl.n.;10:10
+109506pk: 25: Mladá Boleslav hl.n.;11:26, Mladá Boleslav město;11:32
+9570: 25: Mladá Boleslav město;11:33, Turnov;12:28
+9569: 25: Turnov;13:27, Mladá Boleslav město;14:20
+9557: X: Mladá Boleslav hl.n.;13:37, Všetaty;14:15
+9556: X: Všetaty;14:24, Mladá Boleslav město;15:11
+9569: 25: Turnov;13:27, Mladá Boleslav město;14:20
+18553: 25: Mladá Boleslav město;14:24, Mladá Boleslav hl.n.;14:30
+9556: X: Všetaty;14:24, Mladá Boleslav město;15:11
+6012: : Mladá Boleslav město;15:14, Rumburk;17:26
+6669: z25: Rumburk;21:12, Děčín hl.n.;22:24
+6668: z25: Děčín hl.n.;22:35, Rumburk;23:51
+
+6005: X: Rumburk;6:28, Mladá Boleslav hl.n.;8:34
+6006: X: Mladá Boleslav hl.n.;9:23, Svor;10:48
+6011: X: Svor;11:11, Mladá Boleslav město;12:46
+6010: X: Mladá Boleslav město;13:07, Rumburk;15:26
+6017: : Rumburk;16:37, Mladá Boleslav hl.n.;18:34
+6016: : Mladá Boleslav hl.n.;19:23, Svor;20:48
+6071: : Svor;21:11, Doksy;21:54
+6070: : Doksy;22:02, Svor;22:48
+106093sv: : Svor;22:55, Česká Lípa hl.n.;23:14
+
+
+2: 6: 6
+3: 5: 5
+3: 7: 5
+4: 5: 4
+4: 7: 8
+5: 6: 8
+5: 7: 7
+6: 7: 4
+7: 6: 3
+7: 7: 6
+8: 5: 4

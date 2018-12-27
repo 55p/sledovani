@@ -1,0 +1,10 @@
+1995: X: Děčín hl.n.;1:03, Česká Kamenice;1:31
+1994: X: Česká Kamenice;3:52, Děčín hl.n.;4:18
+6621: : Děčín hl.n.;4:23, Česká Lípa hl.n.;5:04
+6622: : Česká Lípa hl.n.;5:09, Děčín hl.n.;5:54
+6603: : Děčín hl.n.;6:42, Liberec;8:54
+6604: : Liberec;9:01, Děčín hl.n.;11:10
+6609: : Děčín hl.n.;12:44, Liberec;14:54
+6610: : Liberec;15:01, Děčín hl.n.;17:10
+6615: : Děčín hl.n.;18:44, Liberec;20:54
+6616: : Liberec;21:01, Děčín hl.n.;23:10

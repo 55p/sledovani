@@ -1,0 +1,110 @@
+6850: X: Děčín hl.n.;4:59, Louka u Litvínova;6:18
+6853: X: Louka u Litvínova;6:38, Ústí nad Labem hl.n.;7:25
+6872: X: Ústí nad Labem hl.n.;7:31, Teplice v Čechách;7:52
+6873: X: Teplice v Čechách;9:03, Ústí nad Labem hl.n.;9:25
+6874: X: Ústí nad Labem hl.n.;12:31, Teplice v Čechách;12:52
+6875: X: Teplice v Čechách;13:03, Ústí nad Labem hl.n.;13:25
+6854: X: Ústí nad Labem hl.n.;13:31, Louka u Litvínova;14:18
+6857: X: Louka u Litvínova;15:38, Ústí nad Labem hl.n.;16:25
+6878: X: Ústí nad Labem hl.n.;16:31, Teplice v Čechách;16:52
+6879: X: Teplice v Čechách;17:03, Ústí nad Labem hl.n.;17:25
+6858: X: Ústí nad Labem hl.n.;17:31, Most;18:35
+6839: X5: Most;20:01, Děčín hl.n.;21:24
+6971: X5: Děčín hl.n.;22:28, Ústí nad Labem západ;23:00
+6834: 6: Děčín hl.n.;19:30, Most;20:54
+
+6821: : Most;4:34, Děčín hl.n.;5:54
+6820: : Děčín hl.n.;6:30, Most;7:54
+6827: : Most;8:01, Děčín hl.n.;9:24
+6804: X: Děčín hl.n.;9:30, Kadaň-Prunéřov;11:29
+6804: 25: Děčín hl.n.;9:30, Chomutov;11:18
+6807: X: Kadaň-Prunéřov;12:29, Děčín hl.n.;14:24
+6807: 25: Chomutov;12:39, Děčín hl.n.;14:24
+6828: : Děčín hl.n.;14:30, Most;15:54
+6835: : Most;16:01, Děčín hl.n.;17:24
+6812: X: Děčín hl.n.;17:30, Kadaň-Prunéřov;19:29
+6812: 25: Děčín hl.n.;17:30, Chomutov;19:18
+6815: X: Kadaň-Prunéřov;20:29, Ústí nad Labem hl.n.;21:57
+6815: 25: Chomutov;20:39, Ústí nad Labem hl.n.;21:57
+6846: : Ústí nad Labem hl.n.;22:18, Chomutov;23:26
+
+7080: X: Chomutov;4:40, Kadaň-Prunéřov;4:51
+6801: X: Kadaň-Prunéřov;5:16, Děčín hl.n.;7:24
+6825: 25: Chomutov;6:40, Děčín hl.n.;8:24
+6826: X: Děčín hl.n.;12:30, Most;13:54
+6833: X: Most;14:01, Děčín hl.n.;15:24
+6810: X: Děčín hl.n.;15:30, Kadaň-Prunéřov;17:29
+6813: X: Kadaň-Prunéřov;18:29, Děčín hl.n.;20:24
+6814: X: Děčín hl.n.;20:42, Kadaň-Prunéřov;22:38
+6867: X: Kadaň-Prunéřov;22:44, Most;23:11
+106814pk: T: Děčín hl.n.;20:42, Most;22:07
+
+1686: 25: Ústí nad Labem hl.n.;0:48, Chomutov;1:53
+6823: 25: Chomutov;4:39, Děčín hl.n.;6:24
+6863: X: Most;5:28, Teplice v Čechách;5:58
+6864: X: Teplice v Čechách;6:04, Most;6:31
+6825: X: Most;7:01, Děčín hl.n.;8:24
+6822: : Děčín hl.n.;8:30, Most;9:54
+6829: : Most;10:01, Děčín hl.n.;11:24
+6806: X: Děčín hl.n.;11:30, Kadaň-Prunéřov;13:29
+6806: 25: Děčín hl.n.;11:30, Chomutov;13:18
+6809: X: Kadaň-Prunéřov;14:29, Děčín hl.n.;16:24
+6809: 25: Chomutov;14:39, Ústí nad Labem hl.n.;16:24
+6830: : Děčín hl.n.;16:30, Most;17:54
+6837: : Most;18:01, Děčín hl.n.;19:24
+6834: X: Děčín hl.n.;19:30, Chomutov;21:16
+6865: X: Chomutov;21:22, Most;21:41
+6834: T: Děčín hl.n.;19:30, Most;20:54
+6814: 6: Děčín hl.n.;20:42, Most;22:07
+
+1687: 25: Most;3:48, Ústí nad Labem hl.n.;4:36
+6841: 25: Ústí nad Labem hl.n.;4:52, Děčín hl.n.;5:18
+6800: 25: Děčín hl.n.;5:30, Chomutov;7:18
+6851: X: Most;5:20, Ústí nad Labem hl.n.;6:26
+6870: X: Ústí nad Labem hl.n.;6:32, Teplice v Čechách;6:53
+6871: X: Teplice v Čechách;8:03, Ústí nad Labem hl.n.;8:25
+6803: 25: Chomutov;8:39, Děčín hl.n.;10:24
+6824: 25: Děčín hl.n.;10:30, Most;11:54
+6852: X: Ústí nad Labem hl.n.;11:31, Louka u Litvínova;12:18
+6831: 25: Most;12:01, Děčín hl.n.;13:24
+6808: 25: Děčín hl.n.;13:30, Chomutov;15:18
+6855: X: Louka u Litvínova;13:38, Ústí nad Labem hl.n.;14:25
+6876: X: Ústí nad Labem hl.n.;14:31, Teplice v Čechách;14:52
+6877: X: Teplice v Čechách;15:03, Ústí nad Labem hl.n.;15:25
+6856: X: Ústí nad Labem hl.n.;15:31, Louka u Litvínova;16:18
+6811: 25: Chomutov;16:39, Děčín hl.n.;18:24
+6859: X1234: Louka u Litvínova;17:38, Ústí nad Labem hl.n.;18:25
+6859: X5: Louka u Litvínova;17:38, Ústí nad Labem hl.n.;18:25
+6832: 25: Děčín hl.n.;18:30, Most;19:54
+6839: 25: Most;20:01, Děčín hl.n.;21:24
+6971: 6: Děčín hl.n.;22:28, Ústí nad Labem západ;23:00
+
+121850sv: X1: Děčín hl.n.;3:25, Teplice v Čechách;3:57
+121850sv: T: Děčín hl.n.;3:25, Ústí nad Labem hl.n.;3:39
+6841: X: Teplice v Čechách;4:30, Děčín hl.n.;5:18
+6800: X: Děčín hl.n.;5:30, Kadaň-Prunéřov;7:30
+6803: X: Kadaň-Prunéřov;8:29, Děčín hl.n.;10:24
+6824: X: Děčín hl.n.;10:30, Most;11:54
+6831: X: Most;12:01, Děčín hl.n.;13:24
+6808: X: Děčín hl.n.;13:30, Kadaň-Prunéřov;15:29
+6811: X: Kadaň-Prunéřov;16:29, Děčín hl.n.;18:24
+6832: X: Děčín hl.n.;18:30, Most;19:54
+6839: X1234: Most;20:01, Děčín hl.n.;21:24
+106839pk: X5: Most;20:01, Děčín hl.n.;21:24
+6842: 25: Ústí nad Labem hl.n.;4:07, Most;4:55
+6801: 25: Most;6:01, Děčín hl.n.;7:24
+6802: 25: Děčín hl.n.;7:30, Chomutov;9:18
+6805: 25: Chomutov;10:39, Děčín hl.n.;12:24
+6826: 25: Děčín hl.n.;12:30, Most;13:54
+6833: 25: Most;14:01, Děčín hl.n.;15:24
+6810: 25: Děčín hl.n.;15:30, Chomutov;17:18
+6813: 25: Chomutov;18:39, Děčín hl.n.;20:24
+6814: 25: Děčín hl.n.;20:42, Most;22:07
+
+
+1: 5: 4
+3: 6: 6
+3: 5: 2
+5: 6: 4
+6: 7: 2
+6: 6: 1
