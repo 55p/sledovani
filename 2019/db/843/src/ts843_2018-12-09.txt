@@ -1,0 +1,56 @@
+21000: 25: Děčín hl.n.;4:44, Dolní Žleb;4:57
+21001: 25: Dolní Žleb;5:02, Děčín hl.n.;5:16
+5441: : Děčín hl.n.;6:41, Rumburk;8:34
+5444: : Rumburk;9:20, Děčín hl.n.;11:16
+5447: : Děčín hl.n.;12:41, Rumburk;14:27
+5450: : Rumburk;15:28, Děčín hl.n.;17:16
+5268: X: Děčín hl.n.;17:37, Schöna;17:54
+5269: X: Schöna;18:00, Děčín hl.n.;18:17
+5453: : Děčín hl.n.;18:41, Rumburk;20:26
+5456: : Rumburk;20:37, Sebnitz(Sachs);21:21
+105273sv::Sebnitz;21:27, Dolní Poustevna;21:30
+
+6681: X: Dolní Poustevna;4:33, Rumburk;5:14
+5440: : Rumburk;5:33, Děčín hl.n.;7:16
+5262: X: Děčín hl.n.;7:37, Schöna;7:54
+5263: X: Schöna;8:00, Děčín hl.n.;8:17
+5443: : Děčín hl.n.;8:41, Rumburk;10:26
+6680: 25: Rumburk;10:38, Šluknov;10:50
+6683: 25: Šluknov;10:59, Rumburk;11:11
+5446: : Rumburk;11:20, Děčín hl.n.;13:16
+5264: X: Děčín hl.n.;13:37, Schöna;13:54
+5265: X: Schöna;14:00, Děčín hl.n.;14:17
+5449: : Děčín hl.n.;14:41, Rumburk;16:34
+5452: : Rumburk;17:28, Děčín hl.n.;19:16
+5455: : Děčín hl.n.;20:41, Rumburk;22:25
+
+21000: X: Děčín hl.n.;4:44, Dolní Žleb;4:57
+21001: X: Dolní Žleb;5:02, Děčín hl.n.;5:16
+105440pk: 2512,0101: Rumburk;5:33, Sebnitz;6:17
+105272sv: 25: Dolní Poustevna;5:42, Sebnitz;5:45
+5457: 25: Sebnitz;6:28, Rumburk;7:12
+5459: X: Děčín hl.n.;5:25, Rumburk;7:24
+5442: : Rumburk;7:28, Děčín hl.n.;9:16
+5445: : Děčín hl.n.;10:41, Rumburk;12:26
+5448: : Rumburk;13:20, Děčín hl.n.;15:16
+5266: X: Děčín hl.n.;15:37, Schöna;15:54
+5267: X: Schöna;16:00, Děčín hl.n.;16:17
+5451: : Děčín hl.n.;16:41, Rumburk;18:34
+5454: : Rumburk;19:20, Děčín hl.n.;21:16
+5270: : Děčín hl.n.;22:41, Bad Schandau;23:10
+5271: : Bad Schandau;23:50, Děčín hl.n.;0:12
+
+99999: : záložní MJ;4:00;20:00
+105455sv|do Drs|pokračuje do Dresden Altstadt: X2: Děčín hl.n.;20:41, Bad Schandau;21:10
+
+99998: : stojí v Dresden;1:00;19:00
+105454sv|z Drs|přijede z Dresden Altstadt: X2: Bad Schandau;20:36, Děčín hl.n.;21:16
+
+
+1: 5,6: 3
+2: 5,6: 2
+2: 1,2,3,4,7: 1
+4: 1,3,4,7: 3
+4: 5,6: 1
+5: 1,3,4,5,6,7: 5
+5: 2: 3
