@@ -47,7 +47,7 @@
 
 125900pk: X: Praha hl.n.;5:11, Rudná u Prahy;6:13
 25903: X: Rudná u Prahy;6:35, Praha-Smíchov sev.n.;7:39
-25908: X: Praha hl.n.;8:41, Rudná u Prahy;9:46
+25906: X: Praha-Smíchov sev.n.;8:00, Rudná u Prahy;8:46
 25909: X: Rudná u Prahy;9:11, Praha hl.n.;10:24
 25914: X: Praha hl.n.;12:54, Hostivice;13:26
 19756: X: Hostivice;14:31, Středokluky;14:45
