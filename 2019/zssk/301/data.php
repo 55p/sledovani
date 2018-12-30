@@ -15,6 +15,7 @@ foreach ($rows as $oneRow) {
   $popisSkupiny = $oneRow['popis'];
   $skupiny[$promenna] = new TS($nazevSkupiny, $popisSkupiny);
 }
+unset ($rows);
 
 if (file_exists(__DIR__.'/typy.php')) {
   include __DIR__.'/typy.php';

@@ -1,4 +1,4 @@
-14941: X: Nedvědice;4:01, Tišnov;4:25
+﻿14941: X: Nedvědice;4:01, Tišnov;4:25
 14940: X: Tišnov;4:33, Nedvědice;4:57
 14943: X: Nedvědice;5:01, Tišnov;5:25
 14902: X: Tišnov;5:34, Žďár nad Sázavou;7:24
@@ -101,7 +101,7 @@
 14977: 6: Žďár nad Sázavou;20:56, Nové Město na Moravě;21:16
 114916sv: T: Brno-Maloměřice;14:44, Tišnov;15:07
 14916: T: Tišnov;15:34, Žďár nad Sázavou;17:24
-101437pk: T: Žďár nad Sázavou;13:39, Nové Město na Moravě;13:59
+101437pk: T: Žďár nad Sázavou;17:40, Nové Město na Moravě;17:59
 14974: T: Nové Město na Moravě;18:04, Žďár nad Sázavou;18:24
 14925: T: Žďár nad Sázavou;18:39, Tišnov;20:25
 14958: zX: Tišnov;21:34, Nedvědice;21:58
