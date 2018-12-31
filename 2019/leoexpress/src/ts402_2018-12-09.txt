@@ -1,0 +1,4 @@
+﻿1354: : Bohumín;5:50, Praha hl.n.;9:23
+1355: : Praha hl.n.;10:09, Bohumín;13:42
+1364: : Bohumín;13:56, Praha hl.n.;17:23
+1365: : Praha hl.n.;18:09, Bohumín;21:42

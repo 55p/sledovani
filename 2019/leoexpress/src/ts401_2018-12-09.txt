@@ -18,12 +18,3 @@
 1351: : Praha hl.n.;8:09, Karviná hl.n.;12:02
 1362: : Karviná hl.n.;12:38, Praha hl.n.;16:23
 1363: : Praha hl.n.;17:09, Staré Město u Uherského Hradiště;20:02
-
-1354: : Bohumín;5:50, Praha hl.n.;9:23
-1355: : Praha hl.n.;10:09, Bohumín;13:42
-1364: : Bohumín;13:56, Praha hl.n.;17:23
-1365: : Praha hl.n.;18:09, Bohumín;21:42
-
-
-4::1
-5::5
