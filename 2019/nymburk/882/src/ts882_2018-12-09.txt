@@ -25,7 +25,7 @@
 115802pk: X: Jičín;5:21, Kopidlno;5:44
 15831: X: Kopidlno;5:51, Jičín;6:16
 1938: X: Jičín;6:27, Nymburk hl.n.;7:21
-15883: 25: Poříčany;20:50, Nymburk hl.n.;21:11
+15838: 25: Jičín;8:37, Nymburk hl.n.;9:39
 15811: 25: Nymburk hl.n.;10:04, Jičín;11:29
 15812: 25: Jičín;12:37, Nymburk hl.n.;13:51
 15817: 25: Nymburk hl.n.;14:04, Jičín;15:29
@@ -49,7 +49,7 @@
 15803: X: Nymburk hl.n.;5:41, Jičín;7:16
 15808: X: Jičín;8:37, Nymburk hl.n.;9:51
 15817: X: Nymburk hl.n.;14:04, Jičín;15:29
-15818|pk Kři-Nbk|postrk Křinec - Nymburk hl.n.: X: Jičín;15:37, Nymburk hl.n.;16:47
+115818|pk Kři-Nbk|postrk Křinec - Nymburk hl.n.: X: Jičín;15:37, Nymburk hl.n.;16:47
 15823: X: Nymburk hl.n.;17:09, Jičín;18:29
 15804: 25: Jičín;6:37, Nymburk hl.n.;7:52
 15809: 25: Nymburk hl.n.;8:04, Jičín;9:29

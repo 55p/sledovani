@@ -20,7 +20,7 @@
 115819pk: X: Nymburk hl.n.;15:09, Křinec;15:27
 15609: X: Křinec;15:34, Městec Králové;15:55
 15608: X: Městec Králové;15:58, Křinec;16:19
-15818: X: Jičín;15:37, Nymburk hl.n.;16:47
+15818: X: Křinec;16:27, Nymburk hl.n.;16:47
 15608: 25: Městec Králové;15:58, Nymburk hl.n.;16:47
 15611: 25: Nymburk hl.n.;17:09, Městec Králové;17:56
 115823pk: X: Nymburk hl.n.;17:09, Křinec;17:27
