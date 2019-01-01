@@ -39,8 +39,8 @@
 3936: X : Bystřice pod Hostýnem; 13:05, Hulín; 13:29
 14220: X : Hulín; 13:37, Kroměříž; 13:45
 3913: T : Kojetín; 13:45, Rožnov pod Radhoštěm; 15:52
-13915pk: X5 : Kroměříž; 13:55, Rožnov pod Radhoštěm; 15:52
-13917pk: X1234 : Kroměříž; 14:45, Valašské Meziříčí; 16:11
+113915pk: X5 : Kroměříž; 13:55, Rožnov pod Radhoštěm; 15:52
+113917pk: X1234 : Kroměříž; 14:45, Valašské Meziříčí; 16:11
 13212: X5 : Rožnov pod Radhoštěm; 15:56, Valašské Meziříčí; 16:16
 3916: X : Valašské Meziříčí; 16:33, Hulín; 17:30
 13224: T : Rožnov pod Radhoštěm; 16:45, Valašské Meziříčí; 17:05
