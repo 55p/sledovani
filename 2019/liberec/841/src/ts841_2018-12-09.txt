@@ -20,13 +20,13 @@
 5487: 5, 3101, 1704, 1804, -2812  : Turnov; 22:42, Stará Paka; 23:28
 5417: 36 : Liberec; 22:53, Stará Paka; 0:20
 
-1261: : Liberec; 4:01, Pardubice hl.n, 6:55
+1261: : Liberec; 4:01, Pardubice hl.n; 6:55
 1272: : Pardubice hl.n; 9:03, Liberec; 11:55
 5409: : Liberec; 12:30, Stará Paka; 14:21
 5416: : Stará Paka; 15:35, Liberec; 17:24
 1275: : Liberec; 18:03, Pardubice hl.n; 20:54
 
-1274: : Pardubice hl.n; 7:03, Liberec, 9:55
+1274: : Pardubice hl.n; 7:03, Liberec; 9:55
 5407: 25 : Liberec; 10:30, Stará Paka; 12:21
 5407: X : Liberec; 10:30, Turnov; 11:15
 5426vlož: X : Turnov; 11:26, Železný Brod; 11:43

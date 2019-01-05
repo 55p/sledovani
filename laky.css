@@ -362,6 +362,12 @@ br + .lakVozidla {
   background-color: #DC565C;
 }
 
+.sukafon_slon_pruh_mys {
+  color: #FFF1A6;
+  background-color: #DC565C;
+  border-bottom: 0.6ex solid #004080;
+}
+
 .sukafon_polomaceny {
   color: #F8E8B8;
   background-color: #A80004;

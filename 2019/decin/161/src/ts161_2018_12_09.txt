@@ -10,7 +10,7 @@
 
 6930:X:Roudnice nad Labem;5:39, Děčín hl.n.;6:37
 6963:X:Děčín hl.n.;6:58, Ústí nad Labem hl.n.;7:27
-677:25:Děčín hl.n.;07:26, Praha hl.n.;9:10
+677:25:Děčín hl.n.;7:26, Praha hl.n.;9:10
 679:X:Ústí nad Labem hl.n.;8:42, Praha hl.n.;10:10
 688::Praha hl.n.;10:51, Děčín hl.n.;12:31
 685::Děčín hl.n.;13:26, Praha hl.n.;15:10
