@@ -1,0 +1,68 @@
+1241:X1:České Budějovice;5:12,Praha hl.n.;8:37
+1241:vX:Protivín;5:43,Praha hl.n.;8:37
+1243:T:České Budějovice;7:12,Praha hl.n.;10:36
+101241sv:X:Praha hl.n.;8:43,Praha-Vršovice;8:48
+1248:6:Praha hl.n.;9:37,České Budějovice;12:45
+101243sv:T:Praha hl.n.;10:43,Praha-Vršovice;10:48
+101244sv:X5:Praha-Vršovice;12:49,Praha hl.n.;12:54
+1244:X5:Praha hl.n.;13:24,České Budějovice;16:45
+101242sv:zX:Praha-Vršovice;15:05,Praha hl.n.;15:10
+1249:6:České Budějovice;15:12,Praha hl.n.;18:37
+1242:zX:Praha hl.n.;15:24,České Budějovice;18:45
+101249sv:6:Praha hl.n.;18:59,Praha-Vršovice;19:04
+1253:zX:České Budějovice;19:12,Písek;19:56
+29253sv:zX:Písek;20:20,Protivín;20:32
+
+129254sv:X:Protivín;05:26,Písek;05:39
+1254:X:Písek;06:00,České Budějovice;06:42
+125906pk:7:Praha-Vršovice;07:05,Praha hl.n.;07:09
+1243:X6:České Budějovice;07:12,Praha hl.n.;10:36
+1250:7:Praha hl.n.;07:24,České Budějovice;10:45
+101243sv:6:Praha hl.n.;10:43,Praha-Vršovice;10:48
+1246:X:Praha hl.n.;11:24,České Budějovice;14:45
+101242sv:6:Praha-Vršovice;15:05,Praha hl.n.;15:10
+1249:XT:České Budějovice;15:12,Praha hl.n.;18:37
+1242:6:Praha hl.n.;15:24,České Budějovice;18:45
+101249sv:XT:Praha hl.n.;18:59,Praha-Vršovice;19:04
+1253:6:České Budějovice;19:12,Písek;19:56
+121911sv:X1,X4:Praha-Vršovice;20:03,Praha jih;20:07;21:21,Praha-Vršovice;21:25
+129253sv:6:Písek;20:20,Protivín;20:32
+9538:zX:Praha-Vršovice;21:42,Mělník;22:50
+
+9524: X: Praha Masarykovo nádraží;6:47, Mělník;7:50
+9525: X: Mělník;8:11, Praha Masarykovo nádraží;9:20
+9528: X: Praha Masarykovo nádraží;10:47, Mělník;11:50
+9529: X: Mělník;12:11, Praha Masarykovo nádraží;13:20
+1946|pk MBh-Tur|postrk Mladá Boleslav hl.n. - Turnov: X: Praha Masarykovo nádraží;14:19, Turnov;16:29
+1149: X: Turnov;16:44, Praha Masarykovo nádraží;18:35
+9516: X: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
+9551: X: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
+125906pk:6:Praha-Vršovice;07:05,Praha hl.n.;07:09
+1250:6:Praha hl.n.;07:24,České Budějovice;10:45
+1247:6:České Budějovice;13:12,Praha hl.n.;16:37
+1240:6:Praha hl.n.;17:24,České Budějovice;20:45
+9504: 7: Praha Masarykovo nádraží;7:47, Mladá Boleslav hl.n.;9:21
+9509: 7: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
+9510: 7: Praha Masarykovo nádraží;13:47, Mladá Boleslav hl.n.;15:21
+9515: 7: Mladá Boleslav hl.n.;16:37, Praha Masarykovo nádraží;18:20
+1940: 7: Praha Masarykovo nádraží;19:19, Turnov;21:16
+9539: 7: Turnov;21:30, Praha hl.n.;23:50
+
+1241:7:Protivín;05:43,Praha hl.n.;08:37
+9520: X: Praha hl.n.;0:18, Mělník;1:19
+9541: X: Mělník;5:48, Praha hl.n.;6:53
+1250:X:Praha hl.n.;07:24,České Budějovice;10:45
+1248:7:Praha hl.n.;09:37,České Budějovice;12:45
+1245:X5:České Budějovice;11:12,Praha hl.n.;14:37
+1247:X1234,25:České Budějovice;13:12,Praha hl.n.;16:37
+1242:X5:Praha hl.n.;15:24,České Budějovice;18:45
+1240:X1234:Praha hl.n.;17:24,Protivín;20:12
+1240:7:Praha hl.n.;17:24,České Budějovice;20:45
+1253:X5:České Budějovice;19:12,Písek;19:56
+129253sv:X5:Písek;20:20,Protivín;20:32
+
+
+3:5:0
+2:6:4
+3:6:1
+4:6:3
