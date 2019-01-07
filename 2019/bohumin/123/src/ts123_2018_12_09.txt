@@ -93,7 +93,7 @@
 1424:X: Prostějov hl.n.;17:35, Olomouc hl.n.;17:52
 103835pk:X,-2712,-2812,-3112,-0201: Olomouc hl.n.;18:33, Přerov;18:54
 3223:25: Hranice na Moravě;6:34, Vsetín;7:25
-3224:25: Vsetín;8:20, Hranice na Moravě;9:44
+3224:25: Vsetín;8:20, Přerov;9:44
 
 3303:11: Přerov;5:03, Bohumín;6:33
 2941:X,-2712,-2812,-3112: Bohumín;14:16, Návsí;15:17

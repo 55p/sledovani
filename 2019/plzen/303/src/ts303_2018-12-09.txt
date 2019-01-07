@@ -32,7 +32,7 @@
 705: 6: Praha-Holešovice;7:09, České Budějovice;9:58
 71800: X2345: České Budějovice;4:00, Veselí nad Lužnicí;4:32
 728: X2345: Veselí nad Lužnicí;5:34, Praha-Holešovice;7:46
-721: X1: Praha-Holešovice;16:20, Veselí nad Lužnicí;18:24
+728: X1: České Budějovice;5:01, Praha-Holešovice;7:46
 707: X: Praha-Holešovice;8:20, České Budějovice;10:58
 716: X: České Budějovice;12:03, Praha-Holešovice;14:46
 719: X: Praha-Holešovice;15:20, České Budějovice;17:58

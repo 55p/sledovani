@@ -1,4 +1,4 @@
-892: : Veselí nad Moravou;7:11, Staré Město u Uherského Hradiště;7:31
+﻿892: : Veselí nad Moravou;7:11, Staré Město u Uherského Hradiště;7:31
 883: : Staré Město u Uherského Hradiště;8:27, Luhačovice;9:18
 888: : Luhačovice;10:31, Staré Město u Uherského Hradiště;11:33
 887: : Staré Město u Uherského Hradiště;12:27, Luhačovice;13:18
@@ -11,7 +11,7 @@
 
 894: X: Zlín střed;5:31, Otrokovice;5:44
 70240: X: Otrokovice;5:56, Uherské Hradiště;6:17
-101722: X: Uherské Hradiště;7:01; Brno-Židenice;8:29 
+101722: X: Uherské Hradiště;7:01, Brno-Židenice;8:29 
 4834: X1234: Brno hl.n.;14:45, Okříšky;16:25
 1729: X5: Brno-Židenice;13:32, Staré Město u Uherského Hradiště;15:27
 1732: X5: Staré Město u Uherského Hradiště;16:33, Brno-Židenice;18:28
