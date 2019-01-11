@@ -1,0 +1,11 @@
+1063: : Praha hl.n.;14:17, Nitra;20:42
+
+1062: : Nitra;12:45, Praha hl.n.;19:29
+
+1061: : Praha hl.n.;8:36, Nitra;15:13
+
+1060: : Nitra;6:36, Praha hl.n.;13:26
+
+
+4::0
+2::0
