@@ -1,4 +1,4 @@
-4700: X: Brno hl.n.;4:32, Letovice;5:30
+﻿4700: X: Brno hl.n.;4:32, Letovice;5:30
 4741: X: Letovice;6:20, Brno hl.n.;7:33
 4708: X: Brno hl.n.;8:00, Březová nad Svitavou;9:12
 4717: X: Březová nad Svitavou;9:47, Brno hl.n.;10:59
@@ -69,6 +69,8 @@
 4007: X: Rájec-Jestřebí;9:50, Brno hl.n.;10:35
 14110: X: Brno hl.n.;10:42, Brno-Královo Pole;10:55
 14111: X: Brno-Královo Pole;11:03, Brno hl.n.;11:18
+4014: X: Brno hl.n.;11:25, Rájec-Jestřebí;12:09
+4013: X: Rájec-Jestřebí;12:50, Brno hl.n.;13:31
 4720: X: Brno hl.n.;13:59, Březová nad Svitavou;15:12
 4729: X: Březová nad Svitavou;15:47, Brno hl.n.;16:58
 4754: X: Brno hl.n.;17:25, Skalice nad Svitavou;18:17
