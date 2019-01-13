@@ -4,8 +4,8 @@
 6969: T,-2312,-2412,-2512: Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:47
 
 71261: X2345: Děčín hl.n.;0:08, Ústí nad Labem hl.n.;0:22
-781: X6,1904,0105,0805,0507,-2004,-0607: Ústí nad Labem západ;4:47, Kolín;6:40
-794: X6,1904,0105,0805,0507,-2004,-0607: Kolín;7:14, Ústí nad Labem západ;9:10
+781: X6,-2004,-0607: Ústí nad Labem západ;4:47, Kolín;6:40
+794: X6,-2004,-0607: Kolín;7:14, Ústí nad Labem západ;9:10
 787: X6: Ústí nad Labem západ;10:47, Kolín;12:40
 788: X6: Kolín;13:14, Ústí nad Labem západ;15:10
 793: X6: Ústí nad Labem západ;16:47, Kolín;18:40
@@ -13,6 +13,8 @@
 
 6401: X: Ústí nad Labem západ;5:03, Kolín;7:58
 5872: X: Kolín;8:29, Nymburk hl.n.;8:56
+781: 1904,0105,0805,0507: Ústí nad Labem západ;4:47, Kolín;6:40
+794: 1904,0105,0805,0507: Kolín;7:14, Ústí nad Labem západ;9:10
 787: T: Ústí nad Labem západ;10:47, Kolín;12:40
 788: T: Kolín;13:14, Ústí nad Labem západ;15:10
 793: T: Ústí nad Labem západ;16:47, Kolín;18:40

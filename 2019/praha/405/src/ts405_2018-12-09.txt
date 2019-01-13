@@ -18,7 +18,7 @@
 
 109991sv: X2345: Praha-Radotín;0:14, Praha jih;0:34
 108804sv: 25: Praha jih;4:02, Praha hl.n.;4:10
-8840: 25: Praha hl.n.;13:20, Beroun;14:10
+8804: 25: Praha hl.n.;4:20, Beroun;5:10
 109992sv: X: Praha jih;4:38, Řevnice;5:06
 9909: X: Řevnice;5:26, Praha hl.n.;6:03
 8812: X: Nymburk hl.n.;5:09, Beroun;7:10
