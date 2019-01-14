@@ -27,7 +27,6 @@
 1253:6:České Budějovice;19:12,Písek;19:56
 121911sv:X1,X4:Praha-Vršovice;20:03,Praha jih;20:07;21:21,Praha-Vršovice;21:25
 129253sv:6:Písek;20:20,Protivín;20:32
-9538:zX:Praha-Vršovice;21:42,Mělník;22:50
 
 9524: X: Praha Masarykovo nádraží;6:47, Mělník;7:50
 9525: X: Mělník;8:11, Praha Masarykovo nádraží;9:20
