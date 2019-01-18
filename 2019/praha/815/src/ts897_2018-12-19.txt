@@ -1,4 +1,4 @@
-7761:X:Praha-Čakovice;5:18, Praha-Masarykovo n.;5:43
+﻿7761:X:Praha-Čakovice;5:18, Praha-Masarykovo n.;5:43
 7760:X:Praha-Masarykovo n.;6:28, Praha-Čakovice;6:55
 7765:X:Praha-Čakovice;7:18, Praha-Masarykovo n.;7:44
 7764:X:Praha-Masarykovo n.;8:28, Praha-Čakovice;8:55
@@ -29,3 +29,9 @@
 7782:X:Praha-Masarykovo n.;17:11, Praha-Čakovice;17:36
 7787:23:Praha-Čakovice;18:20, Praha-Masarykovo n.;18:44
 7786:23:Praha-Masarykovo n.;19:11, Praha-Čakovice;19:36
+
+
+1:5:0
+2:5:0
+1::1
+2::2
