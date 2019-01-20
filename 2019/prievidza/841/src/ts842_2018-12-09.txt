@@ -1,0 +1,8 @@
+5603: : Prievidza;4:38, Horná Štubňa;5:44
+5604: : Horná Štubňa;6:17, Prievidza;7:11
+7512: : Prievidza;08:41, Horná Štubňa;9:41;9:53, Vrútky;10:41
+5620: : Vrútky;13:19, Horná Štubňa;14:07;14:17, Prievidza;15:11
+5627: X: Prievidza;16:41, Horná Štubňa;17:41
+5628: X: Horná Štubňa;18:17, Prievidza;19:11
+101726pk: 25: Prievidza;16:28, Topoľčany;17:29
+5581: 25: Topoľčany;19:10, Prievidza;20:19

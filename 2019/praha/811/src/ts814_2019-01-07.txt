@@ -4,7 +4,7 @@
 1145: X: Turnov;12:44, Praha Masarykovo nádraží;14:35
 9512: X: Praha Masarykovo nádraží;15:47, Všetaty;16:39
 9536: X: Praha Masarykovo nádraží;18:47, Všetaty;19:39
-9537: X: Mělník;20:11, Praha Masarykovo nádraží;21:20
+9537pk: X: Všetaty;20:23, Praha Masarykovo nádraží;21:20
 
 
 1:5:0

@@ -1,0 +1,21 @@
+208301pk|PP-SP 3.|Poprad-Tatry - Studený Potok zadná (tretia): : Poprad-Tatry;4:02, Studený Potok;4:14
+8401: : Studený Potok;4:23, Tatranská Lomnica;4:34
+8402: : Tatranská Lomnica;4:39, Studený Potok;4:52
+8405: : Studený Potok;6:00, Tatranská Lomnica;6:11
+8406: : Tatranská Lomnica;6:43, Studený Potok;6:56
+8407: : Studený Potok;7:02, Tatranská Lomnica;7:13
+8410: : Tatranská Lomnica;8:43, Studený Potok;8:56
+8411: : Studený Potok;9:04, Tatranská Lomnica;9:15
+8414: : Tatranská Lomnica;10:43, Studený Potok;10:56
+8415: : Studený Potok;11:04, Tatranská Lomnica;11:15
+8418: : Tatranská Lomnica;12:43, Studený Potok;12:56
+8419: : Studený Potok;13:04, Tatranská Lomnica;13:15
+8422: : Tatranská Lomnica;14:43, Studený Potok;14:56
+8423: : Studený Potok;15:04, Tatranská Lomnica;15:15
+8424: X,-2712,-2812,-3112,-0201,-0301,-0401: Tatranská Lomnica;15:43, Studený Potok;15:56
+8425: X,-2712,-2812,-3112,-0201,-0301,-0401: Studený Potok;16:04, Tatranská Lomnica;16:15
+8426: : Tatranská Lomnica;16:43, Studený Potok;16:56
+8427: : Studený Potok;17:04, Tatranská Lomnica;17:15
+8430: : Tatranská Lomnica;18:43, Studený Potok;18:56
+8431: : Studený Potok;19:04, Tatranská Lomnica;19:15
+8436: : Tatranská Lomnica;21:58, Poprad-Tatry;22:27

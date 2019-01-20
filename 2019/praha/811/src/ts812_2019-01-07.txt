@@ -4,7 +4,7 @@
 9533: X: Mělník;16:11, Praha Masarykovo nádraží;17:20
 1942: X: Praha Masarykovo nádraží;18:19, Mělník;19:16
 9537: X1234: Mělník;20:11, Všetaty;20:21
-9537|pk Vše-PMa|postrk Všetaty - Praha Masarykovo nádraží: X5: Mělník;20:11, Praha Masarykovo nádraží;21:20
+109537|pk Vše-PMa|postrk Všetaty - Praha Masarykovo nádraží: X5: Mělník;20:11, Praha Masarykovo nádraží;21:20
 9504: 6: Praha Masarykovo nádraží;7:47, Mladá Boleslav hl.n.;9:21
 9509: 6: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
 1144: 6: Praha Masarykovo nádraží;13:19, Harrachov;16:40

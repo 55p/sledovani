@@ -1,0 +1,30 @@
+8305|PP-KK pr|Poprad-Tatry - Kežmarok predná: X: Poprad-Tatry;5:44, Kežmarok;6:10;6:18, Stará Ľubovňa;7:03
+8308|KK-PP zad|Kežmarok - Poprad-Tatry zadná: X: Stará Ľubovňa;8:03, Kežmarok;8:45;8:50, Poprad-Tatry;9:14
+8305: 25: Poprad-Tatry;5:44, Kežmarok;6:10
+8304: 25: Kežmarok;6:50, Poprad-Tatry;7:14
+8319|PP-KK pr|Poprad-Tatry - Kežmarok predná: X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401: Poprad-Tatry;12:46, Kežmarok;13:12;13:14, Stará Ľubovňa;13:57
+8319|PP-SL zad|Poprad-Tatry - Stará Ľubovňa zadná: 7,-2312,-3012,-0601,-1702,-2104: : pp;12:46, Kežmarok;13:12;13:14, Stará Ľubovňa;13:57
+8319|PP-KK-SL 2.|Poprad-Tatry - Kežmarok stredná, Kežmarok - Stará Ľubovňa zadná: 0701,2304: : pp;12:46, Kežmarok;13:12;13:14, Stará Ľubovňa;13:57
+8319: 6,T,2312,2412,2512,2612,2712,2812,2912,3012,3112,0101,0201,0301,0401,0501,0601,1702,1904,2104,2204,-2304,-0109,-1509,-1711: Poprad-Tatry;12:46, Stará Ľubovňa;13:57
+8320: : Stará Ľubovňa;14:03, Poprad-Tatry;15:14
+8327: : Poprad-Tatry;16:46, Stará Ľubovňa;17:57
+8328pr|SL-KK 1., KK-PP 2.|Stará Ľubovňa - Kežmarok predná, Kežmarok - Poprad-Tatry stredná: X5,0701,3101,1704,2304,2910,-2812,-0401,-0102,-2202,-1904,-0111: Stará Ľubovňa;18:03, Kežmarok;18:45;18:50, Poprad-Tatry;19:14
+8328pr|SL-PP pr|Stará Ľubovňa - Poprad-Tatry predná: 7,-2312,-3012,-0601,-1702,-2104: Stará Ľubovňa;18:03, Kežmarok;18:45;18:50, Poprad-Tatry;19:14
+8328|KK-PP zad|Kežmarok - Poprad-Tatry zadná: X1234,0102,2202,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401,-0701,-3101,-1704,-2304,-2910: Stará Ľubovňa;18:03, Kežmarok;18:45;18:50, Poprad-Tatry;19:14
+8328: 6,2312,2712,2812,2912,3012,3112,0101,0201,0301,0401,0601,0102,1702,1904,2104,0105,0805,0507,2908,0111: Stará Ľubovňa;18:03, Kežmarok;18:45;18:50, Poprad-Tatry;19:14
+8337: : Poprad-Tatry;22:00, Stará Ľubovňa;23:07
+
+8302: : Stará Ľubovňa;4:58, Poprad-Tatry;6:12
+8341: : Poprad-Tatry;6:46, Kežmarok;7:12
+108308pr|KK-PP pr|Kežmarok - Poprad-Tatry predná: : Kežmarok;8:50, Poprad-Tatry;9:14
+8315: X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401: Poprad-Tatry;10:46, Stará Ľubovňa;11:57
+8316: X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401: Stará Ľubovňa;12:03, Poprad-Tatry;13:14
+8315: 25,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401: Poprad-Tatry;10:46, Kežmarok;11:12
+8316: 25,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401: Kežmarok;12:50, Poprad-Tatry;13:14
+8323pk|PP-SL zad|Poprad-Tatry - Stará Ľubovňa zadná: 5,3101,1704,2910,-2812,-0401,-0102,-2202,-1904,-0111: Poprad-Tatry;14:46, Stará Ľubovňa;15:57
+8323pk|PP-SL zad|Poprad-Tatry - Stará Ľubovňa zadná: 7,0701,2304,-2312,-3012,-0601,-1702,-2104: Poprad-Tatry;14:46, Stará Ľubovňa;15:57
+8323: 1,2,3,4,6,2312,2812,3012,0401,0601,0102,1702,2202,1904,2104,0111,-0701,-3101,-1704,-2304,-2910: Poprad-Tatry;14:46, Stará Ľubovňa;15:57
+8324: : Stará Ľubovňa;16:03, Poprad-Tatry;17:14
+8347: X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401: Poprad-Tatry;17:46, Kežmarok;18:12
+208328prpr|KK-PP 1.|Kežmarok - Poprad-Tatry predná: X5,0701,3101,1704,2304,2910,-2812,-0401,-0102,-2202,-1904,-0111: Kežmarok;18:50, Poprad-Tatry;19:14
+208328pr|KK-PP pr|Kežmarok - Poprad-Tatry predná: X1234,0102,2202,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401,-0701,-3101,-1704,-2304,-2910: Kežmarok;18:50, Poprad-Tatry;19:14

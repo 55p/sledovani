@@ -1,0 +1,10 @@
+5600: : Horná Štubňa;4:17, Prievidza;5:11
+5607: : Prievidza;6:41, Horná Štubňa;7:41
+5608: : Horná Štubňa;8:17, Prievidza;9:11
+5615: : Prievidza;10:41, Horná Štubňa;11:41
+5616: : Horná Štubňa;12:17, Prievidza;13:11
+5623: : Prievidza;14:41, Horná Štubňa;15:41
+5624: : Horná Štubňa;16:17, Prievidza;17:11
+5631: : Prievidza;18:41, Horná Štubňa;19:41
+5632: : Horná Štubňa;20:17, Prievidza;21:11
+5637: : Prievidza;21:41, Horná Štubňa;22:44

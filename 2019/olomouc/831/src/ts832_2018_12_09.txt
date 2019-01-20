@@ -4,8 +4,8 @@
 13722:25: Uničov;5:37, Olomouc hl.n.;6:20
 3682:X,-2712,-2812,-3112,-0201: Šumperk;5:18, Olomouc hl.n.;6:57
 1701:25: Olomouc hl.n.;6:56, Jeseník;8:58
-3640:25: Jeseník;10:01, Ostružná;10:28
-3641:25: Ostružná;10:46, Jeseník;11:17
+13640:25: Jeseník;10:01, Ostružná;10:28
+13641:25: Ostružná;10:46, Jeseník;11:17
 1430:25: Jeseník;15:43, Olomouc hl.n.;18:07
 3681:X,-2712,-2812,-3112,-0201: Olomouc hl.n.;13:59, Šumperk;15:12
 3640:X: Šumperk;16:30, Olomouc hl.n.;18:19
