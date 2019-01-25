@@ -32,7 +32,7 @@
 9525: X: Mělník;8:11, Praha Masarykovo nádraží;9:20
 9528: X: Praha Masarykovo nádraží;10:47, Mělník;11:50
 9529: X: Mělník;12:11, Praha Masarykovo nádraží;13:20
-1946|pk MBh-Tur|postrk Mladá Boleslav hl.n. - Turnov: X: Praha Masarykovo nádraží;14:19, Turnov;16:29
+101946|pk MBh-Tur|postrk Mladá Boleslav hl.n. - Turnov: X: Praha Masarykovo nádraží;14:19, Turnov;16:29
 1149: X: Turnov;16:44, Praha Masarykovo nádraží;18:35
 9516: X: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
 9551: X: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13

@@ -1,0 +1,10 @@
+4003: :Makov;4:40,Čadca;5:28
+3970:X:Čadca;6:37,Skalité;6:58
+4473:X:Skalité;7:06,Čadca;7:26
+104016pk:X:Čadca;11:32,Makov;12:27
+4019:X:Makov;12:40,Čadca;13:28
+104020pk:X:Čadca;13:32,Makov;14:27
+4023:X:Makov;14:40,Čadca;15:28
+104024pk:X:Čadca;15:32,Makov;16:27
+4027:X:Makov;16:40,Čadca;17:28
+4038: :Čadca;23:32,Makov;0:18

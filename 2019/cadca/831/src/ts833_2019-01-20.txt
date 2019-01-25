@@ -1,0 +1,15 @@
+3971:25:Skalité-Serafínov;4:55,Čadca;5:31
+2902: :Čadca;5:41,Mosty u Jablunkova;5:54
+2917:X,-2810:Mosty u Jablunkova;6:45,Mosty u Jablunkova zast.;6:47
+2918:X,-2810:Mosty u Jablunkova zast.;6:53,Mosty u Jablunkova;6:56
+2901: :Mosty u Jablunkova;7:06,Čadca;7:19
+2904: :Čadca;7:41,Mosty u Jablunkova;7:54
+2903: :Mosty u Jablunkova;8:06,Čadca;8:19
+2906: :Čadca;12:41,Mosty u Jablunkova;12:54
+2905: :Mosty u Jablunkova;15:06,Čadca;15:19
+2908:X:Čadca;15:41,Mosty u Jablunkova;15:54
+2907:X:Mosty u Jablunkova;16:06,Čadca;16:19
+2910: :Čadca;17:41,Mosty u Jablunkova;17:54
+2909: :Mosty u Jablunkova;18:06,Čadca;18:19
+2912: :Čadca;20:41,Mosty u Jablunkova;20:54
+2911: :Mosty u Jablunkova;21:06,Čadca;21:19

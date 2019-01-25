@@ -140,6 +140,10 @@ br + .lakVozidla {
   color: #000080;
   background-color: #FF0000;
 }
+.hokej {
+  background: #004080;
+  color: #FFB080;
+}
 
 .kometa_380 {
   color: white;
@@ -883,11 +887,20 @@ br + .lakVozidla {
   color: white;
 }
 
-.bobinka { /* 151 023 */
+.bobinka { /* 100 003 */
   color: #009D07;
   background-color: #FCF09E;
   border-left: 1ex solid #FF8000;
   border-right: 1ex solid #FF8000;
   padding-left: 0.6ex;
   padding-right: 0.6ex;
+}
+
+.pid {
+  color: black;
+  background: white;
+  border-top: 0.7ex solid #2B00F2;
+  border-bottom: 0.7ex solid #FF171D;
+  padding-top: 0;
+  padding-bottom: 0;
 }

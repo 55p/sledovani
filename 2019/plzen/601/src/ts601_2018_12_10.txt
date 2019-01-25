@@ -1,0 +1,108 @@
+﻿108900pk: X: Horažďovice předměstí;3:44, Plzeň-Jižní Předměstí;4:55
+8941: X: Plzeň-Jižní Předměstí;5:04, Nepomuk;5:50
+108942pk: X: Nepomuk;6:39, Plzeň-Jižní Předměstí;7:21
+8904: 25: Horažďovice předměstí;5:43, Plzeň-Jižní Předměstí;6:55
+108943pk: 25: Plzeň-Jižní Předměstí;7:04, Nepomuk;7:50
+8944: 25: Nepomuk;8:09, Plzeň-Jižní Předměstí;8:55
+108945pk: 25: Plzeň-Jižní Předměstí;9:04, Nepomuk;9:50
+8947: X: Plzeň-Jižní Předměstí;11:04, Nepomuk;11:50
+108946pk: X: Nepomuk;12:09, Plzeň-Jižní Předměstí;12:55
+8946: 25: Nepomuk;12:09, Plzeň-Jižní Předměstí;12:55
+8909: X: Plzeň-Jižní Předměstí;13:04, Horažďovice předměstí;14:15
+108949pk: 25: Plzeň-Jižní Předměstí;15:04, Nepomuk;15:50
+108914pk: X: Horažďovice předměstí;14:43, Plzeň-Jižní Předměstí;15:55
+8913: X: Plzeň-Jižní Předměstí;16:04, Horažďovice předměstí;17:15
+8950: 25: Nepomuk;16:09, Plzeň-Jižní Předměstí;16:55
+108953pk: 25: Plzeň-Jižní Předměstí;19:04, Nepomuk;19:50
+8954: 25: Nepomuk;20:09, Plzeň-Jižní Předměstí;20:55
+108919pk: 6: Plzeň-Jižní Předměstí;22:43, Horažďovice předměstí;23:51
+8919: T: Plzeň-Jižní Předměstí;22:43, Horažďovice předměstí;23:51
+
+8900: T: Horažďovice předměstí;3:44, Plzeň-Jižní Předměstí;4:55
+108901pk: T: Plzeň-Jižní Předměstí;6:04, Nepomuk;6:52
+8906: T: Nepomuk;7:09, Plzeň-Jižní Předměstí;7:55
+8906: X6: Horažďovice předměstí;6:43, Plzeň-Jižní Předměstí;7:55
+108903pk: 25: Plzeň-Jižní Předměstí;8:04, Horažďovice předměstí;9:15
+8910: : Horažďovice předměstí;10:43, Plzeň-Jižní Předměstí;11:55
+8907: X: Plzeň-Jižní Předměstí;12:04, Nepomuk;12:49
+108907pk: 25: Plzeň-Jižní Předměstí;12:04, Horažďovice předměstí;13:15
+8948: X: Nepomuk;14:09, Plzeň-Jižní Předměstí;14:55
+108949pk: X: Plzeň-Jižní Předměstí;15:04, Nepomuk;15:50
+8914: 25: Horažďovice předměstí;14:43, Plzeň-Jižní Předměstí;15:55
+108913pk: 25: Plzeň-Jižní Předměstí;16:04, Horažďovice předměstí;17:15
+8950: X: Nepomuk;16:09, Plzeň-Jižní Předměstí;16:55
+108951pk: X: Plzeň-Jižní Předměstí;17:04, Nepomuk;17:50
+8952: X: Nepomuk;18:09, Plzeň-Jižní Předměstí;18:55
+108953pk: X: Plzeň-Jižní Předměstí;19:04, Nepomuk;19:50
+8954: X: Nepomuk;20:09, Plzeň-Jižní Předměstí;20:55
+8918: 25: Horažďovice předměstí;18:43, Plzeň-Jižní Předměstí;19:55
+108917pk: 25: Plzeň-Jižní Předměstí;20:04, Horažďovice předměstí;21:15
+8919: X1234: Plzeň-Jižní Předměstí;22:43, Horažďovice předměstí;23:51
+108919pk: 5: Plzeň-Jižní Předměstí;22:43, Horažďovice předměstí;23:51
+
+8900: X: Horažďovice předměstí;3:44, Plzeň-Jižní Předměstí;4:55
+108941pk: X: Plzeň-Jižní Předměstí;5:04, Nepomuk;5:50
+8942: X: Nepomuk;6:39, Plzeň-Jižní Předměstí;7:21
+108904pk: 25: Horažďovice předměstí;5:43, Plzeň-Jižní Předměstí;6:55
+8943: 25: Plzeň-Jižní Předměstí;7:04, Nepomuk;7:50
+108944pk: 25: Nepomuk;8:09, Plzeň-Jižní Předměstí;8:55
+8945: 25: Plzeň-Jižní Předměstí;9:04, Nepomuk;9:50
+108946pk: 25: Nepomuk;12:09, Plzeň-Jižní Předměstí;12:55
+8949: 25: Plzeň-Jižní Předměstí;15:04, Nepomuk;15:50
+108950pk: 25: Nepomuk;16:09, Plzeň-Jižní Předměstí;16:55
+8953: 25: Plzeň-Jižní Předměstí;19:04, Nepomuk;19:50
+8919: 6: Plzeň-Jižní Předměstí;22:43, Horažďovice předměstí;23:51
+7284: X1234: Geldermalsen;23:39, Dordrecht;0:35
+7285: X1234: Roma Termini;19:28, Velletri;20:28
+
+108900p: T: Horažďovice předměstí;3:44, Plzeň-Jižní Předměstí;4:55
+8901: T: Plzeň-Jižní Předměstí;6:04, Nepomuk;6:52
+108906pk: 6: Horažďovice předměstí;6:43, Plzeň-Jižní Předměstí;7:55
+108906pk: T: Nepomuk;7:09, Plzeň-Jižní Předměstí;7:55
+8903: 25: Plzeň-Jižní Předměstí;8:04, Horažďovice předměstí;9:15
+108910pk: 25: Horažďovice předměstí;10:43, Plzeň-Jižní Předměstí;11:55
+8907: 25: Plzeň-Jižní Předměstí;12:04, Horažďovice předměstí;13:15
+108914pk: 25: Horažďovice předměstí;14:43, Plzeň-Jižní Předměstí;15:55
+8913: 25: Plzeň-Jižní Předměstí;16:04, Horažďovice předměstí;17:15
+108918pk: 25: Horažďovice předměstí;18:43, Plzeň-Jižní Předměstí;19:55
+8917: 25: Plzeň-Jižní Předměstí;20:04, Horažďovice předměstí;21:15
+7200: X: Domažlice;6:13, Tachov;8:29
+7271: X: Pňovany;6:21, Plzeň hl.n.;6:46
+7272: X: Plzeň hl.n.;7:34, Kozolupy;7:49
+7273: X: Kozolupy;8:10, Blovice;8:55
+7274: X: Blovice;9:03, Kozolupy;9:49
+7275: X: Kozolupy;10:10, Blovice;10:55
+7276: X: Blovice;11:03, Kozolupy;11:49
+7277: X: Kozolupy;12:10, Blovice;12:55
+7278: X: Blovice;13:03, Kozolupy;13:49
+7279: X: Kozolupy;14:10, Blovice;14:55
+7280: X: Blovice;15:03, Kozolupy;15:49
+7281: X: Kozolupy;16:10, Blovice;16:55
+7282: X: Blovice;17:03, Kozolupy;17:49
+7283: X: Kozolupy;18:10, Nepomuk;19:07
+21928sv: 5: Nepomuk;19:20, Plzeň hl.n.;20:04
+7284: 5: Plzeň hl.n.;20:10, Pňovany;20:36
+7285: 5: Pňovany;20:41, Nepomuk;21:50
+8992sv: 5:Nepomuk;22:00, Plzeň hl.n.;22:29
+
+108991svpk: X1: Plzeň hl.n.;4:00, Nepomuk;4:31
+8940: X: Nepomuk;5:28, Plzeň-Jižní Předměstí;6:15
+8943: X: Plzeň-Jižní Předměstí;7:04, Nepomuk;7:50
+108950pk: X: Nepomuk;16:09, Plzeň-Jižní Předměstí;16:55
+8951: X: Plzeň-Jižní Předměstí;17:04, Nepomuk;17:50
+108952pk: X: Nepomuk;18:09, Plzeň-Jižní Předměstí;18:55
+8953: X: Plzeň-Jižní Předměstí;19:04, Nepomuk;19:50
+108954pk: X5: Nepomuk;20:09, Plzeň-Jižní Předměstí;20:55
+8919: X5: Plzeň-Jižní Předměstí;22:43, Horažďovice předměstí;23:51
+
+8991pk: X1: Plzeň hl.n.;4:00, Nepomuk;4:31
+8904: X: Nepomuk;6:09, Plzeň-Jižní Předměstí;6:55
+8943: X: Plzeň-Jižní Předměstí;7:04, Nepomuk;7:50
+8944: X: Nepomuk;8:09, Plzeň-Jižní Předměstí;8:55
+108947pk: X: Plzeň-Jižní Předměstí;11:04, Nepomuk;11:50
+8946: X: Nepomuk;12:09, Plzeň-Jižní Předměstí;12:55
+108909pk: X: Plzeň-Jižní Předměstí;13:04, Horažďovice předměstí;14:15
+8914: X: Horažďovice předměstí;14:43, Plzeň-Jižní Předměstí;15:55
+108913pk: X: Plzeň-Jižní Předměstí;16:04, Horažďovice předměstí;17:15
+8918: X: Horažďovice předměstí;18:43, Plzeň-Jižní Předměstí;19:55
+8917: X: Plzeň-Jižní Předměstí;20:04, Horažďovice předměstí;21:15
