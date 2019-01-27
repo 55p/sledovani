@@ -55,10 +55,10 @@
 3846:6: Přerov;10:05, Olomouc hl.n.;10:27
 3721:X: Olomouc hl.n.;12:33, Nezamyslice;13:18
 3721:25: Olomouc hl.n.;12:33, Prostějov hl.n.;12:58
-3726:X: Nezamyslice;13:40, Prostějov hl.n.;13:58
-3726:: Prostějov hl.n.;14:00, Kouty nad Desnou;16:06
-3737:: Kouty nad Desnou;16:50, Olomouc hl.n.;18:25
-3737:10: Olomouc hl.n.;18:33, Nezamyslice;19:18
+3726: X: Nezamyslice;13:40, Kouty nad Desnou;16:06
+3726: 25: Prostějov hl.n.;14:00, Kouty nad Desnou;16:06
+3737: 2412,3112: Kouty nad Desnou;16:50, Olomouc hl.n.;18:25
+3737: 10: Kouty nad Desnou;16:50, Nezamyslice;19:18
 3742:10: Nezamyslice;19:40, Kouty nad Desnou;22:13
 
 3709:11: Kouty nad Desnou;4:50, Olomouc hl.n.;6:22
