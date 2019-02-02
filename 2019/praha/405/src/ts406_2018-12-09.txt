@@ -6,8 +6,8 @@
 9933: X: Řevnice;8:56, Praha hl.n.;9:33
 109933sv: X: Praha hl.n.;9:42, Praha jih;9:50
 200690pksv: 6: Praha jih;8:24, Praha hl.n.;8:35
-100690sv: 7: Praha jih;8:24, Praha hl.n.;8:35
-100690pk: 6: Praha hl.n.;8:51, Děčín hl.n.;10:31
+300690sv: 7: Praha jih;8:24, Praha hl.n.;8:35
+300690pk: 6: Praha hl.n.;8:51, Děčín hl.n.;10:31
 690: 7: Praha hl.n.;8:51, Děčín hl.n.;10:31
 683: 7: Děčín hl.n.;11:26, Praha hl.n.;13:10
 100683sv: 7: Praha hl.n.;13:16, Praha jih;13:27

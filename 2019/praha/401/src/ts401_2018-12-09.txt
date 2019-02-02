@@ -1,14 +1,14 @@
 229391pksv|př PLi-PMa|přípřež Pha-Libeň - Pha Masarykovo: X1: Praha jih;3:09, Praha-Libeň;3:22;3:29, Praha Masarykovo nádraží;3:34
 129391sv: vX: Praha jih;3:09, Praha Masarykovo nádraží;3:34
-109505pk: X1: Praha Masarykovo nádraží;3:41, Kolín;4:49
-9505: vX: Mladá Boleslav hl.n.;6:34, Praha-Vršovice;8:30
-9310: 7: Řečany nad Labem;4:52, Praha Masarykovo nádraží;6:35
-9317: T: Praha Masarykovo nádraží;7:01, Kolín;8:11
+109305pk: X1: Praha Masarykovo nádraží;3:41, Kolín;4:49
+9305: vX: Praha Masarykovo nádraží;3:41, Kolín;4:49
 9314: X: Kolín;6:20, Praha Masarykovo nádraží;7:35
 9319: X: Praha Masarykovo nádraží;8:01, Kolín;9:11
-9322: T: Kolín;8:20, Praha Masarykovo nádraží;9:35
-9323: T: Praha Masarykovo nádraží;10:01, Kolín;11:11
 5005: X: Kolín;9:40, Česká Třebová;11:57
+9322: T: Kolín;8:20, Praha Masarykovo nádraží;9:35
+9310: 7: Řečany nad Labem;4:52, Praha Masarykovo nádraží;6:35
+9317: T: Praha Masarykovo nádraží;7:01, Kolín;8:11
+9323: T: Praha Masarykovo nádraží;10:01, Kolín;11:11
 5007: T: Kolín;11:42, Česká Třebová;13:57
 5012: X: Česká Třebová;14:08, Kolín;16:22
 5026: 7: Česká Třebová;16:08, Pardubice hl.n.;17:17

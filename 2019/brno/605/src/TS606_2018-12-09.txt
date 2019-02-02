@@ -36,5 +36,5 @@
 4756: T: Brno hl.n.;18:27, Blansko;18:56
 4757: T: Blansko;19:04, Brno hl.n.;19:31
 14124: T: Brno hl.n.;19:42, Brno-Královo Pole;19:55
-14159: T: Brno-Královo Pole;20:34, Brno hl.n.;20:49
+14159: T: Brno-Královo Pole;20:03, Brno hl.n.;20:17
 4062: XT: Brno hl.n.;20:27, Rájec-Jestřebí;21:10
