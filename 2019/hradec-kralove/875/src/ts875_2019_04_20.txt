@@ -7,9 +7,9 @@
 25042: : Chrudim; 6:23, Moravany; 6:54
 25043: : Moravany; 7:08, Chrudim 7:38
 25044: : Chrudim; 10:23, Moravany; 10:54
-25045: : Moravany; 11:03, Chrudim; 11:31
+25047: : Moravany; 11:03, Chrudim; 11:31
 25046: X: Chrudim; 12:23, Moravany; 12:54 
-25047: X: Moravany; 13:03, Chrudim; 13:31
+25049: X: Moravany; 13:03, Chrudim; 13:31
 25048: : Chrudim; 14:23, Moravany; 14:54
 25051: : Moravany; 15:03, Chrudim; 15:31
 25050: : Chrudim; 16:23, Moravany; 16:54
