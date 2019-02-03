@@ -1,0 +1,103 @@
+106220pk: : Pardubice hl.n.; 1:05, Pardubice-Rosice nad Labem; 1:08
+5351: X: Pardubice-Rosice nad Labem; 1:10, Chrudim, 1:25
+5351: 25: Pardubice-Rosice nad Labem; 1:10, Slatiňany, 1:30
+5598sv: 25: Slatiňany; 1:34, Chrudim; 1:38
+25040: X: Chrudim; 4:01, Moravany; 4:31
+25041: X: Moravany; 4:41, Chrudim; 5:12
+25042: : Chrudim; 6:23, Moravany; 6:54
+25043: : Moravany; 7:08, Chrudim 7:38
+25044: : Chrudim; 10:23, Moravany; 10:54
+25045: : Moravany; 11:03, Chrudim; 11:31
+25046: X: Chrudim; 12:23, Moravany; 12:54 
+25047: X: Moravany; 13:03, Chrudim; 13:31
+25048: : Chrudim; 14:23, Moravany; 14:54
+25051: : Moravany; 15:03, Chrudim; 15:31
+25050: : Chrudim; 16:23, Moravany; 16:54
+25053: : Moravany; 17:03, Chrudim; 17:31
+25052: : Chrudim; 18:23, Moravany; 18:54
+25055: : Moravany; 19:03, Chrudim; 19:31
+5346: : Chrudim; 20:41, Pardubice hl.n.; 21:08
+105051pk: X: Pardubice hl.n.; 22:47, Moravany; 23:03
+25356: X: Moravany; 23:09, Holice; 23:21
+
+25331: X: Holice; 4:19, Moravany; 4:31
+25330: X: Moravany; 4:41, Holice; 4:53
+25333: X6: Holice; 4:56, Moravany; 5:08
+25332: X: Moravany; 5:18, Holice; 5:30
+25335: XT: Holice; 5:43, Moravany; 5:55
+25334: : Moravany; 6:03, Holice; 6:15
+25337: : Holice; 6:42, Moravany; 6:54
+25336: X6: Moravany; 7:03, Holice; 7:16
+25358: T: Moravany; 7:08, Holice; 7:20
+25339: X: Holice; 7:42, Moravany; 7:54
+25045: 25: Holice; 8:42, Moravany; 8:54
+25338: : Moravany; 9:03, Holice; 9:15
+25341: : Holice; 10:42, Moravany; 10:54
+25340: : Moravany; 11:03, Holice; 11:15
+25343: : Holice; 12:42, Moravany; 12:54
+25342: : Moravany; 13:03, Holice; 13:15
+25345: X: Holice; 13:45, Moravany; 13:57
+25344: X: Moravany; 14:06; Holice; 14:18
+25347: : Holice; 14:42, Moravany; 14:54
+25346: : Moravany; 15:03, Holice, 15:15
+25349: X: Holice; 15:42, Moravany; 15:54
+25348: X: Moravany; 16:06, Holice; 16:18
+25351: : Holice; 16:42, Moravany; 16:54
+25350: : Moravany; 17:03, Holice; 17:15
+25353: X: Holice; 17:44, Moravany; 17:56
+25352: X: Moravany; 18:05, Holice; 18:17
+25355: : Holice; 18:42, Moravany; 18:54
+25354: : Moravany; 19:03, Holice; 19:15
+25357: X: Holice; 19:52, Moravany; 20:04
+105050př: X: Moravany; 20:08, Pardubice hl.n.; 20:24
+5082: X: Pardubice hl.n.; 21:28, Přelouč; 21:42
+25027 : X: Přelouč; 22:20, Heřmanův Městec; 22:39
+5063: 25: Holice; 20:48; Moravany; 21:00
+5066: T: Moravany; 21:22, Pardubice hl.n.; 21:36
+105049pk: T: Pardubice hl.n.; 22:47, Moravany; 23:03
+25356: 25: Moravany; 23:09, Holice; 23:21
+
+5080: T: Pardubice hl.n.; 5:33, Přelouč; 5:48
+25002: X: Heřmanův Městec; 5:16, Přelouč; 5:36
+25001: X: Přelouč; 5:49, Heřmanův Městec; 6:08
+25004: X: Heřmanův Městec; 6:19, Přelouč; 6:39
+25003: X: Přelouč; 6:51, Heřmaův Městec; 7:10
+25006: 6: Heřmanův Městec; 6:46, Přelouč; 7:06
+25005: 25: Přelouč; 7:16, Heřmanův Městec; 7:35
+25008: X: Heřmanův Městec; 7:20, Přelouč; 7:40
+25007: X: Přelouč; 7:56, Heřmanův Městec; 8:15
+25010: : Heřmanův Městec; 8:29, Přelouč; 8:49
+25009: 25: Přelouč; 9:13, Prachovice; 9:47
+25011: X: Přelouč; 10:16, Heřmanův Městec; 10:35
+25012: : Prachovice; 11:15, Přelouč; 11:49
+25013: : Přelouč; 12:16, Heřmanův Městec; 12:35
+25014: X: Heřmanův Městec; 13:18, Přelouč; 13:38
+25016: 25: Heřmanův Městec; 13:29, Přelouč; 13:49
+25015: : Přelouč; 14:18, Heřmaův Městec; 14:37
+25018: X: Heřmanův Městec; 14:46, Přelouč; 15:06
+25017: X: Přelouč; 15:16, Heřmanův Městec; 15:35
+25020: 25: Heřmanův Městec; 15:29 Přelouč; 15:49
+25022: X: Heřmanův Městec; 15:46, Přelouč; 16:06
+25019: : Přelouč; 16:16, Heřmanův Městec; 16:35
+25024: : Heřmanův Městec; 17:29, Přelouč; 17:49
+25021: : Přelouč; 18:16, Heřmanův Městec; 18:35
+25026: 25: Heřmanův Městec; 18:46, Přelouč; 19:06
+25023: 25: Přelouč; 20:13, Heřmanův Městec; 20:33
+25028: 25: Heřmanův Městec; 21:18, Přelouč; 21:38
+25027: T: Přelouč; 22:20, Heřmanův Městec; 22:39
+25029: 6: Přelouč; 23:05, Heřmanův Městec; 23:24
+
+25000:X6: Heřmanův Městec; 4:43, Pardubice hl.n.; 5:19
+25030: T: Heřmanův Městec; 5:46, Pardubice hl.n.; 6:29
+101266vlož: X: Pardubice hl.n.; 15:03, Pardubice-Rosice nad Labem; 15:06
+101459pk: X: Pardubice-Rosice nad Labem; 15:08, Žďárec u Skutče; 15:47
+5336: X: Žďárec u Skutče; 16:07, Pardubice; 17:03
+5064: X: Pardubice hl.n.; 19:52, Holice; 20:21
+5063: X: Holice; 20:48, Pardubice hl.n.; 22:29
+5082: T: Pardubice hl.n.; 21:28, Přelouč; 21:42
+25027: T: Přelouč; 22:20, Heřmanův Městec; 22:39
+
+
+1:6:3
+2:67:2
+4:7:3

@@ -1,0 +1,16 @@
+5703: : Levice;5:04, Zvolen os.st.;6:48
+7306: X: Zvolen os.st.;6:58, Banská Bytrica;7:30
+7307: X: Banská Bytrica;7:48, Zvolen os.st.;8:20
+7316: 25: Zvolen os.st.;12:01, Banská Bytrica;12:30
+7318: X: Zvolen os.st.;13:11, Banská Bytrica;13:41
+7231: : Banská Bytrica;14:16, Zvolen os.st.;14:49
+5722: : Zvolen os.st.;15:09, Levice;16:48
+5727: : Levice;17:06, Zvolen os.st.;18:39
+
+5702: : Zvolen os.st.;4:37, Levice;6:38
+5208: X: Levice;7:33, Nové Zámky;9:06
+4815: X: Nové Zámky;11:02, Komárno;11:28
+4816: X: Komárno;12:32, Nové Zámky;12:58
+5723: X: Nové Zámky;13:43, Zvolen os.st.;16:39
+5723: 25: Levice;15:03, Zvolen os.st.;16:39
+5730: : Zvolen os.st.;19:09, Levice;20:49

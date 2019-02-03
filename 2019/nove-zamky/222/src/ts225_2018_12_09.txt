@@ -1,0 +1,6 @@
+5701: X: Levice;4:07, Zvolen os.st.;5:45
+7304: X: Zvolen os.st.;5:57, Banská Bystrica;6:29
+7305: X,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-0401: Banská Bystrica;6:47, Zvolen os.st.;7:17
+7365: 2712,2812,3112,0201,0301,0401: Banská Bystrica;8:16, Zvolen os.st.;8:49
+5224: X: Zvolen os.st.;13:50, Nové Zámky;17:08
+5231: X: Nové Zámky;18:54, Levice;20:26

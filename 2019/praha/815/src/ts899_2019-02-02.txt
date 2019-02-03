@@ -1,0 +1,10 @@
+7759: 25: Praha-Čakovice;7:47, Praha hl.n.;8:13
+7750: 25: Praha hl.n.;8:41, Praha-Zličín;9:09
+7751: 25: Praha-Zličín;9:48, Praha hl.n.;10:24
+7752: 25: Praha hl.n.;10:36, Praha-Zličín;11:05
+7753: 25: Praha-Zličín;11:48, Praha hl.n.;12:24
+7754: 25: Praha hl.n.;12:29, Praha-Zličín;13:05
+7755: 25: Praha-Zličín;13:48, Praha hl.n.;14:24
+7756: 25: Praha hl.n.;14:36, Praha-Zličín;15:05
+7757: 25: Praha-Zličín;15:48, Praha hl.n.;16:24
+7758: 25: Praha hl.n.;16:35, Praha-Čakovice;16:55

@@ -1,0 +1,95 @@
+4602: : Nové Zámky;4:28, Bratislava hl.st.;5:58
+2094: X: Bratislava hl.st.;6:23, Malacky;6:57
+2045: X: Malacky;7:08, Bratislava hl.st.;7:44
+3009: X: Bratislava hl.st.;8:18, Leopoldov;9:21
+3012: X: Leopoldov;9:39, Bratislava hl.st.;10:42
+2046: X: Bratislava hl.st.;11:16, Malacky;11:54
+2051: X: Malacky;12:05, Bratislava hl.st.;12:43
+3019: X: Bratislava hl.st.;13:18, Leopoldov;14:21
+3022: X: Leopoldov;14:39, Bratislava hl.st.;15:42
+2054: X: Bratislava hl.st.;16:18, Malacky;16:54
+2059: X: Malacky;17:19, Leopoldov;19:21
+3040: 25: Bratislava hl.st.;6:18, Kúty;7:20
+2011: 25: Kúty;8:38, Bratislava hl.st.;9:43
+2012: 25: Bratislava hl.st.;10:16, Kúty;11:20
+2019: 25: Kúty;12:36, Bratislava hl.st.;13:43
+2020: 25: Bratislava hl.st.;14:16, Kúty;15:20
+2027: 25: Kúty;16:38, Bratislava hl.st.;17:43
+3029: 25: Bratislava hl.st.;18:18, Leopoldov;19:21
+3032: : Leopoldov;19:39, Bratislava hl.st.;20:43
+3039: : Bratislava hl.st.;23:28, Leopoldov;0:32
+
+3002: : Leopoldov;4:39, Bratislava hl.st.;5:42
+3093: X: Bratislava hl.st.;6:08, Pezinok;6:22
+3042: X: Pezinok;6:43, Malacky;7:54
+2047: X: Malacky;8:18, Bratislava hl.st.;8:55
+3005: 25: Bratislava hl.st.;6:18, Leopoldov;7:21
+3008: 25: Leopoldov;7:39, Bratislava hl.st.;8:42
+3011: : Bratislava hl.st.;9:18, Leopoldov;10:21
+3014: X: Leopoldov;10:39, Bratislava hl.st.;11:42
+3017: X: Bratislava hl.st.;12:18, Leopoldov;13:21
+3020: X: Leopoldov;13:39, Bratislava hl.st.;14:42
+3023: X: Bratislava hl.st.;15:18, Leopoldov;16:21
+3026: X: Leopoldov;16:39, Bratislava hl.st.;17:42
+2030: X: Bratislava hl.st.;19:16, Kúty;20:20
+3016: 25: Leopoldov;11:39, Bratislava hl.st.;12:42
+3019: 25: Bratislava hl.st.;13:18, Leopoldov;14:21
+3024: 25: Leopoldov;15:39, Bratislava hl.st.;16:42
+2028: 25: Bratislava hl.st.;18:16, Kúty;19:20
+
+2001: X: Kúty;3:42, Pezinok;5:12
+3040: X: Pezinok;5:40, Kúty;7:20
+2011: X: Kúty;8:38, Bratislava hl.st.;9:43
+4619: X: Bratislava hl.st.;13:09, Nové Zámky;14:38
+4622: X: Nové Zámky;15:23, Bratislava hl.st.;16:53
+1877: X: Bratislava hl.st.;17:33, Nové Zámky;18:42
+2005: 25: Kúty;5:38, Bratislava hl.st.;6:43
+3007: 25: Bratislava hl.st.;7:18, Leopoldov;8:21
+3012: 25: Leopoldov;9:39, Bratislava hl.st.;10:42
+4623: 25: Bratislava hl.st.;15:09, Nové Zámky;16:38
+4927: 25: Nové Zámky;17:15, Štúrovo;17:53
+4928: 25: Štúrovo;18:07, Nové Zámky;18:45
+4630: : Nové Zámky;19:23, Bratislava hl.st.;20:53
+2034: X: Bratislava hl.st.;21:16, Kúty;22:20
+2099: 5,1804,3004,0705,0407,2808,3110,-1904,-0507,-0111: Kúty;22:56, Bratislava hl.st.;23:38
+
+2090: 1,2304,0205,0905,3008,-2204: Bratislava hl.st.;2:27, Kúty;3:22
+2003: X: Kúty;4:02, Leopoldov;6:21
+3006: X: Leopoldov;6:39, Bratislava hl.st.;7:42
+3001: 25: Bratislava hl.st.;4:18, Leopoldov;5:21
+3004: 25: Leopoldov;5:39, Bratislava hl.st.;6:42
+3015: : Bratislava hl.st.;11:18, Leopoldov;12:21
+3018: X: Leopoldov;12:39, Bratislava hl.st.;13:42
+2050: X: Bratislava hl.st.;14:16, Malacky;14:54
+2055: X: Malacky;15:19, Leopoldov;17:21
+3028: X: Leopoldov;17:39, Bratislava hl.st.;18:42
+3020: 25: Leopoldov;13:39, Bratislava hl.st.;14:42
+3053: 25: Bratislava hl.st.;16:18, Trnava;17:05
+3054: 25: Trnava;17:55, Bratislava hl.st.;18:42
+3031: : Bratislava hl.st.;19:18, Leopoldov;20:21
+3060: : Leopoldov;21:09.t;21:23
+3058: : Trnava;22:34, Bratislava hl.st.;23:21
+
+102090pk: X: Bratislava hl.st.;2:27, Malacky;3:01
+2041: X: Malacky;5:19, Leopoldov;7:21
+3008: X: Leopoldov;7:39, Bratislava hl.st.;8:42
+2044: X: Bratislava hl.st.;9:16, Malacky;9:54
+2049: X: Malacky;10:05, Bratislava hl.st.;10:43
+1873: X: Bratislava hl.st.;15:33, Šaľa;16:22
+1868: X: Šaľa;16:41, Kúty;18:27
+2033: X: Kúty;19:38, Bratislava hl.st.;20:43
+4603: 25: Bratislava hl.st.;4:44, Nové Zámky;6:15
+4682: 25: Nové Zámky;7:23, Bratislava hl.st.;8:52
+3023: 25: Bratislava hl.st.;15:18, Leopoldov;16:21
+3026: 25: Leopoldov;16:39, Bratislava hl.st.;17:42
+3035: : Bratislava hl.st.;21:30, Leopoldov;22:33
+
+3004: X: Leopoldov;5:39, Bratislava hl.st.;6:42
+2012: X: Bratislava hl.st.;10:16, Kúty;11:20
+2019: X: Kúty;12:38, Bratislava hl.st.;13:43
+3021: X: Bratislava hl.st.;14:18, Leopoldov;15:21
+3024: X: Leopoldov;15:39, Bratislava hl.st.;16:42
+3000: 25: Leopoldov;3:54, Bratislava hl.st.;4:59
+4619: 25: Bratislava hl.st.;13:09, Nové Zámky;14:38
+4622: 25: Nové Zámky;15:23, Bratislava hl.st.;16:53
+4627: : Bratislava hl.st.;17:09, Nové Zámky;18:38

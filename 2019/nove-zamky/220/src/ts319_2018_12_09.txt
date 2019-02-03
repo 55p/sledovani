@@ -1,0 +1,29 @@
+4600: X: Nové Zámky;3:18, Malacky;5:48
+2043: X: Malacky;6:28, Pezinok;7:40
+3044: X: Pezinok;7:48, Kúty;9:20
+4680: 25: Nové Zámky;3:23, Kúty;6:20
+2007: 25: Kúty;6:38, Bratislava hl.st.;7:43
+3044: 25: Bratislava hl.st.;8:16, Kúty;9:20
+2015: : Kúty;10:38, Bratislava hl.st.;11:43
+2016: 25: Bratislava hl.st.;12:16, Kúty;13:20
+2023: 25: Kúty;14:38, Bratislava hl.st.;15:43
+2024: 25: Bratislava hl.st.;16:16, Kúty;17:20
+2031: 25: Kúty;18:38, Bratislava hl.st.;19:43
+2048: X: Bratislava hl.st.;13:16, Malacky;13:54
+2053: X: Malacky;14:05, Bratislava hl.st.;14:43
+1735: X: Bratislava hl.st.;15:06, Pezinok;15:22
+4286: X: Pezinok;16:11, Břeclav;17:54
+4287: X: Břeclav;18:08, Bratislava hl.st.;19:43
+2032: : Bratislava hl.st.;20:16, Kúty;21:20
+
+2001: 25: Kúty;3:42, Bratislava hl.st.;4:47
+2005: X: Kúty;5:38, Leopoldov;7:49
+3010: X: Leopoldov;8:39, Bratislava hl.st.;9:42
+3013: X: Bratislava hl.st.;10:18, Leopoldov;11:21
+3016: X: Leopoldov;11:39, Bratislava hl.st.;12:42
+4284: X: Bratislava hl.st.;14:32, Břeclav;15:54
+4285: X: Břeclav;16:08, Bratislava hl.st.;17:43
+4288: X: Bratislava hl.st.;18:16, Břeclav;19:54
+4289: X: Břeclav;20:08, Kúty;20:27
+2035: X: Kúty;21:34, Bratislava hl.st.;22:45
+4639: : Bratislava hl.st.;23:09, Nové Zámky;0:35

@@ -1,0 +1,4 @@
+5705: X: Nové Zámky;4:53, Zvolen;8:13
+5220: X: Zvolen;12:02, Nové Zámky;15:08
+5225: X: Nové Zámky;15:54, Levice;17:10
+5230: X: Levice;18:27, Nové Zámky;19:41

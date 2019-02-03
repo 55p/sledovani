@@ -1,0 +1,51 @@
+12701: : Česká Třebová;4:20, Lanškroun; 4:37
+12700: : Lanškroun;4:42, Česká Třebová; 5:00
+12705: : Česká Třebová; 5:04, Lanškroun; 5:22
+12704: : Lanškroun;5:27, Česká Třebová; 5:45
+12709: : Česká Třebová; 6:09, Lanškroun; 6:28
+12708: : Lanškroun;6:32, Česká Třebová; 6:50
+12713: 25: Česká Třebová; 7:05, Lanškroun; 7:23
+12712: 25: Lanškroun; 7:30, Rudoltice v Čechách; 7:36
+12715: X: Česká Třebová; 7:10, Lanškroun; 7:28
+12714: X: Lanškroun;7:39, Česká Třebová; 7:57
+103775pk: 25: Česká Třebová; 8:05, Rudoltice v Čechách; 8:16
+12717: 25: Rudoltice v Čechách; 8:19, Lanškroun; 8:25
+12716: 6: Lanškroun;8:41, Česká Třebová; 8:59
+12719: X6: Česká Třebová; 9:08, Lanškroun; 9:26
+12718: : Lanškroun; 9:30, Rudoltice v Čechách; 9:36
+12721: : Rudoltice v Čechách; 10:19, Lanškroun; 10:25
+12720: X6: Lanškroun;10:39, Česká Třebová; 10:57
+12723: X6: Česká Třebová; 11:08, Lanškroun; 11:26
+12722: : Lanškroun; 11:30, Rudoltice v Čechách; 11:36
+103780př: 5: Rudoltice v Čechách; 11:39, Česká Třebová; 11:50
+103779pk: 5: Česká Třebová; 12:08, Rudoltice v Čechách; 12:19
+12725: : Rudoltice v Čechách; 12:22, Lanškroun; 12:28
+12724: : Lanškroun;12:31, Česká Třebová; 12:49
+12727: : Česká Třebová; 13:08, Lanškroun; 13:26
+12726: : Lanškroun; 13:29, Rudoltice v Čechách; 13:35
+103782př: X: Rudoltice v Čechách; 13:39, Česká Třebová; 13:50
+12731: X: Česká Třebová; 14:08, Lanškroun; 14:28
+12731: 25: Rudoltice v Čechách; 14:22, Lanškroun; 14:28
+12730: : Lanškroun; 14:31, Česká Třebová; 14:49
+12735: : Česká Třebová; 15:08, Lanškroun; 15:26
+12734: : Lanškroun; 15:30, Rudoltice v Čechách; 15:36
+12739: : Rudoltice v Čechách; 16:22, Lanškroun; 16:28
+12738: : Lanškroun;16:41, Česká Třebová; 16:59
+12741: : Česká Třebová; 17:08, Lanškroun; 17:26
+12740: : Lanškroun; 17:30, Rudoltice v Čechách; 17:36
+103786př: 5,7: Rudoltice v Čechách; 17:39, Česká Třebová; 17:50
+103787pk: 5,7: Česká Třebová; 18:08, Rudoltice v Čechách; 18:19
+12743: : Rudoltice v Čechách; 18:22, Lanškroun; 18:28
+12742: : Lanškroun;18:41, Česká Třebová; 18:59
+12745: : Česká Třebová; 19:08, Lanškroun; 19:26
+12744: : Lanškroun; 19:30, Rudoltice v Čechách; 19:36
+12747: T: Rudoltice v Čechách; 19:41, Lanškroun; 19:47
+12746: T: Lanškroun; 20:12, Rudoltice v Čechách; 20:18
+12749: : Rudoltice v Čechách; 20:24, Lanškroun; 20:30
+12748: : Lanškroun; 20:39, Česká Třebová; 20:57
+12751: XT: Česká Třebová; 21:08, Lanškroun; 21:26
+12750: XT: Lanškroun; 21:34, Česká Třebová; 21:52
+12753: 25: Česká Třebová; 22:09, Lanškroun; 22:27
+12752: 25: Lanškroun; 22:31, Česká Třebová; 22:49
+12755: X: Česká Třebová; 22:16, Lanškroun; 22:34
+12754: X: Lanškroun; 22:38, Česká Třebová; 22:56

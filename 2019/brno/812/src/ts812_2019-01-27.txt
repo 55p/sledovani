@@ -1,0 +1,34 @@
+4303: X: Kyjov;4:38, Bylnice;7:13
+4306: X: Bylnice;7:55, Staré Město u Uherského Hradiště;9:50
+1726: X: Staré Město u Uherského Hradiště;10:33, Brno-Židenice;12:28
+1729: X1234: Brno-Židenice;13:32, Staré Město u Uherského Hradiště;15:27
+1732: X1234: Staré Město u Uherského Hradiště;16:33, Brno-Židenice;18:28
+4147: X5: Brno-Slatina;15:00, Nemotice;15:52
+4152: X5: Nemotice;16:05, Brno-Slatina;16:59
+4125: X5: Brno hl.n.;20:11, Veselí nad Moravou;22:05
+4102: 6: Veselí nad Moravou;3:57, Brno hl.n.;5:51
+4109: 6: Brno hl.n.;6:17, Veselí nad Moravou;8:05
+101721vlož: 6: Veselí nad Moravou;9:02, Staré Město u Uherského Hradiště;9:27
+4339pk: 6: Staré Město u Uherského Hradiště;9:36, Újezdec u Luhačovic;10:11
+14304: T: Luhačovice;5:44, Újezdec u Luhačovic;5:58
+14305: T: Újezdec u Luhačovic;6:14, Luhačovice;6:28
+14330: T: Luhačovice;6:49, Újezdec u Luhačovic;7:03
+14337: T: Újezdec u Luhačovic;7:24, Luhačovice;7:38
+14310: T: Luhačovice;9:22, Újezdec u Luhačovic;9:36
+14309: 25: Újezdec u Luhačovic;10:14, Luhačovice;10:28
+14312: 25: Luhačovice;11:22, Újezdec u Luhačovic;11:36
+14311: 25: Újezdec u Luhačovic;12:14, Luhačovice;12:28
+14314: 25: Luhačovice;13:32, Újezdec u Luhačovic;13:46
+14313: 25: Újezdec u Luhačovic;14:16, Luhačovice;14:30
+14316: 25: Luhačovice;15:32, Újezdec u Luhačovic;15:46
+14315: 6: Újezdec u Luhačovic;16:16, Luhačovice;16:30
+14332: 6: Luhačovice;17:36, Újezdec u Luhačovic;17:50
+14333: 6: Újezdec u Luhačovic;17:55, Luhačovice;18:09
+14322: 6: Luhačovice;19:30, Uherský Brod;19:51
+14323: 6: Uherský Brod;20:00, Luhačovice;20:18
+14338: 6: Luhačovice;21:28, Újezdec u Luhačovic;21:42
+14339: 6: Újezdec u Luhačovic;21:48, Luhačovice;22:02
+4342př: T: Újezdec u Luhačovic;15:50, Staré Město u Uherského Hradiště;16:23
+4347: T: Staré Město u Uherského Hradiště;18:23, Uherské Hradiště;18:29
+1734: T: Uherské Hradiště;18:40, Brno-Židenice;20:28
+4127: zX: Brno hl.n.;22:25, Kyjov;23:40
