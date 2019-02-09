@@ -1,0 +1,15 @@
+105001zv:X:Nové Zámky;4:26,Šurany;4:38
+5803:X:Šurany;4:46,Zlaté Moravce;5:43
+5804:X:Zlaté Moravce;5:58,Nové Zámky;7:59
+5823: :Nové Zámky;14:05,Zlaté Moravce;15:24
+5824: :Zlaté Moravce;15:29,Úľany nad Žitavou;16:19
+5883:7:Úľany nad Žitavou;16:37,Zlaté Moravce;17:28
+5884:7:Zlaté Moravce;17:40,Úľany nad Žitavou;18:32
+5833: :Úľany nad Žitavou;19:39,Zlaté Moravce;20:30
+
+5802:X:Zlaté Moravce;4:55,Úľany nad Žitavou;5:53
+5807:X:Úľany nad Žitavou;6:54,Zlaté Moravce;7:45
+5820:X:Zlaté Moravce;13:59,Nové Zámky;15:30
+5880:25:Zlaté Moravce;5:33,Úľany nad Žitavou;6:25
+5881:25:Úľany nad Žitavou;8:00,Zlaté Moravce;8:51
+5882:25:Zlaté Moravce;13:40,Nové Zámky;15:08

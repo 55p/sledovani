@@ -1,0 +1,6 @@
+1900:X:Humenné;3:33,Košice;5:04
+1902:25:Humenné;5:28,Košice;6:59
+1905: :Košice;15:01,Humenné;16:33
+1914: :Humenné;17:28,Košice;18:59
+1915:X1234,25:Košice;23:01,Humenné;00:33
+15915:5:Košice;23:13,Humenné;00:45

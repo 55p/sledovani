@@ -1,0 +1,64 @@
+5100::Nitra;4:12,Leopoldov;4:58
+5006:X:Leopoldov;5:38,Nové Zámky;7:13
+5080:25:Leopoldov;7:07,Nové Zámky;8:46
+5011: :Nové Zámky;9:15,Prievidza;12:23
+5024: :Prievidza;13:40,Nové Zámky;16:46
+5172: :Nové Zámky;18:20,Zbehy;19:50
+5088:25:Zbehy;20:08,Nové Zámky;21:23
+5034:X:Zbehy;20:08,Nové Zámky;21:46
+5039: :Nové Zámky;22:59,Nitra;23:43
+
+105100pk: :Nitra;4:12,Lužianky;4:22
+5041:X:Lužianky;4:26,Prievidza;7:09
+5041:25:Lužianky;4:26,Topoľčany;5:06
+5042:25:Topoľčany;5:11,Nitra;6:00
+5047:25:Nitra;6:47,Topoľčany;7:32
+5012:25:Topoľčany;9:04,Nové Zámky;10:46
+5012:X:Prievidza;7:17,Nové Zámky;10:46
+5019: :Nové Zámky;13:15,Prievidza;16:25
+5070: :Prievidza;17:45,Nitra;19:56
+105132pk:25:Nitra;20:04,Leopoldov;20:51
+5135:25:Leopoldov;21:07,Nitra;21:51
+
+4803:X:Nitra;3:37,Komárno;5:23
+4881:25:Nitra;3:32,Komárno;5:23
+5108:X:Komárno;5:35,Leopoldov;8:34
+5111:X:Leopoldov;9:07,Lužianky;9:41
+105012pk:X:Lužianky;9:45,Nitra;9:56
+5049:25:Komárno;6:32,Prievidza;10:20
+5020:25:Prievidza;11:36,Nové Zámky;14:46
+5116:X:Nitra;12:04,Leopoldov;12:51
+5119:X:Leopoldov;13:07,Lužianky;13:41
+105020pk:X:Lužianky;13:45,Nitra;13:56
+5192sv:X:Nitra;15:23, Lužianky;15:58
+5165:X:Zbehy;16:08,Lužianky;16:14
+104829pk:X:Lužianky;16:25,Nové Zámky;17:41
+105027pk:7:Nové Zámky;17:15,Topoľčany;19:00
+5074:7:Topoľčany;21:04,Nitra;22:00
+5038:7:Nitra;22:55,Nové Zámky;23:44
+
+5104:X:Nové Zámky;5:21,Leopoldov;6:53
+5104:25:Nové Zámky;5:21,Nitra;6:05
+105108pk:25:Nitra;7:33,Zbehy;7:51
+5149: :Zbehy;8:10,Lužianky;8:16
+105048pk: :Lužianky;8:25,Nitra;8:36
+5152: :Nitra;9:33,Zbehy;9:50
+5153: :Zbehy;10:08,Nitra;10:36
+5156:X:Nitra;11:33,Zbehy;11:50
+5157:X:Zbehy;12:08,Nitra;12:36
+5116:25:Nitra;12:04,Leopoldov;12:51
+5119:25:Leopoldov;13:07,Lužianky;13:41
+105020pk:25:Lužianky;13:45,Nitra;13:56
+5120:X:Nitra;14:04,Leopoldov;14:51
+5123:X:Leopoldov;15:07,Lužianky;15:41
+105024pk:X:Lužianky;15:45,Nitra;15:56
+5124: :Nitra;16:04,Leopoldov;16:51
+5127: :Leopoldov;17:07,Lužianky;17:41
+105028pk:X:Lužianky;17:45,Nitra;17:56
+105028pk:25:Lužianky;17:45,Nové Zámky;18:46
+5128:X:Nitra;18:04,Leopoldov;18:51
+5131:X:Leopoldov;19:07,Lužianky;19:41
+105070pk:X:Lužianky;19:45,Nitra;19:56
+5132:X:Nitra;20:04,Leopoldov;20:51
+5135:X:Leopoldov;21:07,Nitra;21:51
+5031:25:Nové Zámky;19:15,Nitra;20:00

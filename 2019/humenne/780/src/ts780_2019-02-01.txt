@@ -1,0 +1,20 @@
+9106:X:Humenné;5:40,Prešov;7:23
+9107:X:Prešov;8:44,Humenné;10:20
+1908: :Humenné;11:28,Košice;12:59
+1909: :Košice;17:01,Humenné;18:33
+
+9403:X:Humenné;5:21,Stakčín;6:08
+9404:X:Stakčín;6:35,Humenné;7:24
+1904:X:Humenné;7:28,Košice;8:59
+1903:X:Košice;13:01,Humenné;14:33
+1912: :Humenné;15:28,Košice;16:59
+1913: :Košice;21:01,Humenné;22:40
+
+1902:X:Humenné;5:28,Košice;6:59
+1904:25:Humenné;7:28,Košice;8:59
+1901: :Košice;11:01,Humenné;12:33
+17910:7:Humenné;13:19,Košice;14:50
+1910:X,6:Humenné;13:28,Košice;14:59
+1911: :Košice;19:01,Humenné;20:33
+
+

@@ -1,0 +1,17 @@
+5501:X:Topoľčany;3:47,Prievidza;5:07
+5503:25:Topoľčany;4:50,Prievidza;6:09
+5048: :Prievidza;6:23,Nitra;8:35
+5112: :Nitra;10:04,Leopoldov;10:51
+5115: :Leopoldov;11:07,Lužianky;11:41
+105016pk:X:Lužianky;11:45,Nové Zámky;12:46
+105021pk:X:Nové Zámky;14:20,Lužianky;15:39
+5122:X:Lužianky;15:45,Leopoldov;16:23
+5030:X:Leopoldov;18:04,Nové Zámky;20:00
+105016pk:25:Lužianky;11:45,Nitra;11:56
+5120:25:Nitra;14:04,Leopoldov;14:51
+5123:25:Leopoldov;15:07,Lužianky;15:41
+105024pk:25:Lužianky;15:45,Nitra;15:56
+5168:25:Nitra;17:33,Zbehy;17:50
+5086:25:Zbehy;18:04,Nové Zámky;20:10
+5035: :Nové Zámky;20:54,Nitra;21:46
+5079: :Nitra;22:40,Topoľčany;23:29

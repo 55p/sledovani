@@ -1,0 +1,59 @@
+5004: :Topoľčany;4:21,Nové Zámky;6:15
+5108:25:Nové Zámky;6:28,Leopoldov;8:34
+105108pk:X:Nové Zámky;6:28,Nitra;7:17
+5111:25:Leopoldov;9:07,Lužianky;9:41
+105012pk:25:Lužianky;9:45,Nitra;9:56
+5049:X:Nitra;8:12,Prievidza;10:20
+5020:X:Prievidza;11:36,Nové Zámky;14:46
+5156:25:Nitra;11:33,Zbehy;11:50
+5157:25:Zbehy;12:08,Nitra;12:36
+5160:25:Nitra;13:33,Zbehy;13:50
+5022:25:Zbehy;14:08,Nitra;14:36
+5164:25:Nitra;15:33,Zbehy;15:50
+5165:25:Zbehy;16:08,Nitra;16:36
+5128:25:Nitra;18:04,Leopoldov;18:51
+5168:X:Nové Zámky;16:20,Zbehy;17:50
+105128pk:X:Zbehy;18:24,Leopoldov;18:51
+5131:25:Leopoldov;19:07,Lužianky;19:41
+105070pk:25:Lužianky;19:45,Nitra;19:56
+5132:25:Nitra;20:04,Leopoldov;20:51
+
+5101: :Leopoldov;4:15,Lužianky;4:57
+105004pk: :Lužianky;5:02,Nitra;5:12
+5144::Nitra;5:27,Zbehy;5:45
+5190sv:X:Zbehy;5:48,Leopoldov;6:27
+5008:X:Leopoldov;6:38,Nové Zámky;8:46
+5006:25:Zbehy;6:11,Nové Zámky;7:13
+5015: :Nové Zámky;11:15,Prievidza;14:15
+4829:X:Prievidza;14:23,Komárno;18:28
+5028:25:Prievidza;15:38,Nové Zámky;18:46
+4828:X:Komárno;18:32,Nové Zámky;18:58
+
+4805:X:Nové Zámky;5:50,Komárno;6:17
+5007:X:Komárno;6:32,Nitra;8:00
+5160:X:Nitra;13:33,Zbehy;13:50
+5022:X:Zbehy;14:08,Nové Zámky;15:41
+5027:X:Nové Zámky;17:15,Topoľčany;19:00
+5537:X:Topoľčany;22:32,Prievidza;23:26
+5023:25:Nové Zámky;15:15,Prievidza;18:22
+
+5042:X:Prievidza;4:02,Nitra;6:00
+5047:X:Nitra;6:42,Topoľčany;7:32
+5046:25:Prievidza;5:17,Topoľčany;6:18
+105049pk:25:Topoľčany;9:10,Prievidza;10:20
+5619:25:Prievidza;12:41,Horná Štubňa;13:41
+7520:25:Horná Štubňa;13:53,Vrútky;14:41
+7527:25:Vrútky;17:19,Horná Štubňa;18:07
+5628:25:Horná Štubňa;18:17,Prievidza;19:11
+5580:25:Prievidza;19:15,Topoľčany;20:23
+5521:X:Topoľčany;14:13,Prievidza;15:26
+5028:X:Prievidza;15:38,Nové Zámky;18:46
+5031:X:Nové Zámky;19:15,Topoľčany;21:00
+105537pk:5:Topoľčany;22:37,Prievidza;23:26
+
+5503:X:Topoľčany;4:50,Prievidza;6:09
+5016: :Prievidza;9:43,Nové Zámky;12:46
+5021:X:Nové Zámky;14:20,Topoľčany;16:18
+5531:X:Topoľčany;18:41,Prievidza;19:49
+5538:X:Prievidza;22:31,Topoľčany;23:29
+5027:25:Nové Zámky;17:15,Topoľčany;19:00
