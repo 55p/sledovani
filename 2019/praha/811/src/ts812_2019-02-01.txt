@@ -1,4 +1,4 @@
-109551sv: X5: Praha hl.n.;0:16, Praha-Vršovice;0:20
+﻿109551sv: 6: Praha hl.n.;0:16, Praha-Vršovice;0:20
 9502: X: Praha-Vršovice;5:42, Mladá Boleslav město;7:29
 9504: T: Praha-Vršovice;7:42, Mladá Boleslav hl.n.;9:21
 1945: X: Mladá Boleslav město;8:01, Praha-Vršovice;9:47

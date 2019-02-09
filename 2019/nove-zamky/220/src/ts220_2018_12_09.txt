@@ -1,4 +1,4 @@
-4602: : Nové Zámky;4:28, Bratislava hl.st.;5:58
+﻿4602: : Nové Zámky;4:28, Bratislava hl.st.;5:58
 2094: X: Bratislava hl.st.;6:23, Malacky;6:57
 2045: X: Malacky;7:08, Bratislava hl.st.;7:44
 3009: X: Bratislava hl.st.;8:18, Leopoldov;9:21
@@ -67,7 +67,7 @@
 3053: 25: Bratislava hl.st.;16:18, Trnava;17:05
 3054: 25: Trnava;17:55, Bratislava hl.st.;18:42
 3031: : Bratislava hl.st.;19:18, Leopoldov;20:21
-3060: : Leopoldov;21:09.t;21:23
+3060: : Leopoldov;21:09,Trnava;21:23
 3058: : Trnava;22:34, Bratislava hl.st.;23:21
 
 102090pk: X: Bratislava hl.st.;2:27, Malacky;3:01

@@ -1,11 +1,11 @@
 106220pk: : Pardubice hl.n.; 1:05, Pardubice-Rosice nad Labem; 1:08
-5351: X: Pardubice-Rosice nad Labem; 1:10, Chrudim, 1:25
-5351: 25: Pardubice-Rosice nad Labem; 1:10, Slatiňany, 1:30
+5351: X: Pardubice-Rosice nad Labem; 1:10, Chrudim; 1:25
+5351: 25: Pardubice-Rosice nad Labem; 1:10, Slatiňany; 1:30
 5598sv: 25: Slatiňany; 1:34, Chrudim; 1:38
 25040: X: Chrudim; 4:01, Moravany; 4:31
 25041: X: Moravany; 4:41, Chrudim; 5:12
 25042: : Chrudim; 6:23, Moravany; 6:54
-25043: : Moravany; 7:08, Chrudim 7:38
+25043: : Moravany; 7:08, Chrudim; 7:38
 25044: : Chrudim; 10:23, Moravany; 10:54
 25047: : Moravany; 11:03, Chrudim; 11:31
 25046: X: Chrudim; 12:23, Moravany; 12:54 
@@ -37,9 +37,9 @@
 25343: : Holice; 12:42, Moravany; 12:54
 25342: : Moravany; 13:03, Holice; 13:15
 25345: X: Holice; 13:45, Moravany; 13:57
-25344: X: Moravany; 14:06; Holice; 14:18
+25344: X: Moravany; 14:06, Holice; 14:18
 25347: : Holice; 14:42, Moravany; 14:54
-25346: : Moravany; 15:03, Holice, 15:15
+25346: : Moravany; 15:03, Holice; 15:15
 25349: X: Holice; 15:42, Moravany; 15:54
 25348: X: Moravany; 16:06, Holice; 16:18
 25351: : Holice; 16:42, Moravany; 16:54

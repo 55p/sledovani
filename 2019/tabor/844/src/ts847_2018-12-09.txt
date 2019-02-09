@@ -1,4 +1,4 @@
-18421 : X : Tábor;4:09,Obrataň;4:38
+﻿18421 : X : Tábor;4:09,Obrataň;4:38
 18420 : X : Obrataň;4:42,Tábor;5:10
 18401 : X : Tábor;6:09,Horní Cerekev;7:58
 8350 : X : Horní Cerekev;8:26,Kostelec u Jihlavy;8:44
@@ -17,6 +17,6 @@
 18407 : X : Tábor;11:09,Horní Cerekev;12:38
 18410 : X : Horní Cerekev;14:57,Tábor;16:23
 18417 : X : Tábor;17:09,Horní Cerekev;18:43
-18418 : X,-3112 : Horní Cerekev;20:17;Tábor;21:41
+18418 : X,-3112 : Horní Cerekev;20:17, Tábor;21:41
 8237 : 6 : Tábor;19:27,Veselí nad Lužnicí;19:59
 8240 : 6 : Veselí nad Lužnicí;21:29,Tábor;21:59
