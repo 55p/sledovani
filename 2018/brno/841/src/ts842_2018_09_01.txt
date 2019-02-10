@@ -1,4 +1,4 @@
-4101:X
+4101:X:Brno hl.n.;412,Uherské Hradiště;6.34
 12206| zadní|zadní část:X
 12205:X
 4361:X

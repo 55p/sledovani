@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 $zacatekPlatnosti = '2.7.2018';
 $konecPlatnosti = null; //'x.x.2018 23:59:59';
 
@@ -16,8 +16,6 @@ $omezeni['4074_1'] = '25';
 $omezeni['4075_1'] = '25';
 $omezeni['4076_1'] = 'X';
 $omezeni['4077_1'] = 'X';
-$omezeni['4083_1'] = '25';
-$omezeni['4084_1'] = '25';
 $omezeni['104074_1'] = '7';
 $omezeni['104084_1'] = 'X';
 $omezeni['104085_1'] = 'X';

@@ -6,7 +6,9 @@ uh=Uherské Hradiště
 sm=Staré Město u Uherského Hradiště
 
 
-4106:X
+104101pk:X1:bh;412,Nesovice;512
+4104:X1
+4106:X2345
 4147:X
 4152:X
 4155:X5

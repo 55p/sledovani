@@ -16,6 +16,8 @@ uj=Újezdec u Luhačovic
 1925| přední|přední část:X:mb;1600,bd;1624
 104412| zadní|zadní část:X:bd;1651,mb;1726
 14430:X
+14431:X5
+14432:X5
 14433:X
 4437| přední|přední část:X1234:mb;1831,bd;1906
 4437vlož:X5:mb;1831,bd;1906

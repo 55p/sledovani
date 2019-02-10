@@ -25,6 +25,7 @@ $omezeni['12205_2'] = '25';
 $omezeni['12206_1'] = 'X';
 $omezeni['12257_1'] = 'X5';
 
+$trasa['4101_1'] = ['Brno hl.n.;4:12','Uherské Hradiště;6.34'];
 $trasa['4352_1'] = ['Bojkovice;8:36','Uherský Brod;8:54'];
 $trasa['4390_1'] = ['Bojkovice;8:36','Uherský Brod;8:54'];
 $trasa['12205_1'] = ['Veselí nad Moravou;7:16', 'Staré Město u Uherského Hradiště;7:52'];
@@ -35,7 +36,6 @@ $trasa['1734_1'] = ['Uherské Hradiště;18:40', 'Brno hl.n.;20:33'];
 $trasa['1737_1'] = ['Brno hl.n.;21:28', 'Veselí nad Moravou;22:58'];
 $trasa['1738_1'] = ['Veselí nad Moravou;21:01', 'Brno hl.n.;22:33'];
 $trasa['1738_2'] = ['Bylnice;19:25', 'Brno hl.n.;22:33'];
-$trasa['4101_1'] = ['Brno hl.n.;4:27', 'Uherské Hradiště;6:34'];
 $trasa['4307_1'] = ['Uherský Brod;9:05', 'Bylnice;9:59'];
 $trasa['4308_1'] = ['Bylnice;10:05', 'Uherský Brod;10:59'];
 $trasa['4309_1'] = ['Uherský Brod;11:05', 'Bylnice;11:59'];
