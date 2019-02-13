@@ -1,11 +1,11 @@
-15801: X: Nymburk hl.n.;3:57, Jičín;5:15
+﻿15801: X: Nymburk hl.n.;3:57, Jičín;5:15
 15802: X: Jičín;5:21, Nymburk hl.n.;6:22
 15601: X: Nymburk hl.n.;6:35, Městec Králové;7:34
 15602: X: Městec Králové;8:03, Nymburk hl.n.;8:46
 15815: X: Nymburk hl.n.;13:09, Jičín;14:29
-15816|pk Kři-Nbk|postrk Křinec - Nymburk hl.n.: X: Jičín;14:37, Nymburk hl.n.;15:51
+115816|pk Kři-Nbk|postrk Křinec - Nymburk hl.n.: X: Jičín;14:37, Nymburk hl.n.;15:51
 15821: X: Nymburk hl.n.;16:04, Jičín;17:29
-15822|pk Kři-Nbk|postrk Křinec - Nymburk hl.n.: X: Jičín;17:37, Nymburk hl.n.;18:58
+115822|pk Kři-Nbk|postrk Křinec - Nymburk hl.n.: X: Jičín;17:37, Nymburk hl.n.;18:58
 15866: 25: Nymburk hl.n.;13:16, Poříčany;13:37
 15867: 25: Poříčany;13:50, Nymburk hl.n.;14:11
 15868: 25: Nymburk hl.n.;14:16, Poříčany;14:37
@@ -95,7 +95,7 @@
 22220: X: Kolín;13:46, Uhlířské Janovice;14:26
 22223: X: Uhlířské Janovice;15:32, Kolín;16:15
 22212: : Kolín;16:46, Ledečko;17:52
-22215|pk UJa-Kol|postrk Uhl. Janovice - Kolín: X: Ledečko;18:03, Kolín;19:15
+122215|pk UJa-Kol|postrk Uhl. Janovice - Kolín: X: Ledečko;18:03, Kolín;19:15
 22215: 25: Ledečko;18:03, Kolín;19:15
 5241: : Kolín;20:40, Dobšice nad Cidlinou;20:58
 5242: : Dobšice nad Cidlinou;21:18, Kolín;21:36

@@ -95,7 +95,7 @@
 108954pk: X5: Nepomuk;20:09, Plzeň-Jižní Předměstí;20:55
 8919: X5: Plzeň-Jižní Předměstí;22:43, Horažďovice předměstí;23:51
 
-8991pk: X1: Plzeň hl.n.;4:00, Nepomuk;4:31
+8991sv: X1: Plzeň hl.n.;4:00, Nepomuk;4:31
 8904: X: Nepomuk;6:09, Plzeň-Jižní Předměstí;6:55
 8943: X: Plzeň-Jižní Předměstí;7:04, Nepomuk;7:50
 8944: X: Nepomuk;8:09, Plzeň-Jižní Předměstí;8:55

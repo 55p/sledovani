@@ -1,4 +1,4 @@
-15840: 25: Nymburk hl.n.;3:54, Poříčany;4:15
+﻿15840: 25: Nymburk hl.n.;3:54, Poříčany;4:15
 15841: 25: Poříčany;4:28, Nymburk hl.n.;4:49
 15846: 25: Nymburk hl.n.;5:20, Poříčany;5:41
 15849: 25: Poříčany;5:48, Nymburk hl.n.;6:10
@@ -65,7 +65,7 @@
 115817pk: X: Nymburk hl.n.;14:04, Křinec;14:22
 15627: X: Křinec;14:28, Městec Králové;14:49
 15626: X: Městec Králové;14:57, Křinec;15:18
-15816: X: Jičín;14:37, Nymburk hl.n.;15:51
+15816: X: Křinec;15:32, Nymburk hl.n.;15:51
 15878: X: Nymburk hl.n.;19:16, Poříčany;19:37
 15879: X: Poříčany;19:50, Nymburk hl.n.;20:11
 15882: X: Nymburk hl.n.;20:16, Poříčany;20:37
