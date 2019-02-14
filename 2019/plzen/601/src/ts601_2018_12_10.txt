@@ -1,4 +1,4 @@
-﻿108900pk: X: Horažďovice předměstí;3:44, Plzeň-Jižní Předměstí;4:55
+108900pk: X: Horažďovice předměstí;3:44, Plzeň-Jižní Předměstí;4:55
 8941: X: Plzeň-Jižní Předměstí;5:04, Nepomuk;5:50
 108942pk: X: Nepomuk;6:39, Plzeň-Jižní Předměstí;7:21
 8904: 25: Horažďovice předměstí;5:43, Plzeň-Jižní Předměstí;6:55
@@ -52,8 +52,8 @@
 108950pk: 25: Nepomuk;16:09, Plzeň-Jižní Předměstí;16:55
 8953: 25: Plzeň-Jižní Předměstí;19:04, Nepomuk;19:50
 8919: 6: Plzeň-Jižní Předměstí;22:43, Horažďovice předměstí;23:51
-7284: X1234: Geldermalsen;23:39, Dordrecht;0:35
-7285: X1234: Roma Termini;19:28, Velletri;20:28
+7284: X1234: Plzeň hl.n.;20:10, Pňovany;20:36
+7285: X1234: Pňovany;20:41, Nepomuk;21:50
 
 108900p: T: Horažďovice předměstí;3:44, Plzeň-Jižní Předměstí;4:55
 8901: T: Plzeň-Jižní Předměstí;6:04, Nepomuk;6:52
