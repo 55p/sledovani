@@ -1,0 +1,3 @@
+5046: X: Prievidza;5:17, Nitra;7:21
+5018: X: Nitra;12:55, Nové Zámky;13:41
+5023: X: Nové Zámky;15:15, Prievidza;18:22
