@@ -144,6 +144,22 @@ br + .lakVozidla {
   color: #004080;
   background: #FF8080;
 }
+.hokej_sk {
+  color: #FF8080;
+  background: #005797;
+}
+.sk_812 {
+  background: #FFFBC1;
+  color: #B70000;
+}
+.sk_812_dvere {
+  background: #FFFBC1;
+  color: #B70000;
+  border-left: 0.4ex solid #B70000;
+  border-right: 0.4ex solid #B70000;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
+}
 
 .kometa_380 {
   color: white;
