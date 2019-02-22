@@ -1,0 +1,102 @@
+﻿3766: X1: Zábřeh na Moravě;4:44, Rudoltice v Čechách;5:10
+3771: X1: Rudoltice v Čechách;5:19, Zábřeh na Moravě;5:42
+12703: X2345: Česká Třebová;4:43, Lanškroun;5:00
+12702: X2345: Lanškroun;5:05, Česká řebová;5:24
+12707: X2345: Česká Třebová;5:42, Lanškroun;6:00
+12706: X2345: Lanškroun;6:14, Česká Třebová;6:32
+3772: X1: Zábřeh na Moravě;5:56, Rudoltice v Čechách;6:18
+3773: X1: Rudoltice v Čechách;6:25, Zábřeh na Moravě;6:48
+12711: X2345: Česká Třebová;6:41, Lanškroun;6:59
+12710: X2345: Lanškroun;7:11, Rudoltice v Čechách;7:17
+103774: X2345: Rudoltice v Čechách;7:22, Česká Třebová;7:32
+3774: X1: Zábřeh na Moravě;6:58, Česká Třebová;7:32
+3775: X1: Česká Třebová;8:05, Zábřeh na Moravě;8:41
+103775: X2345: Česká Třebová;8:05, Rudoltice v Čechách;8:16
+12717: X2345: Rudoltice v Čechách;8:19, Lanškroun;8:25
+12716: X2345: Lanškroun;8:41, Česká Třebová;8:59
+3778: X1: Zábřeh na Moravě;9:17, Česká Třebová;9:50
+12729: X: Česká Třebová;13:31, Lanškroun;13:49
+12728: X: Lanškroun;13:57, Česká Třebová;14:15
+103783: X: Česká Třebová;14:31, Rudoltice v Čechách;14:42
+12733: X: Rudoltice v Čechách;14:45, Lanškroun;14:51
+12732: X: Lanškroun;15:02, Česká Třebová;15:21
+12737: X: Česká Třebová;15:31, Lanškroun;15:49
+12736: X: Lanškroun;15:57, Česká Třebová;16:15
+3787: X: Česká Třebová;18:08, Zábřeh na Moravě;18:47
+3788: X: Zábřeh na Moravě;19:17, Česká Třebová;19:50
+3789: X: Česká Třebová;20:11, Zábřeh na Moravě;20:44
+15032: T: Choceň;1:06, Vysoké Mýto město;1:23
+15091Sv: T: Vysoké Mýto město;1:27, Vysoké Mýto;1:30
+15034: T: Vysoké Mýto;4:26, Vysoké Mýto město;4:29
+15033: T: Vysoké Mýto město;4:35, Choceň;4:50
+15036: T: Choceň;5:39, Vysoké Mýto město;5:54
+15035: T: Vysoké Mýto město;6:06, Choceň;6:21
+15042: T: Choceň;7:39, Vysoké Mýto město;7:54
+15005: T: Vysoké Mýto město;8:06, Choceň;8:21
+15004: T: Choceň;8:39, Vysoké Mýto město;8:54
+15041: T: Vysoké Mýto město;9:06, Choceň;9:21
+15044: T: Choceň;9:39, Vysoké Mýto město;9:54
+15043: T: Vysoké mýto město;11:01, Choceň;11:16
+15046: T: Choceň;11:39, Vysoké Mýto město;11:54
+15045: T: Vysoké Mýto město;12:06, Choceň;12:21
+15045: T: Choceň;12:39, Vysoké Mýto město;12:54
+15009: T: Vysoké Mýto město;13:06, Choceň;13:21
+15050: T: Choceň;13:39, Vysoké Mýto město;13:54
+15047: T: Vysoké Mýto město; 13:58, Choceň;14:13
+15052: T: Choceň;14:39, Vysoké Mýto město;14:54
+15051: T: Vysoké Mýto město;15:06, Choceň;15:21
+15056: T: Choceň;15:39, Vysoké Mýto město;15:54
+15055: T: Vysoké Mýto město;16:06, Choceň;16:21
+15058: T: Choceň;16:39, Vysoké Mýto město;16:54
+15057: T: Vysoké Mýto město;17:06, Choceň;17:21
+15060: T: Choceň;17:39, Vysoké Mýto město;17:54
+1015017: T: Vysoké Mýto město;18:06, Choceň;18:21
+1015062: T: Choceň;18:39, Vysoké Mýto město;18:54
+15059: T: Vysoké Mýto město;19:06, Choceň;19:21
+15066: T: Choceň;20:39, Vysoké Mýto město;20:54
+15061: T: Vysoké Mýto město;21:04, Choceň;21:19
+5045: T: Choceň;21:47, Česká Třebová;22:16
+5058: 6: Česká Třebová;23:31, Choceň;23:56
+
+3766: X2345: Zábřeh na Moravě;4:44, Rudoltice v Čechách;5:10
+12703: X1: Česká Třebová;4:43, Lanškroun;5:00
+12702: X1: Lanškroun;5:05, Česká Třebová;5:24
+3768: 6: Zábřeh na Moravě;4:54, Česká Třebová; 5:27
+3770: 7: Zábřeh na Moravě;5:04, Rudoltice v Čechách;5:30
+3771: X2345: Rudoltice v Čechách;5:19, Zábřeh na Moravě;5:42
+3772: X2345: Zábřeh na Moravě;5:56, Rudoltice v Čechách;6:18
+1012709: 6: Česká Třebová;6:09, Rudoltice v Čechách;6:20
+3773: X2345,25: Rudoltice v Čechách;6:25, Zábřeh na Moravě;6:48
+12707: X1: Česká Třebová;5:42, Lanškroun;6:00
+12706: X1: Lanškroun;6:14, Česká Třebová;6:32
+12711: X1: Česká Třebová;6:41, Lanškroun;6:59
+12710: X1: Lanškroun;7:11, Rudoltice v Čechách;7:17
+103774: X1: Rudoltice v Čechách;7:22, Česká Třebová;7:32
+3774: X2345: Zábřeh na Moravě;6:58, Česká Třebová;7:32 
+3776: 25: Zábřeh na Moravě;7:17, Česká Třebová;7:50
+103775: X1: Česká Třebová;8:05, Rudoltice v Čechách;8:16
+12717: X1: Rudoltice v Čechách;8:19, Lanškroun;8:25
+12716: X1: Lanškroun;8:41, Česká Třebová; 8:59
+3775: X2345,25: Česká Třebová;8:05, Zábřeh na Moravě;8:41
+3778: X2345,25: Zábřeh na Moravě;9:17, Česká Třebová;9:50
+3777: X2345,25: Česká Třebová;10:05, Zábřeh na Moravě;10:41
+3780: X2345,25: Zábřeh na Moravě;11:17, Česká Třebová;11:50
+3779: : Česká Třebová;12:08, Zábřeh na Moravě;12:42
+3782: : Zábřeh na Moravě;13:14, Česká Třebová;13:50
+3781: 25: Česká Třebová;14:08, Zábřeh na Moravě;14:42
+3783: X: Česká Třebová;14:31, Zábřeh na Moravě;15:07
+3784: : Zábřeh na Moravě;15:14, Česká Třebová;15:49
+3785: : Česká Třebová;16:08, Zábřeh na Moravě;16:47
+3786: : Zábřeh na Moravě;17:17, Česká Třebová;17:50
+3787: 25: Česká Třebová;18:08, Zábřeh na Moravě;18:47
+3788: 25: Zábřeh na Moravě;19:17, Česká Třebová;19:50
+3789: 25: Česká Třebová;20:11, Zábřeh na Moravě;20:44
+15064: X: Česká Třebová;19:08, Vysoké Mýto město;19:56
+15019: X: Vysoké Mýto město;20:06, Choceň;20:21
+15066: X1234: Choceň;20:39, Vysoké Mýto město;20:54
+15066: 5: Choceň;20:39, Litomyšl;21:26
+15063: 5: Litomyšl;21:44, Česká Třebová;23:14
+15063: X1234: Vysoké Mýto město;22:18, Česká Třebová;23:14
+
+
+2:6:2

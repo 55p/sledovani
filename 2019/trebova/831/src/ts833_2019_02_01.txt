@@ -1,0 +1,26 @@
+﻿15361: X: Česká Třebová;5:16, Svitavy;5:30
+15320: X: Svitavy;6:00, Borová u Poličky;6:47
+15327: X: Borová u Poličky;7:14, Svitavy;7:57
+15324: X: Svitavy;8:03, Pustá Kamenice;8:58
+15329: X: Pustá Kamenice;9:05, Česká Třebová;9:59
+15326: X: Svitavy;10:03, Pustá Kamenice;10:58
+15331: X: Pustá Kamenice;11:05, Svitay;11:59
+5070: 6: Česká Třebová;4:58, Ústí nad Orlicí;5:10 
+5069: 6: Ústí nad Orlicí;6:32, Česká Třebová;6:44
+15363: 25:Česká Třebová;7:10, Svitavy;7:24
+15382: 25: Svitavy;8:03, Čachnov;8:58
+15329: 25: Čachnov;9:02, Svitavy;9:59
+15326: 25: Svitavy;10:03, Borová u Poličky;10:45
+105333: 25: Borová u Poličky;10:49, Polička;11:03
+15331: 25: Polička;11:31, Svitavy;11:59
+15328: : Svitavy;12:03, Pustá Kamenice;12:57
+15333: : Pustá Kamenice;13:06, Svitavy;13:59
+15332: X: Svitavy;14:03, Žďárec u Skutče;15:43
+15341: X: Žďárec u Skutče;16:26, Svitavy;17:59
+15332: 25: Svitavy;14:03, Pustá Kamenice;14:57
+15337: 25: Pustá Kamenice;15:04, Svitavy;15:59
+15348: 25: Svitavy;16:03, Borová u Poličky;16:48
+15349: 25: Borová u Poličky;17:04, Svitavy;17:59
+15340: : Svitavy;18:04, Borová u Poličky;18:47
+15345: : Borová u Poličky;19:19, Svitavy;19:59
+15370: : Svitavy;20:32, Česká Třebová;20:46

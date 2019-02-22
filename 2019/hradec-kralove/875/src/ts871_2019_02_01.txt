@@ -1,0 +1,38 @@
+6221: X: Hradec Králové hl.n.;0:19, Pardubice hl.n.;0:44
+6223: 7,2004,2104,2204,0607,2810: Hradec Králové hl.n.;4:31, Pardubice hl.n.;4:56 
+5311: 7: Pardubice hl.n.;5:46, Hlinsko v Čechách;6:55
+1451: X6: Pardubice hl.n.;5:46, Hlinsko v Čechách;6:55
+1452: : Hlinsko v Čechách;7:01, Pardubice hl.n.;8:03
+5313: : Pardubice hl.n.;9:50, Hlinsko v Čechách;10:56
+5320: : Hlinsko v Čechách;11:04, Pardubice hl.n.;12:06
+5361: 5,1804,-1904: Pardubice hl.n.;12:18, Chrudim;12:37
+5358: 5,1804,-1904: Chrudim;13:14, Pardubice hl.n.;13:40
+1457: : Pardubice hl.n.;13:54, Hlinsko v Čechách;14:49
+1460: : Hlinsko v Čechách;15:03, Pardubice hl.n.;16:07
+5341: T: Pardubice hl.n.;16:18, Slatiňany;16:46
+5364: T: Slatiňany;17:09, Pardubice hl.n.;17:40
+1465: : Pardubice hl.n.;17:53, Hlinsko v Čechách;18:51
+1466: : Hlinsko v Čechách;19:08, Pardubice hl.n.;20:08
+5319: X7: Pardubice hl.n.;20:56, Hlinsko v Čechách;22:10
+5321: 6: Pardubice hl.n.;22:47, Hlinsko v Čechách;23:59
+
+5310: 2004,0607: Hlinsko v Čechách;3:47, Pardubice hl.n.;5:00
+5314: X6,-2004,-0607: Hlisnko v Čechách;4:57, Pardubice hl.n.;6:01
+6226: 6: Pardubice hl.n.;6:34, Hradec Králové hl.n.;6:56
+6259: 6: Hradec Králové hl.n.;21:04, Pardubice hl.n.;21:27
+6254: 6: Pardubice hl.n.;21:44, Hradec Králové hl.n.;22:06
+5316: 7,2204,2810: Hlinsko v Čechách;5:46, Pardubice hl.n.;6:58
+1453: X7: Pardubice hl.n.;7:56, Hlinsko v Čechách;8:56
+1456: X7: Hlinsko v Čechách;9:07, Pardubice hl.n.;10:06
+1455: X7: Pardubice hl.n.;11:53, Hlinsko v Čechách;12:53
+1458: X7: Hlinsko v Čechách;12:59, Pardubice hl.n.;14:05
+5335: T: Pardubice hl.n.;14:19, Slatiňany;14:48
+5362: T: Slatiňany;15:08, Pardubice hl.n.;15:41
+1461: X7: Pardubice hl.n.;15:54, Hlinsko v Čechách;16:55
+1464: X7: Hlinsko v Čechách;17:04, Pardubice hl.n.;18:06
+5365: X7: Pardubice hl.n.;18:18, Chrudim;18:41
+5366: X7: Chrudim;19:12, Pardubice hl.n.;19:40
+5317: X7: Pardubice hl.n.;19:55, Hlinsko v Čechách;20:58
+5324: X7: Hlinsko v Čechách;21:04, Pardubice hl.n.;22:11
+6256: X1234,-1804,-3004,-0705,-0407,-2810: Pardubice hl.n.;23:00, Hradec Králové hl.n.;23:23
+6258: T,-1904,-2104,-2204: Pardubice hl.n.;23:16, Hradec Králové hl.n.;23:38
