@@ -1,4 +1,4 @@
-﻿671:X:Děčín hl.n.;4:26, Praha hl.n.;6:10
+671:X:Děčín hl.n.;4:26, Praha hl.n.;6:10
 692:X:Praha hl.n.;6:51, Děčín hl.n.;8:31
 681:X:Děčín hl.n.;9:26, Praha hl.n.;11:10
 686:X:Praha hl.n.;12:51, Děčín hl.n.;14:31
@@ -51,7 +51,7 @@
 
 5601:X2345:Hradec Králové hl.n.;5:03, Choceň;5:56
 5600:X2345:Choceň;6:28, Hradec Králové hl.n.;7:36
-5201:X1:Chlumec nad Cidlinou;5:50, Týniště nad Orlicí;7:06
+5200:X1:Týniště nad Orlicí;5:08, Chlumec nad Cidlinou;6:22
 5217:X1:Chlumec nad Cidlinou;6:50, Hradec Králové hl.n.;7:25
 5611:X:Hradec Králové hl.n.;12:03, Týniště nad Orlicí;12:27
 5620:X:Týniště nad Orlicí;13:09, Hradec Králové hl.n.;13:43
