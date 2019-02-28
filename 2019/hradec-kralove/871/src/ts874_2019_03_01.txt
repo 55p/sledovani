@@ -1,0 +1,220 @@
+5500: X : Hradec Králové hl.n; 5:04, Turnov; 7:17
+5552: 6 : Jičín; 5:22, Turnov; 6:11
+5505: X6 : Turnov; 7:34, Hradec Králové hl.n; 9:53
+5506: : Hradec Králové hl.n; 10:04, Turnov; 12:25
+5505: 25 : Turnov; 13:34, Hradec Králové hl.n; 15:55
+105505pk|pk Hnv - HKhl|postrk Hněvčeves - Hradec Králové hl.n: X : Turnov; 13:34, Hradec Králové hl.n; 15:55
+5514: : Hradec Králové hl.n; 16:04, Turnov; 18:25
+5519: : Turnov; 19:34, Hradec Králové hl.n; 21:53
+5542: X : Hradec Králové hl.n; 22:35, Hořice v Podkrkonoší; 23:10
+21899sv: X5 : Hořice v Podkrkonoší; 23:13, Hradec Králové hl.n; 23:39
+
+6220: X1 : Pardubice hl.n; 1:05, Hradec Králové hl.n; 1:31
+121898pksv: X1 : Hradec Králové hl.n; 4:07, Hořice v Podkrkonoší; 4:33
+5541: X : Hořice v Podkrkonoší; 4:42, Hradec Králové hl.n; 5:20
+20205: 6 : Hradec Králové hl.n; 6:02, Rychnov nad Kněžnou; 6:59
+5126: 6 : Rychnov nad Kněžnou; 7:02, Náchod; 8:38
+5125: 6 : Náchod; 9:21, Rychnov nad Kněžnou; 10:58
+5128: 6 : Rychnov nad Kněžnou; 11:03, Náchod; 12:38
+5129: 6 : Náchod; 13:21, Rychnov nad Kněžnou; 14:59
+5134: 6 : Rychnov nad Kněžnou; 15:02, Náchod; 16:38
+5135: 6 : Náchod; 17:21, Rychnov nad Kněžnou; 18:58
+20212: 6 : Rychnov nad Kněžnou; 19:03, Týniště nad Orlicí; 19:27
+20213: 6 : Týniště nad Orlicí; 20:32, Rychnov nad Kněžnou; 20:56
+20258: 6 : Rychnov nad Kněžnou; 21:02, Častolovice; 21:16
+20216: 6 : Častolovice; 21:18, Hradec Králové hl.n; 21:57
+105502pk: X : Hradec Králové hl.n; 6:04, Hněvčeves; 6:27
+5543: X : Hněvčeves; 6:55, Hradec Králové hl.n; 7:20
+5512: T : Hradec Králové hl.n; 14:04, Turnov; 16:30
+5517: T : Turnov; 17:34, Hradec Králové hl.n; 19:53
+5532: T : Hradec Králové hl.n; 21:04, Jičín; 22:16
+5540: X : Hradec Králové hl.n; 14:37, Hněvčeves; 15:02
+5511: X : Hněvčeves; 15:30, Hradec Králové hl.n; 15:55
+5528: X : Hradec Králové hl.n; 17:04, Jičín, 18:24
+
+5521: X6 : Jičín; 4:30, Hradec Králové hl.n; 5:53
+5502: X6 : Hradec Králové hl.n; 6:04, Turnov; 8:25
+5507: X6 : Turnov; 9:34, Hradec Králové hl.n; 11:53
+5508: X : Hradec Králové hl.n; 12:04, Turnov; 14:25
+5512: X : Turnov; 14:41, Hradec Králové hl.n; 16:53
+5516: X7 : Hradec Králové hl.n; 18:04, Turnov; 20:25
+
+5501: : Turnov; 5:22, Hradec Králové hl.n; 7:53
+5504: : Hradec Králové hl.n; 8:04, Turnov; 10:25
+5509: : Turnov; 11:34, Hradec Králové hl.n; 13:53
+5512: X6 : Hradec Králové hl.n; 14:04, Turnov; 16:30
+5509: X6 : Turnov; 17:34, Hradec Králové hl.n; 19:53
+5512: X6 : Hradec Králové hl.n; 21:04, Jičín; 22:16
+
+6221: 6 : Hradec Králové hl.n; 0:19, Pardubice hl.n; 0:44
+6220: 6 : Pardubice hl.n; 1:05, Hradec Králové hl.n; 1:31
+21898sv: X1 : Hradec Králové hl.n; 4:07, Ostroměř; 4:46
+105521pk: X2345 : Jičín; 4:30, Ostroměř; 4:51
+5552: X : Ostroměř; 4:57, Turnov; 6:11
+5552: 7 : Jičín; 5:22, Turnov; 6:11
+5503: X : Turnov; 6:27, Hradec Králové hl.n; 8:53
+5505: T : Turnov; 7:34, Hradec Králové hl.n; 9:53
+5216: X : Hradec Králové hl.n; 9:34, Chlumec nad Cidlinou; 10:11
+5223: X : Chlumec nad Cidlinou; 10:41, Hradec Králové hl.n; 11:17
+20209: X : Hradec Králové hl.n; 12:22, Solnice; 13:30
+20210: X : Solnice; 14:20, Hradec Králové hl.n; 15:19
+1768: zX : Hradec Králové hl.n; 22:10, Náchod; 23:05  
+1768: z25 : Hradec Králové hl.n; 22:10, Broumov; 0:00
+
+20200: 6 : Rychnov nad Kněžnou; 4:50, Týniště nad Orlicí; 5:27 
+5121: X : Náchod; 4:32, Týniště nad Orlicí; 5:21
+5122: 6 : Týniště nad Orlicí; 5:44, Náchod; 6:37
+5122: X : Týniště nad Orlicí; 5:44, Hronov; 6:48
+5143: X : Hronov; 7:10, Náchod; 7:19
+5123: : Náchod; 7:21, Rychnov nad Kněžnou; 8:56
+20236: : Rychnov nad Kněžnou; 9:02, Častolovice; 9:16
+20235: : Častolovice; 9:43, Rychnov nad Kněžnou; 9:56
+20204: : Rychnov nad Kněžnou; 10:02, Týniště nad Orlicí; 10:27
+5202: T : Týniště nad Orlicí; 10:31, Hradec Králové hl.n; 10:55
+20235: X : Týniště nad Orlicí; 12:32, Rychnov nad Kněžnou; 12:56
+5132: X : Rychnov nad Kněžnou; 13:10, Hronov; 14:48
+5133: X : Hronov; 15:10, Rychnov nad Kněžnou; 16:56
+5138: X : Rychnov nad Kněžnou; 17:03, Náchod; 18:39
+5119: X : Náchod; 19:24, Choceň; 20:58
+5118: X : Choceň; 21:02, Náchod; 22:18
+5108: X : Náchod; 22:30, Trutnov hl.n; 23:30 
+
+25152: 25 : Meziměstí; 6:24, Broumov; 6:38
+1781: X : Trutnov hl.n; 4:41, Starkoč; 5:17
+5140: X : Starkoč; 5:22, Broumov; 6:38
+1745: : Broumov; 7:01, Starkoč; 8:18
+15152: : Starkoč; 8:25, Václavice; 8:29
+15153: : Václavice; 8:33, Starkoč; 8:37
+1744: : Starkoč; 8:41, Broumov; 9:58
+1751: : Broumov; 10:02, Starkoč; 11:18
+15114: X : Starkoč; 11:25, Václavice; 11:29
+15114: 25 : Starkoč; 11:25, Náchod; 11:39
+15159: X : Václavice; 11:33, Starkoč; 11:37
+1750: X : Starkoč; 11:41, Broumov; 12:58
+1750: 25 : Náchod; 12:00, Broumov; 12:58
+25153: : Broumov; 13:02, Meziměstí; 13:16
+1759: : Meziměstí; 14:19, Starkoč; 15:18
+15164: : Starkoč; 15:25, Václavice; 15:29
+15167: : Václavice; 15:33, Starkoč; 15:37
+1758: : Starkoč; 15:41, Broumov; 16:58
+1765: : Broumov; 17:02, Starkoč; 18:18
+15170: : Starkoč; 18:25, Václavice; 18:29
+15173: : Václavice; 18:33, Starkoč; 18:37
+1764: : Starkoč; 18:41, Broumov; 19:55
+1769: 5, 6, 7 : Broumov; 20:02, Hradec Králové hl.n; 22:00
+6261: 5, 6, 7 : Hradec Králové hl.n; 22:07, Pardubice hl.n; 22:32
+6256: 5, 6 : Pardubice hl.n; 23:00, Hradec Králové hl.n; 23:23
+
+1741: : Broumov; 5:00, Starkoč; 6:18
+5104: 6 : Starkoč; 6:23, Václavice; 6:27
+5103: 6 : Václavice; 6:31, Starkoč; 6:35
+1740: : Starkoč; 6:41, Broumov; 7:58
+1747: : Broumov; 8:02, Starkoč; 9:18
+15154: : Starkoč; 9:25, Václavice; 9:29
+15155: : Václavice; 9:33, Starkoč; 9:37
+1746: : Starkoč; 9:41, Broumov; 10:57
+1753: : Broumov; 11:01, Starkoč; 12:18
+15158: : Starkoč; 12:25, Václavice; 12:29
+15161: : Václavice; 12:33, Starkoč; 12:37
+1752: : Starkoč; 12:41, Broumov; 13:58
+25155: : Broumov; 14:02, Meziměstí; 14:16
+101761pk: T : Meziměstí; 15:18, Teplice nad Metují; 15:28
+15778: T : Teplice nad Metují; 16:33, Teplice nad Metují město; 16:36
+15785: T : Teplice nad Metují město; 17:23, Teplice nad Metují; 17:26
+15764: T : Teplice nad Metují; 17:31, Trutnov hl.n; 18:33
+25154: X1234 : Meziměstí; 20:42, Broumov; 20:56
+
+25151: X6 : Broumov; 4:09, Meziměstí; 4:23
+25150: X6 : Meziměstí; 5:24, Broumov; 5:38
+1743: : Broumov; 6:02, Starkoč; 7:18
+15112: : Starkoč; 7:25, Václavice; 7:29
+15112: T : Starkoč; 7:25, Náchod; 7:38
+15151: X6 : Václavice; 7:33, Starkoč; 7:37
+1742: X : Starkoč; 7:41, Náchod; 7:54
+1742: 25 : Starkoč; 7:41, Broumov; 8:58
+1441: X : Náchod; 10:04, Starkoč; 10:18
+1749: 25 : Broumov; 9:02, Náchod; 9:58
+15115: 25 : Náchod; 10:21, Starkoč; 10:37
+1748: : Starkoč; 10:41, Broumov; 11:58
+1755: :Broumov; 12:02, Starkoč; 13:18
+15160: : Starkoč; 13:24, Václavice; 13:28
+15163: : Václavice; 13:33, Starkoč; 13:37
+1754: : Starkoč; 13:41, Broumov; 14:57
+1761:: Broumov; 15:01, Starkoč; 16:19
+15166: : Starkoč; 16:25, Václavice; 16:29
+15169: : Václavice; 16:33, Starkoč; 16:37
+1760: : Starkoč; 16:41, Broumov; 17:58
+1767:: Broumov; 18:02, Starkoč; 19:18
+15116: : Starkoč; 19:25, Náchod; 19:45
+15169: : Náchod; 20:21, Starkoč; 20:37
+1766: : Starkoč; 20:41, Broumov; 21:56
+25159: X6 : Broumov; 22:20, Meziměstí; 22:34
+
+1757: :Meziměstí; 13:19, Starkoč; 14:18
+15162: : Starkoč; 14:25, Václavice; 14:29
+15165: : Václavice; 14:33, Starkoč; 14:37
+1756: : Starkoč; 14:41, Broumov; 15:58
+101763pk|pk TnM-Vac|postrk Teplice n. Metují - Václavice: T : Broumov; 16:02, Starkoč; 17:18 
+1763: X6 : Broumov; 16:02, Starkoč; 17:18
+15168: X6 : Starkoč; 17:25, Václavice; 17:29
+15171: X6 : Václavice; 17:33, Starkoč; 17:37
+101762pk|pk Skc-Vac|postrk Starkoč - Václavice: T : Starkoč; 17:41, Broumov; 18:57 
+1762: X6 : Starkoč; 17:41, Broumov; 18:57
+25157: X5,25 : Broumov; 19:01, Meziměstí; 19:15
+25154: X5,25 : Meziměstí; 20:42, Broumov; 20:56
+1769: X1234 : Broumov; 20:02, Hradec Králové hl.n; 22:00
+6261: X1234 : Hradec Králové hl.n; 22:07, Pardubice hl.n; 22:32
+
+6220: X2345 : Pardubice hl.n; 1:05, Hradec Králové hl.n; 1:31
+1781: 6 : Trutnov hl.n; 4:41, Starkoč; 5:17
+5140: 6 : Starkoč; 5:22, Náchod; 5:35
+5127: 6 : Náchod; 11:21, Rychnov n. Kněžnou; 12:56
+5127: T : Týniště n. Orlicí; 12:32, Rychnov n. Kněžnou; 12:56
+5132: XT : Rychnov n. Kněžnou; 13:10, Náchod; 14:38
+5133: XT : Náchod; 15:21, Rychnov n. Kněžnou; 16:56
+5138: XT : Rychnov n. Kněžnou; 17:03, Náchod; 18:39
+5119: XT : Náchod; 19:24, Choceň; 20:58
+5118: XT : Choceň; 21:02, Náchod; 22:18
+5148: T : Náchod; 22:21, Meziměstí; 23:01
+5524: X : Hradec Králové hl.n; 11:04, Jičín; 12:24
+5529: X : Jičín; 13:33, Hradec Králové hl.n; 14:53
+5526: X : Hradec Králové hl.n; 15:04, Jičín; 16:24
+5531: X : Jičín; 17:33, Hradec Králové hl.n; 18:53
+5530: X : Hradec Králové hl.n; 19:04, Jičín; 20:24
+
+6221: T : Hradec Králové hl.n; 0:19, Pardubice hl.n; 0:44
+6220: T : Pardubice hl.n; 1:05, Hradec Králové hl.n; 1:31
+121898pksv: X1 : Hradec Králové hl.n; 4:07, Ostroměř; 4:56
+5552pk: X1 : Ostroměř; 4:57, Jičín; 5:19
+5523: X6 : Jičín; 5:33, Hradec Králové hl.n; 6:53
+5520: X : Hradec Králové hl.n; 7:04, Jičín; 8:24
+5527: X : Jičín; 11:33, Hradec Králové hl.n; 12:53
+5510: X : Hradec Králové hl.n; 13:04, Turnov; 15:28
+5515: : Turnov; 15:41, Hradec Králové hl.n; 17:53
+5516: 6 : Hradec Králové hl.n; 18:04, Turnov; 20:25
+5502: T : Hradec Králové hl.n; 6:04, Turnov; 8:25
+5507: T : Turnov; 9:34, Hradec Králové hl.n; 11:53
+5508: XT : Hradec Králové hl.n; 13:04, Turnov; 15:28
+20215: 5 : Hradec Králové hl.n; 21:05, Rychnov n. Kněžnou; 21:56
+
+
+1: 7: 12
+4: 5: 1
+3: 6: 1
+5: 5: 9
+5: 6: 9
+6: 5: 11
+6: 6: 11
+6: 7: 11
+7: 7: 2
+7: 5: 5
+7: 6: 12
+8: 5: 7
+8: 6: 7
+8: 7: 7
+10: 5: 8
+10: 7: 8
+11: 6: 6
+11: 7: 10
+12: 5: 6
+12: 6: 4
