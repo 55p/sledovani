@@ -135,7 +135,7 @@ vr=Vraňany
 9547: X6: Mělník;4:12, Všetaty;4:23
 19500: X6: Všetaty;4:51, Kralupy nad Vltavou;5:22
 9700: X: Kralupy nad Vltavou;5:49, Louny;7:19
-9702: 6: Kralupy nad Vltavou;5:53, Louny;7:19
+9702: 25: Kralupy nad Vltavou;5:53, Louny;7:19
 9709: : Louny;12:39, Kralupy nad Vltavou;14:09
 19519: X: Kralupy nad Vltavou;14:23, Neratovice;14:54
 19518: X: Neratovice;15:00, Kralupy nad Vltavou;15:31
