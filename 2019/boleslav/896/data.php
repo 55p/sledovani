@@ -5,7 +5,7 @@ $skupiny = [];
 if (defined('ID_TABULKY')) {
   $sql = 'SELECT * FROM skupiny WHERE tabulka_id = '.ID_TABULKY.' ORDER BY rank ASC';
 } else {
-  $sql = 'SELECT * FROM skupiny WHERE tabulka_id = '.$ID_TABULKY;
+  $sql = 'SELECT * FROM skupiny WHERE tabulka_id = '.$ID_TABULKY.' ORDER BY rank ASC';
 }
 
 $rows = $db->query($sql);
