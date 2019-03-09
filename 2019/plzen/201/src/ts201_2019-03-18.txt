@@ -1,0 +1,52 @@
+661|Pl: : Plzeň hl.n.;6:03, České Budějovice hl.n.;7:56
+100665|Ji: : České Budějovice hl.n.;12:07, Jihlava;14:33
+100662|Ji: : Jihlava;15:25, České Budějovice hl.n.;17:47
+8016: XT: České Budějovice;18:18, Strakonice;19:20
+8018: 6: České Budějovice;21:10, Strakonice;22:09
+
+8051: X1: Strakonice;5:12, České Budějovice;6:21
+8001: X2345: Strakonice;5:12, České Budějovice;6:14
+8053: 25: Strakonice;5:44, České Budějovice;6:44
+656|Pl: : České Budějovice hl.n.;8:04, Plzeň hl.n.;9:56
+667|Pl: : Plzeň hl.n.;12:03, České Budějovice hl.n.;13:55
+664|Pl: : České Budějovice hl.n.;16:04, Plzeň hl.n.;17:56
+659|Pl: : Plzeň hl.n.;20:03, České Budějovice hl.n.;21:55
+
+658|Pl: : České Budějovice hl.n.;6:04, Plzeň hl.n.;7:56
+665|Pl: : Plzeň hl.n.;10:03, České Budějovice hl.n.;11:55
+666|Pl: : České Budějovice hl.n.;14:04, Plzeň hl.n.;15:56
+657|Pl: : Plzeň hl.n.;18:03, České Budějovice hl.n.;19:55
+
+100653|Ji: : České Budějovice hl.n.;6:07, Jihlava;8:33
+100668|Ji: : Jihlava;9:25, České Budějovice hl.n.;11:47
+100667|Ji: : České Budějovice hl.n.;14:07, Jihlava;16:33
+100660|Ji: : Jihlava;17:25, České Budějovice hl.n.;19:47
+8218: : České Budějovice;22:57, Tábor;0:18
+
+8203: : Tábor;5:15, České Budějovice;6:30
+100661|Ji: X5,25: České Budějovice hl.n.;8:07, Jihlava;10:33
+100666|Ji: X5,25: Jihlava;11:25, České Budějovice hl.n.;13:47
+1836: X: České Budějovice;14:32, Tábor;15:41
+8217: X: Tábor;16:29, České Budějovice;17:44
+99999: : záloha za ř. 650;18:30;23:59
+
+99998: : záloha za ř. 650;0:00;17:30
+100655|Ji: X1234: České Budějovice hl.n.;18:07, Jihlava;20:27
+100655|Ji: X5,T: České Budějovice hl.n.;18:07, Havlíčkův Brod;20:56
+
+100654|Ji: X1,6: Havlíčkův Brod;7:00, České Budějovice hl.n.;9:47
+100654|Ji: X2345,T: Jihlava;7:25, České Budějovice hl.n.;9:47
+100663|Ji: 25: České Budějovice hl.n.;10:07, Jihlava;12:33
+100664|Ji: 25: Jihlava;13:25, České Budějovice hl.n.;15:47
+100669|Ji: 25: České Budějovice hl.n.;16:07, Jihlava;18:33
+100652|Ji: T: Jihlava;19:30, České Budějovice hl.n.;21:49
+
+654|Pl: : České Budějovice hl.n.;10:04, Plzeň hl.n.;11:56
+669|Pl: : Plzeň hl.n.;14:03, České Budějovice hl.n.;15:55
+662|Pl: XT: České Budějovice hl.n.;18:04, Plzeň hl.n.;19:56
+
+99997: : Údržba OCÚ;2:00;22:00
+
+
+7:6:7
+6:6:8

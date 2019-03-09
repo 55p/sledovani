@@ -1,0 +1,15 @@
+1988: X5: Plzeň hl.n.;15:05, Cheb;17:01
+1990: X1234: Plzeň hl.n.;17:05, Mariánské Lázně;18:17
+7384: X1234: Mariánské Lázně;18:38, Cheb;19:09
+565: X: Cheb;19:35, Plzeň hl.n.;20:55
+550: X: Plzeň hl.n.;22:11, Cheb;23:32
+
+1981: X: Cheb;5:04, Plzeň hl.n.;6:51
+663|Pl: X6: Plzeň hl.n.;8:03, České Budějovice hl.n.;9:56
+668|Pl: : České Budějovice hl.n.;12:04, Plzeň hl.n.;13:56
+655|Pl: : Plzeň hl.n.;16:03, České Budějovice hl.n.;17:55
+660|Pl: : České Budějovice hl.n.;20:04, Plzeň hl.n.;21:56
+
+
+1:56:1
+2:56:2

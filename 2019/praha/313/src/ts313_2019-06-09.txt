@@ -1,0 +1,34 @@
+121:: Praha hl.n.;5:24, Žilina;10:49
+124:: Žilina;13:11, Praha hl.n.;18:39
+573:: Praha hl.n.;21:56, Břeclav;1:21
+
+70211:: Břeclav;5:25, Hodonín;5:39
+816:: Hodonín;6:21, Břeclav;6:35
+590:: Břeclav;7:10, Bohumín;9:09
+103:: Bohumín;10:51, Wien Hbf;13:49
+100:: Wien Hbf;18:10, Bohumín;21:09
+
+101:: Bohumín;6:51, Wien Hbf;9:49
+102:: Wien Hbf;14:10, Bohumín;17:09
+105:: Bohumín;18:51, Wien Hbf;21:49
+
+104:: Wien Hbf;8:10, Bohumín;11:09
+131:: Bohumín;13:51, Budapest-Nyugati pu;19:20
+
+172:: Budapest-Nyugati pu;7:40, Praha hl.n.;14:07
+281:: Praha hl.n.;15:50, Budapest-Nyugati pu;22:20
+
+280:: Budapest-Nyugati pu;5:40, Praha hl.n.;12:07
+173:: Praha hl.n.;13:50, Budapest-Nyugati pu;20:20
+
+130:: Budapest-Nyugati pu;8:40, Bohumín;14:09
+591:: Bohumín;16:51, Břeclav;18:47
+817:: Břeclav;21:25, Hodonín;21:37
+70210:: Hodonín;22:00, Břeclav;22:19
+
+572:: Břeclav;5:02, Praha hl.n.;8:07
+277:: Praha hl.n.;9:50, Budapest-Nyugati pu;16:20
+476:: Budapest-Keleti pu;19:25, Břeclav;23:01
+
+477:: Břeclav;4:59, Budapest-Keleti pu;8:35
+276:: Budapest-Nyugati pu;11:40, Praha hl.n.;18:07

@@ -1,0 +1,54 @@
+﻿1176: X6  : Liberec; 4:27, Benešov nad Ploučnicí; 5:58
+201161pk: X6  : Benešov nad Ploučnicí; 5:59, Liberec; 7:28
+1172: : Liberec; 8:28, Benešov nad Ploučnicí; 9:58
+201165pk: : Benešov nad Ploučnicí; 9:59, Liberec; 11:28
+1168: : Liberec; 12:28, Benešov nad Ploučnicí; 13:58
+201169pk: : Benešov nad Ploučnicí; 13:59, Liberec; 15:28
+1164:  : Liberec; 16:28, Benešov nad Ploučnicí; 17:58
+201173pk: : Benešov nad Ploučnicí; 17:59, Liberec; 19:28
+1160:  : Liberec; 20:28, Benešov nad Ploučnicí; 21:53
+1177:  : Benešov nad Ploučnicí; 21:54, Liberec; 23:28
+
+201176pk: X6 : Liberec; 4:27, Benešov nad Ploučnicí; 5:58
+1161: X6 : Benešov nad Ploučnicí; 5:59, Liberec; 7:28
+201172pk: : Liberec; 8:28, Benešov nad Ploučnicí; 9:58
+1165: : Benešov nad Ploučnicí; 9:59, Liberec; 11:28
+201168pk: : Liberec; 12:28, Benešov nad Ploučnicí; 13:58
+1169: : Benešov nad Ploučnicí; 13:59, Liberec; 15:28
+201164pk:  : Liberec; 16:28, Benešov nad Ploučnicí; 17:58
+1173: : Benešov nad Ploučnicí; 17:59, Liberec; 19:28
+201160pk:  : Liberec; 20:28, Benešov nad Ploučnicí; 21:53
+
+201174pk: : Liberec; 6:28, Benešov nad Ploučnicí; 7:58
+1163: : Benešov nad Ploučnicí; 7:59, Liberec; 9:28
+201170pk: : Liberec; 10:28, Benešov nad Ploučnicí; 11:58
+1167: : Benešov nad Ploučnicí; 11:59, Liberec; 13:28
+201166pk: : Liberec; 14:28, Benešov nad Ploučnicí; 15:58
+1171: : Benešov nad Ploučnicí; 15:59, Liberec; 17:28
+201162pk:  : Liberec; 18:28, Benešov nad Ploučnicí; 20:32
+1175:  : Benešov nad Ploučnicí; 19:59, Liberec; 21:28
+6618:  : Liberec; 22:48, Česká Lípa;0:00
+
+6601:  : Česká Lípa; 3:55, Liberec; 5:07
+1174: : Liberec; 6:28, Benešov nad Ploučnicí; 7:58
+201163pk: : Benešov nad Ploučnicí; 7:59, Liberec; 9:28
+1170: : Liberec; 10:28, Benešov nad Ploučnicí; 11:58
+201167pk: : Benešov nad Ploučnicí; 11:59, Liberec; 13:28
+1166: : Liberec; 14:28, Benešov nad Ploučnicí; 15:58
+201171pk: : Benešov nad Ploučnicí; 15:59, Liberec; 17:28
+1162:  : Liberec; 18:28, Benešov nad Ploučnicí; 20:32
+201175pk:  : Benešov nad Ploučnicí; 19:59, Liberec; 21:28
+
+6602: : Liberec; 7:02, Děčín východ; 9:05
+6607: :Děčín východ; 10:48, Liberec; 12:54
+1271: 5, 3101, 1704, 1804, -2807, -1904, -0507, -3008 :Liberec; 13:50, Pardubice hl.n; 16:55
+101263pk: 5, 3101, 1704, 1804, -2807, -1904, -0507, -3008 : Pardubice hl.n; 17:03, Jaroměř; 17:39
+101273pk: 5, 3101, 1704, 1804, -2807, -1904, -0507, -3008 : Jaroměř; 18:19, Pardubice hl.n; 18:55
+1262: 5, 3101, 1704, 1804, -2807, -1904, -0507, -3008  :Pardubice; 19:03, Liberec; 21:55
+
+
+1::2
+2::1
+3::4
+4::3
+5::0

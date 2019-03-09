@@ -1,0 +1,31 @@
+100614: : Žilina;3:07, Bratislava hl.st.;5:49
+3817: X: Bratislava-Nové Mesto;11:36, Galanta;12:55
+3820: X: Galanta;13:35, Bratislava-Nové Mesto;15:12
+3827: X: Bratislava-Nové Mesto;16:39, Galanta;17:55
+3830: X: Galanta;18:39, Bratislava-Nové Mesto;20:12
+100615: : Bratislava hl.st.;22:48, Žilina;1:25
+
+220: : Žilina;7:11, Praha hl.n.;12:39
+129: : Praha hl.n.;15:24, Žilina;20:49
+
+442: : Žilina;1:30, Praha hl.n.;7:31
+125: : Praha hl.n.;9:24, Žilina;14:49
+120: : Žilina;17:11, Praha hl.n.;22:39
+
+123: : Praha hl.n.;7:24, Žilina;12:49
+122: : Žilina;15:11, Praha hl.n.;20:39
+547: 47_2019: Praha hl.n.;23:47, Bohumín;3:09
+443: 46_2019: Praha hl.n.;23:47, Bohumín;3:31
+
+343: : Ostrava-Svinov;8:44, Žilina;10:33
+126: : Žilina;11:11, Praha hl.n.;16:39
+523: : Praha hl.n.;19:24, Vsetín;23:08
+
+522: : Vsetín;4:52, Praha hl.n.;8:39
+127: : Praha hl.n.;11:24, Žilina;16:49
+
+128: : Žilina;9:11, Praha hl.n.;14:39
+521: : Praha hl.n.;17:24, Vsetín;21:12
+
+520: : Vsetín;6:50, Praha hl.n.;10:39
+221: : Praha hl.n.;13:24, Žilina;18:49

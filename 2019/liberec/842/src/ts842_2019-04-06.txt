@@ -1,0 +1,31 @@
+1176: X6, 1904, 0105, 0805, 0507, -2004, -0607  : Liberec; 4:27, Ústí nad Labem hl.n; 6:32
+1163: : Ústí nad Labem hl.n; 7:27, Liberec; 9:28
+1170: : Liberec; 10:28, Ústí nad Labem hl.n; 12:32
+1169: : Ústí nad Labem hl.n; 13:27, Liberec; 15:28
+1164: 16 : Liberec; 16:28, Ústí nad Labem hl.n; 18:32
+1175: 10 : Ústí nad Labem hl.n; 19:27, Liberec; 21:28
+6618: 10 : Liberec; 22:48, Česká Lípa;0:00
+
+6601: 11 : Česká Lípa; 3:55, Liberec; 5:07
+1174: : Liberec; 6:28, Ústí nad Labem hl.n; 8:32
+1165: : Ústí nad Labem hl.n; 9:27, Liberec; 11:28
+1168: : Liberec; 12:28, Ústí nad Labem hl.n; 14:32
+1171: : Ústí nad Labem hl.n; 15:27, Liberec; 17:28
+1162: 10 : Liberec; 18:28, Ústí nad Labem hl.n; 20:32
+1177: 12 : Ústí nad Labem hl.n; 21:27, Liberec; 23:28
+
+1161: X6, 1904, 0105, 0805, 0507, -2004, -0607  : Ústí nad Labem hl.n; 5:27, Liberec; 7:28
+1172: : Liberec; 8:28, Ústí nad Labem hl.n; 10:32
+1167: : Ústí nad Labem hl.n; 11:27, Liberec; 13:28
+1166: 25 : Liberec; 14:28, Ústí nad Labem hl.n; 16:32
+1166: X : Liberec; 14:28, Lovosice; 16:51
+1173: X : Lovosice; 17:09, Liberec; 19:28
+1173: 25 : Ústí nad Labem hl.n; 17:27, Liberec; 19:28
+1160: 12 : Liberec; 20:28, Ústí nad Labem hl.n; 22:32
+
+6602: : Liberec; 7:02, Děčín hl.n; 9:10
+6607: :Děčín hl.n; 10:44, Liberec; 12:54
+1271: 5, 3101, 1704, 1804, -2807, -1904, -0507, -3008 :Liberec; 13:50, Pardubice hl.n; 16:55
+101263pk: 5, 3101, 1704, 1804, -2807, -1904, -0507, -3008 : Pardubice hl.n; 17:03, Jaroměř; 17:39
+101273pk: 5, 3101, 1704, 1804, -2807, -1904, -0507, -3008 : Jaroměř; 18:19, Pardubice hl.n; 18:55
+1262: 5, 3101, 1704, 1804, -2807, -1904, -0507, -3008  :Pardubice; 19:03, Liberec; 21:55
