@@ -1,0 +1,38 @@
+7759:25:Praha-Čakovice;7:47,Praha hl.n.;8:13
+7750:25:Praha hl.n.;8:41,Praha-Zličín;9:09
+7751:25:Praha-Zličín;9:48,Praha hl.n.;10:24
+7752:25:Praha hl.n.;10:36,Praha-Zličín;11:05
+7753:25:Praha-Zličín;11:48,Praha hl.n.;12:24
+7754:25:Praha hl.n.;12:29,Praha-Zličín;13:05
+7755:25:Praha-Zličín;13:48,Praha hl.n.;14:24
+7756:25:Praha hl.n.;14:36,Praha-Zličín;15:05
+7757:25:Praha-Zličín;15:48,Praha hl.n.;16:24
+7758:25:Praha hl.n.;16:35,Praha-Čakovice;16:55
+
+1563:6,1904,0105,0805,0507:Praha hl.n.;7:39,Čerčany;9:11
+1562:6,1904,0105,0805,0507:Čerčany;12:05,Praha hl.n.;13:35
+1565:7,2204,2810:Praha hl.n.;12:26,Čerčany;14:07
+1564:7,2204,2810:Čerčany;17:34,Praha hl.n.;19:31
+
+1572:25:Praha-Vršovice;8:27,Mšeno;10:32
+1573:25:Mšeno;17:00,Praha-Vršovice;18:56
+
+1571:25:Praha hl.n.;9:09,Rakovník;10:56
+1570:25:Rakovník;15:26,Praha hl.n.;17:28
+
+1574:25:Praha-Vršovice;8:12,Jičín;11:32
+1575:25:Jičín;16:54,Praha-Vršovice;19:44
+
+18300:6,7:Pečky;9:56,Kouřim;10:32
+18303:6,7:Kouřim;10:38,Bošice;10:44
+18302:6,7:Bošice;10:56,Bečváry;11:23
+18305:6,7:Bečváry;11:27,Zásmuky;11:35
+18307:6,7:Zásmuky;12:37,Pečky;13:33
+18308:6,7:Pečky;13:56,Bečváry;14:56
+18309:6,7:Bečváry;15:16,Zásmuky;15:24
+18311:6,7:Zásmuky;16:19,Bošice;16:33
+18310:6,7:Bošice;16:45,Kouřim;16:51
+18313:6,7:Kouřim;17:01,Pečky;17:36
+
+1561:6:Česká Kamenice;8:03,Liberec;10:24
+1560:6:Liberec;15:31,Český Kamenice;17:40

@@ -1,0 +1,48 @@
+2400:25:Česká Kamenice;9:15,Kamenický Šenov;9:30
+2401:25:Kamenický Šenov;10:25,Česká Kamenice;10:40
+2402:25:Česká Kamenice;11:15,Kamenický Šenov;11:30
+2403:25:Kamenický Šenov;12:25,Česká Kamenice;12:40
+2404:25:Česká Kamenice;13:15,Kamenický Šenov;13:30
+2405:25:Kamenický Šenov;14:25,Česká Kamenice;14:40
+2406:25:Česká Kamenice;15:15,Kamenický Šenov;15:30
+2407:25:Kamenický Šenov;16:25,Česká Kamenice;16:40
+2408:25:Česká Kamenice;17:15,Kamenický Šenov;17:30
+2409:25:Kamenický Šenov;18:25,Česká Kamenice;18:40
+
+1799:25:Děčín hl.n.;9:37,Mikulášovice dolní nádraží;11:22
+26024:25:Mikulášovice dolní nádraží;11:56,Krásná Lípa;12:32;12:44,Rumburk;12:50
+1913:25:Rumburk;16:53,Děčín hl.n.;18:18
+
+15480:25,-2109,-2209:Ústí nad Labem-Střekov;10:10,Zubrnice;10:43
+15481:25,-2109,-2209:Zubrnice;11:00,Ústí nad Labem-Střekov;11:38
+15482:25,-2109,-2209:Ústí nad Labem-Střekov;12:10,Zubrnice;12:43
+15483:25,-2109,-2209:Zubrnice;13:00,Ústí nad Labem-Střekov;13:38
+15484:25,-2109,-2209:Ústí nad Labem-Střekov;14:10,Zubrnice;14:43
+15485:25,-2109,-2209:Zubrnice;15:00,Ústí nad Labem-Střekov;15:38
+15486:25,-2109,-2209:Ústí nad Labem-Střekov;16:10,Zubrnice;16:43
+15487:25,-2109,-2209:Zubrnice;17:00,Ústí nad Labem-Střekov;17:38
+
+18350:25:Lovosice;8:35,Most;9:48
+18351:25:Most;10:18,Lovosice;11:28
+18352:25:Lovosice;12:35,Most;13:48
+18353:25:Most;14:18,Lovosice;15:28
+18354:25:Lovosice;16:35,Most;17:48
+18355:25:Most;18:18,Lovosice;19:28
+
+18340:25:Roudnice nad Labem;9:56,Libochovice;11:06
+18341:25:Libochovice;11:48,Roudnice nad Labem;13:09
+18342:25:Roudnice nad Labem;13:51,Libochovice;15:01
+18343:25:Libochovice;16:48,Roudnice nad Labem;18:00
+
+18360:25:Kadaň;8:21,Kadaňský Rohozec;9:07
+18363:25:Kadňský Rohozec;9:12,Vilémov u Kadaně;9:30
+18362:25:Vilémov u Kadaně;9:33,Krásný Dvůr;9:48
+18365:25:Krásný Dvůr;9:52,Kadaň-Prunéřov;10:42
+18366:25:Kadaň-Prunéřov;10:51,Podbořany;12:00
+18367:25:Podbořany;12:20,Kadaň;13:23
+18368:25:Kadaň;14:20,Radonice u Kadaně;14:58
+18371:25:Radonice u Kadaně;15:10,Vilémov u Kadaně;15:21
+18370:25:Vilémov u Kadaně;15:24,Krásný Dvůr;15:38
+18373:25:Krásný Dvůr;15:46,Kadaň-Prunéřov;16:36
+18374:25:Kadaň-Prunéřov;16:51,Podbořany;18:00
+18375:25:Podbořany;18:20,Kadaň;19:23
