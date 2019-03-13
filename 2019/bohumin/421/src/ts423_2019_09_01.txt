@@ -1,4 +1,4 @@
-2921:: Bohumín;4:41, Mosty u Jablunkova;5:54
+﻿2921:: Bohumín;4:41, Mosty u Jablunkova;5:54
 2924:: Mosty u Jablunkova;6:06, Ostrava-Svinov;7:34
 2929:: Ostrava-Svinov;8:23, Mosty u Jablunkova;9:54
 2932:: Mosty u Jablunkova;10:06, Ostrava-Svinov;11:34
