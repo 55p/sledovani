@@ -1,0 +1,11 @@
+1148: X: Praha Masarykovo nádraží;7:19, Tanvald;10:03
+26271: X: Tanvald;10:27, Železný Brod;10:53
+5410: X: Železný Brod;12:12, Turnov;12:31
+1145: X: Turnov;12:44, Praha Masarykovo nádraží;14:35
+9512: X: Praha Masarykovo nádraží;15:47, Všetaty;16:39
+11147sv101147: X: Všetaty;16:51, Praha Masarykovo nádraží;17:45
+9536: X: Praha Masarykovo nádraží;18:47, Všetaty;19:39
+109537: X: Všetaty;20:23, Praha Masarykovo nádraží;21:20
+
+
+1:5:0

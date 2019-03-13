@@ -1,0 +1,120 @@
+9523: X: Mladá Boleslav hl.n.;3:49, Praha Masarykovo nádraží;5:20
+109502pk: X: Praha Masarykovo nádraží;5:47, Všetaty;6:39
+9543: X: Všetaty;7:00, Praha Masarykovo nádraží;7:53
+1146: X: Praha Masarykovo nádraží;9:19, Turnov;11:12
+5426: X: Turnov;11:26, Tanvald;12:10
+5425: X: Tanvald;13:40, Turnov;14:36
+1147: X: Turnov;14:44, Praha Masarykovo nádraží;16:35
+9514: X: Praha Masarykovo nádraží;17:47, Mladá Boleslav hl.n.;19:21
+106056př: X1234: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+9519: X: Mladá Boleslav město;20:25, Praha Masarykovo nádraží;22:20
+9540: X: Praha Masarykovo nádraží;22:47, Mladá Boleslav město;0:22
+9502: 6: Praha Masarykovo nádraží;5:47, Mladá Boleslav hl.n.;7:18
+9507: 6: Mladá Boleslav hl.n.;8:37, Praha Masarykovo nádraží;10:20
+9508: 6: Praha Masarykovo nádraží;11:47, Mladá Boleslav hl.n.;13:21
+9513: 6: Mladá Boleslav hl.n.;14:37, Praha Masarykovo nádraží;16:20
+1140: 6: Praha Masarykovo nádraží;17:19, Tanvald;20:12
+9503: 7: Všetaty;6:22, Praha Masarykovo nádraží;7:20
+9526: 7: Praha Masarykovo nádraží;8:47, Mělník;9:50
+9527: 7: Mělník;10:11, Praha Masarykovo nádraží;11:20
+9530: 7: Praha Masarykovo nádraží;12:47, Mělník;13:50
+9531: 7: Mělník;14:11, Praha Masarykovo nádraží;15:20
+9534: 7: Praha Masarykovo nádraží;16:47, Mělník;17:50
+9535: 7: Mělník;18:11, Praha Masarykovo nádraží;19:20
+9518: 7: Praha Masarykovo nádraží;20:47, Turnov;23:15
+
+9501: X: Mladá Boleslav hl.n.;4:41, Praha Masarykovo nádraží;6:20
+109524pk: X: Praha Masarykovo nádraží;6:47, Všetaty;7:39
+9545: X: Všetaty;7:42, Praha Masarykovo nádraží;8:53
+9534: X: Praha Masarykovo nádraží;16:47, Mělník;17:50
+9535: X: Mělník;18:11, Praha Masarykovo nádraží;19:20
+9518: X: Praha Masarykovo nádraží;20:47, Turnov;23:15
+9523: 6: Mladá Boleslav hl.n.;3:49, Praha Masarykovo nádraží;5:20
+9524: 6: Praha Masarykovo nádraží;6:47, Mělník;7:50
+9525: 6: Mělník;8:11, Praha Masarykovo nádraží;9:20
+9528: 6: Praha Masarykovo nádraží;10:47, Mělník;11:50
+9529: 6: Mělník;12:11, Praha Masarykovo nádraží;13:20
+9532: 6: Praha Masarykovo nádraží;14:47, Mělník;15:50
+9533: 6: Mělník;16:11, Praha Masarykovo nádraží;17:20
+9536: 6: Praha Masarykovo nádraží;18:47, Mělník;19:50
+9537: 6: Mělník;20:11, Praha Masarykovo nádraží;21:20
+1147: 7: Tanvald;13:50, Praha Masarykovo nádraží;16:35
+9514: 7: Praha Masarykovo nádraží;17:47, Mladá Boleslav hl.n.;19:21
+6056: 7: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+9519: 7: Mladá Boleslav město;20:25, Praha Masarykovo nádraží;22:20
+9540: 7: Praha Masarykovo nádraží;22:47, Mladá Boleslav hl.n.;0:15
+
+101941: X: Turnov;4:41, Mladá Boleslav hl.n.;5:19
+9503: X: Mladá Boleslav hl.n.;5:29, Praha Masarykovo nádraží;7:20
+9526: X: Praha Masarykovo nádraží;8:47, Mělník;9:50
+9527: X: Mělník;10:11, Praha Masarykovo nádraží;11:20
+9530: X: Praha Masarykovo nádraží;12:47, Mělník;13:50
+9531: X: Mělník;14:11, Praha Masarykovo nádraží;15:20
+1944: X: Praha Masarykovo nádraží;16:19, Mladá Boleslav hl.n.;17:46
+9517: X: Mladá Boleslav hl.n.;18:37, Praha Masarykovo nádraží;20:20
+9538: X: Praha Masarykovo nádraží;21:47, Mělník;22:50
+109551př: X5: Všetaty;23:23, Praha hl.n.;00:13
+9501: 6: Mladá Boleslav hl.n.;4:41, Praha Masarykovo nádraží;6:20
+1148: 6: Praha Masarykovo nádraží;7:19, Tanvald;10:03
+1145: 6: Tanvald;11:49, Praha Masarykovo nádraží;14:35
+9512: 6: Praha Masarykovo nádraží;15:47, Mladá Boleslav hl.n.;17:21
+9517: 6: Mladá Boleslav hl.n.;18:37, Praha Masarykovo nádraží;20:20
+9538: 6: Praha Masarykovo nádraží;21:47, Mělník;22:50
+1148: 7: Praha Masarykovo nádraží;7:19, Harrachov;10:40
+1145: 7: Harrachov;11:06, Praha Masarykovo nádraží;14:35
+9512: 7: Praha Masarykovo nádraží;15:47, Mladá Boleslav hl.n.;17:21
+9517: 7: Mladá Boleslav hl.n.;18:37, Praha Masarykovo nádraží;20:20
+9538: 7: Praha Masarykovo nádraží;21:47, Mělník;22:50
+
+1943: X: Mělník;6:35, Praha Masarykovo nádraží;7:35
+109504pk: X: Praha Masarykovo nádraží;7:47, Byšice;8:44
+9507: X: Byšice;9:10, Praha Masarykovo nádraží;10:20
+9508: X: Praha Masarykovo nádraží;11:47, Mladá Boleslav hl.n.;13:21
+9572: X: Mladá Boleslav hl.n.;13:44, Turnov;14:28
+9573: X: Turnov;15:30, Mladá Boleslav hl.n.;16:12
+9515: X: Mladá Boleslav hl.n.;16:37, Praha Masarykovo nádraží;18:20
+1940: X: Praha Masarykovo nádraží;19:19, Turnov;21:16
+9581: X: Turnov;22:42, Mladá Boleslav hl.n.;23:18
+9503: 6: Turnov;4:41, Praha Masarykovo nádraží;7:20
+9526: 6: Praha Masarykovo nádraží;8:47, Mělník;9:50
+9527: 6: Mělník;10:11, Praha Masarykovo nádraží;11:20
+9530: 6: Praha Masarykovo nádraží;12:47, Mělník;13:50
+9531: 6: Mělník;14:11, Praha Masarykovo nádraží;15:20
+9534: 6: Praha Masarykovo nádraží;16:47, Mělník;17:50
+9535: 6: Mělník;18:11, Praha Masarykovo nádraží;19:20
+9518: 6: Praha Masarykovo nádraží;20:47, Turnov;23:15
+9501: 7: Všetaty;5:22, Praha Masarykovo nádraží;6:20
+9524: 7: Praha Masarykovo nádraží;6:47, Mělník;7:50
+9525: 7: Mělník;8:11, Praha Masarykovo nádraží;9:20
+9528: 7: Praha Masarykovo nádraží;10:47, Mělník;11:50
+9529: 7: Mělník;12:11, Praha Masarykovo nádraží;13:20
+9532: 7: Praha Masarykovo nádraží;14:47, Mělník;15:50
+9533: 7: Mělník;16:11, Praha Masarykovo nádraží;17:20
+9536: 7: Praha Masarykovo nádraží;18:47, Mělník;19:50
+9537: 7: Mělník;20:11, Praha Masarykovo nádraží;21:20
+
+9520: 6: Praha hl.n.;0:18, Mělník;1:19
+9521: 6: Mělník;1:24, Praha hl.n.;2:22
+9522: 6: Praha hl.n.;2:33, Mělník;3:34
+9550: 6: Neratovice;4:19, Mladá Boleslav hl.n.;5:06
+9505: 6: Mladá Boleslav hl.n.;6:34, Praha Masarykovo nádraží;8:20
+1146: 6: Praha Masarykovo nádraží;9:19, Tanvald;12:04
+1147: 6: Tanvald;13:50, Praha Masarykovo nádraží;16:35
+9514: 6: Praha Masarykovo nádraží;17:47, Mladá Boleslav hl.n.;19:21
+6056: 6: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+9519: 6: Mladá Boleslav město;20:25, Praha Masarykovo nádraží;22:20
+9540: 6: Praha Masarykovo nádraží;22:47, Všetaty;23:39
+9548: 6: Všetaty;23:42, Mělník;23:53
+1143: 7: Turnov;8:44, Praha Masarykovo nádraží;10:35
+101144pk: 7: Praha Masarykovo nádraží;13:19, Turnov;15:12
+1936: 7: Turnov;16:41, Praha hl.n.;19:16
+
+
+1:5:0
+2:5:4
+3:5:0
+4:5:2
+1:7:3
+2:7:1
+4:7:0
+5:7:0
