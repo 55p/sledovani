@@ -415,6 +415,10 @@ br + .lakVozidla {
   background: #003584;
   color: #ddd;
 }
+.br_4061 {
+  background: #B60141;
+  color: #fff;
+}
 .br_najbrt1_bily {
   color: #338FDB;
 }
@@ -764,9 +768,14 @@ br + .lakVozidla {
   border-top: 4px solid #E46416;
 }
 
+.berta_107 {
+  background: #ddd;
+  color: red;
+}
+
 .berta_zelena {
   background: #005E00;
-  color: #D6D1A3;
+  color: #F0E7A6;
 }
 
 .berta_modrocervena {
