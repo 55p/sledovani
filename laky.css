@@ -143,6 +143,10 @@ br + .lakVozidla {
 .hokej {
   color: #004080;
   background: #FF8080;
+  border-left: 0.7ex solid #004080;
+  border-right: 0.7ex solid #004080;
+  padding-left: 0.5ex;
+  padding-right: 0.5ex;
 }
 .hokej_sk {
   color: #FF8080;
@@ -731,7 +735,7 @@ br + .lakVozidla {
 }
 
 .kocour_bezovy {
-  background: #E72525;
+  background: #EC5555; /*#E72525;*/
   color: #FEE3A7;
 }
 
@@ -933,4 +937,33 @@ br + .lakVozidla {
 .retro_263 {
   background: #FFFF00;
   color: #CC0000;
+}
+
+.zehle_cervena {
+  background: #C93F1D;
+  color: #FFF3B3;
+}
+.zehle_retro {
+  background: #006F00;
+  color: #FFFAB3;
+  border-left: 0.9ex solid #FFFAB3;
+  border-right: 0.9ex solid #FFFAB3;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
+}
+.zehle_n1 {
+  color: black;
+  background-color: #6D99CF;
+  border-left: 0.9ex solid #FFFAB3;
+  border-right: 0.9ex solid #FFFAB3;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
+}
+.zehle_n1b {
+  color: white;
+  background-color: #6D99CF;
+  border-left: 0.9ex solid #FFFAB3;
+  border-right: 0.9ex solid #FFFAB3;
+  padding-left: 0.6ex;
+  padding-right: 0.6ex;
 }

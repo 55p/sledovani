@@ -1,0 +1,14 @@
+171261pk:X2345,-2304,-0205,-0905,-2910: Děčín hl.n.;0:08, Ústí nad Labem hl.n.;0:22
+601:=: Ústí nad Labem hl.n.;6:13, Praha hl.n.;7:26
+682:X: Praha hl.n.;15:51, Ústí nad Labem hl.n.;17:14
+1698:X: Ústí nad Labem hl.n.;17:46, Chomutov;18:49
+
+29601sv:X: Chomutov;4:24, Kadaň-Prunéřov;4:34
+100601:X: Kadaň-Prunéřov;4:53, Ústí nad Labem hl.n.;6:07
+71260:X: Ústí nad Labem hl.n.;6:12, Děčín hl.n.;6:29
+677:X: Děčín hl.n.;7:26, Praha hl.n.;9:10
+678:X1234,-1804,-3004,-0705,-0407: Praha hl.n.;17:51, Děčín hl.n.;19:31
+
+
+1:5:0
+2:5:0

@@ -83,7 +83,9 @@
 1482: X: Tábor;5:16, Kutná Hora hl.n.;7:59
 1482: 6: Tábor;5:16, Praha hl.n.;6:56
 1483: 6: Praha hl.n.;8:22, Tábor;10:18
-1906: X: Kutná Hora hl.n.;8:31, Praha Masarykovo nádraží;9:38
+1906: X: Kutná Hora hl.n.;8:31, Praha hl.n.;9:35
+1901: X: Praha hl.n.;15:30, Kutná Hora hl.n.;16:23
+10198||přes Lysou n/L: X: Kutná Hora hl.n.;16:42, Praha hl.n.;17:50
 1489: X: Praha hl.n.;17:55, Benešov u Prahy;18:49
 
 1484: X: Olbramovice;6:59, Praha hl.n.;8:02

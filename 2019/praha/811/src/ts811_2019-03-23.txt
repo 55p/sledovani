@@ -1,1 +1,286 @@
-﻿99921::oběhy platné od 23.3. se připravují;0:00;23:59
+1241: X1: České Budějovice;5:12, Praha hl.n.;8:37
+1241: vX: Protivín;5:43, Praha hl.n.;8:37
+1243: T: České Budějovice;7:12, Praha hl.n.;10:36
+101241sv: X: Praha hl.n.;8:43, Praha-Vršovice;8:48
+1248: 6: Praha hl.n.;9:37, České Budějovice;12:45
+101243sv: T: Praha hl.n.;10:43, Praha-Vršovice;10:48
+101244sv: X5: Praha-Vršovice;12:49, Praha hl.n.;12:54
+1244: X5: Praha hl.n.;13:24, České Budějovice;16:45
+101242sv: zX: Praha-Vršovice;15:05, Praha hl.n.;15:10
+1249: 6: České Budějovice;15:12, Praha hl.n.;18:37
+1242: zX: Praha hl.n.;15:24, České Budějovice;18:45
+101249sv: 6: Praha hl.n.;18:59, Praha-Vršovice;19:04
+1253: zX: České Budějovice;19:12, Písek;19:56
+129253sv: zX: Písek;20:20, Protivín;20:32
+
+129254sv: X: Protivín;5:26, Písek;5:39
+1254: X: Písek;6:00, České Budějovice;6:42
+225906pksv: 7: Praha-Vršovice;7:05, Praha hl.n.;7:09
+1243: X6: České Budějovice;7:12, Praha hl.n.;10:36
+1250: 7: Praha hl.n.;7:24, České Budějovice;10:45
+101243sv: 6: Praha hl.n.;10:43, Praha-Vršovice;10:48
+1246: X: Praha hl.n.;11:24, České Budějovice;14:45
+101242sv: 6: Praha-Vršovice;15:05, Praha hl.n.;15:10
+1249: X7: České Budějovice;15:12, Praha hl.n.;18:37
+1242: 6: Praha hl.n.;15:24, České Budějovice;18:45
+101249sv: X7: Praha hl.n.;18:59, Praha-Vršovice;19:04
+1253: 6: České Budějovice;19:12, Písek;19:56
+129253sv: 6: Písek;20:20, Protivín;20:32
+
+209551sv: 6: Praha hl.n.;0:16, Praha-Vršovice;0:20
+209524sv: X: Praha-Vršovice;6:00, Praha Masarykovo nádraží;6:27
+109504sv: T: Praha-Vršovice;6:27, Praha Masarykovo nádraží;6:57
+9524: X: Praha Masarykovo nádraží;6:47, Mělník;7:50
+9504: T: Praha Masarykovo nádraží;7:47, Mladá Boleslav hl.n.;9:21
+9525: X: Mělník;8:11, Praha Masarykovo nádraží;9:20
+9509: T: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
+9528: X: Praha Masarykovo nádraží;10:47, Mělník;11:50
+9529: X: Mělník;12:11, Praha Masarykovo nádraží;13:20
+9510: 7: Praha Masarykovo nádraží;13:47, Mladá Boleslav hl.n.;15:21
+101946| pk MBh-Tur|postrk Mladá Boleslav hl.n. - Turnov: X: Praha Masarykovo nádraží;14:19, Turnov;16:29
+9515: 7: Mladá Boleslav hl.n.;16:37, Praha Masarykovo nádraží;18:20
+1149: X: Turnov;16:44, Praha Masarykovo nádraží;18:35
+1940: 7: Praha Masarykovo nádraží;19:19, Turnov;21:16
+9516: X: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
+9539: 7: Turnov;21:30, Praha-Vršovice;23:59
+9551: X1234: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
+109551| pk Vše-Phl|postrk Všetaty - Praha hl.n.: X5: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
+
+9520: X1: Praha-Vršovice;0:13, Mělník;1:19
+9520: X2345: Praha hl.n.;0:18, Mělník;1:19
+1241: 7: Protivín;5:43, Praha hl.n.;8:37
+9541: X: Mělník;5:48, Praha hl.n.;6:53
+225906pksv: 6: Praha-Vršovice;7:05, Praha hl.n.;7:09
+1250: X6: Praha hl.n.;7:24, České Budějovice;10:45
+1248: 7: Praha hl.n.;9:37, České Budějovice;12:45
+1245: X5: České Budějovice;11:12, Praha hl.n.;14:37
+1247: X1234,25: České Budějovice;13:12, Praha hl.n.;16:37
+1242: X5: Praha hl.n.;15:24, České Budějovice;18:45
+1240: X1234: Praha hl.n.;17:24, Protivín;20:12
+1240: 25: Praha hl.n.;17:24, České Budějovice;20:45
+1253: X5: České Budějovice;19:12, Písek;19:56
+129253sv: X5: Písek;20:20, Protivín;20:32
+
+209502sv: X: Praha-Vršovice;4:00, Praha Masarykovo nádraží;4:22
+9502: X: Praha Masarykovo nádraží;5:47, Mladá Boleslav město;7:29
+109504sv: 6: Praha-Vršovice;6:27, Praha Masarykovo nádraží;6:57
+9505: T: Mladá Boleslav hl.n.;6:34, Praha Masarykovo nádraží;8:20
+9504: 6: Praha Masarykovo nádraží;7:47, Mladá Boleslav hl.n.;9:21
+1945: X: Mladá Boleslav město;8:01, Praha Masarykovo nádraží;9:35
+1146: 7: Praha Masarykovo nádraží;9:19, Tanvald;12:04
+209545vložsv: X: Praha Masarykovo nádraží;9:56, Praha-Vršovice;10:43
+9509: 6: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
+1144: 6: Praha Masarykovo nádraží;13:19, Harrachov;16:40
+109532sv: X: Praha-Vršovice;13:30, Praha Masarykovo nádraží;13:56
+9532: X: Praha Masarykovo nádraží;14:47, Mělník;15:50
+1149: 7: Tanvald;15:50, Praha Masarykovo nádraží;18:35
+9533: X: Mělník;16:11, Praha Masarykovo nádraží;17:20
+1151: 6: Harrachov;17:06, Praha Masarykovo nádraží;20:35
+1942: X: Praha Masarykovo nádraží;18:19, Mělník;19:16
+9516: 7: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
+9537: X1234: Mělník;20:11, Všetaty;20:21
+209537| pk Vše-PMa|postrk Všetaty - Praha Masarykovo nádraží: X5: Mělník;20:11, Praha Masarykovo nádraží;21:20
+509537vložsv: X5: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+309537sv: 6: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+
+109590sv: X1: Praha-Vršovice;3:42, Neratovice;4:14
+109591sv: X2345: Všetaty;3:59, Neratovice;4:05
+9550: X: Neratovice;4:19, Mladá Boleslav hl.n.;5:06
+1941: X: Mladá Boleslav hl.n.;5:21, Praha Masarykovo nádraží;6:35
+9504: X: Praha Masarykovo nádraží;7:47, Mladá Boleslav hl.n.;9:21
+109506sv: 6: Praha-Vršovice;8:27, Praha Masarykovo nádraží;8:57
+9506: 6: Praha Masarykovo nádraží;9:47, Mladá Boleslav město;11:32
+9509: X: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
+9511: 6: Mladá Boleslav město;12:29, Praha Masarykovo nádraží;14:20
+201144sv: T: Praha-Vršovice;12:31, Praha Masarykovo nádraží;13:10
+1144: 7: Praha Masarykovo nádraží;13:19, Harrachov;16:40
+9510: X: Praha Masarykovo nádraží;13:47, Všetaty;14:39
+1142: 6: Praha Masarykovo nádraží;15:19, Turnov;17:12
+9513: X: Všetaty;15:23, Praha Masarykovo nádraží;16:20
+1151: 7: Harrachov;17:06, Praha Masarykovo nádraží;20:35
+1140: X: Praha Masarykovo nádraží;17:19, Tanvald;20:12
+101151sv101151: 6: Turnov;20:00, Mladá Boleslav hl.n.;20:35
+409537pksv: 7: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+101140sv101140: 6: Mladá Boleslav hl.n.;22:00, Turnov;22:53
+
+5423: X: Tanvald;5:27, Turnov;6:21
+1141: XT: Turnov;6:44, Praha Masarykovo nádraží;8:35
+1143: 6: Tanvald;7:50, Praha Masarykovo nádraží;10:35
+9506: X: Praha Masarykovo nádraží;9:47, Mladá Boleslav hl.n.;11:21
+9506: 7: Praha Masarykovo nádraží;9:47, Mladá Boleslav město;11:32
+9511: 7: Mladá Boleslav město;12:29, Praha Masarykovo nádraží;14:20
+9511: X: Mladá Boleslav hl.n.;12:37, Praha Masarykovo nádraží;14:20
+9510: 6: Praha Masarykovo nádraží;13:47, Mladá Boleslav hl.n.;15:21
+1142: XT: Praha Masarykovo nádraží;15:19, Tanvald;18:03
+9515: 6: Mladá Boleslav hl.n.;16:37, Praha Masarykovo nádraží;18:20
+2645: X5: Tanvald;18:27, Železný Brod;18:53
+1940: 6: Praha Masarykovo nádraží;19:19, Turnov;21:16
+121830sv: X5: Železný Brod;19:20, Turnov;19:45
+101151sv101151: X5: Turnov;20:00, Mladá Boleslav hl.n.;20:35
+9539: 6: Turnov;21:30, Praha-Vršovice;23:59
+101140sv101140: X5: Mladá Boleslav hl.n.;22:00, Turnov;22:53
+
+9520: 7: Praha-Vršovice;0:13, Mělník;1:19
+9521: 7: Mělník;1:24, Praha hl.n.;2:22
+9522: 7: Praha hl.n.;2:33, Mělník;3:34
+109593sv: 7: Mělník;3:41, Byšice;4:10
+9523: 7: Byšice;4:21, Praha Masarykovo nádraží;5:20
+9502: 7: Praha Masarykovo nádraží;5:47, Mladá Boleslav hl.n.;7:18
+1141: 6: Turnov;6:44, Praha Masarykovo nádraží;8:35
+26267: X: Tanvald;7:13, Železný Brod;7:40
+105404pk: X: Železný Brod;7:51, Turnov;8:09
+9507: 7: Mladá Boleslav hl.n.;8:37, Praha Masarykovo nádraží;10:20
+1143: X: Turnov;8:44, Praha Masarykovo nádraží;10:35
+101146pk: 6: Praha Masarykovo nádraží;9:19, Tanvald;12:04
+9508: 7: Praha Masarykovo nádraží;11:47, Mladá Boleslav hl.n.;13:21
+1144: X: Praha Masarykovo nádraží;13:19, Tanvald;16:03
+9513: 7: Mladá Boleslav hl.n.;14:37, Praha Masarykovo nádraží;16:20
+1149: 6: Tanvald;15:50, Praha Masarykovo nádraží;18:35
+1140: 7: Praha Masarykovo nádraží;17:19, Tanvald;20:12
+1151: X: Tanvald;17:50, Praha Masarykovo nádraží;20:35
+9516: 6: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
+409537pksv: X: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+
+109597sv: vX: Mladá Boleslav město;0:27, Mladá Boleslav hl.n.;0:33
+9523: X: Mladá Boleslav hl.n.;3:49, Praha Masarykovo nádraží;5:20
+129321sv: 6: Praha-Vršovice;4:55, Praha Masarykovo nádraží;5:25
+9501: 7: Všetaty;5:22, Praha Masarykovo nádraží;6:20
+109502pk: X: Praha Masarykovo nádraží;5:47, Všetaty;6:39
+9502: 6: Praha Masarykovo nádraží;5:47, Mladá Boleslav hl.n.;7:18
+9524: 7: Praha Masarykovo nádraží;6:47, Mělník;7:50
+9543: X: Všetaty;7:00, Praha Masarykovo nádraží;7:53
+9525: 7: Mělník;8:11, Praha Masarykovo nádraží;9:20
+9507: 6: Mladá Boleslav hl.n.;8:37, Praha Masarykovo nádraží;10:20
+1146: X: Praha Masarykovo nádraží;9:19, Turnov;11:12
+9528: 7: Praha Masarykovo nádraží;10:47, Mělník;11:50
+5426: X: Turnov;11:26, Tanvald;12:10
+9508: 6: Praha Masarykovo nádraží;11:47, Mladá Boleslav hl.n.;13:21
+9529: 7: Mělník;12:11, Praha Masarykovo nádraží;13:20
+5425| vlož ŽBr-Tur|vložený Železný Brod - Turnov: X: Tanvald;13:40, Turnov;14:36
+9513: 6: Mladá Boleslav hl.n.;14:37, Praha Masarykovo nádraží;16:20
+1147: X: Turnov;14:44, Praha Masarykovo nádraží;16:35
+9532: 7: Praha Masarykovo nádraží;14:47, Mělník;15:50
+9533: 7: Mělník;16:11, Praha Masarykovo nádraží;17:20
+1140: 6: Praha Masarykovo nádraží;17:19, Tanvald;20:12
+9514: X: Praha Masarykovo nádraží;17:47, Mladá Boleslav hl.n.;19:21
+9536: 7: Praha Masarykovo nádraží;18:47, Mělník;19:50
+106056: X1234: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+9537: 7: Mělník;20:11, Praha Masarykovo nádraží;21:20
+9519: X1234: Mladá Boleslav město;20:25, Praha Masarykovo nádraží;22:20
+9519: X5: Mladá Boleslav hl.n.;20:37, Praha Masarykovo nádraží;22:20
+309537sv: 7: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+9540: X: Praha Masarykovo nádraží;22:47, Mladá Boleslav město;0:22
+
+109597sv: X1: Mladá Boleslav město;0:27, Mladá Boleslav hl.n.;0:33
+9523: 6: Mladá Boleslav hl.n.;3:49, Praha Masarykovo nádraží;5:20
+9501: X: Mladá Boleslav hl.n.;4:41, Praha Masarykovo nádraží;6:20
+109524pk: X: Praha Masarykovo nádraží;6:47, Všetaty;7:39
+9524: 6: Praha Masarykovo nádraží;6:47, Mělník;7:50
+9545: X: Všetaty;7:42, Praha Masarykovo nádraží;8:53
+9525: 6: Mělník;8:11, Praha Masarykovo nádraží;9:20
+109545sv: X: Praha Masarykovo nádraží;9:56, Praha-Vršovice;10:43
+9528: 6: Praha Masarykovo nádraží;10:47, Mělník;11:50
+9529: 6: Mělník;12:11, Praha Masarykovo nádraží;13:20
+1147: 7: Tanvald;13:50, Praha Masarykovo nádraží;16:35
+9532: 6: Praha Masarykovo nádraží;14:47, Mělník;15:50
+109534sv: X: Praha-Vršovice;15:22, Praha Masarykovo nádraží;15:56
+9533: 6: Mělník;16:11, Praha Masarykovo nádraží;17:20
+9534: X: Praha Masarykovo nádraží;16:47, Mělník;17:50
+9514: 7: Praha Masarykovo nádraží;17:47, Mladá Boleslav hl.n.;19:21
+9535: X: Mělník;18:11, Praha Masarykovo nádraží;19:20
+9536: 6: Praha Masarykovo nádraží;18:47, Mělník;19:50
+106056: 7: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+9537: 6: Mělník;20:11, Praha Masarykovo nádraží;21:20
+9519: 7: Mladá Boleslav město;20:25, Praha Masarykovo nádraží;22:20
+9518: X: Praha Masarykovo nádraží;20:47, Turnov;23:15
+409537pksv: 6: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+9540: T: Praha Masarykovo nádraží;22:47, Mladá Boleslav město;0:22
+
+9503: X6: Turnov;4:41, Praha Masarykovo nádraží;7:20
+209504vložsv: 7: Praha-Vršovice;6:27, Praha Masarykovo nádraží;6:57
+1148: 7: Praha Masarykovo nádraží;7:19, Harrachov;10:40
+9526: X6: Praha Masarykovo nádraží;8:47, Mělník;9:50
+9527: X6: Mělník;10:11, Praha Masarykovo nádraží;11:20
+1145: 7: Harrachov;11:06, Praha Masarykovo nádraží;14:35
+9530: X6: Praha Masarykovo nádraží;12:47, Mělník;13:50
+9531: X6: Mělník;14:11, Praha Masarykovo nádraží;15:20
+9512: 7: Praha Masarykovo nádraží;15:47, Mladá Boleslav hl.n.;17:21
+1944: X: Praha Masarykovo nádraží;16:19, Mladá Boleslav hl.n.;17:46
+9534: 6: Praha Masarykovo nádraží;16:47, Mělník;17:50
+9535: 6: Mělník;18:11, Praha Masarykovo nádraží;19:20
+9517: XT: Mladá Boleslav hl.n.;18:37, Praha Masarykovo nádraží;20:20
+9518: 6: Praha Masarykovo nádraží;20:47, Turnov;23:15
+9538: XT: Praha Masarykovo nádraží;21:47, Mělník;22:50
+109599sv: X5: Mělník;23:01, Všetaty;23:10
+9551: X5: Všetaty;23:23, Praha hl.n.;0:13
+
+9520: 6: Praha hl.n.;0:18, Mělník;1:19
+9521: 6: Mělník;1:24, Praha hl.n.;2:22
+9522: 6: Praha hl.n.;2:33, Mělník;3:34
+109591sv: 6: Mělník;3:41, Neratovice;4:05
+9550: 6: Neratovice;4:19, Mladá Boleslav hl.n.;5:06
+9505: 6: Mladá Boleslav hl.n.;6:34, Praha Masarykovo nádraží;8:20
+1943: X: Mělník;6:35, Praha Masarykovo nádraží;7:35
+109504pk: X: Praha Masarykovo nádraží;7:47, Byšice;8:44
+1143: T: Turnov;8:44, Praha Masarykovo nádraží;10:35
+9507: X: Byšice;9:10, Praha Masarykovo nádraží;10:20
+1146: 6: Praha Masarykovo nádraží;9:19, Tanvald;12:04
+9508: X: Praha Masarykovo nádraží;11:47, Mladá Boleslav hl.n.;13:21
+101144pk: T: Praha Masarykovo nádraží;13:19, Turnov;15:12
+9572: X: Mladá Boleslav hl.n.;13:44, Turnov;14:28
+1147: 6: Tanvald;13:50, Praha Masarykovo nádraží;16:35
+9573: X: Turnov;15:30, Mladá Boleslav hl.n.;16:12
+9515: X: Mladá Boleslav hl.n.;16:37, Praha Masarykovo nádraží;18:20
+101149pk: T: Turnov;16:44, Praha Masarykovo nádraží;18:35
+9514: 6: Praha Masarykovo nádraží;17:47, Mladá Boleslav hl.n.;19:21
+201149sv: T: Praha Masarykovo nádraží;19:00, Praha-Vršovice;19:25
+1940: X: Praha Masarykovo nádraží;19:19, Turnov;21:16
+106056: 6: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+9519: 6: Mladá Boleslav město;20:25, Praha Masarykovo nádraží;22:20
+9581: X: Turnov;22:42, Mladá Boleslav hl.n.;23:18
+9540: 6: Praha Masarykovo nádraží;22:47, Všetaty;23:39
+9548: 6: Všetaty;23:42, Mělník;23:53
+
+109595sv: 7: Mělník;0:00, Všetaty;0:09
+9501: 6: Mladá Boleslav hl.n.;4:41, Praha Masarykovo nádraží;6:20
+309524pksv: X: Praha-Vršovice;6:00, Praha Masarykovo nádraží;6:27
+9503: T: Všetaty;6:22, Praha Masarykovo nádraží;7:20
+1148: X: Praha Masarykovo nádraží;7:19, Tanvald;10:03
+1148: 6: Praha Masarykovo nádraží;7:19, Harrachov;10:40
+9526: 7: Praha Masarykovo nádraží;8:47, Mělník;9:50
+9527: 7: Mělník;10:11, Praha Masarykovo nádraží;11:20
+26271: X: Tanvald;10:27, Železný Brod;10:53
+1145: 6: Harrachov;11:06, Praha Masarykovo nádraží;14:35
+105410: X: Železný Brod;12:12, Turnov;12:31
+1145: X: Turnov;12:44, Praha Masarykovo nádraží;14:35
+9530: 7: Praha Masarykovo nádraží;12:47, Mělník;13:50
+9531: 7: Mělník;14:11, Praha Masarykovo nádraží;15:20
+9512: X: Praha Masarykovo nádraží;15:47, Všetaty;16:39
+9512: 6: Praha Masarykovo nádraží;15:47, Mladá Boleslav hl.n.;17:21
+9534: 7: Praha Masarykovo nádraží;16:47, Mělník;17:50
+101147sv101147: X: Všetaty;17:00, Praha Masarykovo nádraží;17:55
+9535: 7: Mělník;18:11, Praha Masarykovo nádraží;19:20
+9517: 6: Mladá Boleslav hl.n.;18:37, Praha Masarykovo nádraží;20:20
+9536: X: Praha Masarykovo nádraží;18:47, Všetaty;19:39
+109537: X: Všetaty;20:23, Praha Masarykovo nádraží;21:20
+9518: T: Praha Masarykovo nádraží;20:47, Turnov;23:15
+309537sv: X: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+9538: 6: Praha Masarykovo nádraží;21:47, Mělník;22:50
+109599sv: 6: Mělník;23:01, Všetaty;23:10
+
+
+2:56:4
+3:5:12
+3:6:3
+4:1234567:1
+5:7:9
+6:7:5
+8:123456:5
+8:7:7
+9:7:6
+10:7:10
+11:5:3
+12:1234:9
+13:1234:13
+13:56:9
+13:7:11

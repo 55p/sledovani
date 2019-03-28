@@ -1,0 +1,66 @@
+﻿9221: X: Čerčany;3:08, Ledečko;3:47
+9220: X: Ledečko;4:15, Čerčany;4:55
+9203: X: Čerčany;5:03, Ledečko;5:50
+9226: X: Ledečko;7:02, Čerčany;7:55
+9207: X: Čerčany;9:09, Ledečko;10:01
+10104: X: Ledečko;13:40, Čerčany;14:26
+9213: X: Čerčany;15:03, Ledečko;15:50
+9211: T: Čerčany;13:03, Ledečko;14:00
+109208pk: X1234,T,-2312,-2412,-2512,-3112: Ledečko;18:00, Čerčany;18:46
+9229: T: Čerčany;17:03, Ledečko;17:49
+9208: 6,-2312,-2412,-2512,-3112: Ledečko;18:00, Čerčany;18:46
+9217: X1234,6: Čerčany;19:03, Ledečko;19:49
+9230: X1234,6: Ledečko;20:01, Čerčany;20:47
+9233: X1234: Čerčany;21:03, Ledečko;22:26
+9232: 5: Ledečko;22:08, Čerčany;22:49
+9251: 5,T: Čerčany;23:03, Ledečko;23:42
+9231: 6: Čerčany;21:03, Sázava;21:33
+9232: 5: Ledečko;22:08, Čerčany;22:49
+9232: 6: Sázava;22:18, Čerčany;22:49
+9224: X: Ledečko;5:28, Čerčany;6:14
+9243: X: Čerčany;6:33, Ledečko;7:47
+9246: X: Ledečko;7:50, Čerčany;8:55
+9209: X: Čerčany;11:14, Ledečko;11:58
+10102: X: Ledečko;12:10, Čerčany;12:53
+9245: X: Čerčany;14:03, Ledečko;14:48
+10106: X: Ledečko;16:00, Čerčany;16:46
+9229: X: Čerčany;17:03, Ledečko;17:49
+109208pk: X1234:Ledečko;17:57, Čerčany;18:46
+22290: 6: Ledečko;3:25, Sázava;3:33
+22201: 6: Sázava;3:39, Ledečko;3:47
+9220: 25: Ledečko;4:15, Čerčany;4:55
+9203: 25: Čerčany;5:03, Ledečko;5:50
+9226: 25: Ledečko;7:02, Čerčany;7:55
+9205: T: Čerčany;8:09, Ledečko;8:53
+10104: T: Ledečko;13:40, Čerčany;14:26
+9213: 25: Čerčany;15:03, Ledečko;15:50
+9208: 5,T,-2312,-2412,-2512,-3112: Ledečko;18:00, Čerčany;18:46
+9217: 5,T: Čerčany;19:03, Ledečko;19:49
+9230: 5,7: Ledečko;20:01, Čerčany;20:47
+109233pk: X1234:Čerčany;21:03, Sázava;21:33
+9233: 5: Čerčany;21:03, Ledečko;22:26
+9231: T: Čerčany;21:03, Ledečko;21:42
+9232: X1234:Ledečko;22:18, Čerčany;22:49
+9251: X1234:Čerčany;23:03, Ledečko;23:42
+
+9242: X: Ledečko;4:44, Čerčany;5:26
+9241: X: Čerčany;5:33, Sázava;6:04
+9244: X: Čerčany;6:39, Čerčany;7:15
+9225: X: Čerčany;7:33, Ledečko;8:14
+9222: T: Ledečko;5:06, Čerčany;5:46
+9224: 6: Ledečko;5:28, Čerčany;6:14
+9223: 25: Čerčany;7:09, Ledečko;7:57
+22202: 25: Ledečko;8:00, Sázava;8:09
+122205: 25: Sázava;8:15, Ledečko;8:23
+1830: 6: Ledečko;16:56, Čerčany;17:47
+9209: T: Čerčany;11:14, Ledečko;11:58
+10102: T: Ledečko;12:10, Čerčany;12:53
+10100: XT: Ledečko;10:10, Čerčany;10:53
+9228: X: Ledečko;15:04, Čerčany;15:47
+9247: X: Čerčany;16:03, Sázava;16:38
+9248: X: Sázava;17:09, Čerčany;17:47
+9249: X: Čerčany;18:03, Sázava;18:38
+10110sv: X1234:Sázava;19:08, Čerčany;19:38
+9250: 5: Sázava;19:09, Čerčany;19:47
+9024: X: Čerčany;20:05, Praha hl.n.;22:05
+9025: X: Praha hl.n.;22:55, Čerčany;0:32

@@ -1,0 +1,2 @@
+﻿9500: X: Praha Masarykovo nádraží;4:47, Mladá Boleslav hl.n.;6:15
+9505: X: Mladá Boleslav hl.n.;6:34, Praha Masarykovo nádraží;8:20

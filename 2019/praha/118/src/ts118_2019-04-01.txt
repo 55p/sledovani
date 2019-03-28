@@ -1,0 +1,30 @@
+71044: : Praha-Vršovice;10:33, Praha jih;10:37
+200356sv: : Praha jih;11:21, Praha hl.n.;11:29
+99999|Z1 P.hl.n.|1. záloha Praha hl.n.: : Praha hl.n.;11:29;16:32
+200357sv: : Praha hl.n.;16:32, Praha jih;16:40
+71041: : Praha jih;17:00, Praha-Vršovice;17:04
+
+71150: X2345,T,2004,2104,2204,0106,1006,0510,-2712,-0201,-1904,-2304,-3005,-1106,-0310: Praha-Vršovice;10:39, Praha jih;10:45
+229378sv: X2345,T,2004,2104,2204,0106,1006,0510,-2712,-0201,-1904,-2304,-3005,-1106,-0310: Praha jih;11:27, Praha hl.n.;11:38
+71077: X1,6,1904,2304,3005,1106,0310,-2412,-3112,-2004,-2104,-2204,-0106,-1006,-0510: Praha-Vršovice;12:13, Praha hl.n.;12:17
+200353sv: : Praha hl.n.;12:39, Praha jih;12:47
+200352sv: : Praha jih;15:21, Praha hl.n.;15:29
+71004: : Praha hl.n.;15:51, Praha jih;15:59
+200350sv: : Praha jih;17:16, Praha hl.n.;17:24
+99998|Z1 P.hl.n.|1. záloha POraha hl.n.: : Praha hl.n.;17:24;22:20
+
+71000: : Praha hl.n.;6:21, Praha jih;6:29
+200360sv: : Praha jih;7:21, Praha hl.n.;7:29
+99997|Z1 P.hl.n.|1. záloha Praha hl.n.: : Praha hl.n.;7:29;11:13
+229540sv: : Praha hl.n.;11:13, Praha jih;11:24
+200354sv: : Praha jih;13:21, Praha hl.n.;13:29
+200355sv: : Praha hl.n.;14:36, Praha jih;14:44
+200680vložsv: : Praha jih;16:21, Praha hl.n.;16:35
+300680vlož: : Praha hl.n.;16:51, Praha-Holešovice;16:58
+99996|pos P.Hol.|Posun Praha-Holešovice: : Praha-Holešovice;16:58;17:51
+71019: : Praha-Holešovice;17:51, Praha jih;18:22
+229443sv: : Praha jih;19:26, Praha hl.n.;19:38
+71010: : Praha hl.n.;19:58, Praha jih;20:11
+229441sv: :Praha jih;21:49, Praha hl.n.;21:57
+99995|topí 445|topí 445: : Praha hl.n.;21:57;23:25
+71072: : Praha hl.n.;23:25, Praha-Vršovice;23:30

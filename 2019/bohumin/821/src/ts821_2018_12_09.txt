@@ -1,4 +1,4 @@
-21960sv:X: Bohumín;3:14, Studénka;3:42
+﻿21960sv:X: Bohumín;3:14, Studénka;3:42
 123100pk:X: Studénka;4:14, Štramberk;4:39
 23131:X: Štramberk;4:46, Studénka;5:12
 21962sv:6: Bohumín;4:40, Studénka;5:15
@@ -44,7 +44,7 @@
 13315:7: Budišov nad Budišovkou;15:35, Suchdol nad Odrou;16:50
 113310pk:5: Suchdol nad Odrou;15:16, Budišov nad Budišovkou;16:24
 13317:5: Budišov nad Budišovkou;17:35, Suchdol nad Odrou;18:50
-21967sv:5,6: Suchdol nad Odrou;21:02, Bohumín;21:49
+21967svpk:5,6: Suchdol nad Odrou;21:02, Bohumín;21:49
 
 28951pk:X: Suchdol nad Odrou;3:30, Studénka;3:41
 23100::X: Studénka;4:14, Veřovice;4:54
@@ -132,4 +132,4 @@
 23121:: Veřovice;18:08, Studénka;18:49
 23136:: Studénka;19:22, Štramberk;19:52
 23139:: Štramberk;20:21, Studénka;20:47
-21967sv:: Studénka;21:22, Bohumín;21:49
+121967sv:: Studénka;21:22, Bohumín;21:49
