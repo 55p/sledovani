@@ -1,4 +1,4 @@
-71044: : Praha-Vršovice;10:33, Praha jih;10:37
+﻿71044: : Praha-Vršovice;10:33, Praha jih;10:37
 200356sv: : Praha jih;11:21, Praha hl.n.;11:29
 99999|Z1 P.hl.n.|1. záloha Praha hl.n.: : Praha hl.n.;11:29;16:32
 200357sv: : Praha hl.n.;16:32, Praha jih;16:40
@@ -11,7 +11,7 @@
 200352sv: : Praha jih;15:21, Praha hl.n.;15:29
 71004: : Praha hl.n.;15:51, Praha jih;15:59
 200350sv: : Praha jih;17:16, Praha hl.n.;17:24
-99998|Z1 P.hl.n.|1. záloha POraha hl.n.: : Praha hl.n.;17:24;22:20
+99998|Z1 P.hl.n.|1. záloha Praha hl.n.: : Praha hl.n.;17:24;22:20
 
 71000: : Praha hl.n.;6:21, Praha jih;6:29
 200360sv: : Praha jih;7:21, Praha hl.n.;7:29

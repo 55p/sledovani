@@ -1,0 +1,23 @@
+932: : Trutnov hl.n.;6:42, Hradec Králové hl.n.;7:55
+923: : Hradec Králové hl.n.;10:04, Trutnov hl.n.;11:20
+926: : Trutnov hl.n.;12:42, Hradec Králové hl.n.;13:55
+929: : Hradec Králové hl.n.;16:04, Trutnov hl.n.;17:20
+920: : Trutnov hl.n.;18:42, Hradec Králové hl.n.;19:55
+
+1780: : Hradec Králové hl.n.;6:02, Trutnov hl.n.;7:20
+930: : Trutnov hl.n.;8:42, Hradec Králové hl.n.;9:55
+925: : Hradec Králové hl.n.;12:04, Trutnov hl.n.;13:20
+924: : Trutnov hl.n.;14:42, Hradec Králové hl.n.;15:55
+935: 10: Hradec Králové hl.n.;17:05, Letohrad;18:30
+
+934: 11: Letohrad;5:33, Hradec Králové hl.n.;6:53
+921: : Hradec Králové hl.n.;8:04, Trutnov hl.n.;9:20
+928: : Trutnov hl.n.;10:42, Hradec Králové hl.n.;11:55
+927: : Hradec Králové hl.n.;14:04, Trutnov hl.n.;15:20
+922: : Trutnov hl.n.;16:42, Hradec Králové hl.n.;17:55
+949: XT: Hradec Králové hl.n.;19:04, Starkoč;19:36
+1874: XT: Starkoč;19:40, Trutnov hl.n.;20:20
+
+1781:X6: Trutnov hl.n.;4:41, Starkoč;5:17
+950: X6: Starkoč;5:20, Hradec Králové hl.n.;5:55
+931: : Hradec Králové hl.n.;18:04, Trutnov hl.n.;19:20
