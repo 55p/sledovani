@@ -1,0 +1,40 @@
+8702: X: České Velenice;4:19, Veselí nad Lužnicí;5:19
+8232: X: Veselí nad Lužnicí;6:01, Tábor;6:29
+8207: X: Tábor;9:29, České Budějovice;10:48
+633: X1234: České Budějovice;11:12, Písek město;12:04
+634: X1234: Písek město;15:50, České Budějovice;16:45
+635: X: České Budějovice;17:12, Písek město;18:04
+8305: X: Jindřichův Hradec;9:47, Veselí nad Lužnicí;10:23
+8213: 25: Tábor;16:09, České Budějovice;17:22
+8212: 25: České Budějovice;18:23, Tábor;19:43
+
+8222: X: České Budějovice;6:43, Veselí nad Lužnicí;7:30
+8236: X: Veselí nad Lužnicí;8:01, Tábor;8:29
+8209: X: Tábor;12:09, České Budějovice;13:29
+8044: X: České Budějovice;15:42, Protivín;16:39
+8064: X: Protivín;17:50, Horažďovice předměstí;18:33
+8063: X: Horažďovice předměstí;19:18, Protivín;19:58
+
+8050: X: Protivín;4:56, Strakonice;5:26
+1933: X: Strakonice;5:44, České Budějovice;6:50
+631: X: České Budějovice;9:12, Písek město;10:04
+632: X: Písek město;11:50, České Budějovice;12:45
+8210: X: České Budějovice;16:30, Tábor;17:56
+8215: X: Tábor;18:27, Veselí nad Lužnicí;18:59
+8240: X: Veselí nad Lužnicí;21:29, Tábor;21:59
+7971: 25: Protivín;9:44, Písek město;10:04
+7970: 25: Písek město;10:08, Protivín;10:28
+8049: 6: Protivín;21:07, České Budějovice;21:45
+8022: 6: České Budějovice;22:59, Protivín;23:35
+
+8231: X: Tábor;4:48, Veselí nad Lužnicí;5:18
+8703: X: Veselí nad Lužnicí;6:26, České Velenice;7:28
+2189: X: České Velenice;7:30, Gmünd NÖ;7:34
+
+
+3:67:3
+4:5:0
+1:5:0
+1:6:1
+1:7:4
+3:5:1

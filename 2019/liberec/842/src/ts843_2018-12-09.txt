@@ -1,4 +1,4 @@
-﻿1997pk: X : Česká Lípa hl.n.; 5:14, Liberec; 6:26
+1997pk: X : Česká Lípa hl.n.; 5:14, Liberec; 6:26
 1997: 25 : Česká Lípa hl.n.; 5:14, Liberec; 6:26
 6608: : Liberec; 13:01, Děčín hl.n; 15:10
 6613pk: : Děčín hl.n; 16:44, Liberec; 18:54
@@ -11,7 +11,7 @@
 6004: 11 : Mladá Boleslav; 7:23, Svor; 8:48
 6004: 2512, 0101 : Česká Lípa; 8:25, Svor; 8:48
 6007: : Svor; 9:11, Mladá Boleslav; 10:34
-18590: 25 : Mladá Boleslav; 10:50, Mladá Boleslav město; 10:56
+18590sv: 25 : Mladá Boleslav; 10:50, Mladá Boleslav město; 10:56
 6008: 25 : Mladá Boleslav město; 11:12, Svor; 12:48
 6008: X : Mladá Boleslav; 11:23, Svor; 12:48
 6081: : Svor; 13:11, Česká Lípa; 13:33

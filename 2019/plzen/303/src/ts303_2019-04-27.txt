@@ -1,4 +1,4 @@
-751: X: Plzeň hl.n.;4:20, Praha hl.n.;5:49
+﻿751: X: Plzeň hl.n.;4:20, Praha hl.n.;5:49
 776: X: Praha hl.n.;6:15, Klatovy;8:41
 761: X: Klatovy;9:17, Praha hl.n.;11:49
 764: X: Praha hl.n.;14:15, Klatovy;16:41
@@ -86,8 +86,7 @@
 1483: 6: Čerčany;9:06, Tábor;10:18
 1906: X: Kutná Hora hl.n.;8:31, Praha hl.n.;9:35
 1901: X: Praha hl.n.;15:30, Kutná Hora hl.n.;16:23
-10198||přes Lysou n/L: X: Kutná Hora hl.n.;16:42, Praha hl.n.;17:50
-1489: X: Praha hl.n.;17:55, Benešov u Prahy;18:49
+1489: X: Kutná Hora hl.n.;16:47, Praha hl.n.;17:42;17:55, Benešov u Prahy;18:49
 
 1484: X: Olbramovice;6:59, Praha hl.n.;8:02
 1487: X: Praha hl.n.;16:55, Tábor;18:49

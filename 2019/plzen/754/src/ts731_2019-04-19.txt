@@ -1,0 +1,29 @@
+2152: X: České Velenice;4:56, České Budějovice;5:48
+531: : České Budějovice;10:19, Český Krumlov;10:55;10:58, Kájov;11:06
+532: : Kájov;13:58, Český Krumlov;14:05;14:07, České Budějovice;14:44
+
+2153: X: České Budějovice;6:35, České Velenice;7:27
+8704: 25: České Velenice;6:10, Veselí nad Lužnicí;7:12
+8705: 25: Veselí nad Lužnicí;7:34, České Velenice;8:32
+8710: : České Velenice;9:21, Veselí nad Lužnicí;10:20
+8709: : Veselí nad Lužnicí;11:38, České Velenice;12:35
+8714: : České Velenice;13:21, Veselí nad Lužnicí;14:20
+8713: : Veselí nad Lužnicí;15:38, České Velenice;16:35
+8718: : České Velenice;17:21, Veselí nad Lužnicí;18:20
+8717: : Veselí nad Lužnicí;19:38, České Velenice;20:35
+8722: : České Velenice;22:14, Veselí nad Lužnicí;23:13
+
+8701př: : Veselí nad Lužnicí;4:52, České Velenice;5:52
+8706: X: České Velenice;6:49, Veselí nad Lužnicí;8:20
+8708: 25: České Velenice;7:16, Veselí nad Lužnicí;8:20
+8707: : Veselí nad Lužnicí;9:38, České Velenice;10:35
+8712: : České Velenice;11:21, Veselí nad Lužnicí;12:20
+8711: : Veselí nad Lužnicí;13:38, České Velenice;14:35
+8716: : České Velenice;15:21, Veselí nad Lužnicí;16:20
+8715: : Veselí nad Lužnicí;17:38, České Velenice;18:35
+8720: : České Velenice;19:21, Veselí nad Lužnicí;20:20
+8719: : Veselí nad Lužnicí;21:39, České Velenice;22:49
+
+
+3:56:2
+1:56:1
