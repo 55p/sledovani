@@ -1,0 +1,40 @@
+3141: :Nové Mesto nad Váhom;4:34,Trenčín;5:01
+3140:25:Trenčín;5:43,Nové Mesto nad Váhom;6:10
+3152:25:Nové Mesto nad Váhom;6:45,Vrbovce;8:25
+3113:25:Vrbovce;9:32,Trenčín;11:07
+2770: :Trenčín;12:53,Velká nad Veličkou;14:36
+2771:X:Velká nad Veličkou;14:39,Javorník nad Veličkou zast.;14:42
+2772:X:Javorník nad Veličkou zast.;15:14,Velká nad Veličkou;15:17
+2773: :Velká nad Veličkou;15:23,Trenčín;17:07
+3852:7,-2104:Trenčín;17:25,Vlárský průsmyk;17:51
+3853:7,-2104:Vlárský průsmyk;17:58,Trenčín;18:33
+3130: :Trenčín;18:49,Myjava;20:15
+
+3151:25:Myjava;4:18,Nové Mesto nad Váhom;5:04
+3105:25:Nové Mesto nad Váhom;6:53,Trenčín;7:20
+3105:X:Myjava;5:48,Trenčín;7:20
+3144:X:Trenčín;7:53,Nové Mesto nad Váhom;8:20
+3110:25:Trenčín;8:41,Vrbovce;10:28
+3181:25:Vrbovce;11:32,Trenčín;13:20
+103119pk:X:Nové Mesto nad Váhom;13:40,Trenčín;14:07
+2774:X:Trenčín;14:41,Myjava;16:15
+2774:25:Trenčín;14:53,Velká nad Veličkou;16:36
+2775:25:Velká nad Veličkou;17:23,Trenčín;19:20
+2775:X:Myjava;17:45,Nové Mesto nad Váhom;18:34
+3154:X:Nové Mesto nad Váhom;22:43,Myjava;23:31
+103134pk:6,1904,2004,2104:Trenčín;20:41,Nové Mesto nad Váhom;21:08
+103134pk:T,-1904,-2004,-2104:Trenčín;20:41,Myjava;22:15
+
+103151pk:6,-2004,-0607,1904,0105,0805:Myjava;4:18,Nové Mesto nad Váhom;5:04
+3151:X:Myjava;4:18,Nové Mesto nad Váhom;5:04
+3150:X:Nové Mesto nad Váhom;5:10,Vrbovce;6:14
+3153:X:Vrbovce;6:28,Nové Mesto nad Váhom;7:24
+3143:X:Nové Mesto nad Váhom;12:53,Trenčín;13:20
+3120:X:Trenčín;13:53,Myjava;15:35
+102775pk:X:Myjava;17:45,Nové Mesto nad Váhom;18:34
+
+103105pk:X:Nové Mesto nad Váhom;6:53,Trenčín;7:20
+3110:X:Trenčín;8:41,Vrbovce;10:28
+3181:X:Vrbovce;11:32,Myjava;11:44
+3119:X:Myjava;12:28,Trenčín;14:02
+102774pk:X:Trenčín;14:41,Nové Mesto nad Váhom;15:07

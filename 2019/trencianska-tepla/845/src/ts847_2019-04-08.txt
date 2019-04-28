@@ -1,0 +1,25 @@
+5402:X:Trenčianska Teplá;4:43,Horné Sŕnie;4:53
+5403:X:Horné Sŕnie;4:56,Trenčianska Teplá;5:06
+5404: :Trenčianska Teplá;5:33,Horné Sŕnie;5:43
+5405: :Horné Sŕnie;5:59,Trenčianska Teplá;6:09
+5406:X:Trenčianska Teplá;6:46,Horné Sŕnie;6:56
+5407:X:Horné Sŕnie;6:59,Trenčianska Teplá;7:09
+5408: :Trenčianska Teplá;7:46,Horné Sŕnie;7:56
+5409: :Horné Sŕnie;7:59,Trenčianska Teplá;8:09
+5416: :Trenčianska Teplá;11:52,Horné Sŕnie;12:02
+5417: :Horné Sŕnie;12:06,Trenčianska Teplá;12:16
+5420: :Trenčianska Teplá;13:52,Horné Sŕnie;14:02
+5421: :Horné Sŕnie;14:06,Trenčianska Teplá;14:16
+5422:X:Trenčianska Teplá;14:52,Horné Sŕnie;15:02
+5423:X:Horné Sŕnie;15:06,Trenčianska Teplá;15:16
+3850:1,2,3,4,25,1904,-1804:Trenčianska Teplá;15:52,Horné Sŕnie;16:02
+3850:5,-1904,1804:Trenčianska Teplá;15:52,Vlárský průsmyk;16:11
+3851:5,-1904,1804:Vlárský průsmyk;16:18,Trenčianska Teplá;16:35
+5425:7,-2104:Horné Sŕnie;16:06,Trenčianska Teplá;16:16
+5428:5,-1904,1804:Trenčianska Teplá;17:52,Horné Sŕnie;18:02
+3853:X6,2104:Horné Sŕnie;18:06,Trenčianska Teplá;18:15
+
+5304:X:Trenčín;5:31,Topoľčany;7:13
+5323:X:Topoľčany;14:55,Trenčín;16:29
+5430:X:Trenčín;18:40,Horné Sŕnie;19:03
+5433:X:Horné Sŕnie;20:06,Trenčianska Teplá;20:16

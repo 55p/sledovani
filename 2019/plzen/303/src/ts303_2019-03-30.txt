@@ -1,0 +1,122 @@
+751: X: Plzeň hl.n.;4:20, Praha hl.n.;5:49
+776: X: Praha hl.n.;6:15, Klatovy;8:41
+761: X: Klatovy;9:17, Praha hl.n.;11:49
+764: X: Praha hl.n.;14:15, Klatovy;16:41
+775: X: Klatovy;17:17, Praha hl.n.;19:49
+753: 25: Plzeň hl.n.;5:20, Praha hl.n.;6:50
+772: 25: Praha hl.n.;8:15, Klatovy;10:41
+763: 25: Klatovy;11:17, Praha hl.n.;13:49
+762: 25: Praha hl.n.;15:15, Plzeň hl.n.;16:40
+773: 25: Plzeň hl.n.;17:20, Praha hl.n.;18:49
+
+1482: X: Olbramovice;5:57, Kutná Hora hl.n.;7:59
+1482: 6: Olbramovice;5:57, Praha hl.n.;6:56
+9207: 6: Praha hl.n.;8:22, Čerčany;9:01
+1483: 6: Čerčany;9:06, Olbramovice;9:30
+1906: X: Kutná Hora hl.n.;8:31, Praha hl.n.;9:35
+1901: X: Praha hl.n.;15:30, Kutná Hora hl.n.;16:23
+10198||přes Lysou n/L: X: Kutná Hora hl.n.;16:42, Praha hl.n.;17:50
+1489: X: Praha hl.n.;17:55, Benešov u Prahy;18:49
+
+8293sv: X : Benešov u Prahy;6:27, Olbramovice; 6:35 
+1484: X: Olbramovice;6:59, Praha hl.n.;8:02
+1487: X: Praha hl.n.;16:55, Olbramovice;18:01 
+
+100728: X2345: Veselí nad Lužnicí;5:34, Chotoviny;6:08
+100728: X1: České Budějovice;5:01, Chotoviny;6:08 
+100728: 6: Veselí nad Lužnicí;5:34, Chotoviny;6:08 
+100728: T: Tábor;6:02, Chotoviny;6:08
+100703: X6: Chotoviny;7:51, Veselí nad Lužnicí;8:24 
+100724: : Veselí nad Lužnicí;7:34, Chotoviny;8:08 
+100705: : Chotoviny;8:51, České Budějovice;9:58 
+100710: : České Budějovice;15:01, Chotoviny;16:08
+100535: X: Chotoviny;17:02, České Budějovice;18:03 
+
+100536: : České Budějovice;6:55, Chotoviny;7:48
+100705: : Chotoviny;8:51, České Budějovice;9:58
+100716: : České Budějovice;12:03, Chotoviny;13:08
+100713: : Chotoviny;13:51, České Budějovice;14:58
+100708: : České Budějovice;16:03, Chotoviny;17:08
+100721: : Chotoviny;17:51, České Budějovice;18:58
+
+1541: : Praha hl.n;6:01, Olbramovice;6:48
+726: X: Olbramovice;7:39, Praha-Holešovice;8:46
+709: X: Praha-Holešovice;9:20, Olbramovice;10:21
+720: X: Olbramovice;10:39, Praha-Holešovice;11:46
+713: X: Praha-Holešovice;12:20, Olbramovice;13:21
+716: : Olbramovice;13:39, Praha-Holešovice;14:46
+719: : Praha-Holešovice;15:20, Olbramovice;16:21
+710: : Olbramovice;16:39, Praha-Holešovice;17:46
+725: : Praha-Holešovice;18:20, Olbramovice;19:21
+704: : Olbramovice;19:39, Praha-Holešovice;20:46
+731: : Praha-Holešovice;21:48, Olbramovice;22:51
+
+8202: X: České Budějovice;4:18, Chotoviny;5:40
+1835: X: Chotoviny;6:08, České Budějovice;7:21
+100722: : České Budějovice;8:01, Chotoviny;9:08
+100707: X6: Chotoviny;9:51, České Budějovice;10:58
+100712: X6: České Budějovice;14:01, Chotoviny;15:08
+100717: : Chotoviny;15:51, Veselí nad Lužnicí;16:24
+100708: X: České Budějovice;16:03, Chotoviny;17:08
+100537: X: Chotoviny; , České Budějovice; :
+100700: X1234: České Budějovice;20:03, Chotoviny;21:08
+100729: X: Chotoviny;21:51, České Budějovice;22:46
+
+730: X: Olbramovice;6:10, Praha-Holešovice;7:10
+531: X: Praha-Holešovice; 12:48, Olbramovice;13:49
+534: X: Olbramovice;9:11, Praha-Holešovice;10:10
+533: X: Praha-Holešovice;14:48, Olbramovice;15:49
+532: X: Olbramovice;16:11, Praha-Holešovice;17:10
+1547: : Praha-Holešovice;17:48, Olbramovice;18:49
+1544: : Olbramovice;19:11, Praha hl.n; 19:57
+729: : Praha hl.n; 20:31, Olbramovice;21:21
+1546: : Olbramovice;22:21, Praha hl.n; 22:57
+
+701: X6: Praha hl.n.;5:31, Olbramovice;6:21
+728: X6: Olbramovice;6:39, Praha-Holešovice;7:46
+707: X6: Praha-Holešovice;8:20, Olbramovice;9:21
+722: : Olbramovice;9:39, Praha-Holešovice;10:46
+711: : Praha-Holešovice;11:20, Olbramovice;12:21
+10118sv:: Olbramovice;14:30, Praha-Holešovice;15:30
+721: : Praha-Holešovice;16:20, Olbramovice;17:21
+708: : Olbramovice;17:39, Praha-Holešovice;18:46
+727: : Praha-Holešovice;19:20, Olbramovice;20:21 
+702: XT: Olbramovice;20:39, Praha hl.n.;21:27
+965: zX: Praha hl.n.;22:03, Čáslav;23:06
+
+964: X: Čáslav;4:50, Praha hl.n.;5:51
+703: X6: Praha hl.n.;6:31, Olbramovice;7:21
+536: X : Olbramovice;8:11, Praha-Holešovice;9:10
+1543: : Praha-Holešovice;9:48, Olbramovice;10:48
+718: : Olbramovice;11:39, Praha-Holešovice;12:46
+715: : Praha-Holešovice;13:20, Olbramovice;14:21
+714: X: Olbramovice;14:39, Praha hl.n.;15:27
+535: X: Praha hl.n;16:01, Olbramovice;17:39 
+706: : Olbramovice;18:39, Praha hl.n.;19:27
+
+732: X: Olbramovice;5:39, Praha-Holešovice;6:46
+705: X: Praha-Holešovice;7:09, Olbramovice;8:21
+724: X6: Olbramovice;8:39, Praha-Holešovice;9:46
+717: X: Praha-Holešovice;14:20, Olbramovice;15:21
+712: X: Olbramovice;15:39, Praha-Holešovice;16:46
+723: X: Praha-Holešovice;17:20, Olbramovice;18:21
+
+1541pk: : Praha hl.n;6:01, Olbramovice;6:48
+538: : Olbramovice;7:11, Praha-Holešovice;8:10
+10117sv: : Praha-Holešovice;8:48, Olbramovice;9:48 
+1540: : Olbramovice;10:11, Praha-Holešovice;11:10
+10145: : Praha-Holešovice;13:48, Olbramovice;14:48 
+1542: : Olbramovice;15:11, Praha-Holešovice;16:10 
+537: : Praha-Holešovice;16:48, Olbramovice;17:48 
+700: X1234, 6: Olbramovice;21:39, Praha-Holešovice;22:46 
+733: X1234, 6: Praha-Holešovice;23:20, Olbramovice;0:21 
+
+8259: T: Tábor;0:55, České Budějovice;1:56
+1834: T: České Budějovice;5:01, Tábor;5:58
+
+774: : Praha hl.n.;7:15, Plzeň hl.n.;8:40
+
+765: : Plzeň hl.n.;13:20, Praha hl.n.;14:49
+760: : Praha hl.n.;16:15, Klatovy;18:41
+779: : Klatovy;19:17, Praha hl.n.;21:46
+750: : Praha hl.n.;23:39, Plzeň hl.n.;1:03

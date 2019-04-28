@@ -1,18 +1,18 @@
-101161: X6,-0604,-0704: Ústí nad Labem hl.n.;5:22, Děčín hl.n.;5:36
-101176: X6,-0604,-0704: Děčín hl.n.;6:22, Ústí nad Labem hl.n.;6:38
-101163:-0604,-0704: Ústí nad Labem hl.n.;7:14, Děčín hl.n.;7:28
-101174:-0604,-0704: Děčín hl.n.;8:22, Ústí nad Labem hl.n.;8:38
-101165:-0604,-0704: Ústí nad Labem hl.n.;9:14, Děčín hl.n.;9:28
-101172:-0604,-0704: Děčín hl.n.;10:22, Ústí nad Labem hl.n.;10:38
-101167:-0604,-0704: Ústí nad Labem hl.n.;11:14, Děčín hl.n.;11:28
-101170:-0604,-0704: Děčín hl.n.;12:22, Ústí nad Labem hl.n.;12:38
-101169:-0604,-0704: Ústí nad Labem hl.n.;13:14, Děčín hl.n.;13:28
-101168:-0604,-0704: Děčín hl.n.;14:22, Ústí nad Labem hl.n.;14:38
-101171:-0604,-0704: Ústí nad Labem hl.n.;15:14, Děčín hl.n.;15:28
-101166:-0604,-0704: Děčín hl.n.;16:22, Ústí nad Labem hl.n.;16:38
-101173:-0604,-0704: Ústí nad Labem hl.n.;17:14, Děčín hl.n.;17:28
-101164:-0604,-0704: Děčín hl.n.;18:22, Ústí nad Labem hl.n.;18:38
-101173:-0604,-0704: Ústí nad Labem hl.n.;19:14, Děčín hl.n.;19:28
-101162:-0604,-0704: Děčín hl.n.;20:22, Ústí nad Labem hl.n.;20:38
-101177:-0604,-0704: Ústí nad Labem hl.n.;21:22, Děčín hl.n.;21:38
-101160:-0604,-0704: Děčín hl.n.;22:17, Ústí nad Labem hl.n.;22:33
+﻿101161: X6: Ústí nad Labem hl.n.;5:22, Děčín hl.n.;5:36
+101176: X6: Děčín hl.n.;6:22, Ústí nad Labem hl.n.;6:38
+101163:: Ústí nad Labem hl.n.;7:14, Děčín hl.n.;7:28
+101174:: Děčín hl.n.;8:22, Ústí nad Labem hl.n.;8:38
+101165:: Ústí nad Labem hl.n.;9:14, Děčín hl.n.;9:28
+101172:: Děčín hl.n.;10:22, Ústí nad Labem hl.n.;10:38
+101167:: Ústí nad Labem hl.n.;11:14, Děčín hl.n.;11:28
+101170:: Děčín hl.n.;12:22, Ústí nad Labem hl.n.;12:38
+101169:: Ústí nad Labem hl.n.;13:14, Děčín hl.n.;13:28
+101168:: Děčín hl.n.;14:22, Ústí nad Labem hl.n.;14:38
+101171:: Ústí nad Labem hl.n.;15:14, Děčín hl.n.;15:28
+101166:: Děčín hl.n.;16:22, Ústí nad Labem hl.n.;16:38
+101173:: Ústí nad Labem hl.n.;17:14, Děčín hl.n.;17:28
+101164:: Děčín hl.n.;18:22, Ústí nad Labem hl.n.;18:38
+101173:: Ústí nad Labem hl.n.;19:14, Děčín hl.n.;19:28
+101162:: Děčín hl.n.;20:22, Ústí nad Labem hl.n.;20:38
+101177:: Ústí nad Labem hl.n.;21:22, Děčín hl.n.;21:38
+101160:: Děčín hl.n.;22:17, Ústí nad Labem hl.n.;22:33

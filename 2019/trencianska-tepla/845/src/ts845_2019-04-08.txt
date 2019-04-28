@@ -1,0 +1,9 @@
+5303: :Chynorany;5:16,Trenčín;6:20
+105391pk:X:Trenčín;6:44,Trenčianska Teplá;6:52
+5320:X:Trenčianska Teplá;13:25,Chynorany;14:56
+5380:25:Trenčín;13:40,Topoľčany;15:02
+105322pk:X:Chynorany;15:56,Topoľčany;16:09
+
+5307:X:Chynorany;7:14,Trenčín;8:17
+5322:X:Trenčín;14:42,Topoľčany;16:09
+

@@ -1,4 +1,4 @@
-19790sv: X: Praha-Libeň;3:14, Středokluky;3:59
+﻿19790sv: X: Praha-Libeň;3:14, Středokluky;3:59
 19731: X: Středokluky;4:23, Praha-Dejvice;4:56
 19732: X: Praha-Dejvice;6:08, Noutonice;7:04
 19733: X: Noutonice;7:23, Praha hl.n.;8:46
@@ -6,3 +6,7 @@
 9060: 25: Čerčany;11:05, Praha hl.n.;13:05
 9065: 25: Praha hl.n.;13:55, Čerčany;15:37
 9068: 25: Čerčany;16:35, Praha hl.n.;18:35
+
+
+1:5:0
+1:7:0

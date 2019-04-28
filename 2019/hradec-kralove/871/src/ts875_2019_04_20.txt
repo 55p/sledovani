@@ -97,7 +97,7 @@
 101459pk: X: Pardubice-Rosice nad Labem; 15:08, Žďárec u Skutče; 15:47
 5336: X: Žďárec u Skutče; 16:07, Pardubice; 17:03
 5064: X: Pardubice hl.n.; 19:52, Holice; 20:21
-5063: X Holice; 20:48, Pardubice hl.n.; 22:29
+5063: X : Holice; 20:48, Pardubice hl.n.; 22:29
 5082: T: Pardubice hl.n.; 21:28, Přelouč; 21:42
 25027: T: Přelouč; 22:20, Heřmanův Městec; 22:39
 

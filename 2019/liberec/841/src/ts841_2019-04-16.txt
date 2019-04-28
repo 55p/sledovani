@@ -1,4 +1,4 @@
-1263: : Liberec; 6:03, Pardubice hl.n; 8:56
+﻿1263: : Liberec; 6:03, Pardubice hl.n; 8:56
 1270: : Pardubice hl.n; 11:03, Liberec; 13:56
 5411: : Liberec; 14:30, Stará Paka; 16:21
 8579pk: 25 : Stará Paka; 16:33, Lomnice nad Popelkou; 16:49
@@ -14,7 +14,7 @@
 1271: : Liberec; 14:03, Pardubice; 16:55
 1271pk: 5, 3101, 1704, 1804, -2812 : Liberec; 14:03, Pardubice hl.n; 16:55
 1264: 5, 3101, 1704, 1804, -2812  : Pardubice hl.n; 17:03, Liberec; 19:55
-1262: X1234,25 -3101, -1704, -1804, 2812  : Pardubice hl.n; 19:03, Liberec; 21:55
+1262: X1234,25, -3101, -1704, -1804, 2812  : Pardubice hl.n; 19:03, Liberec; 21:55
 5433: 5, 3101, 1704, 1804, -2812  : Liberec; 20:30, Semily; 21:48
 5434: 5, 3101, 1704, 1804, -2812  : Semily; 22:12, Turnov; 22:38
 5487: 5, 3101, 1704, 1804, -2812  : Turnov; 22:42, Stará Paka; 23:28
@@ -44,11 +44,11 @@
 5404pk: X, -2712, -2812, -2912, -3012, -3112, -0101, -0201 : Nová Paka; 6:54, Liberec; 9:24
 5406: 25, -2312, -2412, -2512, -2612, -2712, -2812, -2912, -3012 :  Stará Paka; 7:35, Liberec; 9:24
 1267: : Liberec; 10:03, Pardubice hl.n; 12:54
-1268pk: 5, 3101, 1704, 1804, -2812 : Pardubice hl.n; 13:03, Liberec; 15:55
-1266: X1234,25 -2412, -3112, -3101, -1704, -1804, 2812 : Pardubice hl.n; 15:03, Liberec; 17:55
-5415: X1234,25 -2412, -3112, -3101, -1704, -1804, 2812 : Liberec; 18:30, Turnov; 19:15
-1140: X1234,25 -2412, -3112, -3101, -1704, -1804, 2812 : Turnov; 19:26, Železný Brod; 19:44
-5485: X1234,25 -2412, -3112, -3101, -1704, -1804, 2812 : Železný Brod; 19:47, Stará Paka; 20:21
+1268pk: 5, 3101, 1704, 1804: Pardubice hl.n; 13:03, Liberec; 15:55
+1266: X1234,25, -1704, -1804 : Pardubice hl.n; 15:03, Liberec; 17:55
+5415: X1234,25 , -1704, -1804: Liberec; 18:30, Turnov; 19:15
+1140: X1234,25, -1704, -1804: Turnov; 19:26, Železný Brod; 19:44
+5485: X1234,25 , -1704, -1804: Železný Brod; 19:47, Stará Paka; 20:21
 5415: 2412, 3112 : Liberec; 18:30, Turnov; 19:15
 
 5431: 7, 2412 : Liberec; 0:35, Semily; 1:42
@@ -56,13 +56,13 @@
 5400: 7, 2412 : Semily; 4:47, Liberec;  6:00
 5403: : Liberec; 6:30, Stará Paka; 8:21
 5408: : Stará Paka; 9:35, Liberec; 11:24
-1269: X1234,25 -2412, -3112, -3101, -1704, -1804, 2812 : Liberec; 12:03, Pardubice hl.n; 14:55
+1269: X1234,25, -2412, -3112, -3101, -1704, -1804, 2812 : Liberec; 12:03, Pardubice hl.n; 14:55
 1269pk: 5, 3101, 1704, 1804, -2812 : Liberec; 12:03, Pardubice hl.n; 14:55
 1266: 5, 3101, 1704, 1804, -2812 : Pardubice hl.n; 15:03, Liberec; 17:55
 5415: 5, 3101, 1704, 1804, -2812 : Liberec; 18:30, Turnov; 19:15
 1140: 5, 3101, 1704, 1804, -2812 : Turnov; 19:26, Železný Brod; 19:44
 5485: 5, 3101, 1704, 1804, -2812 : Železný Brod; 19:47, Stará Paka; 20:21
-1264: X1234,25 -2412, -3112, -3101, -1704, -1804, 2812 : Pardubice hl.n; 17:03, Liberec; 19:55
+1264: X1234,25, -3112, -3101, -1704, -1804, 2812 : Pardubice hl.n; 17:03, Liberec; 19:55
 
 5465pk: X : Stará Paka; 4:41, Horka u Staré Paky; 4:19
 1918: X : Horka u Staré Paky; 5:10, Liberec; 6:53

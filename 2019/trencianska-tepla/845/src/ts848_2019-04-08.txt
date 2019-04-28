@@ -1,0 +1,26 @@
+3152:X:Nové Mesto nad Váhom;6:45,Myjava;7:32
+3109:X:Myjava;7:48,Trenčín;9:07
+3114:X:Trenčín;10:55,Myjava;12:15
+3121:X:Myjava;13:45,Trenčín;15:07
+103141pk:25:Nové Mesto nad Váhom;4:34,Trenčín;5:01
+5304:25:Trenčín;5:31,Chynorany;6:54
+5307:25:Chynorany;7:14,Trenčín;8:17
+5324: :Trenčín;15:37,Chynorany;16:40
+5430:X:Chynorany;17:20,Trenčín;18:20
+5430:25:Chynorany;17:20,Horné Sŕnie;19:03
+5433:25:Horné Sŕnie;20:06,Trenčianska Teplá;20:26
+3134: :Trenčín;20:41,Myjava;22:15
+
+3109:25:Myjava;7:48,Trenčín;9:07
+3114:25:Trenčín;10:55,Myjava;12:15
+3121:25:Myjava;13:45,Trenčín;15:07
+3113:X:Myjava;9:45,Trenčín;11:07
+102770pk:X:Trenčín;12:53,Myjava;14:14
+3123:X:Myjava;14:50,Trenčín;16:07
+2776: :Trenčín;16:53,Velká nad Veličkou;18:36
+2777:X:Velká nad Veličkou;18:39,Javorník nad Veličkou zast.;18:42
+2779: :Velká nad Veličkou;19:23,Trenčín;21:07
+
+3142:25:Trenčín;6:53,Nové Mesto nad Váhom;7:20
+105320pk:X:Trenčianska Teplá;13:25,Trenčín;13:36
+103120pk:X:Trenčín;13:53,Nové Mesto nad Váhom;14:20

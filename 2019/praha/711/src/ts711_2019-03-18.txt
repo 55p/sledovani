@@ -1,4 +1,8 @@
-9500: X: Praha Masarykovo nádraží;4:47, Mladá Boleslav hl.n.;6:15
+﻿9500: X: Praha Masarykovo nádraží;4:47, Mladá Boleslav hl.n.;6:15
 9505: X: Mladá Boleslav hl.n.;6:34, Praha Masarykovo nádraží;8:20
 1937: 25: Praha-Vršovice;8:40, Turnov;11:19
 1936: 25: Turnov;16:41, Praha hl.n.;19:16
+
+
+1:5:0
+1:7:0
