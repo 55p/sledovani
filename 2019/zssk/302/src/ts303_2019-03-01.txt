@@ -1,0 +1,7 @@
+100521: : Bratislava hl.st.;6:01, Košice;10:48
+100522: : Košice;11:12, Bratislava hl.st.;16:02
+100525: : Bratislava hl.st.;18:01, Košice;22:48
+
+100520: : Košice;5:12, Bratislava hl.st.;10:00
+100523: : Bratislava hl.st.;11:59, Košice;16:48
+100524: : Košice;17:12, Bratislava hl.st.;22:00

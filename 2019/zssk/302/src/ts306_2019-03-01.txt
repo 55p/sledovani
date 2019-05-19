@@ -1,0 +1,4 @@
+701: X: Bratislava hl.st.;5:13, Žilina;7:40
+708: X: Žilina;8:20, Bratislava hl.st.;10:47
+100044|Ba-Wi: : Bratislava hl.st.;12:01, Wien Hbf;13:22
+100045|Wi-Ba: : Wien Hbf;14:37, Bratislava hl.st.;15:58
