@@ -1,4 +1,4 @@
-﻿823: X6: Brno-Královo Pole;5:56, Bohumín;8:34
+823: X6: Brno-Královo Pole;5:56, Bohumín;8:34
 834: : Bohumín;13:24, Brno-Královo Pole;16:01
 976: : Brno-Královo Pole;16:31, Praha hl.n.;19:52
 965: z25: Praha-Smíchov;21:46, Havlíčkův Brod;23:57
@@ -54,6 +54,7 @@
 5907: X: Kolín;11:43, Havlíčkův Brod;13:04
 5912: X: Havlíčkův Brod;14:33, Kolín;15:54
 5909: 6: Kolín;13:42, Havlíčkův Brod;15:05
+5916: 6: Havlíčkův Brod;17:15, Kolín;18:35
 5913: XT: Kolín;16:19, Havlíčkův Brod;17:41
 5918: T: Havlíčkův Brod;19:19, Kolín;20:41
 5917: T: Kolín;21:49, Havlíčkův Brod;23:06

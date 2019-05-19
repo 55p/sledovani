@@ -63,7 +63,8 @@
 4753: 25: Blansko;17:04, Brno hl.n.;17:31
 4728: : Brno hl.n.;18:01, Březová nad Svitavou;19:14
 4737: : Březová nad Svitavou;19:47, Brno hl.n.;20:59
-14168: X: Brno hl.n.;21:20, Brno-Židenice;21:23
+14168: X1234,25: Brno hl.n.;21:20, Brno-Židenice;21:23
+114168pk:X5:Brno hl.n.;21:20, Brno-Židenice;21:23
 14169: 25: Brno-Židenice;22:37, Brno hl.n.;22:41
 4738: : Brno hl.n.;23:01, Letovice;23:59
 

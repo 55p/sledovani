@@ -1,9 +1,9 @@
-﻿4108: X: Veselí nad Moravou;6:22, Brno-Židenice;8:09
+4108: X: Veselí nad Moravou;6:22, Brno-Židenice;8:09
 4808: X: Brno hl.n.;9:45, Třebíč;11:14
 4876: X: Třebíč;12:07, Jihlava;13:04
 4829: 6: Náměšť nad Oslavou;7:12, Brno hl.n.;8:10
-4826: 6: Brno hl.n.;8:42, Zastávka u Brna;9:12
-4833: 6: Zastávka u Brna;10:44, Brno hl.n.;11:13
+4826: 6: Brno hl.n.;8:42, Náměšť nad Oslavou;9:39
+4833: 6: Náměšť nad Oslavou;10:19, Brno hl.n.;11:13
 4810: 6: Brno hl.n.;11:45, Jihlava;14:22
 4815: 6: Jihlava;15:30, Brno hl.n.;18:10
 4848: 6: Brno hl.n.;18:42, Okříšky;20:33
@@ -26,8 +26,8 @@
 4801: T: Náměšť nad Oslavou;6:16, Brno hl.n.;7:10
 4806: T: Brno hl.n.;7:45, Jihlava;10:19
 4811: T: Jihlava;11:30, Brno hl.n.;14:10
-4834: 25: Brno hl.n.;14:45, Zastávka u Brna;15:14
-4841: 25: Zastávka u Brna;16:42, Brno hl.n.;17:14
+4834: 25: Brno hl.n.;14:45, Náměšť nad Oslavou;15:39
+4841: 25: Náměšť nad Oslavou;16:16, Brno hl.n.;17:14
 4844: X1234,25: Brno hl.n.;17:45, Náměšť nad Oslavou;18:47
 
 4829: X: Náměšť nad Oslavou;7:12, Brno hl.n.;8:10
