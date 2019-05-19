@@ -1,6 +1,6 @@
-1001: X6: Praha hl.n.;5:47, Havířov;9:29
-1010: T: Návsí;9:49, Praha hl.n.;14:13
-1010: X6: Havířov;10:24, Praha hl.n.;14:13
+﻿1001: X6,0105: Praha hl.n.;5:47, Havířov;9:29
+1010: T,-0105: Návsí;9:49, Praha hl.n.;14:13
+1010: X6,0105: Havířov;10:24, Praha hl.n.;14:13
 1015: : Praha hl.n.;16:47, Návsí;21:07
 
 1004: : Návsí;5:47, Praha hl.n.;10:13

@@ -4,7 +4,7 @@
 571:: Praha hl.n.;19:50, Břeclav;22:52
 
 570pk:: Břeclav;6:07, Praha hl.n.;9:07
-77:: Praha hl.n.;10:24, Graz Hbf;17:33
+77:: Praha hl.n.;10:50, Graz Hbf;17:33
 374pk:: Graz Hbf;18:26, Brno dolní n.;22:35
 
 574pk:X6: Brno dolní n.;4:28, Praha hl.n.;7:07

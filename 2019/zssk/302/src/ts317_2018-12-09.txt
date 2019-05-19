@@ -1,4 +1,4 @@
-﻿701: X: Bratislava hl.st.;5:13, Žilina;7:40
+701: X: Bratislava hl.st.;5:13, Žilina;7:40
 708: X: Žilina;8:20, Bratislava hl.st.;10:47
 709: X: Bratislava hl.st.;13:13, Žilina;15:40
 716: X: Žilina;16:20, Bratislava hl.st.;18:47

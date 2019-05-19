@@ -512,6 +512,10 @@ br + .lakVozidla {
   background: #393C46;
   color: #FFCA28;
 }
+.leo_express_novy {
+  background: #393C46;
+  color: #ADADAD;
+}
 
 .regiojet {
   background: #FFC90F;
@@ -711,7 +715,10 @@ br + .lakVozidla {
   */
   background: #181892;
   color: #fff;
-  
+}
+.cd_cargo_recany {
+  background: #181892;
+  color: #B0ECFF;
 }
 
 .ponorka_cervena {
@@ -822,6 +829,12 @@ br + .lakVozidla {
   color: white;
 }
 
+.singrovka {
+  background: #FFFBC6;
+  color: #EB1414;
+  border-bottom: 4px solid #EB1414;
+}
+
 .hektor_modry {
   background: #000080;
   color: #FFEDB0;
@@ -831,6 +844,11 @@ br + .lakVozidla {
 .hektor_svetle_modry {
   background: #5E9EFF;
   color: #B72020;
+}
+.hektor_cerveny {
+  background: #BA1010;
+  color: #dedede;
+  border-bottom: 4px solid #8C8C8C;
 }
 
 .azd_sukafon {
