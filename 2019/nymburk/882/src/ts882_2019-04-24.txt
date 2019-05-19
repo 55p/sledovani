@@ -1,0 +1,106 @@
+15801: X: Nymburk hl.n.;3:57, Jičín;5:15
+15802: X: Jičín;5:21, Nymburk hl.n.;6:22
+15805: 25: Nymburk hl.n.;6:09, Jičín;7:29
+15601: X: Nymburk hl.n.;6:35, Městec Králové;7:34
+15602: X: Městec Králové;8:03, Nymburk hl.n.;8:46
+15806: 25: Jičín;7:37, Nymburk hl.n.;8:46
+15815: X: Nymburk hl.n.;13:09, Jičín;14:29
+15866: 25: Nymburk hl.n.;13:16, Poříčany;13:37
+15867: 25: Poříčany;13:50, Nymburk hl.n.;14:11
+15868: 25: Nymburk hl.n.;14:16, Poříčany;14:37
+115816| pk Křc-Nyh|postrk Křinec - Nymburk hl.n.: X: Jičín;14:37, Nymburk hl.n.;15:51
+15869: 25: Poříčany;14:50, Nymburk hl.n.;15:11
+15870: 25: Nymburk hl.n.;15:16, Poříčany;15:37
+15871: 25: Poříčany;15:50, Nymburk hl.n.;16:11
+15821: X: Nymburk hl.n.;16:04, Jičín;17:29
+15872: 25: Nymburk hl.n.;16:16, Poříčany;16:37
+15873: 25: Poříčany;16:50, Nymburk hl.n.;17:11
+15874: 25: Nymburk hl.n.;17:16, Poříčany;17:37
+115822| pk Křc-Nyh|postrk Křinec - Nymburk hl.n.: X: Jičín;17:37, Nymburk hl.n.;18:58
+15875: 25: Poříčany;17:50, Nymburk hl.n.;18:11
+15876: 25: Nymburk hl.n.;18:16, Poříčany;18:37
+15877: 25: Poříčany;18:50, Nymburk hl.n.;19:11
+15825: : Nymburk hl.n.;20:04, Jičín;21:29
+
+15800: 25: Jičín;4:14, Nymburk hl.n.;5:14
+115802pk: X: Jičín;5:21, Kopidlno;5:44
+15831: X: Kopidlno;5:51, Jičín;6:16
+1938: X: Jičín;6:27, Nymburk hl.n.;7:21
+15807: 25: Nymburk hl.n.;7:13, Jičín;8:29
+15856: X: Nymburk hl.n.;8:16, Poříčany;8:37
+15838: 25: Jičín;8:37, Nymburk hl.n.;9:39
+15857: X: Poříčany;8:50, Nymburk hl.n.;9:11
+15858: X: Nymburk hl.n.;9:16, Poříčany;9:37
+15859: X: Poříčany;9:50, Nymburk hl.n.;10:11
+15811: 25: Nymburk hl.n.;10:04, Jičín;11:29
+15860: X: Nymburk hl.n.;10:16, Poříčany;10:37
+15861: X: Poříčany;10:50, Nymburk hl.n.;11:11
+15862: X: Nymburk hl.n.;11:20, Poříčany;11:41
+15863: X: Poříčany;11:50, Nymburk hl.n.;12:11
+15813: X: Nymburk hl.n.;12:20, Jičín;13:29
+15812: 25: Jičín;12:37, Nymburk hl.n.;13:51
+15814: X: Jičín;13:37, Nymburk hl.n.;14:44
+15817: 25: Nymburk hl.n.;14:04, Jičín;15:29
+15819: X: Nymburk hl.n.;15:09, Jičín;16:29
+15820: : Jičín;16:37, Nymburk hl.n.;17:51
+1939: : Nymburk hl.n.;18:20, Jičín;19:23
+15826: : Jičín;20:37, Nymburk hl.n.;21:33
+15827: : Nymburk hl.n.;22:09, Jičín;23:08
+
+15800: X: Jičín;4:14, Nymburk hl.n.;5:14
+15803: X: Nymburk hl.n.;5:41, Jičín;7:16
+15804: 25: Jičín;6:37, Nymburk hl.n.;7:52
+15809: 25: Nymburk hl.n.;8:04, Jičín;9:29
+15808: X: Jičín;8:37, Nymburk hl.n.;9:51
+15810: 25: Jičín;10:37, Nymburk hl.n.;11:49
+15813: 25: Nymburk hl.n.;12:20, Jičín;13:29
+15816: 25: Jičín;14:37, Nymburk hl.n.;15:51
+15817: X: Nymburk hl.n.;14:04, Jičín;15:29
+115818| pk Křc-Nyh|postrk Křinec - Nymburk hl.n.: X: Jičín;15:37, Nymburk hl.n.;16:47
+15821: 25: Nymburk hl.n.;16:04, Jičín;17:29
+15823: X: Nymburk hl.n.;17:09, Jičín;18:29
+15824: : Jičín;18:37, Nymburk hl.n.;19:51
+5881: : Nymburk hl.n.;21:01, Kolín;21:29
+22218: : Kolín;22:51, Uhlířské Janovice;23:58
+
+22201: X6: Uhlířské Janovice;3:48, Kolín;5:02
+5901: X: Kolín;5:13, Havlíčkův Brod;6:43
+22203: 7: Uhlířské Janovice;6:13, Kolín;7:25
+5930: X: Havlíčkův Brod;6:53, Čáslav;8:03
+5955: 25: Kolín;7:48, Čáslav;8:11
+5935: X: Čáslav;8:30, Havlíčkův Brod;9:33
+5954: 25: Čáslav;8:31, Kolín;8:54
+5908: X: Havlíčkův Brod;10:55, Kolín;12:20
+5957: 25: Kolín;11:40, Čáslav;12:03
+5956: 25: Čáslav;12:11, Kolín;12:34
+22220: X: Kolín;13:46, Uhlířské Janovice;14:26
+22211: X: Uhlířské Janovice;14:02, Kolín;15:15
+22222: X: Kolín;15:46, Uhlířské Janovice;16:26
+22213: X: Uhlířské Janovice;16:00, Kolín;17:15
+22224: X: Kolín;17:46, Uhlířské Janovice;18:26
+22215: X: Uhlířské Janovice;18:00, Kolín;19:15
+5963: X5: Kolín;19:32, Čáslav;19:53
+5962: X5: Čáslav;20:01, Kolín;20:22
+22216: X: Kolín;20:54, Uhlířské Janovice;22:01
+
+122200pk: X1: Kolín;4:07, Uhlířské Janovice;4:50
+22221: X: Uhlířské Janovice;5:35, Kolín;6:16
+22203: 6: Uhlířské Janovice;6:13, Kolín;7:25
+22202: X: Kolín;6:32, Uhlířské Janovice;7:39
+22205: X: Uhlířské Janovice;8:00, Kolín;9:15
+22204: 25: Kolín;8:46, Uhlířské Janovice;9:53
+22207: 25: Uhlířské Janovice;10:00, Kolín;11:15
+22206: X: Kolín;10:46, Uhlířské Janovice;11:53
+22209: X: Uhlířské Janovice;12:02, Kolín;13:15
+22208: 25: Kolín;12:20, Uhlířské Janovice;13:30
+22211: 25: Uhlířské Janovice;14:02, Kolín;15:15
+22210: X: Kolín;14:46, Uhlířské Janovice;15:55
+22223: X: Uhlířské Janovice;15:32, Kolín;16:15
+22212: : Kolín;16:46, Uhlířské Janovice;17:53
+22225: X: Uhlířské Janovice;17:32, Kolín;18:15
+22215: 25: Uhlířské Janovice;18:00, Kolín;19:15
+22214: X: Kolín;18:46, Uhlířské Janovice;19:53
+22219: X: Uhlířské Janovice;20:08, Kolín;21:23
+5241: 25: Kolín;20:40, Dobšice nad Cidlinou;20:58
+5242: 25: Dobšice nad Cidlinou;21:18, Kolín;21:36
+5876: : Kolín;22:43, Nymburk hl.n.;23:11
