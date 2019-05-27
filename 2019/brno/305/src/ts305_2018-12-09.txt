@@ -1,12 +1,12 @@
-﻿4640: X: Břeclav;4:35, Brno dolní nádraží;5:29
+4640: X: Břeclav;4:35, Brno dolní nádraží;5:29
 4968: X: Brno-Lesná;13:48, Tišnov;14:13
 4977pk: X: Tišnov;14:44, Brno-Lesná;15:10
 4976: X: Brno-Lesná;15:49, Tišnov;16:13
 4985pk: X: Tišnov;16:44, Brno-Lesná;17:09
 4984: X: Brno-Lesná;17:49, Tišnov;18:13
 4635pk: X: Tišnov;18:58, Břeclav;20:42
-4612: 6: Brno dolní nádraží;6:50, Tišnov;7:30
-4633pk: 25: Tišnov;18:28, Brno dolní nádraží;19:06
+4612: 6: Břeclav;5:44, Brno dolní nádraží; 6:45
+4633pk: 25: Brno dolní nádraží; 19:10, Břeclav; 20:14
 
 4201: X: Břeclav;4:37, Přerov;6:19
 4230pk: X: Přerov;6:43, Staré Město u Uherského Hradiště;7:27

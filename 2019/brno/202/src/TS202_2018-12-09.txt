@@ -130,5 +130,6 @@
 4913: 6: Žďár nad Sázavou;16:34, Vranovice;18:43
 4918: 6: Vranovice;19:16, Křižanov;21:01
 4903: T: Křižanov;6:57, Vranovice;8:43
+4908: T: Vranovice;9:16, Brno dolní nádraží;9:47
 
 99991| DKV|Údržba DKV: XT:
