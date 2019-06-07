@@ -1,9 +1,9 @@
-671:X:Děčín hl.n.;4:26, Praha hl.n.;6:10
-692:X:Praha hl.n.;6:51, Děčín hl.n.;8:31
-681:X:Děčín hl.n.;9:26, Praha hl.n.;11:10
-686:X:Praha hl.n.;12:51, Děčín hl.n.;14:31
-687:X:Děčín hl.n.;15:26, Praha hl.n.;17:10
-676:X:Praha hl.n.;18:51, Děčín hl.n.;20:31
+671:-2303,-2403:Děčín hl.n.;4:26, Praha hl.n.;6:10
+692:-2303,-2403:Praha hl.n.;6:51, Děčín hl.n.;8:31
+681:-2303,-2403:Děčín hl.n.;9:26, Praha hl.n.;11:10
+686:-2303,-2403:Praha hl.n.;12:51, Děčín hl.n.;14:31
+687:-2303,-2403:Děčín hl.n.;15:26, Praha hl.n.;17:10
+676:-2303,-2403:Praha hl.n.;18:51, Děčín hl.n.;20:31
 6969:X1234:Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:47
 106969vlož:X5:Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:47
 6957:X:Ústí nad Labem hl.n.;22:12, Roudnice nad Labem;22:54
@@ -88,27 +88,27 @@
 920:25:Hradec Králové hl.n.;20:08, Praha hl.n.;21:49
 670:6:Praha hl.n.;23:22, Děčín hl.n.;1:01
 
-21801sv: X1: Praha-jih;4:25, Kutná Hora hl.n.;5:06
+21801sv: X1,0201,2304,0205,0905,2910,-2412,-3112,2204,-2810: Praha-jih;4:25, Kutná Hora hl.n.;5:06
 1900: X: Kutná Hora hl.n.;5:33, Praha hl.n.;6:33
 1481: X: Praha hl.n.;6:57, Benešov u Prahy;7:47
 1486: X: Benešov u Prahy;8:10, Praha hl.n.;9:02
 1903: X: Praha hl.n.;16:30, Kutná Hora hl.n.;17:23
-5992sv: X1234: Kutná Hora hl.n.;17:51, Kolín;18:01
-105994svpk: X5: Kutná Hora hl.n.;18:44, Kolín;18:54
+5992sv: X1234,-1804,-3004,-0705,-0407: Kutná Hora hl.n.;17:51, Kolín;18:01
+105994svpk: X5,1804,3004,0705,0407,-2812,-1904,-0507: Kutná Hora hl.n.;18:44, Kolín;18:54
 
-105993svpk: X1: Kolín;5:55, Kutná Hora hl.n.;6:05
-5993sv: X2345: Kolín;5:55, Kutná Hora hl.n.;6:05
+105993svpk: X1,0201,2304,0205,0905,2910,-2412,-3112,2204,-2810: Kolín;5:55, Kutná Hora hl.n.;6:05
+5993sv: X2345,-0201,-2304,-0205,-0905,-2910: Kolín;5:55, Kutná Hora hl.n.;6:05
 1902: X: Kutná Hora hl.n.;6:31, Praha hl.n.;7:35
 1905: X: Praha hl.n.;17:30, Kutná Hora hl.n.;18:23
-5994sv: X1234: Kutná Hora hl.n.;18:44, Kolín;18:54
-5994sv: X5: Kutná Hora hl.n.;18:44, Praha-jih;20:05
+5994sv: X1234,-1804,-3004,-0705,-0407: Kutná Hora hl.n.;18:44, Kolín;18:54
+5994sv: X5,1804,3004,0705,0407,-2812,-1904,-0507: Kutná Hora hl.n.;18:44, Praha-jih;20:05
 
-5993sv: X1: Praha-jih;4:50, Kutná Hora hl.n.;6:05
-5995sv: X2345: Kolín;6:51, Kutná Hora hl.n.;7:01
+5993sv: X1,0201,2304,0205,0905,2910,-2412,-3112,2204,-2810: Praha-jih;4:50, Kutná Hora hl.n.;6:05
+5995sv: X2345,-0201,-2304,-0205,-0905,-2910: Kolín;6:51, Kutná Hora hl.n.;7:01
 1904: X: Kutná Hora hl.n.;7:31, Praha hl.n.;8:33
 1907: X: Praha hl.n.;18:30, Kutná Hora hl.n.;19:23
-21800sv: X5: Kutná Hora hl.n.;19:58, Praha-jih;20:44
-670: X5: Praha hl.n.;23:22, Děčín hl.n.;1:01
+21800sv: X5,1804,3004,0705,0407,-2812,-1904,-0507: Kutná Hora hl.n.;19:58, Praha-jih;20:44
+670: X5,0407,-0507: Praha hl.n.;23:22, Děčín hl.n.;1:01
 
 
 1:7:1

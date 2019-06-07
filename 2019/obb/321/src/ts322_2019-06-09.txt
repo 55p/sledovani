@@ -1,5 +1,5 @@
 72pk:: Graz Hbf;6:26, Praha hl.n.;13:07
-371:: Praha hl.n.;14:50, Graz Hbf;21:33
+371:: Praha hl.n.;14:47, Graz Hbf;21:33
 
 74pk:: Graz Hbf;8:26, Praha hl.n.;15:07
-373:: Praha hl.n.;16:50, Graz Hbf;23:33
+373:: Praha hl.n.;16:47, Graz Hbf;23:33

@@ -1,0 +1,44 @@
+6421: X: Děčín hl.n.;4:50, Litoměřice město;5:45
+6422pk: X: Litoměřice město;5:57, Ústí nad Labem západ;6:21
+6411: : Ústí nad Labem západ;12:03, Lysá nad Labem;13:36
+6412pk: : Lysá nad Labem;14:17, Ústí nad Labem západ;15:51
+6415: : Ústí nad Labem západ;16:03, Lysá nad Labem;17:36
+6416pk: : Lysá nad Labem;18:17, Ústí nad Labem západ;19:51
+6955pk: XT: Ústí nad Labem hl.n.;21:00, Roudnice nad Labem;21:37
+1658: XT: Roudnice nad Labem;22:20, Ústí nad Labem hl.n.;22:49
+6959pk: zX: Ústí nad Labem hl.n.;23:00, Roudnice nad Labem;23:35
+
+6940: X: Roudnice nad Labem;4:39, Ústí nad Labem hl.n.;5:20
+6941pk: X: Ústí nad Labem hl.n.;5:29, Hněvice;6:14
+6942: X: Hněvice;6:31, Ústí nad Labem hl.n.;7:20
+6413: : Ústí nad Labem západ;14:03, Lysá nad Labem;15:36
+6414pk: : Lysá nad Labem;16:17, Ústí nad Labem západ;17:51
+6419: : Ústí nad Labem západ;20:03, Lysá nad Labem;21:36
+
+6400pk: X: Lysá nad Labem;4:56, Ústí nad Labem západ;6:51
+6405: X: Ústí nad Labem západ;7:03, Lysá nad Labem;8:36
+6402pk: 25: Lysá nad Labem;6:17, Ústí nad Labem západ;7:51
+6407: 25: Ústí nad Labem západ;8:03, Lysá nad Labem;9:36
+6408pk: : Lysá nad Labem;10:17, Ústí nad Labem západ;11:51
+6455: X: Ústí nad Labem západ;13:03, Štětí;13:50
+6456pk: X: Štětí;14:05, Ústí nad Labem západ;14:51
+6457: X: Ústí nad Labem západ;15:03, Štětí;15:50
+6458pk: X: Štětí;16:05, Ústí nad Labem západ;16:51
+6417: : Ústí nad Labem západ;18:03, Lysá nad Labem;19:36
+6418: zX: Lysá nad Labem;20:17, Mělník;20:51
+6418: z25: Lysá nad Labem;20:17, Ústí nad Labem západ;21:51
+6959: z25: Ústí nad Labem hl.n.;23:00, Roudnice nad Labem;23:35
+
+6940: 25: Roudnice nad Labem;4:39, Ústí nad Labem hl.n.;5:20
+6430pk: X: Mělník;4:51, Ústí nad Labem západ;5:51
+6403: : Ústí nad Labem západ;6:03, Lysá nad Labem;7:36
+6406pk: : Lysá nad Labem;8:17, Ústí nad Labem západ;9:51
+6409: : Ústí nad Labem západ;10:03, Lysá nad Labem;11:36
+6410pk: : Lysá nad Labem;12:17, Ústí nad Labem západ;13:51
+6962: : Ústí nad Labem západ;14:28, Děčín hl.n.;14:56
+6967pk: X: Děčín hl.n.;15:02, Ústí nad Labem hl.n.;15:25
+6964: X: Ústí nad Labem hl.n.;16:32, Děčín hl.n.;16:55
+6969: z25: Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:47
+
+
+4::0

@@ -1,0 +1,16 @@
+﻿870:X,6: Nové Zámky;5:00, Bratislava hl.st.;6:03
+282:: Bratislava hl.st.;6:10, Praha hl.n.;10:07
+279:: Praha hl.n.;11:50, Budapest-Nyugati pu;18:20
+
+278:: Budapest-Nyugati pu;9:40, Praha hl.n.;16:07
+283:: Praha hl.n.;17:50, Bratislava hl.st.;21:50
+873:X,T: Bratislava hl.st.;21:53, Nové Zámky;22:54
+
+800:X,6: Nové Zámky;4:19, Bratislava hl.st.;5:30
+1723:X: Bratislava hl.st.;10:36, Leopoldov;11:26
+1724:X: Leopoldov;14:33, Bratislava hl.st.;15:24
+801:X,T: Bratislava hl.st.;23:30, Nové Zámky;0:39
+
+
+3::0
+2::0

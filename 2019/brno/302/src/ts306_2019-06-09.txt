@@ -1,0 +1,8 @@
+﻿408:1: Břeclav;7:24, Bohumín;9:14 
+103|z|závěs:1: Bohumín;10:51, Břeclav;12:47
+99999:1: záloha Břeclav;12:55;19:30
+99999:2,3,4: záloha Břeclav;8:20;19:30
+99999:5: záloha Břeclav;8:20;14:55
+99999:6,7: záloha Břeclav;8:20;17:30 
+102|z|závěs:5: Břeclav;15:10, Bohumín;17:09 
+409:5: Bohumín;18:00, Břeclav;19:45

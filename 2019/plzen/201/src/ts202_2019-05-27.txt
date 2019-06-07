@@ -1,0 +1,13 @@
+100651|Ji: X1: České Budějovice;4:15, Jihlava;6:33
+14870: X: Jihlava;12:37, Havlíčkův Brod;13:05
+14865: X: Havlíčkův Brod;14:05, Jihlava město;14:45
+8362: X: Jihlava město;15:11, Havlíčkův Brod;15:50
+14867: X: Havlíčkův Brod;17:12, Jihlava;17:42
+662|Pl: 6: České Budějovice;18:04, Plzeň hl.n.;19:56
+
+100656|Ji: X: Jihlava;5:25, České Budějovice;7:47
+100663|Ji: X: České Budějovice;10:07, Jihlava;12:33
+100664|Ji: X: Jihlava;13:25, České Budějovice;15:47
+100669|Ji: X: České Budějovice;16:07, Jihlava;18:33
+100652|Ji: X5: Jihlava;19:30, České Budějovice;21:49
+663|Pl: 7: Plzeň hl.n.;8:03, České Budějovice;9:55
