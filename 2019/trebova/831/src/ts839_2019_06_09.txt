@@ -1,0 +1,24 @@
+15321: X: Borová u Poličky;4:08, Svitavy;4:52
+15350: X: Svitavy;5:01, Pustá Kamenice;5:56
+15351: X: Pustá Kamenice;6:03, Svitavy;6:56
+15322: X: Svitavy;7:01, Polička;7:28
+15327: X: Polička;7:30, Svitavy;7:57
+15362: X: Svitavy;8:30, Česká Třebová;8:47
+15350: 6,T: Borová u Poličky;5:46, Pustá Kamenice;5:56
+15351: 6,T: Pustá Kamenice;6:03, Česká Třebová;7:52
+4781: 6: Česká Třebová;9:04, Březová nad Svitavou;9:38
+4780: 6: Březová nad Svitavou;11:21, Česká Třebová;11:56
+124753: 5: Česká Třebová;12:11, Moravská Třebová;12:46
+124756: 5: Moravská Třebová;13:18, Česká Třebová;13:54
+24757: 5: Česká Třebová;14:28, Moravská Třebová;15:03
+24760: 5: Moravská Třebová;15:18, Česká Třebová;15:54
+15367: 1,2,3,4: Česká Třebová;14:29, Svitavy;14:44
+15366: 1,2,3,4: Svitavy;14:49, Česká Třebová;15:07
+15369: T: Česká Třebová;16:10, Svitavy;16:27
+15368: T: Svitavy;16:31, Česká Třebová;16:49
+24765: 3010: Česká Třebová;18:11, Moravská Třebová;18:47
+124775: 7,-3010: Česká Třebová;18:24, Moravská Třebová;18:58
+24766: 7,3010: Moravská Třebová;19:00, Česká Třebová;19:35
+4765: X,T: Česká Třebová;22:10, Svitavy;22:27
+15346: X,T: Svitavy;22:32, Borová u Poličky;23:16
+15346: 6,2710: Česká Třebová;22:10, Borová u Poličky;23:16

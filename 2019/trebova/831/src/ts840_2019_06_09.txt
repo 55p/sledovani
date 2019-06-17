@@ -1,0 +1,24 @@
+24742: X: Moravská Třebová;4:58, Česká Třebová;5:34
+24743: X: Česká Třebová;5:45, Moravská Třebová;6:21
+24746: X: Moravská Třebová;6:53, Česká Třebová;7:29
+24747: X: Česká Třebová;8:11, Moravská Třebová;8:47
+24752: X: Moravská Třebová;9:19, Česká Třebová;9:54
+4783: X: Česká Třebová;11:04, Březová nad Svitavou;11:38
+4782: X: Březová nad Svitavou;12:10, Česká Třebová;12:49
+24755: X: Česká Třebová;13:11, Moravská Třebová;13:47 
+24758: X: Moravská Třebová;14:05, Česká Třebová;14:43
+24759: X: Česká Třebová;15:11, Moravská Třebová;15:47 
+24762: X: Moravská Třebová;16:18, Česká Třebová;16:56
+24763: X: Česká Třebová;17:11, Moravská Třebová;17:47 
+24766: 0707,2710: Moravská Třebová;19:00, Česká Třebová;19:35
+24769: 0707,2710: Česká Třebová;22:42, Moravská Třebová;23:21 
+24744: 6: Moravská Třebová;5:53, Česká Třebová;6:29
+24773: 6: Česká Třebová;7:08, Dzbel;8:55
+24772: 6: Dzbel;9:00, Česká Třebová;10:21
+24751: 6: Česká Třebová;11:11, Moravská Třebová;11:47
+24779: 6,T: Moravská Třebová;15:10, Dzbel;15:55
+24778: 6,T: Dzbel;16:08, Moravská Třebová;16:52
+24783: 6,2710: Moravská Třebová;17:04, Chornice;17:30
+24782: 6,2710: Chornice;18:14, Moravská Třebová;18:40
+24783: T,-2710,2810: Moravská Třebová;17:04, Velké Opatovice;17:47
+24782: T,-2710,2810: Velké Opatovice;17:54, Moravská Třebová;18:40

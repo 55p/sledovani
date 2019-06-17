@@ -1,0 +1,54 @@
+5192: X: Doudleby nad Orlicí;4:27, Rychnov nad Kněžnou;4:47
+20200: X: Rychnov nad Kněžnou;4:50, Týniště nad Orlicí;5:27
+5153: X,6: Častolovice;5:30, Letohrad;6:29
+5153: T,-2809: Doudleby nad Orlicí;5:52, Letohrad;6:29
+107149: 6: Letohrad;6:33, Králíky;7:17
+107149: T,-2809: Letohrad;6:33, Dolní Lipka;7:08
+7160: T,-2809: Dolní Lipka;7:28, Česká Třebová;8:41
+7160: 6: Králíky;7:20, Česká Třebová;8:41
+7152: X: Letohrad;6:56, Ústí nad Orlicí;7:14
+5075: X: Ústí nad Orlicí;8:23, Česká Třebová;8:41
+107165: X: Česká Třebová;13:17, Mlýnický Dvůr;15:11
+20556: X: Mlýnický Dvůr;15:45, Lichkov;16:26
+20565: X: Lichkov;16:30, Králíky;16:45
+107182: X: Králíky;17:13, Letohrad;17:58
+7165: 25: Česká Třebová;13:17, Červená Voda;14:59
+120554: 25: Červená Voda;15:05, Dolní Lipka;15:20
+20523: 25: Dolní Lipka;15:25, Hanušovice;15:54
+20526: 25: Hanušovice;16:04, Dolní Lipka;16:35
+1649: T: Dolní Lipka;17:30, Mlýnický Dvůr;17:58
+20560: T: Mlýnický Dvůr;18:09, Dolní Lipka;18:34
+101648: T: Dolní Lipka;18:36, Letohrad;19:06
+20525: 6: Dolní Lipka;17:28, Hanušovice;17:57
+1648: 6: Hanušovice;18:02, Ústí nad Orlicí;19:20
+7177: 6: Ústí nad Orlicí;19:41, Letohrad;19:59
+5160: : Letohrad;20:30, Doudleby nad Orlicí;21:03
+25239: 5,7: Doudleby nad Orlicí;21:05, Rokytnice v Orlických horách;21:41
+20216: 6,2710: Doudleby nad Orlicí;21:06, Častolovice;21:15
+5157: 6: Častolovice;21:45, Doudleby nad Orlicí;21:54
+120216: 1,2,3,4,2810: Doudleby nad Orlicí;21:06, Častolovice;21:15
+5157: 1,2,3,4,2810: Častolovice;21:45, Letohrad;22:27
+
+5150: 2,3,4,5: Letohrad;4:33, Častolovice;5:16
+5161: 2,3,4,5: Častolovice;5:19, Doudleby nad Orlicí;5:28
+25220: 1,2910,-2810: Rokytnice v Orlických horách;4:53, Doudleby nad Orlicí;5:30
+25223: X: Doudleby nad Orlicí;5:53, Rokytnice v Orlických horách;6:28
+25222: 6: Rokytnice v Orlických horách;6:28, Doudleby nad Orlicí;7:05
+25224: X: Rokytnice v Orlických horách;6:31, Častolovice;7:18
+20233: X: Častolovice;7:43, Rychnov nad Kněžnou;7:58
+120234: X: Rychnov nad Kněžnou;8:02, Častolovice;8:16
+5165: X: Častolovice;8:45, Doudleby nad Orlicí;8:54
+25226: X: Rokytnice v Orlických horách;9:10, Doudleby nad Orlicí;9:47
+25227: X: Doudleby nad Orlicí;9:54, Rokytnice v Orlických horách;10:29
+25228: X: Rokytnice v Orlických horách;11:21, Doudleby nad Orlicí;11:58
+25229: X: Doudleby nad Orlicí;12:01, Rokytnice v Orlických horách;12:38
+25230: X: Rokytnice v Orlických horách;12:53, Častolovice;13:51
+25233: X: Častolovice;14:03, Rokytnice v Orlických horách;15:06
+25234: X: Rokytnice v Orlických horách;15:21, Doudleby nad Orlicí;15:58
+25235: X: Doudleby nad Orlicí;16:01, Rokytnice v Orlických horách;16:38
+25236: X: Rokytnice v Orlických horách;17:10, Doudleby nad Orlicí;17:47
+25237: 2,3,4,5,-2910: Doudleby nad Orlicí;18:12, Rokytnice v Orlických horách;18:50
+25240: 2,3,4,5,-2910: Rokytnice v Orlických horách;19:27, Doudleby nad Orlicí;20:04
+120216: 5: Doudleby nad Orlicí;21:06, Hradec Králové hl.n.;21:57
+5623: 5: Hradec Králové hl.n.;22:35, Borohrádek;23:08
+5196: 5: Borohrádek;23:12, Týniště nad Orlicí;23:20
