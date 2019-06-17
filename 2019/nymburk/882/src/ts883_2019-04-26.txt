@@ -4,9 +4,9 @@
 115803pk: X: Nymburk hl.n.;5:41, Rožďalovice;6:15
 15849: 25: Poříčany;5:48, Nymburk hl.n.;6:10
 15850: 25: Nymburk hl.n.;6:13, Poříčany;6:34
-15830: X: Rožďalovice;6:17, Poříčany;7:11
-15833: X: Městec Králové;6:37, Kopidlno;7:24
 15851: 25: Poříčany;6:50, Nymburk hl.n.;7:11
+15830: X: Rožďalovice;6:17, Poříčany;7:11
+15853: X: Poříčany;7:22, Nymburk hl.n.;7:44
 15811: X: Nymburk hl.n.;10:04, Jičín;11:29
 15607: 25: Nymburk hl.n.;11:09, Městec Králové;11:49
 15812: X: Jičín;12:37, Nymburk hl.n.;13:51
