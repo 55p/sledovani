@@ -1,0 +1,11 @@
+﻿9061: 6, 0507, -0607: Praha hl.n.;10:55, Čerčany;12:55
+9064: 6, 0507, -0607: Čerčany;14:05, Praha hl.n.;16:05
+9067: 6, 0507, -0607: Praha hl.n.;16:25, Čerčany;18:05
+9207: 7, 0607: Čerčany;9:09, Světlá nad Sázavou;12:43
+9206: 7, 0607: Světlá nad Sázavou;13:43, Čerčany;16:46
+1830: 7: Čerčany;17:58, Praha hl.n.;18:37
+
+9207: 6, 0507, -0607: Čerčany;9:09, Světlá nad Sázavou;12:43
+9206: 6, 0507, -0607: Světlá nad Sázavou;13:43, Čerčany;16:46
+9211: 7, 0607: Čerčany;13:03, Zruč nad Sázavou;14:52
+101830: 7, 0607: Zruč nad Sázavou;16:00, Čerčany;17:47

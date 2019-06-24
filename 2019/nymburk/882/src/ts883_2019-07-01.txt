@@ -4,12 +4,7 @@
 15849: 25: Poříčany;5:48, Nymburk hl.n.;6:10
 15850: 25: Nymburk hl.n.;6:13, Poříčany;6:34
 15851: 25: Poříčany;6:50, Nymburk hl.n.;7:11
-15854: T: Nymburk hl.n.;7:16, Poříčany;7:37
-15855: T: Poříčany;7:50, Nymburk hl.n.;8:11
-15856: T: Nymburk hl.n.;8:16, Poříčany;8:37
-15857: T: Poříčany;8:50, Nymburk hl.n.;9:11
-115803pk: X: Nymburk hl.n.;5:41, Rožďalovice;6:15
-15830: X: Rožďalovice;6:17, Poříčany;7:11
+15852: X: Nymburk hl.n.;6:43, Poříčany;7:11
 15853: X: Poříčany;7:22, Nymburk hl.n.;7:44
 15811: X: Nymburk hl.n.;10:04, Jičín;11:29
 15607: 25: Nymburk hl.n.;11:09, Městec Králové;11:49
@@ -36,9 +31,6 @@
 15623: X: Křinec;6:12, Městec Králové;6:33
 15833: X: Městec Králové;6:37, Kopidlno;7:24
 15834: X: Kopidlno;7:27, Nymburk hl.n.;7:59
-15600: 25: Městec Králové;6:09, Nymburk hl.n.;6:50
-15603: 25: Nymburk hl.n.;7:13, Městec Králové;7:59
-15602: 25: Městec Králové;8:03, Nymburk hl.n.;8:46
 15605: X: Nymburk hl.n.;9:09, Městec Králové;9:49
 15604: X: Městec Králové;10:03, Nymburk hl.n.;10:46
 15607: X: Nymburk hl.n.;11:09, Městec Králové;11:49
@@ -47,6 +39,11 @@
 15655: X: Městec Králové;15:05, Chlumec nad Cidlinou;15:24
 15656: X: Chlumec nad Cidlinou;16:36, Městec Králové;16:55
 15657: X: Městec Králové;17:05, Chlumec nad Cidlinou;17:24
+15600: 25: Městec Králové;6:09, Nymburk hl.n.;6:50
+15807pk:25:Nymburk hl.n.;7:13, Křinec;7:31
+15603: 25: Křinec;7:38, Městec Králové;7:59
+15602: 25: Městec Králové;8:03, Křinec;8:24
+15806pk:25:Křinec;8:27,Nymburk hl.n.;8:46
 15878: 25: Nymburk hl.n.;19:16, Poříčany;19:37
 15879: 25: Poříčany;19:50, Nymburk hl.n.;20:11
 15882: 25: Nymburk hl.n.;20:16, Poříčany;20:37
@@ -56,9 +53,6 @@
 
 115690sv: X: Chlumec nad Cidlinou;4:43, Městec Králové;5:00
 15651: X: Městec Králové;5:05, Chlumec nad Cidlinou;5:24
-5700: X: Chlumec nad Cidlinou;5:33, Městec Králové;5:52
-5761: X: Městec Králové;6:45, Nový Bydžov;7:14
-5760: X: Nový Bydžov;7:44, Chlumec nad Cidlinou;7:55
 15652: X: Chlumec nad Cidlinou;11:33, Městec Králové;11:52
 15624: X: Městec Králové;13:03, Křinec;13:24
 115812pk: X: Křinec;13:32, Nymburk hl.n.;13:51

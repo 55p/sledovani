@@ -1,0 +1,123 @@
+671::Děčín hl.n.;4:26, Praha hl.n.;6:10
+692::Praha hl.n.;6:51, Děčín hl.n.;8:31
+681::Děčín hl.n.;9:26, Praha hl.n.;11:10
+686::Praha hl.n.;12:51, Děčín hl.n.;14:31
+687::Děčín hl.n.;15:26, Praha hl.n.;17:10
+676::Praha hl.n.;18:51, Děčín hl.n.;20:31
+6969:X1234:Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:47
+106969vlož:X5:Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:47
+6957:X:Ústí nad Labem hl.n.;22:12, Roudnice nad Labem;22:54
+
+6930:X:Roudnice nad Labem;5:39, Děčín hl.n.;6:37
+6963:X:Děčín hl.n.;6:58, Ústí nad Labem hl.n.;7:27
+677:25:Děčín hl.n.;7:26, Praha hl.n.;9:10
+679:X:Ústí nad Labem hl.n.;8:42, Praha hl.n.;10:10
+688::Praha hl.n.;10:51, Děčín hl.n.;12:31
+685::Děčín hl.n.;13:26, Praha hl.n.;15:10
+680::Praha hl.n.;16:51, Děčín hl.n.;18:31
+691::Děčín hl.n.;19:26, Praha hl.n.;21:10
+
+9907:X:Praha-Radotín;5:33, Praha hl.n.;5:53
+921::Praha hl.n.;6:06, Hradec Králové hl.n.;7:51
+948::Hradec Králové hl.n.;9:08, Praha hl.n.;10:49
+947::Praha hl.n.;13:06, Hradec Králové hl.n.;14:51
+1869:X:Hradec Králové hl.n.;16:02, Choceň;16:54
+5636:X:Choceň;18:01, Týniště nad Orlicí;18:27
+5628:X5:Týniště nad Orlicí;19:31, Hradec Králové hl.n.;19:55
+924:25:Hradec Králové hl.n.;16:08, Praha hl.n.;17:49
+953:25:Praha hl.n.;19:06, Hradec Králové hl.n.;20:51
+
+5200:X:Týniště nad Orlicí;5:08, Chlumec nad Cidlinou;6:22
+5217:X:Chlumec nad Cidlinou;6:50, Hradec Králové hl.n.;7:25
+5603: X: Hradec Králové hl.n.;8:03, Choceň;9:02
+5604: X: Choceň;11:01, Hradec Králové hl.n.;11:55
+1953vlož:X:Hradec Králové hl.n.;13:05, Týniště nad Orlicí;13:27
+5633:X:Týniště nad Orlicí;13:33, Choceň;13:58
+1866:X:Choceň;15:02, Hradec Králové hl.n.;15:59
+942:X:Hradec Králové hl.n.;17:08, Praha hl.n.;18:49
+955:X:Praha hl.n.;20:06, Hradec Králové hl.n.;21:51
+5601:6:Hradec Králové hl.n.;5:03, Choceň;5:56
+5602:6:Choceň;6:54, Hradec Králové hl.n.;7:57
+5605:6:Hradec Králové hl.n.;10:03, Choceň;10:56
+5606:6:Choceň;12:57, Hradec Králové hl.n.;13:57
+5202:T:Hradec Králové hl.n.;11:01, Chlumec nad Cidlinou;11:28
+5225:T:Chlumec nad Cidlinou;12:29, Hradec Králové hl.n.;12:57
+5607:T:Hradec Králové hl.n.;14:03, Choceň;15:02
+5608:T:Choceň;16:58, Hradec Králové hl.n.;17:57
+5621:T:Hradec Králové hl.n.;20:03, Týniště nad Orlicí;20:27
+
+5631:X1:Týniště nad Orlicí;4:25, Choceň;4:50
+5630:X1:Choceň;5:57, Týniště nad Orlicí;6:27
+5600:X1:Týniště nad Orlicí;7:09, Hradec Králové hl.n.;7:36
+5601:X2345:Hradec Králové hl.n.;5:03, Choceň;5:56
+1862: X2345: Choceň;6:58, Hradec Králové hl.n.;7:52
+5611:X:Hradec Králové hl.n.;12:03, Týniště nad Orlicí;12:27
+5620:X:Týniště nad Orlicí;13:09, Hradec Králové hl.n.;13:43
+5615:X:Hradec Králové hl.n.;14:19, Týniště nad Orlicí;14:49
+5622:X:Týniště nad Orlicí;15:09, Hradec Králové hl.n.;15:43
+924:X:Hradec Králové hl.n.;16:08, Praha hl.n.;17:49
+953:X:Praha hl.n.;19:06, Hradec Králové hl.n.;20:51
+932:25:Hradec Králové hl.n.;8:08, Praha hl.n.;9:49
+927:25:Praha hl.n.;12:06, Hradec Králové hl.n.;13:51
+944:25:Hradec Králové hl.n.;15:08, Praha hl.n.;16:49
+951:25:Praha hl.n.;18:06, Hradec Králové hl.n.;19:51
+
+952:X:Hradec Králové hl.n.;5:08, Praha hl.n.;6:49
+923:X:Praha hl.n.;8:06, Hradec Králové hl.n.;9:51
+950:25:Hradec Králové hl.n.;6:08, Praha hl.n.;7:49
+945:25:Praha hl.n.;9:06, Hradec Králové hl.n.;10:51
+928::Hradec Králové hl.n.;12:08, Praha hl.n.;13:49
+935::Praha hl.n.;15:06, Hradec Králové hl.n.;16:51
+922::Hradec Králové hl.n.;18:08, Praha hl.n.;19:49
+672::Praha hl.n.;20:51, Děčín hl.n.;22:31
+
+673::Děčín hl.n.;5:26, Praha hl.n.;7:10
+690:X:Praha hl.n.;8:51, Děčín hl.n.;10:31
+683:X:Děčín hl.n.;11:26, Praha hl.n.;13:10
+684:X:Praha hl.n.;14:51, Děčín hl.n.;16:31
+689:X:Děčín hl.n.;17:26, Praha hl.n.;19:10
+674:X:Praha hl.n.;19:51, Ústí nad Labem hl.n.;21:14
+6968:X:Ústí nad Labem západ;22:24, Děčín hl.n.;22:55
+923:25:Praha hl.n.;8:06, Hradec Králové hl.n.;9:51
+1311sv:6:Hradec Králové hl.n.;10:44,Pardubice hl.n.;11:14
+1310sv:6:Pardubice hl.n.;12:12,Hradec Králové hl.n.;12:48
+926:25:Hradec Králové hl.n.;14:08, Praha hl.n.;15:49
+949:25:Praha hl.n.;17:06, Hradec Králové hl.n.;18:51
+920:25:Hradec Králové hl.n.;20:08, Praha hl.n.;21:49
+670:6:Praha hl.n.;23:22, Děčín hl.n.;1:01
+
+21801sv: X1,0201,2304,0205,0905,2910,-2412,-3112,2204,-2810: Praha-jih;4:25, Kutná Hora hl.n.;5:06
+1900: X: Kutná Hora hl.n.;5:33, Praha hl.n.;6:33
+1481: X: Praha hl.n.;6:57, Benešov u Prahy;7:47
+1486: X: Benešov u Prahy;8:10, Praha hl.n.;9:02
+1903: X: Praha hl.n.;16:30, Kutná Hora hl.n.;17:23
+5992sv: X1234,-1804,-3004,-0705,-0407: Kutná Hora hl.n.;17:51, Kolín;18:01
+105994svpk: X5,1804,3004,0705,0407,-2812,-1904,-0507: Kutná Hora hl.n.;18:44, Kolín;18:54
+
+105993svpk: X1,0201,2304,0205,0905,2910,-2412,-3112,2204,-2810: Kolín;5:55, Kutná Hora hl.n.;6:05
+5993sv: X2345,-0201,-2304,-0205,-0905,-2910: Kolín;5:55, Kutná Hora hl.n.;6:05
+1902: X: Kutná Hora hl.n.;6:31, Praha hl.n.;7:35
+1905: X: Praha hl.n.;17:30, Kutná Hora hl.n.;18:23
+5994sv: X1234,-1804,-3004,-0705,-0407: Kutná Hora hl.n.;18:44, Kolín;18:54
+5994sv: X5,1804,3004,0705,0407,-2812,-1904,-0507: Kutná Hora hl.n.;18:44, Praha-jih;20:05
+
+5993sv: X1,0201,2304,0205,0905,2910,-2412,-3112,2204,-2810: Praha-jih;4:50, Kutná Hora hl.n.;6:05
+5995sv: X2345,-0201,-2304,-0205,-0905,-2910: Kolín;6:51, Kutná Hora hl.n.;7:01
+1904: X: Kutná Hora hl.n.;7:31, Praha hl.n.;8:33
+1907: X: Praha hl.n.;18:30, Kutná Hora hl.n.;19:23
+21800sv: X5,1804,3004,0705,0407,-2812,-1904,-0507: Kutná Hora hl.n.;19:58, Praha-jih;20:44
+670: X5,0407,-0507: Praha hl.n.;23:22, Děčín hl.n.;1:01
+
+
+1:7:1
+1:5:9
+9:6:9
+9:7:2
+2:7:10
+7:7:3
+7:5:2
+7:12346:1
+8:56:8
+9:5:1
+10:12347:8
+10:56:10

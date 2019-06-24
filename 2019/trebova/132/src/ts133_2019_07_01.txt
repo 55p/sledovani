@@ -48,7 +48,7 @@
 5621: X: Hradec Králové hl.n.;20:03, Týniště nad Orlicí;20:27
 
 5601: X1: Hradec Králové hl.n.;5:03, Choceň;5:56
-5600: X1: Choceň;6:28, Hradec Králové hl.n.;7:36
+1862: X1: Choceň;6:58, Hradec Králové hl.n.;7:52
 5631: X2345: Týniště nad Orlicí;4:25, Choceň;4:50
 5630: X2345: Choceň;5:57, Týniště nad Orlicí;6:27
 5600: X2345: Týniště nad Orlicí;7:09, Hradec Králové hl.n.;7:36
