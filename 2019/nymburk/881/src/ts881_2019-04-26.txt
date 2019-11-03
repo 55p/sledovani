@@ -92,10 +92,10 @@
 
 2410: X6: Zruč nad Sázavou;3:47, Kutná Hora hl.n.;4:54
 2411: X: Kutná Hora hl.n.;5:09, Zruč nad Sázavou;6:37
+2418: X: Zruč nad Sázavou;6:47, Kutná Hora hl.n.;7:57
 2441: 6: Kutná Hora hl.n.;5:28, Kutná Hora město;5:35
 2412: 6: Kutná Hora město;5:46, Kutná Hora hl.n.;5:54
 22202: 7: Kolín;6:32, Sázava;8:09
-2418: X: Zruč nad Sázavou;6:47, Kutná Hora hl.n.;7:57
 22205: 7: Uhlířské Janovice;8:00, Kolín;9:15
 2447: 6: Kutná Hora hl.n.;8:02, Kutná Hora město;8:09
 102418sv: X: Kutná Hora hl.n.;8:05, Kolín;8:15

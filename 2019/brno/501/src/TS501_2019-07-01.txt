@@ -1,0 +1,88 @@
+﻿4700: X: Brno hl.n.;4:32, Letovice;5:30
+4741: X: Letovice;6:20, Brno hl.n.;7:33
+4708: X: Brno hl.n.;8:00, Březová nad Svitavou;9:12
+4717: X: Březová nad Svitavou;9:47, Brno hl.n.;10:59
+14114: X: Brno hl.n.;11:42, Brno-Královo Pole;11:56
+14113: X: Brno-Královo Pole;12:03, Brno hl.n.;12:17
+4744: X: Brno hl.n.;12:27, Skalice nad Svitavou;13:18
+4747: X: Skalice nad Svitavou;13:42, Brno hl.n.;14:35
+4722: X: Brno hl.n.;15:01, Letovice;16:01
+4731: X: Letovice;16:58, Brno hl.n.;17:59
+4756: X: Brno hl.n.;18:27, Skalice nad Svitavou;19:18
+4015: X: Skalice nad Svitavou;19:42, Brno hl.n.;20:35
+4714: T: Brno hl.n.;11:01, Letovice;12:01
+4723: T: Letovice;12:58, Brno hl.n.;13:59
+4748: T: Brno hl.n.;14:27, Blansko;14:56
+4749: T: Blansko;15:04, Brno hl.n.;15:31
+14150: T: Brno hl.n.;15:42, Brno-Královo Pole;15:55
+14151: 25: Brno-Královo Pole;16:34, Brno hl.n.;16:49
+4726: 25: Brno hl.n.;16:57, Letovice;18:01
+4735: 25: Letovice;18:58, Brno hl.n.;19:59
+14158: 25: Brno hl.n.;20:17, Brno-Královo Pole;20:29
+14125: 25: Brno-Královo Pole;20:34, Brno hl.n.;20:49
+4734: : Brno hl.n.;20:59, Letovice;22:01
+
+4707: X: Letovice;5:20, Brno hl.n.;6:27
+4706: X: Brno hl.n.;6:57, Letovice;8:01
+4715: X: Letovice;8:58, Brno hl.n.;9:59
+14108: X: Brno hl.n.;10:12, Brno-Královo Pole;10:26
+14109: X: Brno-Královo Pole;10:34, Brno hl.n.;10:49
+4714: X: Brno hl.n.;11:01, Letovice;12:01
+4723: X: Letovice;12:58, Brno hl.n.;13:59
+4748: X: Brno hl.n.;14:27, Skalice nad Svitavou;15:17
+4751: X: Skalice nad Svitavou;15:42, Brno hl.n.;16:35
+4726: X: Brno hl.n.;16:57, Letovice;18:01
+4735: X: Letovice;18:58, Brno hl.n.;19:59
+4709: 6: Letovice;5:58, Brno hl.n.;6:59
+4006: 6: Brno hl.n.;7:27, Blansko;7:56
+4743: 6: Blansko;8:04, Brno hl.n.;8:36
+14102: 6: Brno hl.n.;8:42, Brno-Královo Pole;8:55
+14103: 6: Brno-Královo Pole;9:03, Brno hl.n.;9:18
+4712: 6: Brno hl.n.;10:01, Březová nad Svitavou;11:12
+4721: 6: Březová nad Svitavou;11:47, Brno hl.n.;12:58
+4711: T: Letovice;6:58, Brno hl.n.;7:59
+14142: T: Brno hl.n.;8:10, Brno-Královo Pole;8:24
+14143: T: Brno-Královo Pole;8:34, Brno hl.n.;8:49
+4710: T: Brno hl.n.;9:01, Letovice;10:01
+4719: T: Letovice;10:58, Brno hl.n.;11:59
+4744: T: Brno hl.n.;12:27, Blansko;12:56
+4013: T: Blansko;13:04, Brno hl.n.;13:31
+4720: 25: Brno hl.n.;13:59, Březová nad Svitavou;15:12
+4729: 25: Březová nad Svitavou;15:47, Brno hl.n.;16:58
+4754: 25: Brno hl.n.;17:25, Blansko;17:56
+4755: 25: Blansko;18:04, Brno hl.n.;18:35
+14120: 6: Brno hl.n.;18:42, Brno-Královo Pole;18:55
+14121: 6: Brno-Královo Pole;19:03, Brno hl.n.;19:17
+4758: T: Brno hl.n.;19:25, Blansko;19:56
+4015: T: Blansko;20:04, Brno hl.n.;20:35
+14126: : Brno hl.n.;20:42, Brno-Královo Pole;20:55
+14127: : Brno-Královo Pole;21:16, Brno hl.n.;21:31
+4736: XT: Brno hl.n.;22:01, Letovice;23:01
+4736: 6: Brno hl.n.;22:01, Skalice nad Svitavou;22:47
+
+4701: X: Letovice;3:59, Brno hl.n.;4:57
+4702: X: Brno hl.n.;5:26, Letovice;6:26
+4711: X: Letovice;6:58, Brno hl.n.;7:59
+4008: X: Brno hl.n.;8:27, Rájec-Jestřebí;9:09
+4007: X: Rájec-Jestřebí;9:50, Brno hl.n.;10:35
+14110: X: Brno hl.n.;10:42, Brno-Královo Pole;10:55
+14111: X: Brno-Královo Pole;11:03, Brno hl.n.;11:18
+4014: X: Brno hl.n.;11:25, Rájec-Jestřebí;12:09
+4013: X: Rájec-Jestřebí;12:50, Brno hl.n.;13:31
+4720: X: Brno hl.n.;13:59, Březová nad Svitavou;15:12
+4729: X: Březová nad Svitavou;15:47, Brno hl.n.;16:58
+4754: X: Brno hl.n.;17:25, Skalice nad Svitavou;18:17
+4757: X: Skalice nad Svitavou;18:42, Brno hl.n.;19:31
+14124: X: Brno hl.n.;19:42, Brno-Královo Pole;19:55
+14125: X: Brno-Královo Pole;20:34, Brno hl.n.;20:49
+4711: 6: Letovice;6:58, Brno hl.n.;7:59
+14142: 6: Brno hl.n.;8:10, Brno-Královo Pole;8:24
+14143: 6: Brno-Královo Pole;8:34, Brno hl.n.;8:49
+4710: 6: Brno hl.n.;9:01, Letovice;10:01
+4719: 6: Letovice;10:58, Brno hl.n.;11:59
+4744: 6: Brno hl.n.;12:27, Blansko;12:56
+4013: 6: Blansko;13:04, Brno hl.n.;13:31
+14144: 6: Brno hl.n.;13:42, Brno-Královo Pole;13:56
+4701: T: Skalice nad Svitavou;4:12, Brno hl.n.;4:57
+4704: T: Brno hl.n.;5:57, Letovice;7:01
+4713: T: Letovice;7:58, Brno hl.n.;8:59

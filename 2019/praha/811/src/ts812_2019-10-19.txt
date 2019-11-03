@@ -1,0 +1,195 @@
+101147pk: 6: Mladá Boleslav hl.n.;15:23, Kralupy nad Vltavou;16:18
+301147: 6: Kralupy nad Vltavou;16:20, Praha Masarykovo nádraží;16:55
+99900: 6: Praha Masarykovo nádraží;17:30, Praha-Vršovice;18:00
+9505: T: Mladá Boleslav hl.n.;6:34, Neratovice;7:30
+9504: T: Neratovice;8:32, Mladá Boleslav hl.n.;9:21
+9515: T: Mladá Boleslav hl.n.;16:37, Neratovice;17:30
+9514: T: Neratovice;18:32, Mladá Boleslav hl.n.;19:21
+106056př: T: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+9519: T: Mladá Boleslav město;20:37, Neratovice;21:30
+9538: T: Neratovice;22:32, Mělník;22:50
+109599sv: T: Mělník;23:01, Neratovice;23:16
+99904: X: Turnov;5:40, Železný Brod;5:55
+5423: X: Železný Brod;6:04, Turnov;6:21
+1141: X: Turnov;6:44, Neratovice;7:56
+101946| pk MBh-Tur|postrk Mladá Boleslav hl.n. - Turnov: X: Neratovice;14:58, Turnov;16:29
+1149: X: Turnov;16:44, Neratovice;17:56
+9514: X: Neratovice;18:32, Mladá Boleslav hl.n.;19:21
+9519: X: Mladá Boleslav hl.n.;20:37, Neratovice;21:30
+9538: X: Neratovice;22:32, Mělník;22:50
+99905: X: Mělník;23:10, Neratovice;23:30
+
+9520: 6: Neratovice;1:01, Mělník;1:19
+9521: 6: Mělník;1:24, Neratovice;1:42
+9522: 6: Neratovice;3:16, Mělník;3:34
+109591sv: 6: Mělník;3:41, Neratovice;4:05
+9550: 6: Neratovice;4:19, Mladá Boleslav hl.n.;5:06
+9505: 6: Mladá Boleslav hl.n.;6:34, Neratovice;7:30
+9504: 6: Neratovice;8:32, Mladá Boleslav hl.n.;9:21
+9515: 6: Mladá Boleslav hl.n.;16:37, Neratovice;17:30
+9514: 6: Neratovice;18:32, Mladá Boleslav hl.n.;19:21
+106056př: 6: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+9519: 6: Mladá Boleslav město;20:37, Neratovice;21:30
+9538: 6: Neratovice;22:32, Mělník;22:50
+109599sv: 6: Mělník;23:01, Neratovice;23:16
+601148pksv: T: Praha-Vršovice;6:00, Praha Masarykovo nádraží;6:30
+1148: T: Praha Masarykovo nádraží;7:12, Kralupy nad Vltavou;:9:47
+201148pk: T: Kralupy nad Vltavou;9:50, Železný Brod;11:34
+1145: T: Železný Brod;12:19, Neratovice;13:56
+9510: T: Neratovice;14:32, Mladá Boleslav hl.n.;15:21
+109515pk: T: Mladá Boleslav hl.n.;16:37, Neratovice;17:30
+1140: T: Neratovice;17:57, Turnov;19:12
+9520: X: Neratovice;1:01, Mělník;1:19
+9541: X: Mělník;5:48, Neratovice;6:07
+99906: X: Neratovice;6:17, Mělník;6:37
+101943pk: X: Mělník;6:35, Všetaty;6:47
+9543: X: Všetaty;7:00, Neratovice;7:07
+9524: X: Neratovice;7:32, Mělník;7:50
+9525: X: Mělník;8:11, Neratovice;8:30
+9526: X: Neratovice;9:32, Mělník;9:50
+9527: X: Mělník;10:11, Neratovice;10:30
+9528: X: Neratovice;11:32, Mělník;11:50
+9529: X: Mělník;12:11, Neratovice;12:30
+9530: X: Neratovice;13:32, Mělník;13:50
+9531: X: Mělník;14:11, Neratovice;14:30
+1142: X: Neratovice;15:57, Železný Brod;17:34
+99907: X: Železný Brod;17:50, Turnov;18:05
+
+601146pksv: 6: Praha-Vršovice;8:00, Praha Masarykovo nádraží;8:30
+1146: 6: Praha Masarykovo nádraží;9:12, Kralupy nad Vltavou;:9:47
+201146pk: 6: Kralupy nad Vltavou;9:50, Železný Brod;11:34
+1149: 6: Železný Brod;16:19, Kralupy nad Vltavou;18:03
+201149pk: 6: Kralupy nad Vltavou;18:06, Praha Masarykovo nádraží;18:55
+501149sv: 6: Praha Masarykovo nádraží;19:30, Praha-Vršovice;20:00
+9520: T: Neratovice;1:01, Mělník;1:19
+9521: T: Mělník;1:24, Neratovice;1:42
+9522: T: Neratovice;3:16, Mělník;3:34
+109593sv: T: Mělník;3:41, Byšice;4:10
+9523: T: Byšice;4:21, Neratovice;4:35
+99902: T: Neratovice;4:54, Všetaty;5:00
+9501: T: Všetaty;5:20, Neratovice;5:29
+9502: T: Neratovice;6:32, Mladá Boleslav hl.n.;7:18
+9507: T: Mladá Boleslav hl.n.;8:37, Neratovice;9:30
+9506: T: Neratovice;10:32, Mladá Boleslav město;11:32
+9511: T: Mladá Boleslav město;12:29, Neratovice;13:30
+1144: T: Neratovice;13:57, Železný Brod;15:34
+1151: T: Železný Brod;18:19, Neratovice;19:56
+9516: T: Neratovice;20:32, Mladá Boleslav hl.n.;21:20
+1143: X: Turnov;8:44, Neratovice;9:56
+9506: X: Neratovice;10:32, Mladá Boleslav město;11:32
+9511: X: Mladá Boleslav město;12:29, Neratovice;13:30
+1144: X: Neratovice;13:57, Železný Brod;15:34
+1151: X: Železný Brod;18:19, Neratovice;19:56
+9516: X: Neratovice;20:32, Mladá Boleslav hl.n.;21:20
+9551: X: Mladá Boleslav hl.n.;22:41, Neratovice;23:30
+9540: X: Neratovice;23:32, Mladá Boleslav město;0:22
+109597sv: X: Mladá Boleslav město;0:27, Mladá Boleslav hl.n.;0:33
+
+601148pksv: 6: Praha-Vršovice;8:00, Praha Masarykovo nádraží;8:30
+1148: 6: Praha Masarykovo nádraží;7:12, Kralupy nad Vltavou;:7:47
+201148pk: 6: Kralupy nad Vltavou;7:50, Železný Brod;9:34
+1145: 6: Železný Brod;12:19, Neratovice;13:56
+9510: 6: Neratovice;14:32, Mladá Boleslav hl.n.;15:21
+109515pk: 6: Mladá Boleslav hl.n.;16:37, Neratovice;17:30
+1140: 6: Neratovice;17:57, Turnov;19:12
+501148sv: T: Praha-Vršovice;6:00, Praha Masarykovo nádraží;6:30
+101148pk: T: Praha Masarykovo nádraží;7:12, Kralupy nad Vltavou;:9:47
+301148: T: Kralupy nad Vltavou;9:50, Železný Brod;11:34
+1147: T: Železný Brod;14:19, Kralupy nad Vltavou;16:18
+201147pk: 2710: Kralupy nad Vltavou;16:20, Praha Masarykovo nádraží;16:55
+99903: 2710: Praha Masarykovo nádraží;17:30, Praha-Vršovice;18:00
+119525př: 2010,2810: Kralupy nad Vltavou;17:29, Neratovice;17:52
+109514pk: 2010,2810: Neratovice;18:32, Všetaty;18:39
+9501: X: Mladá Boleslav hl.n.;4:41, Neratovice;5:29
+9502: X: Neratovice;6:32, Mladá Boleslav hl.n.;7:18
+1945: X: Mladá Boleslav město;8:01, Neratovice;8:57
+9534: X: Neratovice;17:32, Mělník;17:50
+9535: X: Mělník;18:11, Neratovice;18:30
+9536: X: Neratovice;19:32, Všetaty;19:39
+
+1141: 25: Turnov;6:44, Neratovice;7:56
+109504pk: 25: Neratovice;8:32, Mladá Boleslav hl.n.;9:21
+9509: 25: Mladá Boleslav hl.n.;10:37, Neratovice;11:30
+9508: 25: Neratovice;12:32, Mladá Boleslav hl.n.;13:21
+9513: 25: Mladá Boleslav hl.n.;14:37, Neratovice;15:30
+9512: 25: Neratovice;16:32, Mladá Boleslav hl.n.;17:21
+9517: 25: Mladá Boleslav hl.n.;18:37, Neratovice;19:30
+1940: 25: Neratovice;19:57, Turnov;21:25
+9539: 25: Turnov;22:21, Neratovice;23:07
+9540: 6,2710: Neratovice;23:32, Všetaty;23:39
+9548: 6,2710: Všetaty;23:42, Mělník;23:53
+109595sv: 6,2710: Mělník;0:00, Všetaty;0:09
+9540: 2010,2810: Neratovice;23:32, Mladá Boleslav město;0:22
+109597sv: 2010,2810: Mladá Boleslav město;0:27, Mladá Boleslav hl.n.;0:33
+99908: X1: Všetaty;3:59, Neratovice;4:05
+109591sv: X2345: Všetaty;3:59, Neratovice;4:05
+9550: X: Neratovice;4:19, Mladá Boleslav hl.n.;5:06
+1941: X: Mladá Boleslav hl.n.;5:21, Neratovice;5:57
+99909: X: Neratovice;6:07, Mělník;6:27
+1943: X: Mělník;6:35, Neratovice;6:56
+109524pk: X: Neratovice;7:32, Všetaty;7:39
+9545: X: Všetaty;7:42, Neratovice;7:49
+1148: X: Neratovice;7:57, Železný Brod;11:34
+5410: X: Železný Brod;12:12, Turnov;12:31
+1145: X: Turnov;12:44, Neratovice;13:56
+9510: X: Neratovice;14:32, Všetaty;14:39
+9513: X: Všetaty;15:23, Neratovice;15:30
+9532: X: Neratovice;15:32, Mělník;15:50
+9533: X: Mělník;16:11, Neratovice;16:30
+1944: X: Neratovice;16:58, Mladá Boleslav hl.n.;17:46
+9517: X: Mladá Boleslav hl.n.;18:37, Neratovice;19:30
+1940: X: Neratovice;19:57, Turnov;21:25
+9581: X: Turnov;22:42, Mladá Boleslav hl.n.;23:18
+
+9503: 6: Turnov;4:44, Neratovice;6:29
+9524: 25: Neratovice;7:32, Mělník;7:50
+9525: 25: Mělník;8:11, Neratovice;8:30
+9526: 25: Neratovice;9:32, Mělník;9:50
+9527: 25: Mělník;10:11, Neratovice;10:30
+9528: 25: Neratovice;11:32, Mělník;11:50
+9529: 25: Mělník;12:11, Neratovice;12:30
+9530: 25: Neratovice;13:32, Mělník;13:50
+9531: 25: Mělník;14:11, Neratovice;14:30
+9532: 25: Neratovice;15:32, Mělník;15:50
+9533: 25: Mělník;16:11, Neratovice;16:30
+9534: 25: Neratovice;17:32, Mělník;17:50
+9535: 25: Mělník;18:11, Neratovice;18:30
+9536: 25: Neratovice;19:32, Mělník;19:50
+9537: 25: Mělník;20:11, Neratovice;20:30
+9518: 25: Neratovice;21:32, Turnov;23:15
+9503: T: Všetaty;6:22, Neratovice;6:29
+9523: X: Mladá Boleslav hl.n.;3:49, Neratovice;4:35
+9500: X: Neratovice;5:32, Mladá Boleslav hl.n.;6:15
+9505: X: Mladá Boleslav hl.n.;6:34, Neratovice;7:30
+9504: X: Neratovice;8:32, Mladá Boleslav hl.n.;9:21
+9509: X: Mladá Boleslav hl.n.;10:37, Neratovice;11:30
+9508: X: Neratovice;12:32, Mladá Boleslav hl.n.;13:21
+9572: X: Mladá Boleslav hl.n.;13:44, Turnov;14:28
+9573: X: Turnov;15:30, Mladá Boleslav hl.n.;16:12
+9515: X: Mladá Boleslav hl.n.;16:37, Neratovice;17:30
+1942: X: Neratovice;18:58, Mělník;19:16
+9537: X: Mělník;20:11, Neratovice;20:30
+9518: X: Neratovice;21:32, Turnov;23:15
+
+9501: 6: Mladá Boleslav hl.n.;4:41, Neratovice;5:29
+9502: 6: Neratovice;6:32, Mladá Boleslav hl.n.;7:18
+9507: 6: Mladá Boleslav hl.n.;8:37, Neratovice;9:30
+9506: 6: Neratovice;10:32, Mladá Boleslav město;11:32
+9511: 6: Mladá Boleslav město;12:29, Neratovice;13:30
+1144: 6: Neratovice;13:57, Železný Brod;15:34
+1151: 6: Železný Brod;18:19, Neratovice;19:56
+9516: 6: Neratovice;20:32, Mladá Boleslav hl.n.;21:20
+1143: T: Turnov;8:44, Neratovice;9:56
+1142: 2710: Neratovice;15:57, Turnov;17:12
+1142: 2010,2810: Neratovice;15:57, Železný Brod;17:34
+110302sv: 2010,2810: Železný Brod;17:50, Turnov;18:05
+9503: X: Turnov;4:44, Neratovice;6:29
+109504pk: X: Neratovice;8:32, Byšice;8:47
+9507: X: Mladá Boleslav hl.n.;9:10, Neratovice;9:30
+1146: X: Neratovice;9:57, Turnov;11:12
+5426: X: Turnov;11:26, Železný Brod;11:43
+105425vlož: X: Železný Brod;14:17, Turnov;14:36
+1147: X: Turnov;14:44, Neratovice;15:56
+9512: X: Neratovice;16:32, Všetaty;16:39
+109589sv: X: Všetaty;16:51, Neratovice;16:57
+1140: X: Neratovice;17:57, Turnov;19:12

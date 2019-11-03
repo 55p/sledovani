@@ -1,0 +1,10 @@
+1782: 6 : Hradec Králové hl.n; 7:03, Smiřice; 7:11
+6273: 6 : Smiřice; 8:13, Hradec Králové hl.n; 8:25
+1825: 6 : Hradec Králové hl.n; 9:09, Sobotka; 10:44
+1824: 6 : Sobotka; 17:00, Hradec Králové hl.n; 18:55
+6276: 6 : Hradec Králové hl.n; 19:33, Smiřice; 19:45
+106276sv: 6 : Smiřice; 19:48, Hradec Králové hl.n; 19:58
+1796: 6 : Hradec Králové hl.n; 20:02, Smiřice; 20:11
+1769: 6 : Smiřice; 21:50, Hradec Králové hl.n; 22:00
+1947: X : Hradec Králové hl.n; 7:05, Doudleby nad Orlicí; 7:50
+1948: X : Doudleby nad Orlicí; 8:10, Hradec Králové hl.n; 8:53

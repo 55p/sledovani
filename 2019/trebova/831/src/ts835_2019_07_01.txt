@@ -1,0 +1,98 @@
+15090: 1: Choceň;3:09, Vysoké Mýto;3:19
+15010: X: Vysoké Mýto;3:46, Litomyšl;4:32
+15001: X: Litomyšl;4:43, Choceň;5:30
+15001: 6: Vysoké Mýto;5:18, Litomyšl;5:30
+5040: 7,2810,-2710: Česká Třebová;4:23, Choceň;4:50
+15036: X,6,2710: Choceň;5:39, Vysoké Mýto město;5:54
+15035: X,6,2710: Vysoké Mýto město;6:06, Choceň;6:21
+15002: : Choceň;6:28, Litomyšl;7:15
+15005: X: Litomyšl;7:19, Choceň;8:21
+15004: X: Choceň;8:39, Litomyšl;9:27
+15011: 25: Litomyšl;7:34, Vysoké Mýto město;8:04
+15004: 25: Vysoké Mýto město;8:57, Litomyšl;9:27
+15007: X,6: Litomyšl;9:32, Choceň;10:21
+15006: X,6: Choceň;10:39, Litomyšl;11:27
+15013: 7,2810,-2710: Litomyšl;10:28, Vysoké Mýto město;10:58
+15012: 7,2810,-2710: Vysoké Mýto město;11:57, Litomyšl;12:27
+15009: 25: Litomyšl;12:32, Vysoké Mýto město;13:02
+15009: X: Litomyšl;12:32, Choceň;13:21
+15050: X: Choceň;13:39, Vysoké Mýto město;13:54
+15049: X: Vysoké Mýto město;14:06, Choceň;14:21
+15054: X: Choceň;14:39, Vysoké Mýto město;14:54
+15053: X: Vysoké Mýto město;15:06, Choceň;15:21
+15056: X: Choceň;15:39, Vysoké Mýto město;15:54
+15055: X: Vysoké Mýto město;16:06, Choceň;16:21
+15014: 25: Vysoké Mýto město;13:57, Litomyšl;14:27
+15021: 25: Litomyšl;15:32, Vysoké Mýto město;16:02
+15058: X: Choceň;16:39, Vysoké Mýto město;16:54
+15057: X: Vysoké Mýto město;17:06, Choceň;17:21
+15060: X: Choceň;17:39, Vysoké Mýto město;17:54
+15017: X: Vysoké Mýto město;18:06, Choceň;18:21
+15016: 25: Vysoké Mýto město;16:07, Litomyšl;16:37
+15017: 25: Litomyšl;17:32, Vysoké Mýto město;18:02
+15062: X: Choceň;18:39, Vysoké Mýto město;18:54
+15059: X: Vysoké Mýto město;19:06, Choceň;19:21
+5050: X: Choceň;19:39, Pardubice hl.n.;20:24
+5051: X: Pardubice hl.n.;22:47, Choceň;23:31
+15072: 1,2,3,4,0908,1608,2308,3008,-2810: Choceň;23:34, Vysoké Mýto;23:49
+15062: 25: Choceň;18:39, Vysoké Mýto město;18:54
+15020: 25: Vysoké Mýto město;18:57, Litomyšl;19:27
+15019: 25: Litomyšl;19:32, Choceň;20:21
+15066: 6: Choceň;20:39, Litomyšl;21:26
+15063: 6: Litomyšl;21:44, Choceň;22:33
+15070: 25: Choceň;22:48, Vysoké Mýto město,23:03
+15065: 6: Vysoké Mýto město;23:15, České Třebová;23:59
+15072: 1,2,3,4,0908,1608,2308,3008,-2810: Choceň;23:34, VYsoké Mýto město;23:49
+
+15032:6,2710: Choceň;1:08, Vysoké Mýto město;1:23 
+15091:6,2710: Vysoké Mýto město;1:27, Vysoké Mýto;1:30
+1015010: X: Vysoké Mýto;3:46, Vysoké Mýto město;3:49 
+15031: X: Vysoké Mýto město;3:56, Choceň;4:11
+15034: X: Choceň;4:14, Vysoké Mýto město;4:29
+15034: 6: Vysoké Mýto;4:26, Vysoké Mýto město;4:29
+15033: X,6,2710: Vysoké Mýto město;4:35, Choceň;4:50
+15000: X: Choceň;5:07, Litomyšl;5:54
+15003: X: Litomyšl;6:04, Choceň;6:51
+1015002: 6: Choceň;6:28, Vysoké Mýto město;6:43
+15037: 6: Vysoké Mýto město;7:06, Choceň;7:21
+15039: X: Vysoké Mýto město;7:13, Choceň;7:28
+15042: X,6,2710: Choceň;7:39, Vysoké Mýto město;7:54
+1015005: X,6,2710: Vysoké Mýto město;8:06, Choceň;8:21
+1015004: X,6,2710: Choceň;8:39, Vysoké Mýto město;8:54
+15041: X,6,2710: Vysoké Mýto město;9:06, Choceň;9:21
+15044: X,6,2710: Choceň;9:39, Vysoké Mýto město;9:54
+1015007: X,6,2710: Vysoké Mýto město;10:06, Choceň;10:21
+1015006: X,6,2710: Choceň;10:39, Vysoké Mýto město;10:54
+15043: X,6,2710: Vysoké Mýto město;11:06, Choceň;11:21
+15046: X,6,2710: Choceň;11:39, Vysoké Mýto město;11:54
+15045: X,6,2710: Vysoké Mýto město;12:06, Choceň;12:21
+15048: X,6,2710: Choceň;12:39, Vysoké Mýto město;12:54
+1015009: X,6,2710: Vysoké Mýto město;13:06, Choceň;14:21
+15050: X,6,2710: Choceň;13:39, Vysoké Mýto město;13:54
+15047: X,6,2710: Vysoké Mýto město;13:58, Choceň;14:13
+15008: X: Choceň;14:29, Litomyšl;15:16
+15015: X: Litomyšl;15:20, Vysoké Mýto město;15:50
+15052: 6,2710: Choceň;15:39, Vysoké Mýto město;15:54
+15055: 6,2710: Vysoké Mýto město;16:06, Choceň;16:21
+15058: 6,2710: Choceň;16:39, Vysoké Mýto město;16:54
+15057: 6,2710: Vysoké Mýto město;17:06, Choceň;17:21
+15060: 6,2710: Choceň;17:39, Vysoké Mýto město;17:54
+1015017: 6,2710: Vysoké Mýto město;18:06, Choceň;18:21
+15018: X: Vysoké Mýto město;16:57, Litomyšl;17:27
+15017: X: Litomyšl;17:32, Choceň;18:21
+5059: X: Choceň;19:33, Česká Třebová;20:07
+5042: X: Česká Třebová;21:48, Choceň;22:15
+15070: X: Choceň;22:48, Vysoké Mýto město;23:03
+15093: X: Vysoké Mýto město;23:08, Vysoké Mýto;23:11
+1015062: 6,2710: Choceň;18:39, Vysoké Mýto město;18:54
+15059: 6,2710: Vysoké Mýto město;19:06, Choceň;19:21
+15064: 6,2710: Choceň;19:41, Vysoké Mýto město;19:56
+1015019: 6,2710: Vysoké Mýto město;20:06, Choceň;20:21
+1015066: 6,2710: Choceň;20:39, Vysoké Mýto město;20:54
+15061: 6,2710: Vysoké Mýto město;21:04, Choceň;21:19
+5045: 6,2710: Choceň;21:47, Česká Třebová;22:16
+5072: T,-2710: Česká Třebová;17:17, Ústí nad Orlicí;17:29
+7173: T,-2710: Ústí nad Orlicí;17:42, Králíky;18:44
+20562: T,-2710: Králíky;19:15, Lichkov;19:29
+5036: T,-2710: Lichkov;19:31, Ústí nad Orlicí;20:19 
+5078: T,-2710: Ústí nad Orlicí;21:06, Choceň;21:19

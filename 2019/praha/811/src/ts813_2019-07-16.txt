@@ -1,0 +1,142 @@
+﻿9520: X: Praha hl.n.;0:18, Neratovice;1:00
+9523: X: Neratovice;4:36, Praha Masarykovo nádraží;5:20
+109502pk: X: Praha Masarykovo nádraží;5:47, Neratovice;6:31
+1943: X: Neratovice;6:57, Praha Masarykovo nádraží;7:35
+1937: 25: Praha-Vršovice;8:40, Turnov;11:19
+9526: X: Praha Masarykovo nádraží;8:47, Neratovice;9:31
+1143: X: Neratovice;9:58, Praha Masarykovo nádraží;10:35
+9530: X: Praha Masarykovo nádraží;12:47, Neratovice;13:31
+1145: X: Neratovice;13:58, Praha Masarykovo nádraží;14:35
+9512: X: Praha Masarykovo nádraží;15:47, Neratovice;16:31
+1936: 25: Turnov;16:41, Praha hl.n.;19:16
+109589sv: X: Neratovice;16:57, Praha Masarykovo nádraží;17:38
+9536: X: Praha Masarykovo nádraží;18:47, Neratovice;19:31
+101936sv: 25: Praha hl.n.;19:21, Praha-Vršovice;19:25
+1151: X: Neratovice;19:58, Praha Masarykovo nádraží;20:35
+229402pksv: X: Praha Masarykovo nádraží;21:58, Praha-Vršovice;22:15
+
+9520: 25: Praha hl.n.;0:18, Neratovice;1:00
+9521: 25: Neratovice;1:43, Praha hl.n.;2:22
+9522: 25: Praha hl.n.;2:33, Neratovice;3:15
+329401vložsv: X: Praha-Vršovice;4:03, Praha Masarykovo nádraží;4:22
+9523: 25: Neratovice;4:36, Praha Masarykovo nádraží;5:20
+9500: X: Praha Masarykovo nádraží;4:47, Neratovice;5:29
+1941: X: Neratovice;5:58, Praha Masarykovo nádraží;6:35
+9524: 25: Praha Masarykovo nádraží;6:47, Neratovice;7:31
+1148: X: Praha Masarykovo nádraží;7:19, Neratovice;7:55
+1141: 25: Neratovice;7:59, Praha Masarykovo nádraží;8:35
+9525: X: Neratovice;8:36, Praha Masarykovo nádraží;9:20
+9506: 25: Praha Masarykovo nádraží;9:47, Neratovice;10:31
+9528: X: Praha Masarykovo nádraží;10:47, Neratovice;11:31
+9509: 25: Neratovice;11:36, Praha Masarykovo nádraží;12:20
+9529: X: Neratovice;12:36, Praha Masarykovo nádraží;13:20
+9510: 25: Praha Masarykovo nádraží;13:47, Neratovice;14:31
+1946: X: Praha Masarykovo nádraží;14:19, Neratovice;14:55
+9513: : Neratovice;15:36, Praha Masarykovo nádraží;16:20
+1140: : Praha Masarykovo nádraží;17:19, Neratovice;17:55
+9535: : Neratovice;18:36, Praha Masarykovo nádraží;19:20
+9518: : Praha Masarykovo nádraží;20:47, Neratovice;21:31
+9519: : Neratovice;21:36, Praha Masarykovo nádraží;22:20
+211848pksv: X: Praha Masarykovo nádraží;22:30, Praha-Vršovice;22:50
+111848sv: 25: Praha Masarykovo nádraží;22:30, Praha-Vršovice;22:50
+
+9501: 25: Neratovice;5:36, Praha Masarykovo nádraží;6:20
+129403sv: X: Praha-Vršovice;5:49, Praha Masarykovo nádraží;6:08
+9524: X: Praha Masarykovo nádraží;6:47, Neratovice;7:31
+1148: 25: Praha Masarykovo nádraží;7:19, Neratovice;7:55
+1141: X: Neratovice;7:59, Praha Masarykovo nádraží;8:35
+9525: 25: Neratovice;8:36, Praha Masarykovo nádraží;9:20
+9506: X: Praha Masarykovo nádraží;9:47, Neratovice;10:31
+9528: 25: Praha Masarykovo nádraží;10:47, Neratovice;11:31
+9509: X: Neratovice;11:36, Praha Masarykovo nádraží;12:20
+9529: 25: Neratovice;12:36, Praha Masarykovo nádraží;13:20
+1144: X: Praha Masarykovo nádraží;13:19, Neratovice;13:55
+9531: X: Neratovice;14:36, Praha Masarykovo nádraží;15:20
+9532: 25: Praha Masarykovo nádraží;14:47, Neratovice;15:31
+1147: 25: Neratovice;15:58, Praha Masarykovo nádraží;16:35
+1944: X: Praha Masarykovo nádraží;16:19, Neratovice;16:55
+9515: X: Neratovice;17:36, Praha Masarykovo nádraží;18:20
+9514: 25: Praha Masarykovo nádraží;17:47, Neratovice;18:31
+1940: X: Praha Masarykovo nádraží;19:19, Neratovice;19:55
+9517: 25: Neratovice;19:36, Praha Masarykovo nádraží;20:20
+9537: X: Neratovice;20:36, Praha Masarykovo nádraží;21:20
+229402pksv: 25: Praha Masarykovo nádraží;21:58, Praha-Vršovice;22:15
+111848sv: X: Praha Masarykovo nádraží;22:30, Praha-Vršovice;22:50
+
+129401sv: X: Praha-Vršovice;4:03, Praha Masarykovo nádraží;4:22
+109500pk: X: Praha Masarykovo nádraží;4:47, Neratovice;5:29
+229411pksv: 25: Praha-Vršovice;4:51, Praha Masarykovo nádraží;5:10
+9501: X: Neratovice;5:36, Praha Masarykovo nádraží;6:20
+9502: 25: Praha Masarykovo nádraží;5:47, Neratovice;6:31
+109524pk: X: Praha Masarykovo nádraží;6:47, Neratovice;7:31
+9505: : Neratovice;7:36, Praha Masarykovo nádraží;8:20
+1146: : Praha Masarykovo nádraží;9:19, Neratovice;9:55
+9527: : Neratovice;10:36, Praha Masarykovo nádraží;11:20
+9530: 25: Praha Masarykovo nádraží;12:47, Neratovice;13:31
+1145: 25: Neratovice;13:58, Praha Masarykovo nádraží;14:35
+9532: X: Praha Masarykovo nádraží;14:47, Neratovice;15:31
+9512: 25: Praha Masarykovo nádraží;15:47, Neratovice;16:31
+1147: X: Neratovice;15:58, Praha Masarykovo nádraží;16:35
+9515: 25: Neratovice;17:36, Praha Masarykovo nádraží;18:20
+9514: X: Praha Masarykovo nádraží;17:47, Neratovice;18:31
+1940: 25: Praha Masarykovo nádraží;19:19, Neratovice;19:55
+9517: X: Neratovice;19:36, Praha Masarykovo nádraží;20:20
+9537: 25: Neratovice;20:36, Praha Masarykovo nádraží;21:20
+9538: X: Praha Masarykovo nádraží;21:47, Neratovice;22:31
+129402sv: 25: Praha Masarykovo nádraží;21:58, Praha-Vršovice;22:15
+
+129411sv: 25: Praha-Vršovice;4:51, Praha Masarykovo nádraží;5:10
+109502pk: 25: Praha Masarykovo nádraží;5:47, Neratovice;6:31
+9503: 25: Neratovice;6:33, Praha Masarykovo nádraží;7:20
+9543: X: Neratovice;6:57, Praha Masarykovo nádraží;7:35
+109526pk: X: Praha Masarykovo nádraží;8:47, Neratovice;9:31
+9526: 25: Praha Masarykovo nádraží;8:47, Neratovice;9:31
+9507: X: Neratovice;9:36, Praha Masarykovo nádraží;10:20
+1143: 25: Neratovice;9:58, Praha Masarykovo nádraží;10:35
+9508: X: Praha Masarykovo nádraží;11:47, Neratovice;12:31
+1144: 25: Praha Masarykovo nádraží;13:19, Neratovice;13:55
+9511: X: Neratovice;13:36, Praha Masarykovo nádraží;14:20
+9531: 25: Neratovice;14:36, Praha Masarykovo nádraží;15:20
+1142: X: Praha Masarykovo nádraží;15:19, Neratovice;15:55
+9533: X: Neratovice;16:36, Praha Masarykovo nádraží;17:20
+9534: 25: Praha Masarykovo nádraží;16:47, Neratovice;17:31
+1149: 25: Neratovice;17:58, Praha Masarykovo nádraží;18:35
+1942: X: Praha Masarykovo nádraží;18:19, Neratovice;18:55
+209517vlož: X: Neratovice;19:36, Praha Masarykovo nádraží;20:20
+9516: 25: Praha Masarykovo nádraží;19:47, Neratovice;20:31
+109519pk: 25: Neratovice;21:36, Praha Masarykovo nádraží;22:20
+129402sv: X: Praha Masarykovo nádraží;21:58, Praha-Vršovice;22:15
+9540: 25: Praha Masarykovo nádraží;22:47, Neratovice;23:31
+
+111842sv: X: Praha-Vršovice;5:40, Neratovice;6:20
+129413sv: 25: Praha-Vršovice;5:49, Praha Masarykovo nádraží;6:08
+9503: X: Neratovice;6:33, Praha Masarykovo nádraží;7:20
+9504: : Praha Masarykovo nádraží;7:47, Neratovice;8:31
+1945: X: Neratovice;8:59, Praha Masarykovo nádraží;9:35
+9507: 25: Neratovice;9:36, Praha Masarykovo nádraží;10:20
+9508: 25: Praha Masarykovo nádraží;11:47, Neratovice;12:31
+9511: 25: Neratovice;13:36, Praha Masarykovo nádraží;14:20
+9510: X: Praha Masarykovo nádraží;13:47, Neratovice;14:31
+111843sv: X: Neratovice;15:00, Praha Masarykovo nádraží;15:40
+1142: 25: Praha Masarykovo nádraží;15:19, Neratovice;15:55
+9533: 25: Neratovice;16:36, Praha Masarykovo nádraží;17:20
+9534: X: Praha Masarykovo nádraží;16:47, Neratovice;17:31
+1149: X: Neratovice;17:58, Praha Masarykovo nádraží;18:35
+9536: 25: Praha Masarykovo nádraží;18:47, Neratovice;19:31
+9516: X: Praha Masarykovo nádraží;19:47, Neratovice;20:31
+1151: 25: Neratovice;19:58, Praha Masarykovo nádraží;20:35
+109519pk: X: Neratovice;20:36, Praha Masarykovo nádraží;22:20
+9538: 25: Praha Masarykovo nádraží;21:47, Neratovice;22:31
+9540: X: Praha Masarykovo nádraží;22:47, Neratovice;23:31
+9539: 25: Neratovice;23:08, Praha hl.n.;23:50
+9551: X: Neratovice;23:33, Praha hl.n.;0:13
+
+
+1:5,6:5
+2:5:1
+2:6:6
+4:5:3
+4:7:4
+5:6:3
+5:7:5
+6:5,6:2

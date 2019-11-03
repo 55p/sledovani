@@ -1,0 +1,121 @@
+15844: X: Nymburk hl.n.;4:50, Poříčany;5:11
+5875: 6: Nymburk hl.n.;4:52, Kolín;5:19
+9480: 6: Kolín;5:48, Nymburk hl.n.;6:17
+15849: X: Poříčany;5:48, Nymburk hl.n.;6:10
+15850: X: Nymburk hl.n.;6:13, Poříčany;6:34
+15854: X6: Nymburk hl.n.;7:16, Poříčany;7:37
+15855: X: Poříčany;7:50, Nymburk hl.n.;8:11
+15855: 6: Poříčany;7:50, Nymburk hl.n.;8:11
+15856: 6: Nymburk hl.n.;8:16, Poříčany;8:37
+15857: 6: Poříčany;8:50, Nymburk hl.n.;9:11
+15858: 25: Nymburk hl.n.;9:16, Poříčany;9:37
+15859: 25: Poříčany;9:50, Nymburk hl.n.;10:11
+15860: 25: Nymburk hl.n.;10:16, Poříčany;10:37
+15861: 25: Poříčany;10:50, Nymburk hl.n.;11:11
+15862: 25: Nymburk hl.n.;11:20, Poříčany;11:41
+15863: 25: Poříčany;11:50, Nymburk hl.n.;12:11
+15864: 25: Nymburk hl.n.;12:16, Poříčany;12:37
+15865: 25: Poříčany;12:50, Nymburk hl.n.;13:11
+15865: X: Poříčany;12:50, Nymburk hl.n.;13:11
+15866: X: Nymburk hl.n.;13:16, Poříčany;13:37
+15867: X: Poříčany;13:50, Nymburk hl.n.;14:11
+15868: X: Nymburk hl.n.;14:16, Poříčany;14:37
+15869: X: Poříčany;14:50, Nymburk hl.n.;15:11
+15870: X: Nymburk hl.n.;15:16, Poříčany;15:37
+15871: X: Poříčany;15:50, Nymburk hl.n.;16:11
+15872: X: Nymburk hl.n.;16:16, Poříčany;16:37
+15873: X: Poříčany;16:50, Nymburk hl.n.;17:11
+15874: X: Nymburk hl.n.;17:16, Poříčany;17:37
+15875: X: Poříčany;17:50, Nymburk hl.n.;18:11
+15876: X: Nymburk hl.n.;18:16, Poříčany;18:37
+15877: X: Poříčany;18:50, Nymburk hl.n.;19:11
+
+5871: : Nymburk hl.n.;0:22, Kolín;0:50
+122200: X: Kolín;4:07, Sázava;5:27
+22203: X: Sázava;6:06, Kolín;7:25
+2427: X: Kolín;13:51, Zbraslavice;14:48
+2428: X: Zbraslavice;14:58, Kutná Hora hl.n.;15:54
+2431: X: Kutná Hora hl.n.;16:02, Zbraslavice;16:45
+22202: 6: Kolín;6:32, Sázava;7:47
+22205: 6: Sázava;7:56, Kolín;9:15
+22209: 6: Ledečko;12:08, Kolín;13:15
+22210: 6: Kolín;14:46, Ledečko;15:52
+22213: 6: Ledečko;16:06, Kolín;17:15
+2461: 6: Kolín;17:40, Kutná Hora město;17:59
+5951: T,2004,-1904,-0507,-2809:Kolín;7:05, Čáslav;7:25
+2447: T: Čáslav;7:47, Kutná Hora město;8:09
+2444: 7: Kutná Hora město;9:52, Kutná Hora hl.n.;10:00
+2451: 7: Kutná Hora hl.n.;10:19, Kutná Hora město;10:26
+2453: 7: Kutná Hora hl.n.;11:57, Kutná Hora město;12:04
+2448: 7: Kutná Hora město;14:10, Kutná Hora hl.n.;14:18
+2457: 7: Kutná Hora hl.n.;15:28, Kutná Hora město;15:35
+2450: 7: Kutná Hora město;15:54, Kutná Hora hl.n.;16:02
+102430: 7: Zruč nad Sázavou;15:19, Kutná Hora hl.n.;16:54
+102433: 7: Kutná Hora hl.n.;17:02, Zruč nad Sázavou;18:09
+2432: 7: Kutná Hora město;17:46, Kutná Hora hl.n.;17:54
+2463: X7: Kutná Hora hl.n.;18:02, Kutná Hora město;18:09
+2465: X7: Kutná Hora hl.n.;20:02, Kutná Hora město;20:09
+2460: : Kutná Hora město;20:19, Kutná Hora hl.n.;20:27
+2437: : Kutná Hora hl.n.;21:02, Zruč nad Sázavou;22:09
+
+2412: X: Zruč nad Sázavou;4:47, Kutná Hora hl.n.;5:54
+2413: X: Kutná Hora hl.n.;6:09, Zbraslavice;6:56
+2420: 6,7: Zruč nad Sázavou;7:47, Kutná Hora hl.n.;8:54
+2421: XT: Kutná Hora hl.n.;9:02, Zruč nad Sázavou;10:07
+102421pk: 6: Kutná Hora hl.n.;9:02, Zruč nad Sázavou;10:07
+2424: : Zruč nad Sázavou;11:19, Kutná Hora hl.n.;12:54
+2425: : Kutná Hora hl.n.;13:02, Zruč nad Sázavou;14:26
+2430: X: Zruč nad Sázavou;15:19, Kutná Hora hl.n.;16:54
+102430: 6: Zruč nad Sázavou;15:19, Kutná Hora hl.n.;16:54
+2430: 7: Zruč nad Sázavou;15:19, Kutná Hora hl.n.;16:54
+2433: X: Kutná Hora hl.n.;17:02, Zruč nad Sázavou;18:09
+2433: 25: Kutná Hora hl.n.;17:02, Zruč nad Sázavou;18:09
+2436: : Zruč nad Sázavou;19:39, Kutná Hora hl.n.;20:54
+2467: : Kolín;22:07, Kutná Hora město;22:26
+2462: : Kutná Hora město;22:46, Kutná Hora hl.n.;22:54
+2439: : Kutná Hora hl.n.;23:00, Zruč nad Sázavou;0:04
+
+2414: : Zruč nad Sázavou;5:47, Kutná Hora hl.n.;6:54
+2417: X6: Kutná Hora hl.n.;7:09, Zruč nad Sázavou;8:37
+2419: T: Kutná Hora hl.n.;7:19, Zruč nad Sázavou;8:37
+2422: : Zruč nad Sázavou;9:19, Kutná Hora hl.n.;10:54
+2423: : Kutná Hora hl.n.;11:02, Zruč nad Sázavou;12:09
+2426: : Zruč nad Sázavou;13:37, Kutná Hora hl.n.;14:54
+2429: : Kutná Hora hl.n.;15:02, Zruč nad Sázavou;16:09
+2434: : Zruč nad Sázavou;17:19, Kutná Hora hl.n.;18:54
+2435: : Kutná Hora hl.n.;19:02, Zruč nad Sázavou;20:28
+2438: 6: Zruč nad Sázavou;21:17, Kolín;22:47
+
+2410: X6: Zruč nad Sázavou;3:47, Kutná Hora hl.n.;4:54
+2411: X: Kutná Hora hl.n.;5:09, Zruč nad Sázavou;6:37
+2418: X: Zruč nad Sázavou;6:47, Kutná Hora hl.n.;7:57
+2441: 6: Kutná Hora hl.n.;5:28, Kutná Hora město;5:35
+2412: 6: Kutná Hora město;5:46, Kutná Hora hl.n.;5:54
+22202: T: Kolín;6:32, Sázava;7:47
+22205: T: Sázava;7:56, Kolín;9:15
+2447: 6: Kutná Hora hl.n.;8:02, Kutná Hora město;8:09
+22204: X: Kolín;8:46, Ledečko;9:52
+2444: 6: Kutná Hora město;9:52, Kutná Hora hl.n.;10:00
+22207: X: Ledečko;10:06, Kolín;11:15
+2451: 6: Kutná Hora hl.n.;10:19, Kutná Hora město;10:26
+22206: T: Kolín;10:46, Ledečko;11:52
+2446: 6: Kutná Hora město;11:40, Kutná Hora hl.n.;11:48
+2453: 6: Kutná Hora hl.n.;11:57, Kutná Hora město;12:04
+22208: X: Kolín;12:20, Ledečko;13:29
+22209: T: Ledečko;12:08, Kolín;13:15
+22211: X: Ledečko;14:06, Kolín;15:15
+2448: 6: Kutná Hora město;14:10, Kutná Hora hl.n.;14:18
+22210: T: Kolín;14:46, Ledečko;15:52
+2457: 6: Kutná Hora hl.n.;15:28, Kutná Hora město;15:35
+22222: X: Kolín;15:46, Uhlířské Janovice;16:26
+2450: 6: Kutná Hora město;15:54, Kutná Hora hl.n.;16:02
+22213: T: Ledečko;16:06, Kolín;17:15
+2459: 6: Kutná Hora hl.n.;16:33, Kutná Hora město;16:40
+102430: 6: Kutná Hora město;16:46, Kutná Hora hl.n.;16:54
+2433: 6: Kutná Hora hl.n.;17:02, Zruč nad Sázavou;18:09
+2456: 6: Kutná Hora město;17:30, Kolín;17:50
+22225: X: Uhlířské Janovice;17:32, Kolín;18:15
+22214: : Kolín;18:46, Ledečko;19:52
+22219: X: Ledečko;20:06, Kolín;21:23
+22217: 25: Ledečko;20:06, Kolín;21:13
+5878: : Kolín;23:37, Nymburk hl.n.;0:05

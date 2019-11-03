@@ -1,0 +1,7 @@
+﻿229401pksv: X: Praha-Vršovice;4:03, Praha Masarykovo nádraží;4:22
+9502pk: X: Praha Masarykovo nádraží;5:47, Neratovice;6:31
+9545: X: Neratovice;8:09, Praha Masarykovo nádraží;8:53
+129400sv: X: Praha Masarykovo nádraží;9:58, Praha-Vršovice;10:18
+
+
+1:1234567:0

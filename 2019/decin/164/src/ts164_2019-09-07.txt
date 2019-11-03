@@ -1,0 +1,50 @@
+6823: X: Chomutov;4:39, Děčín hl.n.;6:24
+6802: X: Děčín hl.n.;7:30, Kadaň-Prunéřov;9:29
+6805: X: Kadaň-Prunéřov;10:29, Děčín hl.n.;12:24
+71263: T,-2710: Děčín hl.n.;1:00, Ústí nad Labem hl.n.;1:20
+
+71261: X2345: Děčín hl.n.;0:08, Ústí nad Labem hl.n.;0:22
+781: X6: Ústí nad Labem západ;4:47, Kolín;6:40
+794: X6: Kolín;7:14, Ústí nad Labem západ;9:10
+787: X6: Ústí nad Labem západ;10:47, Kolín;12:40
+788: X6: Kolín;13:14, Ústí nad Labem západ;15:10
+793: X6: Ústí nad Labem západ;16:47, Kolín;18:40
+782: X6: Kolín;19:14, Ústí nad Labem západ;21:10
+
+6401: X: Ústí nad Labem západ;5:03, Kolín;7:58
+5872: X: Kolín;8:29, Nymburk hl.n.;8:56
+787: T: Ústí nad Labem západ;10:47, Kolín;12:40
+788: T: Kolín;13:14, Ústí nad Labem západ;15:10
+793: T: Ústí nad Labem západ;16:47, Kolín;18:40
+782: T: Kolín;19:14, Ústí nad Labem západ;21:10
+
+6404: X: Nymburk hl.n.;6:31, Ústí nad Labem západ;8:51
+1657: X: Ústí nad Labem hl.n.;14:43, Lovosice;14:58
+1656: X: Lovosice;15:22, Ústí nad Labem západ;15:38
+6431: X: Ústí nad Labem západ;17:03, Mělník;18:03
+
+6443: X: Mělník;5:02, Kolín;6:58
+5904pk: X: Kolín;7:29, Nymburk hl.n.;7:56
+5879: X: Nymburk hl.n.;8:01, Kolín;8:28
+5874: X: Kolín;9:29, Nymburk hl.n.;9:56
+9460: X: Nymburk hl.n.;14:31, Lysá nad Labem;14:48
+9461: X: Lysá nad Labem;15:07, Poděbrady;15:34
+9462: X: Poděbrady;16:21, Lysá nad Labem;16:48
+9463: X: Lysá nad Labem;17:07, Poděbrady;17:34
+9464: X: Poděbrady;18:21, Nymburk hl.n.;18:30
+
+6402: X: Nymburk hl.n.;5:31, Ústí nad Labem západ;7:51
+1655: X: Ústí nad Labem hl.n.;12:43, Roudnice nad Labem;13:11
+1654: X: Roudnice nad Labem;14:26, Ústí nad Labem hl.n.;14:54
+1696: X: Ústí nad Labem hl.n.;15:46, Chomutov;16:49
+
+
+1:5:0
+2:5:2
+3:7:3
+4:67:4
+5:67:5
+6:67:6
+6:5:3
+3:6:2
+2:7:1

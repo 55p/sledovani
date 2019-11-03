@@ -1,0 +1,21 @@
+﻿4191sv: X1: Brno dolní nádraží;3:00, Nesovice;3:35
+4140: X: Nesovice;3:52, Brno hl.n.;4:51
+4103: X: Brno hl.n.;5:19, Veselí nad Moravou;7:05
+112205pk: X: Veselí nad Moravou;7:16, Uherské Hradiště;7:36
+4304: X: Uherské Hradiště;8:19, Staré Město u Uherského Hradiště;8:25
+1724: X: Staré Město u Uherského Hradiště;8:33, Brno-Židenice;10:28
+4149: X1234: Brno-Slatina;16:00, Nemotice;16:52
+4154: X1234: Nemotice;17:11, Brno-Slatina;18:06
+4155: X1234: Brno-Slatina;19:00, Nesovice;19:42
+4147: X5: Brno-Slatina;15:00, Nemotice;15:52
+4152: X5: Nemotice;16:11, Brno-Slatina;17:05
+4153: X5: Brno-Slatina;18:00, Kyjov;19:05
+4179: X5: Kyjov;19:08, Veselí nad Moravou;19:35
+4174: X5: Veselí nad Moravou;20:05, Kyjov;20:34
+4101: 6: Kyjov;5:30, Uherské Hradiště;6:33
+4302: 6: Uherské Hradiště;7:12, Staré Město u Uherského Hradiště;7:18
+4110: 6: Staré Město u Uherského Hradiště;7:31, Brno-Židenice;9:45
+1722: T: Bylnice;5:05, Brno-Židenice;8:29
+4828: 25: Brno hl.n.;10:45, Náměšť nad Oslavou;11:40
+4835: 25: Náměšť nad Oslavou;12:21, Brno hl.n.;13:13
+1735: 6: Brno-Židenice;19:32, Bylnice;22:36

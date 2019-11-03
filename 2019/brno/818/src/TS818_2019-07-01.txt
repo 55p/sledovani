@@ -1,0 +1,31 @@
+﻿4144: X: Kyjov;4:53, Brno-Židenice;6:09
+1723: X1234: Brno-Židenice;9:32, Staré Město u Uherského Hradiště;11:27
+1728: X1234: Staré Město u Uherského Hradiště;12:33, Brno-Židenice;14:28
+4812: X5: Brno hl.n.;12:45, Jihlava;15:49
+4819: X5: Jihlava;19:33, Brno hl.n.;22:10
+4159: X5: Brno-Židenice;23:15, Nemotice;0:09
+4104: T: Veselí nad Moravou;5:00, Brno-Židenice;6:45
+1721: T: Brno-Židenice;7:36, Staré Město u Uherského Hradiště;9:27
+1726: T: Staré Město u Uherského Hradiště;10:33, Brno-Židenice;12:28
+1729: T: Brno-Židenice;13:32, Staré Město u Uherského Hradiště;15:27
+4369: T: Staré Město u Uherského Hradiště;16:04, Uherské Hradiště;16:10
+4342: T: Bojkovice město;15:33, Staré Město u Uherského Hradiště;16:23
+1732: T: Staré Město u Uherského Hradiště;16:33, Brno-Židenice;18:28
+1735: zX: Brno-Židenice;19:32, Bylnice;22:36
+
+4302: X: Bylnice;5:45, Staré Město u Uherského Hradiště;7:18
+4110: X: Staré Město u Uherského Hradiště;7:31, Brno-Židenice;9:45
+4145: X: Brno-Židenice;13:56, Nemotice;14:52
+4150: X: Nemotice;15:11, Brno-Slatina;16:05
+4151: X: Brno-Slatina;17:00, Kyjov;18:06
+4179: X1234: Kyjov;19:08, Veselí nad Moravou;19:35
+4174: X1234: Veselí nad Moravou;20:05, Kyjov;20:34
+4180: 6: Nemotice;0:24, Nesovice;0:32
+4108: 6: Nesovice;7:19, Brno-Židenice;8:09
+1729: 6: Brno-Židenice;13:32, Staré Město u Uherského Hradiště;15:27
+4345pk: 6: Staré Město u Uherského Hradiště;15:36, Uherské Hradiště;15:42
+4366: 6: Uherské Hradiště;15:44, Staré Město u Uherského Hradiště;15:50
+4369: 6: Staré Město u Uherského Hradiště;16:04, Uherské Hradiště;16:10
+4342: 6: Uherské Hradiště;16:18, Staré Město u Uherského Hradiště;16:23
+1732: 6: Staré Město u Uherského Hradiště;16:33, Brno-Židenice;18:28
+4125: 6: Brno hl.n.;20:11, Veselí nad Moravou;22:05

@@ -1,0 +1,80 @@
+7142: X: Králíky;4:10, Ústí nad Orlicí;5:15
+7147: X: Ústí nad Orlicí;5:27, Letohrad;5:47
+7150: X: Letohrad;5:52, Ústí nad Orlicí;6:10
+5071: X: Ústí nad Orlicí;6:52, Česká Třebová;7:06
+20543: 6: králíky;4:37, Moravský Karlov;4:50
+7150: 6: Moravský Karlov;4:53, Ústí nad Orlicí;6:10
+7149: 6: Ústí nad Orlicí;6:17, Mlýnický Dvůr;7:37
+20548: 6: Mlýnický Dvůr;7:58,Lichkov;8:33
+20555: 6: Lichkov;9:03, Mlýnický Dvůr;9:41
+20550: 6: Mlýnický Dvůr;9:58, Lichkov;10:32
+20559: 6: Lichkov;11:29, Moravský Karlov;11:59
+20520: T,-2809: Králiky;7:20, Hanušovice;7:58
+20521: T,-2809: Hanušovice;8:09, Králíky;8:51
+20522: T,-2809: Králíky;9:04, Hanušovice;9:44
+20524: T,-2809: Hanušovice;10:09, Králíky;10:53
+1020573: T,-2809: Králíky;10:57, Moravský Karlov;11:10
+20552: 25: Moravský Karlov;12:03, Lichkov;12:32
+20561: 25: Lichkov;13:29, Moravský Karlov;13:59
+7174: 25: Moravský Karlov;14:02, Lichkov;14:32
+7165: X: Česká Třebová;13:17, Červená Voda;14:59
+20554: X: Červená Voda;15:05, Lichkov;15:28
+20563: : Lichkov;15:32, Mlýnický Dvůr;16:08
+7182: X: Mlýnický Dvůr;16:53, Lichkov;17:27
+20567: X: Lichkov;17:30, Mlýnický Dvůr;18:06
+20562: X: Mlýnický Dvůr;18:55, Lichkov;19:29
+20569: X: Lichkov;21:43, Moravský Karlov;22:13
+20568: X: Moravský Karlov;22:17, Červená Voda;22:31
+20558: 25: Mlýnický Dvůr;16:14, Lichkov;16:50
+7180: 6,2710: Lichkov;17:32, Ústí nad Orlicí;18:20
+7175: T,-2809: Lichkov;19:31, Moravský Karlov;19:55
+7175: 6,2710: Ústí nad Orlicí;18:42, Moravský Karlov;19:55
+20564: 6,T: Moravský Karlov;20:01, Letohrad;20:48
+7186: 6: Letohrad;20:50, Ústí nad Orlicí;21:08
+7187: 6: Ústí nad Orlicí;23:01, Králíky;0:04
+7185: T,2809,2710: Letohrad;22:30, Králíky;23:15
+
+7142: 6: Králíky;4:10, Letohrad;4:51
+7143: 6: Letohrad;4:58, Moravský Karlov;5:54
+20542: 6: Moravský Karlov;6:02, Lichkov;6:32
+20551: 6: Lichkov;6:36, Dolní Lipka;6:42
+20520: 6: Dolní Lipka; 7:29, Hanušovice;7:58
+20521: 6: Hanušovice;8:09, Králíky;8:51
+20522: 6: Králíky;9:04, Hanušovice;9:44
+20524: 6: Hanušovice;10:09, Dolní Lipka;10:40
+20573: 6: Dolní Lipka;10:46, Králíky;10:53
+7146: T,2809: Králíky;4:45, Letohrad;5:25
+7149: T,2809: Letohrad;6:33, Mlýnický Dvůr;7:37
+20548: T,2809: Mlýnický Dvůr;7:59, Lichkov;8:33
+20555: T,2809: Lichkov;9:06, Mlýnický Dvůr;9:41
+20550: T,2809: Mlýnický Dvůr;9:58, Lichkov;10:32 
+20573: T,2809: Lichkov;10:36, Králíky;10:53
+20554: 25: Králíky;15:14, Lichkov;15:28
+7176: 25: Lichkov;15:39, Ústí nad Orlicí;16:20
+1649: 6,2710: Ústí nad Orlicí;16:42, Mlýnický Dvůr;17:58
+20560: 6: Mlýnický Dvůr;18:09, Lichkov;18:34
+101648: 6: Lichkov;18:36, Letohrad;19:03
+105036: 6,2710: Letohrad;20:01, Ústí nad Orlicí;20:19
+7179: 6,2710: Ústí nad Orlicí;20:45, Moravský Karlov;22:04
+20568: 6,2710: Moravský Karlov;22:17, Králíky;22:31
+1649: T,-2710: Ústí nad Orlicí;16:42, Dolní Lipka;17:26
+20525: T,-2710: Dolní Lipka;17:28 Hanušovice;17:57
+1648: T,-2710: Hanušovice;18:02, Ústí nad Orlicí;19:20
+7179: T,-2710: Ústí nad Orlicí;20:45, Králíky;21:49
+20545: X: Králíky;5:07, Mlýnický Dvůr;5:25
+20540: X: Mlýnický Dvůr;5:29, Lichkov;6:03
+20549: X: Lichkov;6:05, Králíky;6:20
+20544: X: Králíky;6:29, Lichkov;6:43
+20553: X: Lichkov;7:50, Králíky;8:09
+20548: X: Králíky;8:19, Lichkov;8:33
+20557: X: Lichkov;9:29, Moravský Karlov;9:59
+20550: X: Moravský Karlov;10:02, Lichkov;10:32
+20559: X: Lichkov;11:29, Moravský Karlov;11:59
+20552: X: Moravský Karlov;12:03, Lichkov;12:32
+20561: X: Lichkov;13:29, Moravský Karlov;13:59
+7174: X: Moravský Karlov;14:02, Ústí nad Orlicí;15:20
+107169: X: Ústí nad Orlicí;15:42, Letohrad;16:00
+7180: X: Letohrad;18:02, Ústí nad Orlicí;18:20
+7175: X: Ústí nad Orlicí;18:42, Moravský Karlov;20:01
+20566: X: Moravský Karlov;20:40, Letohrad;21:34
+7185: X: Letohrad;22:30, Králíky;23:15

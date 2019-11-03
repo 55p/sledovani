@@ -1,0 +1,82 @@
+9224: X: Zruč nad Sázavou;4:30, Čerčany;6:14
+9243: X: Čerčany;6:33, Sázava;7:07
+9246: X: Sázava;8:24, Čerčany;8:55
+9209: X: Čerčany;11:14, Světlá nad Sázavou;14:43
+9208: X: Světlá nad Sázavou;15:43, Čerčany;18:46
+9024: X1234: Čerčany;20:05, Praha hl.n.;22:05
+9025: X1234: Praha hl.n.;22:55, Čerčany;0:32
+9222: T: Zruč nad Sázavou;4:18, Čerčany;5:46
+9223: T: Čerčany;7:09, Zruč nad Sázavou;8:47
+9228: T: Zruč nad Sázavou;14:04, Čerčany;15:47
+
+9221: X: Čerčany;3:32, Zruč nad Sázavou;5:14
+9226: X: Zruč nad Sázavou;6:08, Čerčany;7:55
+9207: X: Čerčany;9:09, Světlá nad Sázavou;12:43
+9206: X: Světlá nad Sázavou;13:43, Čerčany;16:46
+9249: X1234: Čerčany;18:03, Sázava;18:38
+9232: X1234: Sázava;22:18, Čerčany;22:49
+9251: X1234: Čerčany;23:03, Ledečko;23:42
+9229: X5: Čerčany;17:03, Zruč nad Sázavou;18:56
+9230: X5: Zruč nad Sázavou;19:12, Čerčany;20:47
+9233: X5: Čerčany;21:03, Zruč nad Sázavou;23:18
+9227: 6: Čerčany;10:14, Zruč nad Sázavou;12:01
+1830: 6: Zruč nad Sázavou;16:00, Čerčany;17:47
+9251: T: Čerčany;23:03, Ledečko;23:42
+
+9242: X: Ledečko;4:44, Čerčany;5:26
+9241: X: Čerčany;5:33, Sázava;6:04
+9244: X: Sázava;6:39, Čerčany;7:15
+9225: X: Čerčany;7:33, Ledeč nad Sázavou;9:41
+9228: X: Ledeč nad Sázavou;13:29, Čerčany;15:47
+9224: 6: Zruč nad Sázavou;4:30, Čerčany;6:14
+9223: 6: Čerčany;7:09, Zruč nad Sázavou;8:47
+9228: 6: Zruč nad Sázavou;14:04, Čerčany;15:47
+9205: T: Čerčany;8:09, Světlá nad Sázavou;11:12
+9204: T: Světlá nad Sázavou;11:43, Čerčany;14:26
+9229: X1234,25: Čerčany;17:03, Zruč nad Sázavou;18:56
+9230: X1234,25: Zruč nad Sázavou;19:12, Čerčany;20:47
+9233: X1234: Čerčany;21:03, Zruč nad Sázavou;23:18
+9249: X5: Čerčany;18:03, Sázava;18:38
+9250: X5: Sázava;19:09, Čerčany;19:47
+9024: X5: Čerčany;20:05, Praha hl.n.;22:05
+9025: X5: Praha hl.n.;22:55, Čerčany;0:32
+9231: 6: Čerčany;21:03, Sázava;21:33
+9232: 6: Sázava;22:18, Čerčany;22:49
+9251: 6: Čerčany;23:03, Ledečko;23:42
+9231: T: Čerčany;21:03, Zruč nad Sázavou;22:29
+
+9220: X: Zruč nad Sázavou;3:27, Čerčany;4:55
+9220: 25: Ledečko;4:15, Čerčany;4:55
+9203: : Čerčany;5:03, Havlíčkův Brod;8:35
+9202: : Havlíčkův Brod;9:48, Čerčany;12:53
+9211: X: Čerčany;13:03, Havlíčkův Brod;17:15
+9270: X: Havlíčkův Brod;18:20, Zruč nad Sázavou;19:36
+9213: 25: Čerčany;15:03, Světlá nad Sázavou;18:12
+9270: 25: Světlá nad Sázavou;18:43, Zruč nad Sázavou;19:36
+9273: XT: Zruč nad Sázavou;19:46, Světlá nad Sázavou;20:38
+9274: XT: Světlá nad Sázavou;21:43, Kácov;22:57
+9273: 6: Zruč nad Sázavou;19:46, Ledeč nad Sázavou;20:12
+9274: 6: Ledeč nad Sázavou;22:09, Kácov;22:57
+
+9261: X: Kácov;4:00, Světlá nad Sázavou;5:12
+9262: X: Světlá nad Sázavou;6:02, Zruč nad Sázavou zastávka;6:59
+9281: X: Zruč nad Sázavou zastávka;7:02, Zruč nad Sázavou;7:06
+109203pk: X: Zruč nad Sázavou;7:09, Světlá nad Sázavou;8:12
+9200: X: Světlá nad Sázavou;8:16, Čerčany;10:53
+9245: X: Čerčany;14:03, Ledečko;14:48
+109228pk: X: Ledeč nad Sázavou;13:29, Čerčany;15:47
+9247: X: Čerčany;16:03, Sázava;16:38
+9248: X: Sázava;17:09, Čerčany;17:47
+9217: X: Čerčany;19:03, Světlá nad Sázavou;22:45
+9276: X: Světlá nad Sázavou;22:54, Ledeč nad Sázavou;23:19
+9263: 25: Kácov;4:54, Havlíčkův Brod;6:35
+9200: 25: Havlíčkův Brod;7:50, Čerčany;10:53
+9211: 6: Čerčany;13:03, Světlá nad Sázavou;16:51
+109209pk: T: Čerčany;11:14, Zruč nad Sázavou;13:35
+9211: T: Zruč nad Sázavou;15:45, Světlá nad Sázavou;16:51
+9268: 25: Světlá nad Sázavou;17:16, Zruč nad Sázavou zastávka;18:20
+9271: 25: Zruč nad Sázavou zastávka;18:28, Světlá nad Sázavou;19:36
+9272: 25: Světlá nad Sázavou;19:43, Ledeč nad Sázavou;20:08
+
+3:5:1
+6:5:4

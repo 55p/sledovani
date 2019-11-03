@@ -1,0 +1,26 @@
+1722: X: Uherský Brod;6:05, Uherské Hradiště;6:27
+70250: X: Uherské Hradiště;6:40, Staré Město u Uherského Hradiště;6:46
+881: X: Staré Město u Uherského Hradiště;6:56, Uherský Brod;7:22
+890: X: Uherský Brod;9:10, Staré Město u Uherského Hradiště;9:33
+885: X: Staré Město u Uherského Hradiště;10:27, Uherský Brod;10:53
+886: X: Uherský Brod;13:10, Staré Město u Uherského Hradiště;13:33
+889: X: Staré Město u Uherského Hradiště;14:27, Uherský Brod;14:53
+882: X: Uherský Brod;17:10, Staré Město u Uherského Hradiště;17:33
+10850sv: X: Staré Město u Uherského Hradiště;17:54, Veselí nad Moravou;18:30
+894: 6: Zlín střed;5:31, Otrokovice;5:44
+70240: 6: Otrokovice;5:56, Uherské Hradiště;6:17
+101722: 6: Uherské Hradiště;6:35, Brno-Židenice;8:29
+1723: 6: Brno-Židenice;9:32, Staré Město u Uherského Hradiště;11:27
+1728: 6: Staré Město u Uherského Hradiště;12:33, Brno-Židenice;14:28
+
+10851sv: X: Veselí nad Moravou;3:40, Uherský Brod;4:20
+1720: X: Uherský Brod;5:24, Brno hl.n.;7:37
+14162: X: Brno hl.n.;7:43, Brno-Židenice;7:46
+1725: X1234: Brno-Židenice;11:32, Staré Město u Uherského Hradiště;13:27
+1730: X1234: Staré Město u Uherského Hradiště;14:33, Brno-Židenice;16:28
+1723: X5: Brno-Židenice;9:32, Staré Město u Uherského Hradiště;11:27
+1728: X5: Staré Město u Uherského Hradiště;12:33, Brno-Židenice;14:28
+1731: X5: Brno-Židenice;15:32, Staré Město u Uherského Hradiště;17:27
+1733: zX: Brno-Židenice;17:32, Uherský Brod;19:41
+70241: X5: Staré Město u Uherského Hradiště;21:43, Otrokovice;21:55
+897: X5: Otrokovice;22:14, Zlín střed;22:26

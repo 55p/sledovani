@@ -1,0 +1,14 @@
+﻿4303: X: Kyjov;4:38, Uherský Brod;6:04
+104304pk: X: Uherský Brod;7:52, Staré Město u Uherského Hradiště;8:25
+1726: X: Staré Město u Uherského Hradiště;10:33, Brno-Židenice;12:28
+1729: X1234: Brno-Židenice;13:32, Staré Město u Uherského Hradiště;15:27
+1732: X1234: Staré Město u Uherského Hradiště;16:33, Brno-Židenice;18:28
+4147: X5: Brno-Slatina;15:00, Nemotice;15:52
+4152: X5: Nemotice;16:05, Brno-Slatina;16:59
+4125: X5: Brno hl.n.;20:11, Veselí nad Moravou;22:05
+4102: 6: Veselí nad Moravou;3:57, Brno hl.n.;5:51
+4109: 6: Brno hl.n.;6:17, Veselí nad Moravou;8:05
+101731pk: 6: Veselí nad Moravou;17:02, Staré Město u Uherského Hradiště;17:27
+12257: T: Staré Město u Uherského Hradiště;18:06, Uherské Hradiště;18:12
+1734: T: Uherské Hradiště;18:40, Brno-Židenice;20:28
+4127: zX: Brno hl.n.;22:25, Kyjov;23:40

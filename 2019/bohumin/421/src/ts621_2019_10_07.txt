@@ -2,7 +2,7 @@
 3053:X6: Mošnov\, Ostrava Airport;6:35, Ostrava hl.n.;7:06
 3360:X6: Ostrava hl.n.;7:39, Suchdol nad Odrou;8:14
 3360:T: Bohumín;7:31, Suchdol nad Odrou;8:14
-3361:: Suchdol nad Odrou;9:54, Ostrava-Svinov;10:18
+3361:: Suchdol nad Odrou;9:54, Ostrava-Svinov;10:16
 3364:: Ostrava-Svinov;11:42, Suchdol nad Odrou;12:04
 3365:: Suchdol nad Odrou;12:49, Ostrava hl.n.;13:20
 3058:: Ostrava hl.n.;14:49, Mošnov\, Ostrava Airport;15:22

@@ -1,0 +1,42 @@
+7150: 7 : Letohrad; 5:32, Ústí n. Orlicí; 6:10
+7149pk: 7 : Ústí n. Orlicí; 6:17, Letohrad; 6:31
+1948: 25 : Letohrad; 7:29, Hradec Králové hl.n; 8:53
+101780pk: X : Hradec Králové hl.n; 6:02, Smiřice; 6:10
+101785: X : Smiřice; 6:49, Pardubice hl.n; 7:26
+1949pk: X : Pardubice hl.n; 8:37, Letohrad; 10:27
+1949pk: 25 : Hradec Králové hl.n; 9:05, Letohrad; 10:27
+1952: : Letohrad; 11:33, Hradec Králové hl.n; 12:52
+101953pk: : Hradec Králové hl.n; 13:05, Letohrad; 14:31 
+1956: : Letohrad; 15:33, Hradec Králové hl.n; 16:53
+101795: T : Hradec Králové hl.n; 16:58, Pardubice hl.n; 17:16
+101854: T : Pardubice hl.n; 17:45, Hradec Králové hl.n; 18:04
+1959pk: X2,X4 : Hradec Králové hl.n; 19:05, Letohrad; 20:27
+7186: X2,X4 : Letohrad; 20:50, Ústí n. Orlicí; 21:08
+7183pk: X2,X4 : Ústí n. Orlicí; 22:04, Letohrad; 22:22
+
+7141pk: X : Letohrad; 3:47, Králíky; 4:25
+7146: X : Králíky; 4:45, Ústí n. Orlicí; 5:47
+7149pk: X : Ústí n. Orlicí; 6:17, Moravský Karlov; 7:32
+1950: X : Moravský Karlov; 7:36, Hradec Králové hl.n; 9:53
+1950: X : Letohrad; 8:33, Hradec Králové hl.n; 9:53
+101780: T : Hradec Králové hl.n; 6:02, Smiřice; 6:10
+101785pk: T : Smiřice; 6:49, Hradec Králové hl.n; 6:59
+1947pk: 25 : Hradec Králové hl.n; 7:05, Letohrad; 8:27
+1951pk: : Hradec Králové hl.n; 11:05, Letohrad; 12:31
+1954: : Letohrad; 13:33, Hradec Králové hl.n; 14:53
+101957pk: : Hradec Králové hl.n; 15:06, Letohrad; 16:31
+1958: : Letohrad; 17:33, Hradec Králové hl.n; 18:53
+1959pk: X1,X3,X5, 25 : Hradec Králové hl.n; 19:05, Letohrad; 20:27
+7186: X1,X3,X5, 25 : Letohrad; 20:50, Ústí n. Orlicí; 21:08
+7183pk: X1,X3,X5, 25 : Ústí n. Orlicí; 22:04, Letohrad; 22:22
+
+101949pk: 6 : Hradec Králové hl.n; 9:05, Letohrad; 10:27
+101952pk: 6 : Letohrad; 11:33, Hradec Králové hl.n; 12:52
+99990: XT : záloha Hradec Králové; 0:00; 23:59
+
+
+2:56:1
+2:137:2
+3:6:2
+1:1367:3
+3:5:3

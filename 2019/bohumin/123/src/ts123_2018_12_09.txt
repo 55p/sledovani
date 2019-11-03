@@ -1,6 +1,6 @@
 ﻿2991sv:X1: Bohumín;3:00, Návsí;3:43
 3302:X,-2712,-2812,-3112: Návsí;4:12, Přerov;6:55
-3302:T,2712,2812,2912,3012,3112: Bohumín;5:18, Přerov;6:55
+103302:T,2712,2812,2912,3012,3112: Bohumín;5:18, Přerov;6:55
 3862:: Přerov;14:06, Olomouc hl.n.;14:27
 3827:: Olomouc hl.n.;15:34, Nezamyslice;16:34
 3834:10: Nezamyslice;17:24, Olomouc hl.n.;18:27
@@ -13,7 +13,7 @@
 3710:: Olomouc hl.n.;6:33, Kouty nad Desnou;8:06
 13039:X: Kouty nad Desnou;12:28, Šumperk;13:05
 3727:X: Šumperk;13:29, Nezamyslice;15:18
-3727:25: Kouty nad Desnou;12:50, Prostějov hl.n.
+3727:25: Kouty nad Desnou;12:50, Prostějov hl.n.;14:58
 3732: 23: Nezamyslice;15:40, Kouty nad Desnou;18:04
 3732: 25,-2412: Prostějov hl.n.;16:00, Kouty nad Desnou;18:04
 3732: 2412,3112: Prostějov hl.n.;16:00, Olomouc hl.n.;16:26

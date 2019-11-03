@@ -284,10 +284,26 @@ br + .lakVozidla {
   color: #FFFFFF;
   background-color: #5BD23E;
 }
+.pardubicky_810 {
+  color: #004080;
+  background-color: #fff;
+}
 
 .regionova {
   color: #008000;
   background-color: #FDF002;
+}
+.regionova_loutky {
+  color: #804000;
+  background-color: #FDF002;
+}
+.rn_pardubicky_vysocina {
+  color: #00B900;
+  background-color: #fff;
+}
+.rn_pardubicky {
+  color: #E60000;
+  background-color: #fff;
 }
 .regionova_modra_polep {
   color: #001C9D;
@@ -516,6 +532,12 @@ br + .lakVozidla {
   background: #393C46;
   color: #ADADAD;
 }
+.leo_motor {
+  border-top: 0.6ex solid black;
+  padding-top: 0;
+  color: black;
+  background-color: #eee;
+}
 
 .regiojet {
   background: #FFC90F;
@@ -709,10 +731,6 @@ br + .lakVozidla {
 
 
 .cd_cargo {
-  /*
-  background: #9BE3FF;
-  color: #181892;
-  */
   background: #181892;
   color: #fff;
 }
@@ -885,17 +903,22 @@ br + .lakVozidla {
 }
 
 .arriva1 {
-  /*background: #01BA87;*/
   background: #018091;
   color: #EBED94;
 }
 
 .arriva2 {
-  /*background: #01BA87;
-  color: black;
-  */
   background: #018091;
   color: white;
+}
+.arriva3 {
+  border-top: 4px solid black;
+  background: #019AAF;
+  color: #E6E6D5;
+}
+.arriva_modra {
+  background: #0FAED0;
+  color: #ECF9FF ;
 }
 
 .gwtr {

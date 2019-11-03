@@ -1,0 +1,16 @@
+501148sv: 6: Praha-Vršovice;6:00, Praha Masarykovo nádraží;6:30
+101148pk: 6: Praha Masarykovo nádraží;7:12, Kralupy nad Vltavou;:9:47
+301148: 6: Kralupy nad Vltavou;9:50, Železný Brod;11:34
+1147: 6: Železný Brod;14:19, Kralupy nad Vltavou;16:03
+101147pk: T: Turnov;14:44, Kralupy nad Vltavou;16:03
+301147: T: Kralupy nad Vltavou;16:06, Praha Masarykovo nádraží;16:55
+601147pksv: T: Praha Masarykovo nádraží;18:30, Praha-Vršovice;18:00
+
+1143: 6: Turnov;8:44, Neratovice;9:56
+1142: 6: Neratovice;15:57, Turnov;17:12
+601146pksv: T: Praha-Vršovice;8:00, Praha Masarykovo nádraží;8:30
+1146: T: Praha Masarykovo nádraží;9:12, Kralupy nad Vltavou;:9:47
+201146pk: T: Kralupy nad Vltavou;9:50, Železný Brod;11:34
+1149: T: Železný Brod;16:19, Kralupy nad Vltavou;18:03
+101149pk: T: Kralupy nad Vltavou;18:06, Praha Masarykovo nádraží;18:55
+501149sv: T: Praha Masarykovo nádraží;19:30, Praha-Vršovice;20:00

@@ -1,0 +1,6 @@
+﻿12841: X: Frýdek-Místek;04:02, Hnojník;04:20
+12840: X: Hnojník;04:25, Frýdek-Místek;04:48
+3163: 25 : Valašské Meziříčí; 06:15, Frenštát pod Radhoštěm; 06:48
+3125: 25 : Frenštát pod Radhoštěm; 06:51, Frýdek-Místek; 07:26
+3114: z25: Frýdek-Místek;21:34, Valašské Meziříčí;22:45
+

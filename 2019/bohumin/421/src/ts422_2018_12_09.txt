@@ -10,7 +10,7 @@
 3400:37: Ostrava-Kunčice;4:52, Ostrava-Svinov;5:04
 28908sv:2512,0101: Bohumín;5:31, Ostrava-Svinov;5:45
 2853:25: Ostrava-Svinov;5:48, Ostrava-Kunčice;6:00
-1603:25: Ostrava-Kunčice;6:08, Havířov;6:17
+101603:25: Ostrava-Kunčice;6:08, Havířov;6:17
 1606:25: Havířov;6:33, Ostrava-Stodolní;6:49
 1607:25: Ostrava-Stodolní;8:00, Havířov;8:18
 1610:25: Havířov;8:33, Ostrava-Stodolní;8:49
@@ -30,7 +30,7 @@
 1604:X: Český Těšín;5:15, Ostrava-Stodolní;5:56
 101604sv:X: Ostrava-Stodolní;5:57, Ostrava báňské n.;5:59
 102835sv:X: Ostrava báňské n.;6:08, Ostrava-Kunčice;6:15
-2835:X: Ostrava-Kunčice;6:35, Český Těšín;7:07
+2835:X: Ostrava-Kunčice;6:34, Český Těšín;7:07
 3410:X: Český Těšín;7:45, Opava východ;9:13
 3411:X: Opava východ;9:42, Český Těšín;11:07
 3418:X: Český Těšín;11:45, Opava východ;13:13

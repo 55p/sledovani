@@ -1,0 +1,17 @@
+932: : Trutnov hl.n.;6:33, Česká Skalice;7:17
+921: : Česká Skalice.;8:41, Trutnov hl.n.;9:30
+928: : Trutnov hl.n.;10:33, Česká Skalice;11:17
+925: : Česká Skalice;12:41, Trutnov hl.n.;13:30
+924: : Trutnov hl.n.;14:33, Česká Skalice;15:17
+929: : Česká Skalice;16:41, Trutnov hl.n.;17:30
+920: : Trutnov hl.n.;18:33, Česká Skalice;19:17
+1796: : Česká Skalice;20:41, Trutnov hl.n.;21:28
+
+1785: : Trutnov hl.n.;5:33, Česká Skalice;6:17
+1780: : Česká Skalice;6:41, Trutnov hl.n.;7:30
+930: : Trutnov hl.n.;8:33, Česká Skalice;9:17
+923: : Česká Skalice;10:41, Trutnov hl.n.;11:30
+926: : Trutnov hl.n.;12:33, Česká Skalice;13:17
+927: : Česká Skalice;14:41, Trutnov hl.n.;15:30
+922: : Trutnov hl.n.;16:33, Česká Skalice;17:17
+931: : Česká Skalice;18:41, Trutnov hl.n.;19:30

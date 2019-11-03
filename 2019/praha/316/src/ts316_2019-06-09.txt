@@ -1,14 +1,14 @@
-﻿9915: X: Praha-Radotín;6:33, Praha hl.n.;6:54
+9915: X: Praha-Radotín;6:33, Praha hl.n.;6:54
 885: : Praha hl.n.;6:58, Staré Město u Uherského Hradiště;10:18
 888: : Staré Město u Uherského Hradiště;11:43, Praha-Smíchov;15:16
 895: : Praha-Smíchov;16:46, Staré Město u Uherského Hradiště;20:15
 
 896: X: Staré Město u Uherského Hradiště;4:21, Praha hl.n.;7:39
 887: X: Praha hl.n.;8:58, Staré Město u Uherského Hradiště;12:15
-896: 6: Staré Město u Uherského Hradiště;4:21, Praha-Smíchov;8:00
-887: 6: Praha-Smíchov;8:47, Staré Město u Uherského Hradiště;12:15
-3846: T: Přerov;10:05, Olomouc hl.n.;10:27
-887: T: Olomouc hl.n.;11:31, Staré Město u Uherského Hradiště;12:15
+896: 6,0507: Staré Město u Uherského Hradiště;4:21, Praha-Smíchov;8:00
+887: 6,0507: Praha-Smíchov;8:47, Staré Město u Uherského Hradiště;12:15
+3846: T,-0507: Přerov;10:05, Olomouc hl.n.;10:27
+887: T,-0507: Olomouc hl.n.;11:31, Staré Město u Uherského Hradiště;12:15
 886: : Staré Město u Uherského Hradiště;13:43, Praha-Smíchov;17:16
 897: : Praha-Smíchov;18:46, Otrokovice;22:04
 

@@ -1,0 +1,103 @@
+9224: X: Zruè nad Sázavou;4:30, Èerèany;6:14
+9243: X: Èerèany;6:33, Sázava;7:07
+9246: X: Sázava;8:24, Èerèany;8:55
+9209: X: Èerèany;11:14, Svìtlá nad Sázavou;14:43
+9208: X: Svìtlá nad Sázavou;15:43, Èerèany;18:46
+9024: X1234: Èerèany;20:05, Praha hl.n.;22:05
+9025: X1234: Praha hl.n.;22:55, Èerèany;0:32
+9227: 6: Èerèany;10:14, Zruè nad Sázavou;12:01
+9228: 6: Zruè nad Sázavou;14:04, Èerèany;15:47
+9222: T: Zruè nad Sázavou;4:18, Èerèany;5:46
+9223: T: Èerèany;7:09, Zruè nad Sázavou;8:47
+9280: T: Zruè nad Sázavou;9:52, Zruè nad Sázavou zastávka;9:55
+9205: T: Zruè nad Sázavou zastávka;9:58, Svìtlá nad Sázavou;11:12
+9204: T: Svìtlá nad Sázavou;11:43, Èerèany;14:26
+
+9221: X: Èerèany;3:32, Zruè nad Sázavou;5:14
+9226: X: Zruè nad Sázavou;6:08, Èerèany;7:55
+9207: : Èerèany;9:09, Svìtlá nad Sázavou;12:43
+9206: : Svìtlá nad Sázavou;13:43, Èerèany;16:46
+9249: X1234: Èerèany;18:03, Sázava;18:38
+9232: X1234: Sázava;22:18, Èerèany;22:49
+9251: X1234: Èerèany;23:03, Ledeèko;23:42
+9229: X5: Èerèany;17:03, Zruè nad Sázavou;18:56
+9230: X5: Zruè nad Sázavou;19:12, Èerèany;20:47
+9233: X5: Èerèany;21:03, Zruè nad Sázavou;23:18
+9251: T: Èerèany;23:03, Ledeèko;23:42
+
+9242: X: Ledeèko;4:44, Èerèany;5:26
+9241: X: Èerèany;5:33, Sázava;6:04
+9244: X: Sázava;6:39, Èerèany;7:15
+9225: X: Èerèany;7:33, Ledeè nad Sázavou;9:41
+9228: X: Ledeè nad Sázavou;13:29, Èerèany;15:47
+9224: 6: Zruè nad Sázavou;4:30, Èerèany;6:14
+9223: 6: Èerèany;7:09, Zruè nad Sázavou;8:47
+9280: 6: Zruè nad Sázavou;9:52, Zruè nad Sázavou zastávka;9:55
+9205: 6: Zruè nad Sázavou zastávka;9:58, Svìtlá nad Sázavou;11:12
+9204: 6: Svìtlá nad Sázavou;11:43, Èerèany;14:26
+109209pk: T: Èerèany;11:14, Zruè nad Sázavou;13:35
+9228: T: Zruè nad Sázavou;14:04, Èerèany;15:47
+9229: X1234,25: Èerèany;17:03, Zruè nad Sázavou;18:56
+9230: X1234,25: Zruè nad Sázavou;19:12, Èerèany;20:47
+9233: X1234: Èerèany;21:03, Zruè nad Sázavou;23:18
+9249: X5: Èerèany;18:03, Sázava;18:38
+9250: X5: Sázava;19:09, Èerèany;19:47
+9024: X5: Èerèany;20:05, Praha hl.n.;22:05
+9025: X5: Praha hl.n.;22:55, Èerèany;0:32
+9231: 6: Èerèany;21:03, Sázava;21:33
+9232: 6: Sázava;22:18, Èerèany;22:49
+9251: 6: Èerèany;23:03, Ledeèko;23:42
+9231: T: Èerèany;21:03, Zruè nad Sázavou;22:29
+
+9220: X: Zruè nad Sázavou;3:27, Èerèany;4:55
+9220: 25: Ledeèko;4:15, Èerèany;4:55
+9203: : Èerèany;5:03, Havlíèkùv Brod;8:35
+9202: : Havlíèkùv Brod;9:48, Èerèany;12:53
+9211: X: Èerèany;13:03, Havlíèkùv Brod;17:15
+9270: X: Havlíèkùv Brod;18:20, Zruè nad Sázavou;19:36
+9213: 25: Èerèany;15:03, Svìtlá nad Sázavou;18:12
+9270: 25: Svìtlá nad Sázavou;18:43, Zruè nad Sázavou;19:36
+9273: XT: Zruè nad Sázavou;19:46, Svìtlá nad Sázavou;20:38
+9274: XT: Svìtlá nad Sázavou;21:43, Kácov;22:57
+9273: 6: Zruè nad Sázavou;19:46, Ledeè nad Sázavou;20:12
+9274: 6: Ledeè nad Sázavou;22:09, Kácov;22:57
+
+9261: X: Kácov;4:00, Svìtlá nad Sázavou;5:12
+9262: X: Svìtlá nad Sázavou;6:02, Zruè nad Sázavou zastávka;6:59
+9281: X: Zruè nad Sázavou zastávka;7:02, Zruè nad Sázavou;7:06
+109203pk: X: Zruè nad Sázavou;7:09, Svìtlá nad Sázavou;8:12
+9200: X: Svìtlá nad Sázavou;8:16, Èerèany;10:53
+9245: X: Èerèany;14:03, Ledeèko;14:48
+109228pk: X: Ledeè nad Sázavou;13:29, Èerèany;15:47
+9247: X: Èerèany;16:03, Sázava;16:38
+9248: X: Sázava;17:09, Èerèany;17:47
+9217: X: Èerèany;19:03, Svìtlá nad Sázavou;22:45
+9276: X: Svìtlá nad Sázavou;22:54, Ledeè nad Sázavou;23:19
+9263: 25: Kácov;4:54, Havlíèkùv Brod;6:35
+9200: 25: Havlíèkùv Brod;7:50, Èerèany;10:53
+9211: 25: Èerèany;13:03, Svìtlá nad Sázavou;16:51
+9268: 25: Svìtlá nad Sázavou;17:16, Zruè nad Sázavou zastávka;18:20
+9271: 25: Zruè nad Sázavou zastávka;18:28, Svìtlá nad Sázavou;19:36
+9272: 25: Svìtlá nad Sázavou;19:43, Ledeè nad Sázavou;20:08
+
+9260: : Ledeè nad Sázavou;4:50, Zruè nad Sázavou zastávka;5:21
+9265: X: Zruè nad Sázavou zastávka;5:38, Svìtlá nad Sázavou;6:57
+9264: X: Svìtlá nad Sázavou;7:16, Zruè nad Sázavou;8:15
+9280: X: Zruè nad Sázavou;9:52, Zruè nad Sázavou zastávka;9:55
+9205: X: Zruè nad Sázavou zastávka;9:58, Svìtlá nad Sázavou;11:12
+9204: X: Svìtlá nad Sázavou;11:43, Èerèany;14:26
+9213: X: Èerèany;15:03, Ledeè nad Sázavou;17:28
+9268: X: Ledeè nad Sázavou;17:47, Zruè nad Sázavou zastávka;18:20
+9271: X: Zruè nad Sázavou zastávka;18:28, Svìtlá nad Sázavou;19:36
+9272: X: Svìtlá nad Sázavou;19:43, Zruè nad Sázavou;20:43
+9232: X5: Zruè nad Sázavou;21:20, Èerèany;22:49
+9251: X5: Èerèany;23:03, Ledeèko;23:42
+9265: 25: Zruè nad Sázavou zastávka;5:38, Zruè nad Sázavou;5:42
+9226: 25: Zruè nad Sázavou;6:08, Èerèany;7:55
+9209: 25: Èerèany;11:14, Svìtlá nad Sázavou;14:43
+9208: 25: Svìtlá nad Sázavou;15:43, Èerèany;18:46
+9217: 25: Èerèany;19:03, Zruè nad Sázavou;20:51
+
+
+3:5:1
+6:5:4

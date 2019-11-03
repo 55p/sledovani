@@ -69,7 +69,7 @@
 5402: 2512, 0101 : Turnov; 6:40, Liberec; 7:24
 5402: 25 : Stará Paka; 5:40, Liberec; 7:24
 1265: : Liberec; 8:03, Pardubice hl.n; 10:54
-1268: : Pardubice hl.n; 11:03, Liberec; 13:55
+1268: : Pardubice hl.n; 13:03, Liberec; 15:55
 5413: : Liberec; 16:30, Stará Paka; 18:21
 5413: 12 : Liberec; 16:30, Horka u Starý Paky; 18:42
 5476pk: 23 : Horka u Starý Paky; 19:11, Stará Paka; 19:21

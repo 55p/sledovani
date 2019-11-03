@@ -21,7 +21,8 @@
 140: : Žilina;14:27, Praha hl.n.;19:39
 443: : Praha hl.n.;22:19, Bohumín;2:34
 
-341: : Bohumín;6:44, Žilina;8:33
+29341sv: : Bohumín;5:42, Ostrava-Svinov;5:54
+341: : Ostrava-Svinov;6:44, Žilina;8:33
 142: : Žilina;10:27, Praha hl.n.;15:39
 545: XT: Praha hl.n.;18:24, Návsí;22:57
 545: 6: Praha hl.n.;18:24, Bohumín;22:03
@@ -47,3 +48,4 @@
 514: : Opava východ;6:00, Praha hl.n.;9:19
 143: : Praha hl.n.;12:24, Žilina;17:33
 340: : Žilina;19:27, Ostrava-Svinov;21:15
+29340sv: : Ostrava-Svinov;21:55, Bohumín;22:07

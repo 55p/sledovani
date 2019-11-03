@@ -1,0 +1,20 @@
+4821: X6: Třebíč;3:51, Brno hl.n.;5:12
+104422| zadní|zadní část: X: Brno hl.n.;5:49, Moravské Bránice;6:28
+4405: X: Moravské Bránice;6:31, Brno hl.n.;7:01
+4806: X: Brno hl.n.;7:45, Jihlava;10:19
+4811: X: Jihlava;11:30, Brno hl.n.;14:10
+4836: X: Brno hl.n.;15:05, Zastávka u Brna;15:34
+4839: X: Zastávka u Brna;15:58, Brno hl.n.;16:52
+4842: X: Brno hl.n.;17:05, Zastávka u Brna;17:34
+4845: X: Zastávka u Brna;17:58, Brno hl.n.;18:40
+4822: 6: Brno hl.n.;5:42, Třebíč;7:07
+4868: 6: Třebíč;7:36, Jihlava;8:27
+4801: T: Okříšky;5:24, Náměšť nad Oslavou;6:06
+4868: T: Náměšť nad Oslavou;7:12, Jihlava;8:27
+4809: 25: Jihlava;9:30, Brno hl.n.;12:10
+4812: 25: Brno hl.n.;12:45, Náměšť nad Oslavou;13:40
+4837: 25: Náměšť nad Oslavou;14:20, Brno hl.n.;15:14
+4816: 25: Brno hl.n.;15:45, Jihlava;18:22
+4819: 25: Jihlava;19:33, Brno hl.n.;22:10
+4856: XT: Brno hl.n.;22:45, Třebíč;0:01
+4856: 6: Brno hl.n.;22:45, Okříšky;0:18

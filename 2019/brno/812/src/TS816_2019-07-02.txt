@@ -1,0 +1,18 @@
+﻿4812: X1234: Brno hl.n.;12:45, Jihlava;15:49
+4819: X1234: Jihlava;19:33, Brno hl.n.;22:10
+4434: X1234: Brno hl.n.;22:54, Moravské Bránice;23:26
+11497sv: X1234: Moravské Bránice;23:30, Brno-Horní Heršpice;23:56
+1922: X5: Brno hl.n.;15:22, Moravské Bránice;15:58
+104435| zadní|zadní část: X5: Moravské Bránice;16:31, Brno hl.n.;17:04
+1926: X5: Brno hl.n.;17:22, Moravské Bránice;17:58
+104437| zadní|zadní část: X5: Moravské Bránice;18:31, Brno hl.n.;19:04
+11482sv: X5: Brno-Horní Heršpice;20:50, Moravské Bránice;21:15
+4419: X5: Moravské Bránice;21:51, Brno hl.n.;22:24
+4115: 6: Brno-Židenice;10:19, Uherské Hradiště;12:28
+4116: 6: Uherské Hradiště;13:32, Brno hl.n.;15:55
+1725: T: Brno-Židenice;11:32, Staré Město u Uherského Hradiště;13:27
+4343pk: T: Staré Město u Uherského Hradiště;13:36, Uherské Hradiště;13:42
+4364: T: Uherské Hradiště;13:44, Staré Město u Uherského Hradiště;13:50
+4367: T: Staré Město u Uherského Hradiště;14:04, Uherské Hradiště;14:10
+4340pk: T: Uherské Hradiště;14:18, Staré Město u Uherského Hradiště;14:24
+1730: T: Staré Město u Uherského Hradiště;14:33, Brno-Židenice;16:28

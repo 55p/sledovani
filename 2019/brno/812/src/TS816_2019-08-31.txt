@@ -1,0 +1,91 @@
+﻿4441: 6: Ivančice;0:28, Střelice;0:49
+4440: 6: Střelice;0:56, Ivančice;1:19
+14401: X6: Ivančice;4:13, Moravské Bránice;4:23
+14400: X6: Moravské Bránice;4:31, Ivančice;4:41
+14403: X: Ivančice;4:46, Moravské Bránice;4:56
+14402: X: Moravské Bránice;5:01, Ivančice;5:11
+14405: X6: Ivančice;5:16, Moravské Bránice;5:26
+104423| přední|přední část: X: Moravské Bránice;5:31, Brno hl.n.;6:01
+104424| zadní|zadní část: X: Brno hl.n.;6:49, Moravské Bránice;7:27
+14412: X: Moravské Bránice;7:31, Ivančice;7:41
+14413: X: Ivančice;7:46, Moravské Bránice;7:56
+14414: X: Moravské Bránice;8:01, Ivančice;8:11
+14415: X: Ivančice;8:16, Moravské Bránice;8:26
+104407| přední|přední část: X: Moravské Bránice;8:31, Brno hl.n.;9:01
+1922: X: Brno hl.n.;15:22, Hrušovany nad Jevišovkou;16:47
+14404: 6: Moravské Bránice;5:31, Ivančice;5:41
+14409: 6: Ivančice;6:16, Moravské Bránice;6:26
+14408: 6: Moravské Bránice;6:33, Ivančice;6:43
+4443: 6: Ivančice;7:16, Brno hl.n.;8:04
+4416: 6: Brno hl.n.;19:54, Moravské Bránice;20:26
+14436: 6: Moravské Bránice;20:31, Ivančice;20:41
+14437: 6: Ivančice;21:16, Moravské Bránice;21:26
+14438: 6: Moravské Bránice;21:31, Ivančice;21:41
+14439: 6: Ivančice;22:16, Moravské Bránice;22:26
+14440: 6: Moravské Bránice;22:31, Ivančice;22:41
+14441: 6: Ivančice;23:16, Moravské Bránice;23:26
+14442: 6: Moravské Bránice;23:31, Ivančice;23:41
+4509: T: Znojmo;9:00, Břeclav;10:16
+4510: T: Břeclav;11:40, Znojmo;12:59
+4519: T: Znojmo;15:00, Břeclav;16:19
+4522: T: Břeclav;17:40, Znojmo;18:57
+4561: T: Znojmo;21:00, Hrušovany nad Jevišovkou;21:27
+
+4403: X: Hrušovany nad Jevišovkou;5:10, Brno hl.n.;6:31
+4442| zadní|zadní část: X: Brno hl.n.;7:54, Ivančice;8:41
+4445: X: Ivančice;9:16, Moravské Bránice;9:26
+14416: X: Moravské Bránice;9:31, Ivančice;9:41
+14417: X: Ivančice;10:16, Moravské Bránice;10:26
+4444: X: Moravské Bránice;10:31, Ivančice;10:41
+4447: X: Ivančice;11:16, Moravské Bránice;11:26
+14418: X: Moravské Bránice;11:31, Ivančice;11:41
+14419: X: Ivančice;12:16, Moravské Bránice;12:26
+4446: X: Moravské Bránice;12:31, Ivančice;12:41
+4449: X: Ivančice;13:16, Moravské Bránice;13:26
+14420: X: Moravské Bránice;13:31, Ivančice;13:41
+14421: X: Ivančice;14:16, Moravské Bránice;14:26
+104411| přední|přední část: X: Moravské Bránice;14:31, Brno hl.n.;15:04
+4450| zadní|zadní část: X: Brno hl.n.;15:54, Ivančice;16:41
+14429: X: Ivančice;16:46, Moravské Bránice;16:56
+14428: X: Moravské Bránice;17:01, Ivančice;17:11
+4453| přední|přední část: X: Ivančice;17:16, Brno hl.n.;18:04
+104414| zadní|zadní část: X: Brno hl.n.;18:54, Moravské Bránice;19:26
+4505: 6: Hrušovany nad Jevišovkou;6:30, Břeclav; 7:15
+4506: 6: Břeclav;7:40, Znojmo;8:55
+4511: 6: Znojmo;11:00, Břeclav;12:17
+4514: 6: Břeclav;13:40, Znojmo;14:59
+4523: 6: Znojmo;17:00, Břeclav;18:18
+4524: 6: Břeclav;19:40, Znojmo;20:59
+4441: T: Ivančice;0:28, Střelice;0:49
+4440: T: Střelice;0:56, Ivančice;1:19
+14401: T: Ivančice;4:13, Moravské Bránice;4:23
+14400: T: Moravské Bránice;4:31, Ivančice;4:41
+14405: T: Ivančice;5:16, Moravské Bránice;5:26
+14404: T: Moravské Bránice;5:31, Ivančice;5:41
+14409: T: Ivančice;6:16, Moravské Bránice;6:26
+14408: T: Moravské Bránice;6:33, Ivančice;6:43
+4443: T: Ivančice;7:16, Brno hl.n.;8:04
+104446| přední|přední část: T: Brno hl.n.;11:54, Moravské Bránice;12:26
+4430: T: Moravské Bránice;12:29, Bohutice;12:50
+4431: T: Bohutice;13:07, Moravské Bránice;13:28
+14420: T: Moravské Bránice;13:31, Ivančice;13:41
+14421: T: Ivančice;14:16, Moravské Bránice;14:26
+4462: T: Moravské Bránice;14:29, Bohutice;14:50
+4433: T: Bohutice;15:07, Moravské Bránice;15:28
+14424: T: Moravské Bránice;15:31, Ivančice;15:41
+14427: T: Ivančice;16:16, Moravské Bránice;16:26
+4464: T: Moravské Bránice;16:29, Bohutice;16:50
+4465: T: Bohutice;17:07, Moravské Bránice;17:28
+14430: T: Moravské Bránice;17:31, Ivančice;17:41
+14433: T: Ivančice;18:16, Moravské Bránice;18:26
+4466: T: Moravské Bránice;18:29, Bohutice;18:50
+4467: T: Bohutice;19:07, Moravské Bránice;19:28
+14434: XT: Moravské Bránice;19:31, Ivančice;19:41
+14435: XT: Ivančice;20:16, Moravské Bránice;20:26
+14436: XT: Moravské Bránice;20:31, Ivančice;20:41
+14437: XT: Ivančice;21:16, Moravské Bránice;21:26
+14438: XT: Moravské Bránice;21:31, Ivančice;21:41
+14439: XT: Ivančice;22:16, Moravské Bránice;22:26
+14440: XT: Moravské Bránice;22:31, Ivančice;22:41
+14441: XT: Ivančice;23:16, Moravské Bránice;23:26
+14442: XT: Moravské Bránice;23:31, Ivančice;23:41

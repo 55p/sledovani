@@ -2,6 +2,8 @@
 // sem patri definice skupin.
 $skupiny = [];
 
+include 'vychozi_stanice.php';
+
 if (defined('ID_TABULKY')) {
   $sql = 'SELECT * FROM skupiny WHERE tabulka_id = '.ID_TABULKY.' ORDER BY rank ASC';
 } else {

@@ -1,0 +1,134 @@
+1800pk: X6: Trutnov hl.n.;4:17, Kolín;7:10
+1800pk: T: Chlumec nad Cidlinou;6:35, Kolín;7:10
+1110: : Kolín;7:44, Česká Lípa;9:33
+6009: : Česká Lípa hl.n; 10:17, Mladá Boleslav hl.n; 11:21
+6022: : Mladá Boleslav hl.n; 12:37, Česká Lípa hl.n; 13:33
+1107pk: : Česká Lípa hl.n;14:24, Kolín;16:10
+1819: : Kolín;16:42, Trutnov hl.n.;19:50
+5107: X6 : Trutnov hl.n; 20:33, Starkoč; 21:09
+10269: X6 : Starkoč; 21:11, Česká Skalice; 21:17
+10268pk: X6 : Česká Skalice; 22:50, Starkoč; 22:56
+105108pk: X6 : Starkoč; 22:57, Trutnov hl.n; 22:35
+
+1781: X : Trutnov hl.n; 4:33, Česká Skalice; 5:17
+5102pk: X : Česká Skalice; 5:20, Trutnov hl.n; 6:10
+1802pk: X: Trutnov hl.n.;6:14, Chlumec nad Cidlinou;8:25
+1807: X: Chlumec nad Cidlinou;9:32, Trutnov hl.n.;11:50
+1812pk: X: Trutnov hl.n.;12:11, Kolín;15:10
+1104: X : Kolín;15:44, Česká Lípa hl.n;17:33
+1111pk: X1234: Česká Lípa hl.n;18:24, Mladá Boleslav hl.n.;19:20
+1100: X1234: Mladá Boleslav hl.n.;20:37, Česká Lípa hl.n;21:32
+6071pk: X1234 : Česká Lípa hl.n; 21:37, Doksy; 21:54
+6070: X1234 : Doksy; 22:02, Česká Lípa hl.n;22:19
+1111pk: X5: Česká Lípa hl.n;18:24, Kolín;20:10
+1802pk: 25 : Trutnov hl.n.;6:14, Kolín;9:10
+1108: 25 : Kolín;9:44, Česká Lípa;11:33
+1105pk: 25 : Česká Lípa hl.n;12:24, Kolín;14:10
+1815: 25 : Kolín;14:42, Trutnov hl.n.;17:37
+1820pk: 25 : Trutnov hl.n.;18:24, Chlumec nad Cidlinou;20:25
+
+1801: X6: Kolín;4:52, Trutnov hl.n.;7:41
+1806pk: X: Trutnov hl.n.;8:11, Kolín;11:10
+1813: X : Kolín;12:42, Trutnov hl.n.;15:50
+1818pk: X5: Trutnov hl.n.;16:11, Kolín;19:10
+1100: X5: Mladá Boleslav hl.n.;20:37, Česká Lípa hl.n;21:32
+6071: X5 : Česká Lípa hl.n; 21:37, Doksy; 21:54
+6070: X5 : Doksy; 22:02, Česká Lípa hl.n;22:19
+1804pk: 6: Trutnov hl.n.;8:09, Chlumec nad Cidlinou;10:25
+1809: 6: Chlumec nad Cidlinou;11:32, Trutnov hl.n.;13:37
+1814pk: 6 : Trutnov hl.n.;14:24, Kolín;17:10
+1102: 6 : Kolín;17:44, Česká Lípa hl.n;19:33
+6021pk: 6 : Česká Lípa hl.n;20:24, Mladá Boleslav hl.n.;21:23
+1810pk: T: Trutnov hl.n.;12:09, Kolín;15:10
+1104: T : Kolín;15:44, Česká Lípa hl.n;17:33
+1111pk: T: Česká Lípa hl.n;18:24, Kolín;20:10
+
+5730pk: X: Trutnov hl.n.;4:46, Vrchlabí;5:33
+25701: X: Vrchlabí;5:48, Kunčice nad Labem;5:55
+25702pk: X: Kunčice nad Labem;6:01, Vrchlabí;6:08
+5737: X: Vrchlabí;6:38, Trutnov hl.n.;7:27
+9300: 25: Kolín;1:08, Praha hl.n.;2:20
+9303pk: 25: Praha hl.n.;2:30, Kolín;3:42
+1803: 25: Kolín;6:42, Trutnov hl.n.;9:35
+1808pk: : Trutnov hl.n.;10:24, Kolín;13:10
+1106: : Kolín;13:44, Česká Lípa hl.n;15:33
+1109pk: : Šluknov;14:58, Kolín;18:10
+1821: : Kolín;18:42, Trutnov hl.n.;21:44
+
+6098: X : Mladá Boleslav hl.n; 4:54, Mladá Boleslav město; 5:00 
+1929pk: X : Mladá Boleslav město;5:07, Nymburk hl.n.;5:50
+1992: X : Nymburk hl.n; 6:04, Česká Lípa hl.n; 7:33 
+1103pk: X: Česká Lípa hl.n;7:14, Kolín;10:10
+1809: X : Kolín;10:24, Trutnov hl.n.;13:37
+1818pk: X1234: Trutnov hl.n.;16:11, Kolín;19:10
+1810pk: 6: Trutnov hl.n.;12:09, Kolín;15:10
+1104: 6: Kolín;15:44, Rumburk;18:36
+1111pk: 6: Česká Lípa hl.n;18:24, Kolín;20:10
+1804pk: T: Trutnov hl.n.;8:09, Chlumec nad Cidlinou;10:25
+1809: T: Chlumec nad Cidlinou;11:32, Trutnov hl.n.;13:37
+1814pk: X5, T : Trutnov hl.n.;14:24, Kolín;17:10
+1102: X5, T : Kolín;17:44, Česká Lípa hl.n;19:33
+6021pk: X5, T : Česká Lípa hl.n;20:24, Mladá Boleslav hl.n.;21:23
+
+1101pk: X: Česká Lípa hl.n;5:22, Kolín;8:10
+1108: X : Kolín;9:44, Česká Lípa hl.n;12:35
+1105pk: X : Česká Lípa hl.n;12:24, Kolín;14:10
+1815: X : Kolín;14:42, Trutnov hl.n.;17:37
+1820pk: X : Trutnov hl.n.;18:24, Chlumec nad Cidlinou;20:25
+5239: X : Chlumec nad Cidlinou;20:47, Hradec Králové hl.n.;21:20
+5238pk: X : Hradec Králové hl.n.;22:35, Chlumec nad Cidlinou;23:06
+6098: 25 : Mladá Boleslav hl.n; 4:54, Mladá Boleslav město; 5:00 
+1929pk: 25 : Mladá Boleslav město;5:07, Nymburk hl.n.;5:50
+1992: 25 : Nymburk hl.n; 6:04, Česká Lípa hl.n; 7:33 
+1103pk: 25: Rumburk;7:14, Kolín;10:10
+1813: 25 : Kolín;12:42, Trutnov hl.n.;15:50
+1816pk: 25 : Trutnov hl.n.;16:09, Kolín;19:10
+1100: 25 : Kolín;19:44, Česká Lípa hl.n;21:32
+6071: 25 : Česká Lípa hl.n; 21:37, Doksy; 21:54
+6070: 25 : Doksy; 22:02, Česká Lípa hl.n;22:19
+
+5240pk: X: Chlumec nad Cidlinou;4:37, Velký Osek;5:00
+5249: X: Velký Osek;5:48, Dobšice nad Cidlinou;5:56
+5248pk: X: Dobšice nad Cidlinou;6:19, Velký Osek;6:27
+1803: X: Velký Osek;6:52, Trutnov hl.n.;9:35
+1814pk: X1234 : Trutnov hl.n.;14:24, Kolín;17:10
+1102: X1234 : Kolín;17:44, Česká Lípa hl.n;19:33
+6021pk: X1234 : Česká Lípa hl.n;20:24, Mladá Boleslav hl.n.;21:23
+1101pk: 25 : Česká Lípa hl.n;5:22, Kolín;8:10
+1807: 25: Kolín;8:42, Trutnov hl.n.;11:50
+15761: X5, 25 : Trutnov hl.n; 13:21, Teplice n. Metují; 14:27
+15776pk: X5, 25 : Teplice n. Metují; 14:31, Adršpach; 14:43
+1875: X5, 25 : Adršpach; 15:15, Choceň; 17:21
+1874pk: X5, 25 : Choceň; 18:39, Trutnov hl.n; 20:30
+
+
+2:1:6
+2:2:6
+2:3:6
+2:4:6
+2:5:4
+2:6:1
+2:7:5
+3:6:6
+3:7:3
+4:1:1
+4:2:1
+4:3:1
+4:4:1
+4:5:1
+4:6:2
+4:7:1
+5:1:3
+5:2:3
+5:3:3
+5:4:3
+5:5:6
+5:6:4
+5:7:5
+6:7:6
+7:1:5
+7:2:5
+7:3:5
+7:4:2
+7:5:2
+7:6:4

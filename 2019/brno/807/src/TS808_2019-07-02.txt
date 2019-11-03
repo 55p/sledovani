@@ -1,0 +1,87 @@
+﻿4828: X: Brno hl.n.;10:45, Náměšť nad Oslavou;11:40
+4835: X: Náměšť nad Oslavou;12:21, Brno hl.n.;13:13
+104814pk: X: Brno hl.n.;13:45, Zastávka u Brna;14:18
+4837: X: Zastávka u Brna;14:44, Brno hl.n.;15:14
+4838: X: Brno hl.n.;16:12, Zastávka u Brna;16:40
+4843: X: Zastávka u Brna;16:57, Brno hl.n.;17:36
+4846: X: Brno hl.n.;18:12, Zastávka u Brna;18:40
+4849: X: Zastávka u Brna;20:42, Brno hl.n.;21:10
+4854: X5: Brno hl.n.;21:45, Zastávka u Brna;22:14
+4851: X5: Zastávka u Brna;22:47, Brno hl.n.;23:16
+1725: 6: Brno-Židenice;11:32, Staré Město u Uherského Hradiště;13:27
+4343pk: 6: Staré Město u Uherského Hradiště;13:36, Uherské Hradiště;13:42
+4364: 6: Uherské Hradiště;13:44, Staré Město u Uherského Hradiště;13:50
+4367: 6: Staré Město u Uherského Hradiště;14:04, Uherské Hradiště;14:10
+4340př: 6: Uherské Hradiště;14:18, Staré Město u Uherského Hradiště;14:24
+1730: 6: Staré Město u Uherského Hradiště;14:33, Brno-Židenice;16:28
+1733: 6: Brno-Židenice;17:32, Bylnice;20:37
+4318: 6: Bylnice;20:55, Kyjov;23:09
+4101: T: Veselí nad Moravou;6:12, Uherské Hradiště;6:33
+4302: T: Uherské Hradiště;7:12, Staré Město u Uherského Hradiště;7:18
+4110: T: Staré Město u Uherského Hradiště;7:31, Brno-Židenice;9:45
+
+11486sv: X: Brno-Horní Heršpice;4:20, Moravské Bránice;4:55
+4401: X: Moravské Bránice;5:01, Brno hl.n.;5:31
+4422| přední|přední část: X: Brno hl.n.;5:49, Moravské Bránice;6:28
+1921: X: Moravské Bránice;6:59, Brno hl.n.;7:25
+4442: X: Brno hl.n.;7:54, Moravské Bránice;8:26
+4407: X: Moravské Bránice;8:31, Brno hl.n.;9:01
+4426: X: Brno hl.n.;9:54, Moravské Bránice;10:26
+4407: X: Moravské Bránice;10:31, Brno hl.n.;11:04
+4426: X: Brno hl.n.;11:54, Moravské Bránice;12:26
+4407: X: Moravské Bránice;12:31, Brno hl.n.;13:04
+4426: X: Brno hl.n.;13:54, Moravské Bránice;14:26
+4407: X: Moravské Bránice;14:31, Brno hl.n.;15:04
+4426: X: Brno hl.n.;15:54, Moravské Bránice;16:26
+4407: X: Moravské Bránice;16:31, Brno hl.n.;17:04
+4426: X: Brno hl.n.;17:54, Moravské Bránice;18:26
+4407: X: Moravské Bránice;18:31, Brno hl.n.;19:04
+4820: 6: Brno hl.n.;0:35, Rapotice;1:18
+4825: 6: Rapotice;5:29, Brno hl.n.;6:10
+4824: 6: Brno hl.n.;6:39, Náměšť nad Oslavou;7:39
+4831: 6: Náměšť nad Oslavou;8:17, Brno hl.n.;9:13
+4102: T: Kyjov;4:25, Brno hl.n.;5:51
+4434: X5,25: Brno hl.n.;22:54, Moravské Bránice;23:26
+11497sv: X5,25: Moravské Bránice;23:33, Brno-Horní Heršpice;23:56
+
+11484sv: : Brno-Horní Heršpice;3:50, Moravské Bránice;4:15
+4421: : Moravské Bránice;4:28, Brno hl.n.;4:55
+4420: X: Brno hl.n.;5:02, Moravské Bránice;5:28
+11488sv: 25: Brno hl.n.;5:02, Moravské Bránice;5:22
+4423: : Moravské Bránice;5:31, Brno hl.n.;6:01
+4424: X: Brno hl.n.;6:49, Moravské Bránice;7:27
+4402: 25: Brno hl.n.;6:49, Moravské Bránice;7:27
+4443: : Moravské Bránice;7:31, Brno hl.n.;8:04
+4404: 25: Brno hl.n.;8:49, Moravské Bránice;9:26
+4445: 25: Moravské Bránice;9:31, Brno hl.n.;10:04
+4428: 6: Brno hl.n.;10:54, Moravské Bránice;11:26
+4447: 6: Moravské Bránice;11:31, Brno hl.n.;12:04
+4408: 25: Brno hl.n.;12:54, Moravské Bránice;13:26
+4449: 25: Moravské Bránice;13:31, Brno hl.n.;14:04
+4410: : Brno hl.n.;14:54, Moravské Bránice;15:26
+4451: 25: Moravské Bránice;15:31, Brno hl.n.;16:04
+1925: X: Moravské Bránice;16:00, Brno hl.n.;16:23
+4412: : Brno hl.n.;16:54, Moravské Bránice;17:26
+4453: : Moravské Bránice;17:31, Brno hl.n.;18:04
+4414: : Brno hl.n.;18:54, Moravské Bránice;19:26
+4455: : Moravské Bránice;19:31, Brno hl.n.;20:04
+4418: : Brno hl.n.;20:54, Moravské Bránice;21:26
+
+4403: X: Moravské Bránice;6:01, Brno hl.n.;6:31
+4424: X: Brno hl.n.;6:49, Moravské Bránice;7:27
+1923: X: Moravské Bránice;7:59, Brno hl.n.;8:24
+4404: X: Brno hl.n.;8:49, Moravské Bránice;9:24
+4425: X: Moravské Bránice;9:31, Brno hl.n.;10:04
+4428: X: Brno hl.n.;10:54, Moravské Bránice;11:26
+4427: X: Moravské Bránice;11:31, Brno hl.n.;12:04
+4408: X: Brno hl.n.;12:54, Moravské Bránice;13:26
+4431: X: Moravské Bránice;13:31, Brno hl.n.;14:04
+1920: X: Brno hl.n.;14:32, Moravské Bránice;14:58
+4433: X: Moravské Bránice;15:31, Brno hl.n.;16:04
+1924: X: Brno hl.n.;16:32, Moravské Bránice;16:58
+104453| zadní|zadní část: X: Moravské Bránice;17:31, Brno hl.n.;18:04
+4416: X5: Brno hl.n.;19:54, Moravské Bránice;20:26
+4417: X5: Moravské Bránice;20:31, Brno hl.n.;21:04
+4432: X5: Brno hl.n.;21:54, Moravské Bránice;22:26
+11495sv: X5: Moravské Bránice;22:33, Brno-Horní Heršpice;22:56
+4127: 6: Brno hl.n.;22:25, Veselí nad Moravou;0:07

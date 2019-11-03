@@ -1,0 +1,6 @@
+4802: X: Zastávka u Brna;4:17, Jihlava;5:56
+14862pk: X: Jihlava;6:05, Jihlava-Bosch Diesel;6:09
+4865: X: Jihlava-Bosch Diesel;6:14, Třebíč;7:12
+4868: X: Třebíč;7:36, Jihlava;8:27
+4809: X: Jihlava;9:30, Brno hl.n.;12:10
+4854: zX: Brno hl.n.;21:45, Zastávka u Brna;22:14

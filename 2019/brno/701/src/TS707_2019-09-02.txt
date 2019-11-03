@@ -1,0 +1,12 @@
+4104: X2345: Nesovice;5:52, Brno-Židenice;6:45
+4147: X1234: Brno-Slatina;15:00, Nemotice;15:52
+4152: X1234: Nemotice;16:11, Brno-Slatina;17:05
+4153: X1234: Brno-Slatina;18:00, Nemotice;18:52
+4182: X1234: Nemotice;19:11, Nesovice;19:21
+4141: X5: Brno-Židenice;11:56, Slavkov u Brna;12:24
+4181: X5: Slavkov u Brna;13:26, Nemotice;13:56
+4148: X5: Nemotice;14:11, Brno-Slatina;15:05
+4149: X5: Brno-Slatina;16:00, Nemotice;16:52
+4154: X5: Nemotice;17:11, Brno-Slatina;18:06
+4155: X5: Brno-Slatina;19:00, Nesovice;19:42
+4158: X5: Nesovice;20:51, Brno-Židenice;21:45

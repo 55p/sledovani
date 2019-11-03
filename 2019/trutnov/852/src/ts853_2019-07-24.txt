@@ -1,0 +1,55 @@
+1781: 6 : Trutnov hl.n; 4:33, Česká Skalice; 5:17
+100932pk: T : Trutnov hl.n; 6:33, Česká Skalice; 7:17
+1782: 25 : Česká Skalice; 7:41, Trutnov hl.n; 8:30
+5120: X1 : Týniště n. Orlicí; 4:46, Václavice; 5:22
+105140pk: X1 : Václavice; 5:28, Teplice nad Metují; 6:07
+15752: X1 : Teplice nad Metují; 6:31, Trutnov hl.n; 7:42
+1789: X : Trutnov hl.n; 9:33, Česká Skalice; 10:18
+1786: X : Česká Skalice; 11:41, Trutnov hl.n; 12:30
+1793: : Trutnov hl.n; 13:33, Česká Skalice; 14:18
+1790: X : Česká Skalice; 15:41, Trutnov hl.n; 16:30
+1790: 25 : Česká Skalice; 15:41, Svoboda nad Úpou; 16:46
+1797: X : Trutnov hl.n; 17:33, Česká Skalice; 18:19
+1797: 25 : Svoboda nad Úpou; 17:12, Česká Skalice; 18:19
+10294sv: XT : Česká Skalice; 19:41, Starkoč; 19:47
+1794: 6 : Česká Skalice; 19:41, Náchod; 19:58
+111874př: XT : Starkoč; 19:50, Trutnov hl.n; 20:30
+
+1787: : Trutnov hl.n; 7:33, Česká Skalice; 8:18
+1784: X : Česká Skalice; 9:41, Trutnov hl.n; 10:30
+1784: 25 : Česká Skalice; 9:41, Svoboda nad Úpou; 10:46
+1791: X : Trutnov hl.n; 11:33, Česká Skalice; 12:18
+1791: 25 : Svoboda nad Úpou; 11:12, Česká Skalice; 12:18
+1788: : Česká Skalice; 13:41, Trutnov hl.n; 14:30
+1795: : Trutnov hl.n; 15:33, Česká Skalice; 16:18
+1792: : Česká Skalice; 17:41, Trutnov hl.n; 18:30
+15767: X1234, T : Trutnov hl.n; 19:21, Meziměstí; 20:50
+5105: 5 : Trutnov hl.n; 19:33, Česká Skalice; 20:17
+101796pk: 5 : Česká Skalice; 20:41, Trutnov hl.n; 21:28
+
+5117: 25 : Náchod; 6:12, Choceň; 7:21
+1871: X : Meziměstí; 5:31, Choceň; 7:21
+1870: : Choceň; 8:39, Adršpach; 10:43
+1873: : Adršpach; 11:15, Choceň; 13:21
+1872: X1234 : Choceň; 14:39, Hronov; 15:48
+1872: X5, 6 : Choceň; 14:39, Adršpach; 16:45
+1872: T : Choceň; 14:39, Teplice nad Metují; 16:14
+15779: X5, 6 : Adršpach; 17:00, Teplice nad Metují; 17:12
+15764: X5, 6 : Teplice nad Metují; 17:31, Trutnov hl.n; 18:42
+15767: X5 : Trutnov hl.n; 19:21, Teplice nad Metují; 20:26
+101769př: X5 : Teplice nad Metují; 20:30, Náchod; 20:58
+1875: X1234 : Hronov; 16:09, Choceň; 17:21
+1874: X1234 : Choceň; 18:39, Trutnov hl.n; 20:30
+1763: T : Teplice nad Metují; 16:30, Starkoč; 17:18
+15168: 7 : Starkoč; 17:25; Václavice; 17:29
+15171: 7 : Václavice; 17:33, Starkoč; 17:37
+101762pk: 7 : Starkoč; 17:41, Náchod; 17:54
+1877: 7 : Náchod; 18:21, Choceň; 19:21
+5638: 7 : Choceň; 20:02, Týniště n. Orlicí; 20:27
+
+
+2:5:1
+1:6:3
+2:6:2
+3:5:3 
+

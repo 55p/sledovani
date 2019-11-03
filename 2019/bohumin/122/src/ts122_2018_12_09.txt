@@ -1,6 +1,6 @@
 ﻿100443:: Bohumín;3:08, Žilina;4:34
 346:: Žilina;7:27, Ostrava-Svinov;9:15
-345:: Ostrava-Svinov;14:14, Žilina;16:33
+345:: Ostrava-Svinov;14:44, Žilina;16:33
 103429:XT_sk: Žilina;17:34, Liptovský Mikuláš;19:16
 103437:6: Žilina;21:57, Liptovský Mikuláš;23:33
 
@@ -9,3 +9,4 @@
 103411:: Žilina;8:34, Liptovský Mikuláš;10:09
 103416:: Liptovský Mikuláš;11:41, Žilina;13:27
 342:: Žilina;15:27, Ostrava-Svinov;17:15
+29342sv:: Ostrava-Svinov;17:48, Bohumín;18:03

@@ -1,0 +1,52 @@
+105330: X: Borová u Poličky;4:48, Pustá Kamenice;4:58
+15325: X: Pustá Kamenice;5:01, Svitavy;5:56
+15360: X: Svitavy;6:35, Česká Třebová;6:51
+15323: 25: Borová u Poličky;5:09, Svitavy;5:52
+15320: 25: Svitavy;6:00, Pustá Kamenice;6:58
+15327: 25: Pustá Kamenice;7:02, Svitavy;7:57
+15362: 25: Svitavy;8:30, Česká Třebová;8:47
+4781: 25: Svitavy;9:04, Březová nad Svitavou;9:38
+4780: 25: Březová nad Svitavou;11:21, Česká Třebová;11:56
+15330: X: Česká Třebová;12:34, Borová u Poličky;13:50
+15335: X: Borová u Poličky;14:15, Svitavy;14:58
+15334: X: Svitavy;15:03, Pustá Kamenice;16:00
+15339: X: Pustá Kamenice;16:03, Svitavy;16:59
+15338: X,T: Svitavy;17:03, Pustá Kamenice;18:00
+15343: X: Pustá Kamenice;18:03, Svitavy;18:59
+15343: T: Pustá Kamenice;18:03, Česká Třebová;19:22
+104763: 6: Česká Třebová;19:05, Svitavy;19:21
+15371: T: Česká Třebová;19:26, Svitavy;19:44
+15342: 7,2810: Svitavy;20:03, Borová u Poličky;20:49
+15342: X6: Svitavy;20:03, Pustá Kamenice;21:00
+15347: X: Pustá Kamenice;21:03, Polička;21:29
+15347: 6: Pustá Kamenice;21:03, Borová u Polička;21:14
+
+5330: X: Polička;4:24, Pardubice hl.n.;6:36
+5357: X: Pardubice hl.n.;7:03, Chhrudim;7:30
+5352: X: Chrudim;8:17, Pardubice hl.n.;8:37
+15352: 6: Polička;6:55, Žďárec u Skutče;8:08
+105300: 6: Žďárec u Skutče;8:11, Pardubice hl.n.;9:03
+5333: X: Pardubice hl.n.;9:03, Slatiňany;9:29
+5354: X: Slatiňany;10:34, Pardubice hl.n.;11:01
+5335: X: Pardubice hl.n.;14:19, Žďárec u Skutče;15:16
+5336: X: Žďárec u Skutče;16:07, Pardubice hl.n.17:03
+5343: X: Pardubice hl.n.;17:19, Žďárec u Skutče;18:17
+15355: 5: Žďárec u Skutče;18:38, Borová u Poličky;19:17
+5345: T,-2809: Pardubice hl.n.;19:03, Žďárec u Skutče;19:54
+5319: 6: Pardubice hl.n.;21:03, Slatiňany;21:27
+5324: 2710: Žďárec u Skutče;21:21, Pardubice hl.n.;22:11
+
+5350: 7,-2710: Chrudim;0:20, Pardubice hl.n.;0:41
+5310: X: ŽĎárec u Skutče;4:05, Pardubice hl.n.;5:00
+5331: X: Pardubice hl.n.;5:14, Borová u Poličky;7:12
+15352: X: Borová u Poličky;7:30, Žďárec u Skutče;8:08
+15353: X: Žďárec u Skutče;8:43, Polička;9:47
+5333: 25: Pardubice hl.n.;9:03, Polička;11:03
+1015330: X: Polička;13:34, Borová u Poličky;13:50
+15356: X: Borová u Poličky;13:52, Žďárec u Skutče;14:30
+15337: X: Žďárec u Skutče;14:36, Svitavy;15:59
+15336: X: Svitavy;16:03, Žďárec u Skutče;17:46
+15358: 25: Polička;16:58, Žďárec u Skutče;18:04
+15355: 1,2,3,4,6,T: Žďárec u Skutče;18:38, Borová u Poličky;19:17
+1015345: 25: Borová u Poličky;19:19, Polička;19:33
+5338: 5: Žďárec u Skutče;18:05, Pardubice hl.n.;19:03

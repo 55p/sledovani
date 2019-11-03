@@ -1,0 +1,150 @@
+﻿11407: X: Hrušovany nad Jevišovkou;5:10, Moravský Krumlov;5:46
+11400: X: Moravský Krumlov;5:48, Bohutice;5:58
+4492sv: T: Rakšice;5:57, Bohutice;6:02
+11409: XT: Bohutice;6:07, Moravský Krumlov;6:16
+11402: X: Moravský Krumlov; 6:48, Bohutice;6:58
+11413: X: Bohutice;7:07, Moravský Krumlov;7:16
+11404: T: Moravský Krumlov;7:40, Bohutice;7:50
+11406: X: Moravský Krumlov;7:48, Bohutice;7:57
+11417: XT: Bohutice;8:07, Moravský Krumlov;8:16
+11494sv: X: Moravský Krumlov;8:20, Znojmo;9:20
+104517pk: X: Znojmo;14:00, Hrušovany nad Jevišovkou;14:26
+11491sv: X: Hrušovany nad Jevišovkou;14:55, Moravský Krumlov;15:29
+11426: X: Moravský Krumlov;16:11, Hrušovany nad Jevišovkou;16:47
+11493sv: X: Hrušovany nad Jevišovkou;16:55, Moravský Krumlov;17:29
+11436: X: Moravský Krumlov;18:11, Hrušovany nad Jevišovkou;18:47
+11410: T: Moravský Krumlov;9:40, Hrušovany nad Jevišovkou;10:14
+11429: T: Hrušovany nad Jevišovkou;13:36, Moravský Krumlov;14:16
+11420: T: Moravský Krumlov;14:40, Bohutice;14:50
+11431: T: Bohutice;15:07, Moravský Krumlov;15:16
+11424: T: Moravský Krumlov;15:40, Hrušovany nad Jevišovkou;16:14
+11441: T: Hrušovany nad Jevišovkou;17:36, Moravský Krumlov;18:16
+11438: T: Moravský Krumlov;18:40, Bohutice;18:50
+11443: T: Bohutice;19:07, Moravský Krumlov;19:16
+11440: T: Moravský Krumlov;19:40, Hrušovany nad Jevišovkou;20:14
+4501: 6: Hrušovany nad Jevišovkou;4:34, Břeclav;5:24
+4502: 6: Břeclav;5:57, Znojmo;7:20
+4509: 6: Znojmo;9:00, Břeclav;10:16
+4510: 6: Břeclav;11:40, Znojmo;12:59
+4519: 6: Znojmo;15:00, Břeclav;16:19
+4522: 6: Břeclav;17:40, Znojmo;18:57
+4561: 6: Znojmo;21:00, Hrušovany nad Jevišovkou;21:27
+
+11403: X: Hrušovany nad Jevišovkou;4:13, Moravský Krumlov;4:46
+11492sv: X: Moravský Krumlov;4:52, Hrušovany nad Jevišovkou;5:40
+11411: X: Hrušovany nad Jevišovkou;6:10, Moravský Krumlov;6:46
+11490sv: X: Moravský Krumlov;6:58, Rakšice;7:03
+4470: X: Rakšice;7:23, Bohutice;7:28
+11415: X: Bohutice;7:37, Moravský Krumlov;7:46
+11408: X: Moravský Krumlov;8:40, Bohutice;8:50
+11419: X: Bohutice;9:07, Moravský Krumlov;9:16
+11410: X: Moravský Krumlov;9:40, Bohutice;9:50
+11421: X: Bohutice;10:07, Moravský Krumlov;10:16
+11409: 6: Hrušovany nad Jevišovkou;5:48, Moravský Krumlov;6:16
+11404: 6: Moravský Krumlov;7:40, Hrušovany nad Jevišovkou;8:14
+11421: 6: Hrušovany nad Jevišovkou;9:36, Moravský Krumlov;10:16
+11412: X6: Moravský Krumlov;10:40, Bohutice;10:50
+11423: X6: Bohutice;11:07, Moravský Krumlov;11:16
+11414: X6: Moravský Krumlov;11:40, Bohutice;11:50
+11425: X6: Bohutice;12:07, Moravský Krumlov;12:16
+11416: X6: Moravský Krumlov;12:40, Bohutice;12:50
+11427: X6: Bohutice;13:07, Moravský Krumlov;13:16
+11418: X: Moravský Krumlov;13:40, Bohutice;13:50
+11429: X: Bohutice;14:07, Moravský Krumlov;14:16
+11420: X: Moravský Krumlov;14:40, Bohutice;14:50
+11431: X: Bohutice;15:07, Moravský Krumlov;15:16
+11424: X: Moravský Krumlov;15:40, Bohutice;15:50
+11433: X: Bohutice;15:59, Moravský Krumlov;16:06
+11418: 6: Moravský Krumlov;13:40, Hrušovany nad Jevišovkou;14:14
+11435: 6: Hrušovany nad Jevišovkou;15:36, Moravský Krumlov;16:16
+11430: X6: Moravský Krumlov;16:40, Bohutice;16:50
+11437: X6: Bohutice;17:07, Moravský Krumlov;17:16
+11434: X: Moravský Krumlov;17:40, Bohutice;17:50
+11439: X: Bohutice;17:59, Moravský Krumlov;18:08
+11438: X: Moravský Krumlov;18:40, Bohutice;18:50
+11443: X: Bohutice;19:07, Moravský Krumlov;19:16
+11440: X: Moravský Krumlov;19:40, Bohutice;19:50
+11445: X: Bohutice;20:07, Moravský Krumlov;20:16
+11434: 6: Moravský Krumlov;17:40, Hrušovany nad Jevišovkou;18:14
+4501: T: Hrušovany nad Jevišovkou;4:34, Břeclav;5:24
+4506: T: Břeclav;7:40, Znojmo;8:55
+4511: T: Znojmo;11:00, Břeclav;12:17
+4514: T: Břeclav;13:40, Znojmo;14:59
+4521: T: Znojmo;16:00, Břeclav;17:16
+4544: T: Břeclav;18:44, Hrušovany nad Jevišovkou;19:29
+11445: 25: Hrušovany nad Jevišovkou;19:36, Moravský Krumlov;20:16
+11442: XT: Moravský Krumlov;20:40, Hrušovany nad Jevišovkou;21:13
+11498sv: 6: Moravský Krumlov;20:24, Rakšice;20:29
+
+4560: X: Hrušovany nad Jevišovkou;4:54, Znojmo;5:22
+4505: X: Znojmo;5:58, Břeclav;7:15
+4506: X: Břeclav;7:40, Znojmo;8:55
+4515: X: Znojmo;13:00, Břeclav;14:18
+4518: X: Břeclav;15:40, Znojmo;16:59
+4525: X: Znojmo;18:00, Břeclav;19:16
+11496: X5: Břeclav;19:24, Brno-Horní Heršpice;19:54
+4509: T: Znojmo;9:00, Břeclav;10:16
+4510: T: Břeclav;11:40, Znojmo;12:59
+4519: T: Znojmo;15:00, Břeclav;16:19
+4522: T: Břeclav;17:40, Znojmo;18:57
+4561: T: Znojmo;21:00, Hrušovany nad Jevišovkou;21:27
+
+4500: X: Břeclav;4:57, Znojmo;6:22
+4509: X: Znojmo;9:00, Břeclav;10:16
+4510: X: Břeclav;11:40, Znojmo;12:59
+4517: X: Znojmo;14:00, Břeclav;15:16
+4520: X: Břeclav;16:46, Znojmo;17:59
+4527: X: Znojmo;19:00, Břeclav;20:17
+4526: X: Břeclav;21:40, Znojmo;22:59
+1927: 25: Brno-Královo Pole;7:42, Šatov;10:18
+1928: 6: Šatov;17:48, Brno-Královo Pole;20:18
+1928: T: Šatov;17:48, Brno dolní nádraží;19:58
+11499sv: T: Brno dolní nádraží;20:30, Břeclav;21:22
+
+4503: X: Znojmo;4:58, Břeclav;6:25
+4512: X: Břeclav;12:44, Znojmo;13:59
+4519: X: Znojmo;15:00, Břeclav;16:19
+4522: X: Břeclav;17:40, Znojmo;18:57
+
+24830: X: Znojmo;4:24, Moravské Budějovice;5:15
+24833: X: Moravské Budějovice;5:43, Znojmo;6:30
+4507: X: Znojmo;6:56, Břeclav;8:15
+4508: X: Břeclav;9:40, Znojmo;10:59
+4513: X: Znojmo;12:00, Břeclav;13:16
+4516: X: Břeclav;14:44, Znojmo;15:59
+4505: 6: Hrušovany nad Jevišovkou;6:30, Břeclav;7:15
+4506: 6: Břeclav;7:40, Znojmo;8:55
+4511: 6: Znojmo;11:00, Břeclav;12:17
+4514: 6: Břeclav;13:40, Znojmo;14:59
+4523: : Znojmo;17:00, Břeclav;18:18
+4524: : Břeclav;19:40, Znojmo;20:59
+4563: X: Znojmo;22:35, Hrušovany nad Jevišovkou;23:12
+
+4501: X1: Znojmo;4:05, Břeclav;5:24
+4501: X2345: Hrušovany nad Jevišovkou;4:34, Břeclav;5:24
+4502: X: Břeclav;5:57, Znojmo;7:20
+4511: X: Znojmo;11:00, Břeclav;12:17
+4514: X: Břeclav;13:40, Znojmo;14:59
+4521: X: Znojmo;16:00, Břeclav;17:16
+4544: X: Břeclav;18:44, Hrušovany nad Jevišovkou;19:29
+4500: 25: Hrušovany nad Jevišovkou;5:54, Znojmo;6:22
+4507: 25: Znojmo;6:56, Břeclav;8:15
+4508: 25: Břeclav;9:40, Znojmo;10:59
+4515: 25: Znojmo;13:00, Břeclav;14:18
+4518: 25: Břeclav;15:40, Znojmo;16:59
+4527: 25: Znojmo;19:00, Břeclav;20:17
+4526: 6: Břeclav;21:40, Hrušovany nad Jevišovkou;22:29
+4526: T: Břeclav;21:40, Znojmo;22:59
+
+
+1: 7: 1
+2: 5: 7
+2: 6: 1
+3: 6: 3
+3: 7: 2
+4: 5: 3
+4: 67: 4
+5: 567: 5
+6: 56: 6
+7: 6: 7
+7: 7: 6

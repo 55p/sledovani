@@ -4,22 +4,22 @@
 108818pk: X: Český Brod;7:08, Praha hl.n.;7:46
 9920: X: Praha hl.n.;7:59, Řevnice;8:33
 300690pksv: 6: Praha jih;8:24, Praha hl.n.;8:35
-200690sv: 7: Praha jih;8:24, Praha hl.n.;8:35
+200690sv: 7, 2810: Praha jih;8:24, Praha hl.n.;8:35
 100690pk: 6: Praha hl.n.;8:51, Děčín hl.n.;10:31
-690: 7: Praha hl.n.;8:51, Děčín hl.n.;10:31
+690: 7, 2810: Praha hl.n.;8:51, Děčín hl.n.;10:31
 9933: X: Řevnice;8:56, Praha hl.n.;9:33
 129206sv: X: Praha hl.n.;9:42, Praha-Smíchov;9:48
-683: 7: Děčín hl.n.;11:26, Praha hl.n.;13:10
-100683sv: 7: Praha hl.n.;13:16, Praha jih;13:27
+683: 7, 2810: Děčín hl.n.;11:26, Praha hl.n.;13:10
+100683sv: 7, 2810: Praha hl.n.;13:16, Praha jih;13:27
 229209pksv: X: Praha-Smíchov;13:26, Praha hl.n.;13:33
 8842: X: Praha hl.n.;13:50, Beroun;14:40
-200684sv: 7: Praha jih;14:27, Praha hl.n.;14:38
+200684sv: 7, 2810: Praha jih;14:27, Praha hl.n.;14:38
 108849pk: X: Beroun;14:50, Český Brod;16:20
-684: 7: Praha hl.n.;14:51, Děčín hl.n.;16:31
+684: 7, 2810: Praha hl.n.;14:51, Děčín hl.n.;16:31
 8856: X: Český Brod;16:34, Beroun;18:10
-100689pk: 7: Děčín hl.n.;17:26, Praha hl.n.;19:10
+100689pk: 7, 2810: Děčín hl.n.;17:26, Praha hl.n.;19:10
 108863pk: X: Beroun;18:20, Český Brod;19:50
-300689pksv: 7: Praha hl.n.;19:17, Praha jih;19:25
+300689pksv: 7, 2810: Praha hl.n.;19:17, Praha jih;19:25
 108892sv| pk PVr-Pji|postrk Praha-Vršovice - Praha jih: X5: Český Brod;20:03, Praha-Vršovice;20:37;20:57, Praha jih;21:01
 
 208899pksv: X1: Praha jih;4:30, Český Brod;5:01
@@ -42,5 +42,5 @@
 108861pk: X: Beroun;17:50, Český Brod;19:20
 200689sv: 6: Praha hl.n.;19:17, Praha jih;19:25
 108890sv| pk PEd-Pji|postrk Praha-Eden - Praha jih: X: Český Brod;19:33, Praha-Eden;20:00;20:07, Praha jih;20:11
-693: 7: Děčín hl.n.;21:51, Praha hl.n.;23:26
-200693sv: 7: Praha hl.n.;23:34, Praha jih;23:42
+693: 7, 2810: Děčín hl.n.;21:51, Praha hl.n.;23:26
+200693sv: 7, 2810: Praha hl.n.;23:34, Praha jih;23:42

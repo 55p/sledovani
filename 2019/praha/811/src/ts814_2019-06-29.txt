@@ -1,0 +1,61 @@
+﻿109597sv: X1: Mladá Boleslav město;0:27, Mladá Boleslav hl.n.;0:33
+9523: X: Mladá Boleslav hl.n.;3:49, Všetaty;4:26
+9550: X: Všetaty;4:28, Mladá Boleslav hl.n.;5:06
+9501: 6,0507,-0607: Mladá Boleslav hl.n.;4:41, Všetaty;5:20
+1941: X: Mladá Boleslav hl.n.;5:21, Všetaty;5:49
+111788sv: X: Všetaty;6:00, Mělník;6:10
+1943: X: Mělník;6:35, Všetaty;6:47
+111790sv: X: Všetaty;7:00, Mladá Boleslav hl.n.;7:41
+1148: 6,0507,-0607: Všetaty;8:04, Harrachov;10:40
+1945: X: Mladá Boleslav hl.n.;8:09, Všetaty;8:49
+1146: X: Všetaty;10:04, Turnov;11:12
+1145: 6,0507,-0607: Harrachov;11:06, Všetaty;13:49
+5426: X: Turnov;11:26, Tanvald;12:10
+105425| vlož ŽBr-Tur|vložený Železný Brod - Turnov: X: Tanvald;13:40, Turnov;14:36
+1147: 7,0607: Tanvald;13:50, Všetaty;15:49
+1144: 6,0507,-0607: Všetaty;14:04, Harrachov;16:40
+1147: X: Turnov;14:44, Všetaty;15:49
+1142: X,7,0607: Všetaty;16:04, Tanvald;18:03
+1151: 6,0507,-0607: Harrachov;17:06, Všetaty;19:49
+111785sv: X1234,7,0607: Tanvald;18:30, Liberec;19:19
+1940: 6,0507,-0607: Všetaty;20:04, Turnov;21:16
+9539: 6,0507,-0607: Turnov;21:30, Všetaty;22:56
+
+111791sv: 6,0507,-0607: Tanvald;5:36, Turnov;6:30
+9562: 7,0607: Mladá Boleslav hl.n.;5:38, Turnov;6:25
+1141: 6,0507,-0607: Turnov;6:44, Všetaty;7:49
+1143: X: Tanvald;7:50, Všetaty;9:49
+1143: 7,0607: Turnov;8:44, Všetaty;9:49
+101148pk: 6,0507,-0607: Všetaty;8:04, Mladá Boleslav hl.n.;8:31
+1146: 7,0607: Všetaty;10:04, Tanvald;12:04
+1146: 6,0507,-0607: Mladá Boleslav hl.n.;10:34, Tanvald;12:04
+9506: X: Všetaty;10:43, Mladá Boleslav hl.n.;11:21
+9511: X: Mladá Boleslav hl.n.;12:37, Všetaty;13:14
+1147: 6,0507,-0607: Tanvald;13:50, Všetaty;15:49
+1946: X: Všetaty;15:06, Turnov;16:29
+1149: 7,0607: Tanvald;15:50, Všetaty;17:49
+1142: 6,0507,-0607: Všetaty;16:04, Turnov;17:12
+1149: X: Turnov;16:44, Všetaty;17:49
+1140: X,7,0607: Všetaty;18:04, Tanvald;20:12
+
+5423: X: Tanvald;5:27, Turnov;6:21
+1141: X,7,0607: Turnov;6:44, Všetaty;7:49
+111786sv: 6,0507,-0607: Liberec;6:50, Tanvald;7:40
+1143: 6,0507,-0607: Tanvald;7:50, Všetaty;9:49
+1148: X: Všetaty;8:04, Tanvald;10:03
+1148: 7,0607: Všetaty;8:04, Harrachov;10:40
+101146| vlož MBh-Tan| vložený Mladá Boleslav hl.n. - Tanvald: 6,0507,-0607: Všetaty;10:04, Tanvald;12:04
+26271: X: Tanvald;10:27, Železný Brod;10:53
+1145: 7,0607: Harrachov;11:06, Všetaty;13:49
+5410: X: Železný Brod;12:12, Turnov;12:31
+1145: X: Turnov;12:44, Všetaty;13:49
+1144: X: Všetaty;14:04, Tanvald;16:03
+1144: 7,0607: Všetaty;14:04, Harrachov;16:40
+1149: 6,0507,-0607: Tanvald;15:50, Všetaty;17:49
+1151: 7,0607: Harrachov;17:06, Všetaty;19:49
+1151: X: Tanvald;17:50, Všetaty;19:49
+1140: 6,0507,-0607: Všetaty;18:04, Tanvald;20:12
+1940: X,7,0607: Všetaty;20:04, Turnov;21:25
+9539: 7,0607: Turnov;21:30, Všetaty;22:56
+9581: X: Turnov;22:42, Mladá Boleslav hl.n.;23:18
+9540: 7,0607: Všetaty;23:40, Mladá Boleslav město;0:22

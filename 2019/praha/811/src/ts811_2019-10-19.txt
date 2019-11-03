@@ -1,0 +1,81 @@
+1241: X1: České Budějovice;5:12, Praha hl.n.;8:37
+1241: vX: Protivín;5:43, Praha hl.n.;8:37
+1243: T: České Budějovice;7:12, Praha hl.n.;10:36
+101241sv: X: Praha hl.n.;8:43, Praha-Vršovice;8:48
+1248: 6: Praha hl.n.;9:37, České Budějovice;12:45
+101243sv: T: Praha hl.n.;10:43, Praha-Vršovice;10:48
+101244sv: X5: Praha-Vršovice;12:49, Praha hl.n.;12:54
+1244: X5: Praha hl.n.;13:24, České Budějovice;16:45
+101242sv: zX: Praha-Vršovice;15:05, Praha hl.n.;15:10
+1249: 6: České Budějovice;15:12, Praha hl.n.;18:37
+1242: zX: Praha hl.n.;15:24, České Budějovice;18:45
+101249sv: 6: Praha hl.n.;18:59, Praha-Vršovice;19:04
+1253: zX: České Budějovice;19:12, Písek;19:56
+129253sv: zX: Písek;20:20, Protivín;20:32
+
+129254sv: X: Protivín;5:26, Písek;5:39
+1254: X: Písek;6:00, České Budějovice;6:42
+225906pksv: 7: Praha-Vršovice;7:05, Praha hl.n.;7:09
+1243: X6: České Budějovice;7:12, Praha hl.n.;10:36
+1250: 7: Praha hl.n.;7:24, České Budějovice;10:45
+101243sv: 6: Praha hl.n.;10:43, Praha-Vršovice;10:48
+1246: X: Praha hl.n.;11:24, České Budějovice;14:45
+101242sv: 6: Praha-Vršovice;15:05, Praha hl.n.;15:10
+1249: X7: České Budějovice;15:12, Praha hl.n.;18:37
+1242: 6: Praha hl.n.;15:24, České Budějovice;18:45
+101249sv: X7: Praha hl.n.;18:59, Praha-Vršovice;19:04
+1253: 6: České Budějovice;19:12, Písek;19:56
+129253sv: 6: Písek;20:20, Protivín;20:32
+
+101250sv: 25: Praha-Vršovice;7:05, Praha hl.n.;7:09
+1250: 25: Praha hl.n.;7:24, České Budějovice;10:45
+1247: 25: České Budějovice;13:12, Praha hl.n.;16:37
+1240: 25: Praha hl.n.;17:24, České Budějovice;20:45
+129413sv: X: Praha-Eden;3:50, Praha Masarykovo nádraží;4:10
+10704: X: Praha Masarykovo nádraží;4:17, Praha-Čakovice;4:39
+10703: X: Praha-Čakovice;4:46, Praha Masarykovo nádraží;5:10
+10706: X: Praha Masarykovo nádraží;5:17, Praha-Čakovice;5:39
+10705: X: Praha-Čakovice;5:46, Praha Masarykovo nádraží;6:10
+10708: X: Praha Masarykovo nádraží;6:17, Praha-Čakovice;6:39
+10707: X: Praha-Čakovice;6:46, Praha Masarykovo nádraží;7:12
+10710: X: Praha Masarykovo nádraží;7:17, Praha-Čakovice;7:39
+10719: X: Praha-Čakovice;12:46, Praha Masarykovo nádraží;13:10
+10722: X: Praha Masarykovo nádraží;13:17, Praha-Čakovice;13:39
+10721: X: Praha-Čakovice;13:46, Praha Masarykovo nádraží;14:10
+10724: X: Praha Masarykovo nádraží;14:17, Praha-Čakovice;14:39
+10723: X: Praha-Čakovice;14:46, Praha Masarykovo nádraží;15:10
+10726: X: Praha Masarykovo nádraží;15:17, Praha-Čakovice;15:39
+10725: X: Praha-Čakovice;15:46, Praha Masarykovo nádraží;16:10
+10728: X: Praha Masarykovo nádraží;16:17, Praha-Čakovice;16:39
+10727: X: Praha-Čakovice;16:46, Praha Masarykovo nádraží;17:10
+10730: X: Praha Masarykovo nádraží;17:17, Praha-Čakovice;17:39
+10729: X: Praha-Čakovice;17:46, Praha Masarykovo nádraží;18:10
+10732: X: Praha Masarykovo nádraží;18:17, Praha-Čakovice;18:39
+10731: X: Praha-Čakovice;18:46, Praha Masarykovo nádraží;19:10
+10734: X: Praha Masarykovo nádraží;19:17, Praha-Čakovice;19:39
+10733: X: Praha-Čakovice;19:46, Praha Masarykovo nádraží;20:10
+10736: X: Praha Masarykovo nádraží;20:17, Praha-Čakovice;20:39
+10735: X: Praha-Čakovice;20:46, Praha Masarykovo nádraží;21:10
+10738: X: Praha Masarykovo nádraží;21:17, Praha-Čakovice;21:39
+10737: X: Praha-Čakovice;21:46, Praha Masarykovo nádraží;22:10
+10740: X: Praha Masarykovo nádraží;22:17, Praha-Čakovice;22:39
+10739: X: Praha-Čakovice;22:46, Praha Masarykovo nádraží;23:10
+10742: X: Praha Masarykovo nádraží;23:17, Praha-Čakovice;23:39
+10741: X: Praha-Čakovice;23:50, Praha hl.n.;0:11
+
+501146sv: 25: Praha-Vršovice;8:00, Praha Masarykovo nádraží;8:30
+101146pk: 25: Praha Masarykovo nádraží;9:12, Kralupy nad Vltavou;:9:47
+301146: 25: Kralupy nad Vltavou;9:50, Železný Brod;11:34
+101149pk: 25: Železný Brod;16:19, Kralupy nad Vltavou;18:03
+301149: 25: Kralupy nad Vltavou;18:06, Praha Masarykovo nádraží;18:55
+601149pksv: 25: Praha Masarykovo nádraží;19:30, Praha-Vršovice;20:00
+10700: X: Praha hl.n.;0:16, Praha-Čakovice;0:39
+110793sv: X: Praha-Čakovice;0:44, Praha-Vršovice;1:14
+171073pk: X: Praha-Vršovice;7:00, Praha hl.n.;7:04
+1250: X: Praha hl.n.;7:24, České Budějovice;10:45
+1245: X5: České Budějovice;11:12, Praha hl.n.;14:37
+1247: X1234: České Budějovice;13:12, Praha hl.n.;16:37
+1242: X5: Praha hl.n.;15:24, České Budějovice;18:45
+1240: X1234: Praha hl.n.;17:24, Protivín;20:12
+1253: X5: České Budějovice;19:12, Písek;19:56
+129253sv: X5: Písek;20:20, Protivín;20:32

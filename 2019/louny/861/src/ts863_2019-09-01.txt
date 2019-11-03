@@ -1,0 +1,29 @@
+116992sv: X: Most;4:05, Louka u Litvínova;4:20
+16951: X: Louka u Litvínova;4:37, Oldřichov u Duchcova;4:55
+16952: X: Oldřichov u Duchcova;5:11, Louka u Litvínova;5:27
+106702pk: 6: Louny;6:22, Most;6:54
+16933: X: Louka u Litvínova;7:15, Teplice v Čechách;7:39
+126800pk| př Dub-Mol|přípřež Dubí - Moldava v Krušných horách: 25: Most;7:20, Moldava v Krušných horách;8:33
+111218sv: X1,X2,X4: Teplice v Čechách;7:49, Most;8:15
+111220sv: X3, X5: Teplice v Čechách;7:49, Most nákladové nádraží;8:22
+111219sv: X3, X5: Most nákladové nádraží;9:30, Most;9:35
+126801pk| př Dub-Mos|přípřež Dubí - Most: 25: Moldava v Krušných horách;8:38, Most;9:46
+126802pk| př Dub-Mol|přípřež Dubí - Moldava v Krušných horách: 25: Most;9:57, Moldava v Krušných horách;11:07
+126805pk| př Dub-Mos|přípřež Dubí - Most: 25: Moldava v Krušných horách;15:24, Most;16:33
+126890sv: 6: Most;17:00, Most nákladové nádraží;17:05
+6717: T: Most;17:02, Louny;17:35
+126891sv: 6: Most nákladové nádraží;17:50, Most;17:55
+
+99990: X: Údržba SÚ;6:00;14:00
+226800| pk Dub-Mol|postrk Dubí - Moldava v Krušných horách: 25: Most;7:20, Moldava v Krušných horách;8:33
+226801| pk Dub-Mos|postrk Dubí - Most: 25: Moldava v Krušných horách;8:38, Most;9:46
+226802| pk Dub-Mol|postrk Dubí - Moldava v Krušných horách: 25: Most;9:57, Moldava v Krušných horách;11:07
+226805| pk Dub-Mos|postrk Dubí - Most: 25: Moldava v Krušných horách;15:24, Most;16:33
+26806: 25: Most;16:43, Moldava v Krušných horách;17:55
+26807: 25: Moldava v Krušných horách;18:05, Most;19:12
+126892sv: 25: Most;19:38, Most nákladové nádraží;19:44
+126893sv: 25: Most nákladové nádraží;20:22, Most;20:27
+
+
+1:1234:1
+2:1234:2

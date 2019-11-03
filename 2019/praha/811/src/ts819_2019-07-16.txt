@@ -1,0 +1,30 @@
+109523: 6: Mladá Boleslav hl.n.;3:49, Všetaty;4:26
+109550: 6: Všetaty;4:28, Mladá Boleslav hl.n.;5:06
+109501: X: Mladá Boleslav hl.n.;4:41, Všetaty;5:20
+209500: X: Všetaty;5:39, Mladá Boleslav hl.n.;6:15
+109505: : Mladá Boleslav hl.n.;6:34, Všetaty;7:14
+209524: : Všetaty;7:41, Mělník;7:50
+109525: : Mělník;8:11, Všetaty;8:21
+109504: : Všetaty;8:40, Mladá Boleslav hl.n.;9:21
+109509: : Mladá Boleslav hl.n.;10:37, Všetaty;11:14
+109508: : Všetaty;12:43, Mladá Boleslav hl.n.;13:21
+109572: X: Mladá Boleslav hl.n.;13:44, Turnov;14:28
+109513: 25: Mladá Boleslav hl.n.;14:37, Všetaty;15:14
+109573: X: Turnov;15:30, Mladá Boleslav hl.n.;16:12
+109532: 25: Všetaty;15:40, Mělník;15:50
+109533: 25: Mělník;15:53, Všetaty;16:03
+109515: X: Mladá Boleslav hl.n.;16:37, Všetaty;17:18
+109512: 25: Všetaty;16:43, Mladá Boleslav hl.n.;17:21
+109534: X: Všetaty;17:40, Mělník;17:50
+109535: X: Mělník;17:53, Všetaty;18:03
+109517: 25: Mladá Boleslav hl.n.;18:37, Všetaty;19:14
+109514: X: Všetaty;18:43, Mladá Boleslav hl.n.;19:21
+109536: 25: Všetaty;19:40, Mělník;19:50
+206056: X: Mladá Boleslav hl.n.;19:43, Mladá Boleslav město;19:49
+109537: 25: Mělník;19:53, Všetaty;20:03
+209519: X: Mladá Boleslav město;20:25, Všetaty;21:14
+109516: 25: Všetaty;20:43, Mladá Boleslav hl.n.;21:20
+109518: X: Všetaty;22:00, Turnov;23:15
+
+
+1:1234567:0

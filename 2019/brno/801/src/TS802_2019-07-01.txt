@@ -1,0 +1,30 @@
+﻿4142: X: Nesovice;4:22; Brno hl.n.;5:21
+4147: X1234: Brno-Slatina;15:00, Nemotice;15:52
+4152: X1234: Nemotice;16:11, Brno-Slatina;17:05
+4153: X1234: Brno-Slatina;18:00, Nemotice;18:52
+4182: X1234: Nemotice;19:11, Nesovice;19:21
+24081sv: T: Brno-Maloměřice;3:45, Vyškov na Moravě;4:18
+24000: 25: Vyškov na Moravě;4:30, Brno-Chrlice;5:10
+24003: 25: Brno-Chrlice;6:18, Křenovice horní n.;6:35
+24004: 25: Křenovice horní n.;6:52, Brno-Chrlice;7:10
+24005: 25: Brno-Chrlice;7:18, Křenovice horní n.;7:35
+24006: 25: Křenovice horní n.;7:52, Brno-Chrlice;8:10
+24009: 25: Brno-Chrlice;9:18, Křenovice horní n.;9:35
+24010: 25: Křenovice horní n.;9:52, Brno-Chrlice;10:10
+24013: 25: Brno-Chrlice;11:18, Křenovice horní n.;11:35
+24014: 25: Křenovice horní n.;11:52, Brno-Chrlice;12:10
+24017: 25: Brno-Chrlice;13:18, Křenovice horní n.;13:35
+24018: 25: Křenovice horní n.;13:52, Brno-Chrlice;14:10
+24021: 25: Brno-Chrlice;15:18, Křenovice horní n.;15:35
+24022: 25: Křenovice horní n.;15:52, Brno-Chrlice;16:10
+24025: 25: Brno-Chrlice;17:18, Křenovice horní n.;17:35
+24026: 25: Křenovice horní n.;17:52, Brno-Chrlice;18:10
+24029: 25: Brno-Chrlice;19:18, Křenovice horní n.;19:35
+24030: 25: Křenovice horní n.;19:52, Brno-Chrlice;20:10
+24033: 25: Brno-Chrlice;21:18, Křenovice horní n.;21:35
+24095sv: X5: Brno-Maloměřice;21:10, Křenovice horní nádraží;21:39
+24094sv: T: Křenovice horní nádraží;21:41, Brno-Maloměřice;22:10
+24034: z25: Křenovice horní n.;21:52, Brno-Chrlice;22:10
+24035: z25: Brno-Chrlice;23:05, Vyškov na Moravě;23:42
+24080sv: 6: Vyškov na Moravě;23:50, Brno-Maloměřice;0:23
+4159: T: Brno-Židenice;23:15, Nesovice;0:00
