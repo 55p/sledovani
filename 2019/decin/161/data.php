@@ -1,6 +1,5 @@
 <?php
 
-// var_dump($dopravce);
 $dopravce[-1] = 1154;
 
 $dir = __DIR__;
