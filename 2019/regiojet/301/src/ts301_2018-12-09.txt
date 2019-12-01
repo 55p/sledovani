@@ -1,4 +1,4 @@
-1041: : Praha hl.n.;7:20, Bratislava hl.st.;11:12
+﻿1041: : Praha hl.n.;7:20, Bratislava hl.st.;11:12
 1048: : Bratislava hl.st.;12:47, Praha hl.n.;16:42
 1049: : Praha hl.n.;18:20, Brno dolní n.;20:52
 
@@ -24,4 +24,5 @@
 3::1
 5:123457:4
 5:6:2
-1:6:4
+1:6:3
+2:6:4

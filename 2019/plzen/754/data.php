@@ -1,5 +1,7 @@
 <?php
 // sem patri definice skupin.
+$dopravce[-1] = 1154;
+
 $skupiny = [];
 
 if (defined('ID_TABULKY')) {

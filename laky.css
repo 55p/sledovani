@@ -222,8 +222,27 @@ br + .lakVozidla {
 }
 .blonski {
   color: #fff;
-  background-color: #FF0000;
+  background: #F00;
 }
+.blonski_240 {
+  color: #f00;
+  background: #FFF;
+}
+.laminatka_retro {
+  background: red;
+  color: #FFEC00;
+  border-left: 0.8ex solid #FFEC00;
+  border-right: 0.8ex solid #FFEC00;
+}
+.laminatka_zluta {
+  background: #FFEC00;
+  color: red;
+}
+.laminatka_zsskc {
+  background: #FFFD9B;
+  color: #CA0000;
+}
+
 .zssk_vectron {
   color: #000;
   background-color: #F55;
@@ -567,7 +586,15 @@ br + .lakVozidla {
   background: #FFC90F;
   color: blue;
 }
-.regiojet_193_zelena {
+.regiojet_193_bobule {
+  border-left: 0.6ex solid #0000bb;
+  border-right: 0.6ex solid #0000bb;
+  padding-left: 0.4ex;
+  padding-right: 0.4ex;
+  background: #FFC90F;
+  color: #6C3600;
+}
+.vectron_ell, .regiojet_193_zelena {
   border-left: 0.7ex solid #00CA00;
   border-right: 0.7ex solid #00CA00;
   padding-left: 0.4ex;

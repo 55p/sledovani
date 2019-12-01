@@ -1,4 +1,6 @@
 <?php
+$dopravce[-1] = 3246;
+
 // sem patri definice skupin.
 $skupiny = [];
 

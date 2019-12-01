@@ -1,0 +1,6 @@
+601:1: Ústí nad Labem hl.n.;6:13, Praha hl.n.;7:26
+678:5: Praha hl.n.;17:51, Děčín hl.n.;19:31
+6991sv: 6,7: Děčín hl.n.;8:24, Ústí nad Labem hl.n.;9:19
+5274: 6,7: Ústí nad Labem hl.n.;9:19, Dresden Hbf;10:21
+5275: 6,7: Dresden Hbf;17:35, Ústí nad Labem hl.n.;18:38
+6994sv: 6,7: Ústí nad Labem hl.n.;19:10, Děčím hl.n.;19:27
