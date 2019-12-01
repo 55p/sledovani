@@ -1,0 +1,89 @@
+5050: X: Česká Třebová;3:50, Pardubice hl.n.;4:49
+5055pk: X: Pardubice hl.n.;5:46, Česká Třebová;7:04
+5014: X: Česká Třebová;14:08, Kolín;16:22
+5019pk: X: Kolín;16:40, Česká Třebová;18:57
+5051pk: T: Pardubice hl.n.;1:06, Česká Třebová;2:06
+5002: 25: Česká Třebová;5:10, Kolín;7:22
+5005pk: 25: Kolín;7:40, Česká Třebová;9:57
+3777pk: T: Česká Třebová;10:05, Zábřeh na Moravě;10:44
+3780: T: Zábřeh na Moravě;11:17, Česká Třebová;11:50
+5010: 25: Česká Třebová;12:08, Pardubice hl.n.;13:17
+5017pk: 25: Kolín;15:40, Česká Třebová;17:57
+5058: X6: Česká Třebová;20:08, Pardubice hl.n.;21:17
+
+5053pk: X: Pardubice hl.n.;4:24, Česká Třebová;5:29
+5004: X: Česká Třebová;5:45, Kolín;8:22
+5007pk: X: Kolín;9:40, Česká Třebová;11:57
+5012: X: Česká Třebová;13:00, Kolín;15:22
+5017pk: X: Kolín;15:40, Česká Třebová;17:57
+5051pk: 6: Pardubice hl.n.;1:06, Česká Třebová;2:06
+5070: 6: Česká Třebová;4:04, Choceň;4:31
+5000: 6: Choceň;4:54, Pardubice hl.n.;5:28
+5031pk: T: Kolín;4:13, Pardubice hl.n.;4:56
+5055pk: 25: Pardubice hl.n.;5:46, Ústí nad Orlicí;6:45
+5075pk: 25: Ústí nad Orlicí;6:46, Česká Třebová;6:57
+5006: 6: Česká Třebová;8:00, Kolín;10:22
+5009pk: 6: Kolín;11:40, Česká Třebová;13:57
+5018: 6: Česká Třebová;16:08, Kolín;18:22
+5006: T: Česká Třebová;8:00, Pardubice hl.n.;9:17
+1366vlož: T: Pardubice hl.n.;15:03, Jaroměř;15:39
+1477pk: T: Jaroměř;16:03, Pardubice hl.n.;16:41
+5018: T: Česká Třebová;16:08, Pardubice hl.n.;17:17
+5037pk: 25: Kolín;18:40, Pardubice hl.n.;19:29
+5042: 25: Pardubice hl.n.;20:34, Kolín;21:22
+
+5000: X: Česká Třebová;4:28, Kolín;6:22
+5035pk: X: Kolín;6:40, Pardubice hl.n.;7:29
+1468: X: Pardubice hl.n.;7:41, Hradec Králové hl.n.;7:59
+1363vlož: X: Hradec Králové hl.n.;8:38, Pardubice hl.n.;8:56
+5038: X: Pardubice hl.n.;12:34, Kolín;13:22
+5013pk: X: Kolín;13:40, Česká Třebová;15:57
+5020: X: Česká Třebová;17:00, Kolín;19:22
+5053pk: T: Choceň;5:02, Česká Třebová;5:29
+5004: 25: Česká Třebová;5:45, Kolín;8:22
+5007pk: 25: Kolín;9:40, Česká Třebová;11:57
+5014: 25: Česká Třebová;14:08, Kolín;16:22
+5021pk: 25: Kolín;17:40, Choceň;19:20
+5081pk: 25: Choceň;20:32, Česká Třebová;20:57
+5060: 6: Česká Třebová;21:14, Pardubice hl.n.;22:16
+5061pk: 6: Pardubice hl.n.;22:47, Choceň;23:27
+
+5001pk: X: Kolín;5:08, Česká Třebová;7:28
+5006: X: Česká Třebová;8:00, Kolín;10:22
+5009pk: X: Kolín;11:40, Česká Třebová;13:57
+5016: X: Česká Třebová;14:26, Kolín;17:22
+5021pk: X: Kolín;17:40, Choceň;19:20
+
+5071pk: X: Choceň;4:15, Česká Třebová;4:40
+5002: X: Česká Třebová;5:10, Kolín;7:22
+5005pk: X: Kolín;7:40, Česká Třebová;9:57
+5010: X: Česká Třebová;12:08, Kolín;14:22
+5015pk: X: Kolín;14:40, Česká Třebová;16:57
+5054: X: Česká Třebová;18:00, Pardubice hl.n.;19:17
+5042: X5: Pardubice hl.n.;20:34, Kolín;21:22
+5050: 6: Choceň;4:15, Pardubice hl.n.;4:49
+
+5032: X2345: Pardubice hl.n.;4:32, Kolín;5:14 
+5003pk: X6: Kolín;5:42, Česká Třebová;7:57
+5000: T: Choceň;4:54, Pardubice hl.n.;5:28
+5003pk: T: Pardubice hl.n.;6:46, Česká Třebová;7:57
+5008: : Česká Třebová;10:08, Kolín;12:22
+5011pk: X: Kolín;12:40, Česká Třebová;14:57
+5018: X: Česká Třebová;16:08, Kolín;18:22
+5037pk: X: Kolín;18:40, Pardubice hl.n.;19:29
+5059pk: X: Pardubice hl.n.;20:46, Česká Třebová;22:16
+5013pk: 25: Kolín;13:40, Česká Třebová;15:57
+5054: 25: Česká Třebová;18:00, Pardubice hl.n.;19:17
+5059pk: 25: Pardubice hl.n.;20:46, Choceň;21:20
+
+
+1:7:3
+2:6:2
+2:7:4
+3:6:3
+3:7:1
+3:5:0
+5:6:5
+5:7:2
+6:6:6
+6:7:5

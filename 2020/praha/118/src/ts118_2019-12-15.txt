@@ -1,0 +1,14 @@
+71054: X4,X5,0101,0804,1304,2904,-2612,-0201,-1004,-1104,-1204,-0105: Praha-Vršovice;8:55, Praha jih;8:59
+129174sv: X4,X5,0101,0804,1304,2904,-2612,-0201,-1004,-1104,-1204,-0105: Praha jih;9:43, Praha hl.n.;9:51
+71106: X4,X5,0101,0804,1304,2904,-2612,-0201,-1004,-1104,-1204,-0105: Praha hl.n.;10:28, Praha jih;10:44
+71106: X2,X3: Praha-Eden;10:41, Praha jih;10:44
+129378sv: X2345: Praha jih;11:27, Praha hl.n.;11:36
+71079: X1,25: Praha-Vršovice;14:15, Praha hl.n.;14:18
+200355sv: : Praha hl.n.;14:43, Praha jih;14:53
+129337sv: X: Praha jih;16:22, Praha hl.n.;16:31
+200680sv: 25: Praha jih;16:30, Praha hl.n.;16:39;16:47, Praha-Holešovice;16:55
+200680sv: X: Praha hl.n.;16:47, Praha-Holešovice;16:55
+71019: -2412,-3112: Praha-Holešovice;17:30, Praha hl.n.;17:39
+71019: 2412,3112: Praha-Holešovice;17:30, Praha-Eden;17:48
+99999|Z1 Phn|1. záloha Praha hl.n.: -2412,-3112: Praha hl.n.;17:39, Praha hl.n.;21:47
+71080: -2412,-3112: Praha hl.n.;21:47, Praha-Eden;21:52

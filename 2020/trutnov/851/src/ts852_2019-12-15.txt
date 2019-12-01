@@ -1,0 +1,90 @@
+5100pk: X1 : Náchod; 4:23, Trutnov hl.n; 5:16
+1802pk: X : Trutnov hl.n; 6:14, Chlumec nad Cidlinou; 8:25
+1807: X : Chlumec nad Cidlinou; 9:32, Trutnov hl.n; 11:50
+1812pk: X : Trutnov hl.n; 12:11, Kolín; 15:10
+5917pk: X : Kolín; 15:40, Čáslav; 16:03
+1817: X : Čáslav; 16:22, Trutnov hl.n; 19:50
+1800pk: 6 : Trutnov hl.n; 4:17, Kolín; 7:10
+1807: 6 : Kolín; 8:42, Trutnov hl.n; 11:50
+1810pk: 25 : Trutnov hl.n; 12:09; Kolín; 15:10
+1817: 25 : Kolín; 16:42, Trutnov hl.n; 19:50
+5107: : Trutnov hl.n; 20:42, Náchod; 21:39
+5146pk: zX : Náchod; 22:21, Meziměstí; 23:01
+15119: z25 : Náchod; 22:29, Starkoč; 22:44
+5148pk: z25 : Starkoč; 22:49, Meziměstí; 23:44
+25156: 6 : Meziměstí; 23:46, Broumov; 23:59
+
+25152: X6 : Meziměstí; 5:19, Broumov; 5:33
+1843: : Broumov; 6:02, Starkoč; 7:18
+15150: : Starkoč; 7:23, Václavice; 7:27
+15153pk: : Václavice; 7:31, Starkoč; 7:35
+1842pk: : Starkoč; 7:42, Broumov; 8:56
+1849: : Broumov; 9:02, Starkoč; 10:18
+15156: : Starkoč; 10:25, Václavice; 10:29
+15115pk: : Václavice; 10:33, Starkoč; 10:37
+1848pk: : Starkoč; 10:42, Broumov; 11:56
+1855: : Broumov; 12:02, Starkoč; 13:18
+15160: : Starkoč; 13:23, Václavice; 13:27
+15163pk: : Václavice; 13:33, Starkoč; 13:37
+1854pk: : Starkoč; 13:42, Broumov; 14:56
+1861: : Broumov; 15:02, Starkoč; 16:18
+15166: : Starkoč; 16:25, Václavice; 16:29
+15169pk: : Václavice; 16:33, Starkoč; 16:37
+1860pk: : Starkoč; 16:42, Broumov; 17:56
+1867: : Broumov; 18:02, Starkoč; 19:18
+15172: : Starkoč; 19:23, Václavice; 19:27
+15175pk: : Václavice; 19:33, Starkoč; 19:37
+1866pk: XT : Starkoč; 19:42, Broumov; 20:56
+1866pk: 6 : Starkoč; 19:42, Náchod; 19:56
+15117: 6 : Náchod; 20:21, Václavice; 20:46
+1868pk: 6 : Václavice; 20:49, Broumov; 21:57
+25155pk: 6 : Broumov; 22:20, Meziměstí; 22:35
+
+1839: X : Broumov; 4:07, Starkoč; 5:16
+15112: X : Starkoč; 5:21, Václavice; 5:24
+15149pk: X : Václavice; 5:28, Starkoč; 5:32
+1838pk: X : Starkoč; 5:40, Broumov; 6:56
+1845: : Broumov; 7:02, Starkoč; 8:18
+15152: : Starkoč; 8:25, Václavice; 8:29
+15155pk: : Václavice; 8:33, Starkoč; 8:37
+1844pk: : Starkoč; 8:42, Broumov; 9:56
+1851: : Broumov; 10:02, Starkoč; 11:18
+15114: : Starkoč; 11:23, Václavice; 11:27
+15159pk: : Václavice; 11:33, Starkoč; 11:37
+1850pk: : Starkoč; 11:42, Broumov; 12:56
+1857: : Broumov; 13:02, Starkoč; 14:18
+15162: : Starkoč; 14:25, Václavice; 14:29
+15165pk: : Václavice; 14:33, Starkoč; 14:37
+1856pk: : Starkoč; 14:42, Broumov; 15:56
+1863: : Broumov; 16:02, Starkoč; 17:18
+15168: X6 : Starkoč; 17:23, Václavice; 17:25
+15171pk: X6 : Václavice; 17:33, Starkoč; 17:37
+1862pk: : Starkoč; 17:42, Broumov; 18:56
+25153pk: : Broumov; 19:02, Meziměstí; 19:16
+
+25150pk: X6 : Meziměstí; 4:42, Broumov; 4:55
+1841: X6 : Broumov; 5:02, Starkoč; 6:18
+1841: T : Meziměstí; 5:21, Starkoč; 6:18
+15148: : Starkoč; 6:23, Václavice; 6:25
+15151pk: : Václavice; 6:31, Starkoč; 6:35
+1840pk: : Starkoč; 6:42, Broumov; 6:56
+1847: : Broumov; 8:02, Starkoč; 9:18
+15154: : Starkoč; 9:23, Václavice; 9:27
+15157pk: : Václavice; 9:33, Starkoč; 9:37
+1846pk: : Starkoč; 9:42, Broumov; 10:56
+1853: : Broumov; 11:02, Starkoč; 12:18
+15158: : Starkoč; 12:25, Václavice; 12:29
+15161pk: : Václavice; 12:33, Starkoč; 12:37
+1852pk: : Starkoč; 12:42, Broumov; 13:56
+1859: : Broumov; 14:02, Starkoč; 15:18
+15164: : Starkoč; 15:23, Václavice; 15:27
+15167pk: : Václavice; 15:33, Starkoč; 15:37
+1858pk: : Starkoč; 15:42, Broumov; 16:56
+1865: : Broumov; 17:02, Starkoč; 18:18
+15170: : Starkoč; 18:25, Václavice; 18:29
+15173pk: : Václavice; 18:33, Starkoč; 18:37
+1864pk: : Starkoč; 18:42, Broumov; 19:56
+1869: : Broumov; 20:02, Hradec Králové hl.n; 21:57
+1898pk: X6 : Hradec Králové hl.n; 22:09, Trutnov hl.n; 23:23
+1898pk: T : Hradec Králové hl.n; 22:09, Starkoč; 22:46
+5148pk: T : Starkoč; 22:49, Náchod; 23:03

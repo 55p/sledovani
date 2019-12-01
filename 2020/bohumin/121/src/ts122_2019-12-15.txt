@@ -1,0 +1,11 @@
+641: X1: Praha hl.n.;4:23, Bohumín;8:08
+641: X2,X5,6: Olomouc hl.n.;6:48, Bohumín;8:08
+116: : Bohumín;10:05, Praha hl.n.;13:39
+145: XT: Praha hl.n.;16:23, Žilina;21:33
+145: 6: Praha hl.n.;16:23, Návsí;20:47
+
+144: X6: Žilina;6:27, Praha hl.n.;11:39
+144: 7: Návsí;7:11, Praha hl.n.;11:39
+117: : Praha hl.n.;14:23, Bohumín;17:59
+640: X1,X4,X5: Bohumín;20:00, Olomouc hl.n.;21:18
+640: T: Bohumín;20:00, Praha hl.n.;23:44

@@ -1,0 +1,11 @@
+26896sv: 6: Louny;5:56, Most;6:28
+26800: 25: Most;6:41, Moldava v Krušných Horách;7:56
+26801: 25: Moldava v Krušných Horách;8:14, Most;9:23
+26802: 25: Most;9:30, Moldava v Krušných Horách;10:42
+26803: 25: Moldava v Krušných Horách;12:00, Most;13:09
+26804: 25: Most;13:20, Moldava v Krušných Horách;14:31
+26805: 25: Moldava v Krušných Horách;15:00, Most;16:11
+26806|s|sólo 810: 25: Most;16:42, Moldava v Krušných Horách;17:49
+26807|s|sólo 810: 25: Moldava v Krušných Horách;18:00, Most;19:11
+26897sv|s|sólo 810: T: Most;16:22, Louny;16:55
+26899sv|s|sólo 810: T: Most;19:29, Louny;20:08

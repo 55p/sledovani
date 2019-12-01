@@ -1,0 +1,64 @@
+﻿566: X6: Plzeň hl.n.;6:05, Cheb;7:29
+609: X6: Cheb;8:30, Ústí nad Labem hl.n.;11:16
+1944: X: Ústí nad Labem hl.n.;11:41, Klášterec nad Ohří;13:07
+1951: X: Klášterec nad Ohří;14:51, Ústí nad Labem hl.n.;16:17
+1950: X: Ústí nad Labem hl.n.;17:41, Cheb;20:47
+612: 6: Ústí nad Labem hl.n.;12:43, Cheb;15:29
+617: 6: Cheb;16:30, Ústí nad Labem hl.n.;19:16
+604: 6: Ústí nad Labem hl.n.;20:43, Chomutov;21:53
+1690: T: Plzeň hl.n.;17:05, Mariánské Lázně;18:18
+7384: T: Mariánské Lázně;18:34, Cheb;19:10
+
+605: X: Cheb;4:28, Ústí nad Labem hl.n.;7:16
+605: 25: Chomutov;6:05, Ústí nad Labem hl.n.;7:16
+616: : Ústí nad Labem hl.n.;8:43, Cheb;11:29
+613: : Cheb;12:30, Ústí nad Labem hl.n.;15:16
+608: : Ústí nad Labem hl.n.;16:43, Cheb;19:29
+
+607: : Cheb;6:28, Ústí nad Labem hl.n.;9:16
+614: : Ústí nad Labem hl.n.;10:43, Cheb;13:29
+615: : Cheb;14:30, Ústí nad Labem hl.n.;17:16
+606: : Ústí nad Labem hl.n.;18:43, Cheb;21:31
+
+7021: X: Cheb;4:31, Karlovy Vary;5:23
+1947: X: Karlovy Vary;6:04, Ústí nad Labem hl.n.;8:19
+1681: 6: Cheb;5:04, Plzeň hl.n.;6:51
+609: T: Cheb;8:30, Ústí nad Labem hl.n.;11:16
+612: XT: Ústí nad Labem hl.n.;12:43, Cheb;15:29
+617: XT: Cheb;16:30, Ústí nad Labem hl.n.;19:16
+604: XT: Ústí nad Labem hl.n.;20:43, Chomutov;21:53
+
+29605sv: X: Chomutov;4:10, Klášterec nad Ohří;4:24
+603: X: Klášterec nad Ohří;4:49, Ústí nad Labem hl.n.;6:16
+29601sv: T: Ústí nad Labem západ;4:23, Teplice v Čechách;4:39
+601: T: Teplice v Čechách;4:57, Ústí nad Labem hl.n.;5:14
+618: : Ústí nad Labem hl.n.;6:43, Cheb;9:29
+611: : Cheb;10:30, Ústí nad Labem hl.n.;13:16
+610: : Ústí nad Labem hl.n.;14:43, Cheb;17:29
+619: : Cheb;18:30, Ústí nad Labem hl.n.;21:16
+
+620: : Ústí nad Labem hl.n.;4:33, Cheb;7:27
+555: : Cheb;8:33, Praha hl.n.;11:17
+560: : Praha hl.n.;12:43, Cheb;15:26
+561: : Cheb;16:33, Praha hl.n.;19:17
+552: : Praha hl.n.;20:43, Cheb;23:26
+
+551: X6: Cheb;4:32, Praha hl.n.;7:17
+562: : Praha hl.n.;8:43, Cheb;11:26
+559: : Cheb;12:33, Praha hl.n.;15:17
+556: : Praha hl.n.;16:43, Cheb;19:26
+565: : Cheb;20:33, Praha hl.n.;23:20
+
+564: : Praha hl.n.;6:43, Cheb;9:26
+557: : Cheb;10:33, Praha hl.n.;13:17
+558: : Praha hl.n.;14:43, Cheb;17:26
+563: : Cheb;18:33, Praha hl.n.;21:17
+550: XT: Praha hl.n.;22:39, Plzeň hl.n.;23:57
+
+
+1:5:6
+4:5:2
+4:6:1
+5:56:5
+6:6:6
+8:6:7

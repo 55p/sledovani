@@ -1,0 +1,56 @@
+1755: X: Česká Třebová;6:42, Brno hl.n.;8:14
+1754: X: Brno hl.n.;15:44, Česká Třebová;17:21
+903: T: Brno hl.n.;7:18, Šumperk;9:41
+910: T: Šumperk;10:09, Brno hl.n.;12:42
+909: T: Brno hl.n.;13:18, Šumperk;15:41
+904: T: Šumperk;16:09, Brno hl.n.;18:43
+21970sv: T: Brno hl.n.;18:50, Česká Třebová;19:51
+4777: XT: Česká Třebová;22:19, Letovice;23:05
+
+4762: X: Letovice;4:27, Česká Třebová;5:07
+1753: X6: Česká Třebová;5:42, Brno hl.n.;7:14
+903: X6: Brno hl.n.;7:18, Šumperk;9:41
+910: X6: Šumperk;10:09, Brno hl.n.;12:42
+911: X: Brno hl.n.;15:18, Šumperk;17:41
+902: X: Šumperk;18:09, Brno hl.n.;20:37
+909: 6: Brno hl.n.;13:18, Šumperk;15:41
+904: 6: Šumperk;16:09, Brno hl.n.;18:43
+4027: X1234: Brno hl.n.;22:46, Vyškov na Moravě;23:32
+915: T: Brno hl.n.;19:18, Šumperk;21:41
+
+1436: X: Šumperk;4:49, Olomouc hl.n.;5:52
+916: X: Olomouc hl.n.;5:58, Brno hl.n.;7:43
+914: T: Olomouc hl.n.;7:06, Brno hl.n.;8:42
+905: XT: Brno hl.n.;9:18, Šumperk;11:41
+908: XT: Šumperk;12:09, Brno hl.n.;14:43
+900: X5: Šumperk;20:15, Brno hl.n.;22:37
+913: X: Brno hl.n.;17:18, Šumperk;19:43
+911: T: Brno hl.n.;15:18, Šumperk;17:41
+902: T: Šumperk;18:09, Brno hl.n.;20:37
+4027: T: Brno hl.n.;22:46, Vyškov na Moravě;23:32
+
+4702: X: Vyškov na Moravě;4:33, Letovice;6:29
+4711: X: Letovice;6:58, Křenovice horní n.;8:33
+4010: X: Křenovice horní n.;8:54, Rájec-Jestřebí;10:10
+4009: X: Rájec-Jestřebí;10:50, Brno hl.n.;11:31
+1752: X: Brno hl.n.;13:44, Choceň;15:52
+4771: X: Choceň;16:10, Březová nad Svitavou;17:17
+4764: 6: Letovice;5:10, Česká Třebová;5:52
+
+4781: X: Březová nad Svitavou;4:06, Letovice;4:16
+4770: X: Letovice;6:31, Ústí nad Orlicí;7:34
+5077: X: Ústí nad Orlicí;8:25, Česká Třebová;8:40
+1757: X: Česká Třebová;14:50, Brno dolní nádraží;16:15
+1756: X: Brno hl.n.;17:44, Česká Třebová;19:18
+
+
+2:5:1
+1:6:1
+2:6:2
+2:1234:4
+1:6:6
+3:5:3
+3:1234:3
+3:6:3
+4:5:0
+5:5:2

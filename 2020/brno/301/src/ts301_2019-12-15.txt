@@ -1,0 +1,140 @@
+988: X6: Brno hl.n.;6:20, Praha-Smíchov;10:04
+981: X6: Praha-Smíchov;11:48, Brno hl.n.;15:40
+974: X: Brno hl.n.;17:20, Havlíčkův Brod;18:58
+
+971: X: Havlíčkův Brod;5:01, Brno hl.n.;6:40
+990: 6: Čáslav;7:51, Praha hl.n.;8:52
+979: 6: Praha-Smíchov;9:48, Brno hl.n.;13:40
+976: : Brno hl.n.;16:20, Praha hl.n.;19:52
+967: z25: Praha-Smíchov;21:47, Čáslav;23:04
+600: zX: Praha hl.n.;22:34, Ústí nad Labem hl.n.;23:49
+
+29601sv: X: Ústí nad Labem-západ;4:23, Teplice v Čechách;4:39
+601: X: Teplice v Čechách;4:57, Ústí nad Labem hl.n.;5:14
+603: X: Ústí nad Labem hl.n.;6:22, Praha hl.n.;7:36
+989: X: Praha hl.n.;17:04, Žďár nad Sázavou;19:27
+975: T: Čáslav;7:08, Brno hl.n.;9:40
+982: T: Brno hl.n.;12:20, Praha-Smíchov;16:12
+989: T: Praha-Smíchov;16:48, Brno hl.n.;20:40
+
+962: X6: Žďár nad Sázavou;5:32, Praha-Smíchov;8:04
+962: T: Havlíčkův Brod;6:01, Praha-Smíchov;8:04
+979: XT: Praha-Smíchov;9:48, Brno hl.n.;13:40
+978: XT: Brno hl.n.;15:20, Praha-Smíchov;19:12
+965: XT: Praha-Smíchov;19:47, Havlíčkův Brod;21:58
+961: 6: Praha-Smíchov;8:48, Jihlava město;11:28
+
+5900: X: Havlíčkův Brod;3:53, Kolín;5:20
+5901: X: Kolín;5:35, Žďár nad Sázavou;7:34
+5908: X: Žďár nad Sázavou;8:27, Kolín;10:20
+5911: X: Kolín;11:40, Křižanov;13:54
+5918: X: Křižanov;14:08, Kolín;16:20
+5919: X: Kolín;16:35, Havlíčkův Brod;17:52
+8753: X: Havlíčkův Brod;18:26, Žďár nad Sázavou;19:01
+8754: X: Žďár nad Sázavou;20:27, Havlíčkův Brod;20:59
+5934: X: Havlíčkův Brod;22:26, Čáslav;23:23
+5933: T: Čáslav;4:54, Havlíčkův Brod;5:50
+5906: 25: Havlíčkův Brod;7:01, Kolín;8:20
+5907: 6: Kolín;9:09, Havlíčkův Brod;10:26
+5909: T: Kolín;9:40, Žďár nad Sázavou;11:34
+5909: T: Kolín;9:40, Žďár nad Sázavou;11:34
+5912: 25: Žďár nad Sázavou;12:27, Kolín;14:20
+5917: 25: Kolín;15:40, Žďár nad Sázavou;17:34
+5926: 25: Žďár nad Sázavou;18:27, Kolín;20:21
+5929: 25: Kolín;21:35, Havlíčkův Brod;22:53
+
+5933: X: Čáslav;4:54, Havlíčkův Brod;5:50
+5904: X: Havlíčkův Brod;6:05, Kolín;7:22
+5909: X: Kolín;9:40, Žďár nad Sázavou;11:34
+5912: X: Žďár nad Sázavou;12:27, Kolín;14:20
+5935: X: Kolín;14:35, Světlá nad Sázavou;15:37
+5922: X: Světlá nad Sázavou;17:19, Kolín;18:21
+5937: X: Kolín;18:35, Světlá nad Sázavou;19:37
+5900: 6: Čáslav;4:57, Kolín;5:20
+5901: 6: Kolín;5:35, Žďár nad Sázavou;7:34
+5901: T: Havlíčkův Brod;7:01, Žďár nad Sázavou;7:34
+5908: 25: Žďár nad Sázavou;8:27, Kolín;10:20
+5913: 25: Kolín;13:40, Žďár nad Sázavou;15:34
+5922: 6: Žďár nad Sázavou;16:27, Kolín;18:21
+5927: 6: Kolín;19:40, Havlíčkův Brod;20:59
+5934: 6: Havlíčkův Brod;22:26, Čáslav;23:23
+8752: T: Žďár nad Sázavou;15:58, Havlíčkův Brod;16:34
+5924: T: Havlíčkův Brod;17:35, Kolín;18:52
+5927: T: Kolín;19:40, Čáslav;20:03
+
+5902: T: Havlíčkův Brod;5:04, Kolín;6:21
+5902: X6: Světlá nad Sázavou;5:19, Kolín;6:21
+5903: X: Kolín;6:35, Havlíčkův Brod;7:52
+5910: X: Havlíčkův Brod;11:01, Kolín;12:20
+5913: X: Kolín;13:40, Žďár nad Sázavou;15:34
+8752: X: Žďár nad Sázavou;15:58, Havlíčkův Brod;16:34
+5926: X: Havlíčkův Brod;19:04, Kolín;20:21
+5929: X: Kolín;21:35, Havlíčkův Brod;22:53
+5905: 25: Kolín;7:40, Žďár nad Sázavou;9:34
+8750: 25: Žďár nad Sázavou;10:27, Havlíčkův Brod;10:59
+5911: 25: Havlíčkův Brod;13:01, Žďár nad Sázavou;13:34
+5918: 6: Žďár nad Sázavou;14:27, Kolín;16:20
+5923: 6: Kolín;17:40, Havlíčkův Brod;18:59
+5918: T: Žďár nad Sázavou;14:27, Havlíčkův Brod;14:59
+5920: T: Havlíčkův Brod;15:35, Kolín;16:52
+5921: T: Kolín;17:09, Světlá nad Sázavou;18:11
+
+964: X6: Havlíčkův Brod;5:01, Praha-Smíchov;7:09
+977: : Praha-Smíchov;7:48, Brno hl.n.;11:40
+980: : Brno hl.n.;14:20, Praha-Smíchov;18:04
+963: XT: Praha-Smíchov;18:48, Žďár nad Sázavou;21:27
+965: 6: Praha-Smíchov;19:47, Havlíčkův Brod;21:58
+
+990: X1: Brno hl.n.;5:20, Praha hl.n.;8:52
+990: X2345: Žďár nad Sázavou;6:32, Praha hl.n.;8:52
+985: X: Praha-Smíchov;14:48, Brno hl.n.;18:40
+971: 6: Žďár nad Sázavou;5:29, Brno hl.n.;6:40
+988: T: Brno hl.n.;6:20, Praha-Smíchov;10:04
+981: T: Praha-Smíchov;11:48, Brno hl.n.;15:40
+970: : Brno hl.n.;20:20, Havlíčkův Brod;21:58
+
+973: : Havlíčkův Brod;6:01, Brno hl.n.;7:40
+984: : Brno hl.n.;10:20, Praha-Smíchov;14:04
+987: : Praha-Smíchov;15:48, Brno hl.n.;19:40
+817: : Brno hl.n.;20:36, Břeclav;21:18
+
+456: : Břeclav;0:00, Bohumín;1:39
+457: : Bohumín;4:57, Břeclav;4:10
+816: : Břeclav;6:43, Brno hl.n.;7:24
+986: : Brno hl.n.;8:20, Praha-Smíchov;12:04
+983: : Praha-Smíchov;13:48, Brno hl.n.;17:40
+915: X: Brno hl.n.;19:18, Olomouc hl.n.;20:52
+1435: X: Olomouc hl.n.;20:56, Šumperk;21:41
+972: 25: Brno hl.n.;18:20, Praha hl.n.;21:54
+
+1437: X1: Olomouc hl.n.;4:56, Šumperk;5:41
+914: X6: Šumperk;6:11, Brno hl.n.;8:42
+907: X: Brno hl.n.;11:18, Šumperk;13:41
+906: X: Šumperk;14:09, Brno hl.n.;16:43
+972: X: Brno hl.n.;18:20, Praha hl.n.;21:54
+905: 6: Brno hl.n.;9:18, Šumperk;11:41
+908: 6: Šumperk;12:09, Brno hl.n.;14:43
+911: 6: Brno hl.n.;15:18, Šumperk;17:41
+902: 6: Šumperk;18:09, Brno hl.n.;20:37
+917: T: Brno hl.n.;21:19, Olomouc hl.n.;22:52
+
+975: X6: Praha hl.n.;6:04, Brno hl.n.;9:40
+982: X6: Brno hl.n.;12:20, Praha-Smíchov;16:12
+960: T: Jihlava město;14:31, Praha-Smíchov;17:08
+991: : Praha-Smíchov;17:48, Brno hl.n.;21:42
+
+
+
+1:5:0
+2:5:2
+4:6:13
+11:7:13
+12:67:12
+13:6:9
+11:6:8
+7:7:7
+8:6:4
+7:6:7
+5:7:8
+3:7:9
+8:7:4

@@ -1,0 +1,15 @@
+178: : Praha hl.n.;6:26, Berlin Hbf (tief);10:42
+175: : Berlin Hbf (tief);12:56, Praha hl.n.;17:36
+578: : Praha hl.n.;18:26, Děčín hl.n.;19:54
+
+579: : Děčín hl.n.;8:02, Praha hl.n.;9:36
+174: : Praha hl.n.;10:26, Hamburg Altona;17:26
+
+100173: : Hamburg Altona;6:26, Praha hl.n.;13:36
+100172: : Praha hl.n.;14:26, Hamburg Altona;21:36
+
+179: : Hamburg Altona;14:37, Praha hl.n.;21:36
+
+176: : Praha hl.n.;8:26, Hamburg Altona;15:26
+
+177: : Hamburg Altona;12:37, Praha hl.n.;19:36

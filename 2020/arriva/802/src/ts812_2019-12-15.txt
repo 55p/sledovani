@@ -1,0 +1,16 @@
+1201: X6,2412,1004,0105,0805,-1104,-0205,-0905: Rakovník;5:18, Praha-Bubny Vltavská;6:41
+1200: X: Praha-Bubny Vltavská;6:50, Rakovník;8:31
+1214: 6,2412,1004,0105,0805,-1104,-0205,-0905: Praha-Bubny Vltavská;7:05, Rakovník;8:31
+1205: : Rakovník;9:23, Praha-Bubny Vltavská;10:49
+1204: : Praha-Bubny Vltavská;13:05, Rakovník;14:31
+1209: : Rakovník;15:23, Praha-Bubny Vltavská;16:49
+1208: : Praha-Bubny Vltavská;17:05, Rakovník;18:31
+1213: 7,0101,1304,0607,2809,2810,1711,-2212,-2912,-1204,-0507,-2709: Rakovník;19:23, Praha-Bubny Vltavská;20:49
+1212: 7,0101,1304,0607,2809,2810,1711,-2212,-2912,-1204,-0507,-2709: Praha-Bubny Vltavská;21:05, Rakovník;22:31
+
+1203: : Rakovník;7:23, Praha-Bubny Vltavská;8:49
+1202: : Praha-Bubny Vltavská;9:05, Rakovník;10:31
+1207: : Rakovník;13:23, Praha-Bubny Vltavská;14:49
+1206: : Praha-Bubny Vltavská;15:05, Rakovník;16:31
+1211: -2412: Rakovník;17:23, Praha-Bubny Vltavská;18:49
+1210: -2412: Praha-Bubny Vltavská;19:05, Rakovník;20:31

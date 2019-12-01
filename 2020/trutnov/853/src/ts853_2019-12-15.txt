@@ -1,0 +1,133 @@
+1885: T : Náchod; 5:01, Hradec Králové hl.n; 5:55
+1882: T : Hradec Králové hl.n; 6:02, Trutnov hl.n; 7:21
+1800: X : Trutnov hl.n; 4:17, Kolín; 7:10
+5870: X : Kolín; 7:29, Nymburk hl.n; 7:56
+5877: X : Nymburk hl.n; Kolín; 8:28
+1801: 6 : Chlumec nad Cidlinou; 5:31, Trutnov hl.n; 7:41
+1804: 25 : Trutnov hl.n; 8:09, Chlumec nad Cidlinou; 10:25
+1809: X : Kolín; 10:42, Trutnov hl.n; 13:37
+1809: 25 : Chlumec nad Cidlinou; 11:32, Trutnov hl.n; 13:37
+1897: T : Trutnov hl.n; 15:41, Pardubice hl.n; 17:17
+1480: T : Pardubice hl.n; 17:45, Hradec Králové hl.n; 18:03
+1897: X6 : Trutnov hl.n; 15:41, Hradec Králové hl.n; 16:56
+1896: 6 : Hradec Králové hl.n; 19:03, Trutnov hl.n; 20:18
+1837: zX : Hradec Králové hl.n; 19:06, Letohrad; 20:27
+
+1800: T : Chlumec nad Cidlinou; 6:35, Kolín; 7:10
+1807: T : Kolín; 8:42, Trutnov hl.n; 11:50
+101845pk: 6 : Meziměstí; 7:19, Teplice nad Metují; 7:28
+15754: 6 : Teplice nad Metují; 7:31, Trutnov hl.n; 8:33
+1828: X : Letohrad; 8:33, Hradec Králové hl.n; 9:52
+1824: X : Hradec Králové hl.n; 14:24, Meziměstí; 16:07
+5147: X5 : Meziměstí; 19:19, Náchod; 19:58
+15767: T : Trutnov hl.n; 19:25, Meziměstí; 20:50
+
+1871: T : Náchod; 6:20, Choceň; 7:21
+1870: T : Choceň; 8:39, Náchod; 9:38
+5115: X : Meziměstí; 4:56, Týniště nad Orlicí; 6:20
+5124: X6 : Týniště nad Orlicí; 6:42, Náchod; 7:37
+1875: X6 : Náchod; 8:22, Choceň; 9:21
+1872: 6 : Choceň; 10:39, Náchod; 11:39
+1874: X : Choceň; 12:39, Hronov; 13:49
+1879: X : Hronov; 14:10, Choceň; 15:21
+1878: X : Choceň; 16:39, Náchod; 17:38
+101854vlož: T : Náchod; 14:00, Meziměstí; 14:38
+101863: T : Meziměstí; 16:19, Starkoč; 17:18
+15168: T : Starkoč; 17:23, Václavice; 17:27
+15171: T : Václavice; 17:33, Starkoč; 17:37
+101862: T : Starkoč; 17:42, Náchod; 17:56
+1883: 25 : Náchod; 18:22, Choceň; 19:21
+5116: 25 : Choceň; 19:39, Náchod; 20:47
+5135: X : Náchod; 18:22, Týniště nad Orlicí; 19:19
+5191sv: X : Týniště nad Orlicí; 19:40, Doudleby nad Orlicí; 19:56
+20216: X : Doudleby nad Orlicí; 21:09, Hradec Králové hl.n; 21:58
+5238: X : Hradec Králové hl.n; 22:40, Chlumec nad Cidlinou; 23:10
+
+5240: X : Chlumec nad Cidlinou; 4:37, Velký Osek; 5:00
+5249: X : Velký Osek; 5:48, Dobšice nad Cidlinou; 5:58
+5248: X : Dobšice nad Cidlinou; 6:19, Velký Osek; 6:29
+1803: X : Velký Osek; 6:52, Trutnov hl.n; 9:35
+1884: 6 : Hradec Králové hl.n; 7:03, Trutnov hl.n; 8:19
+1808: 25 : Trutnov hl.n; 10:24, Kolín; 13:10
+1815: 25 : Kolín; 14:42, Trutnov hl.n; 17:37
+1893: X : Trutnov hl.n; 11:41, Hradec Králové hl.n; 12:56
+1892: X : Hradec Králové hl.n; 15:03, Trutnov hl.n; 15:18
+1820: : Trutnov hl.n; 18:24, Chlumec nad Cidlinou; 20:25
+5239: X : Chlumec nad Cidlinou; 20:49, Hradec Králové hl.n; 21:20
+5623: X : Hradec Králové hl.n; 22:35, Čermná nad Orlicí; 23:13
+5196sv: X : Čermná nad Orlicí; 23:18, Týniště nad Orlicí; 23:28
+
+5197sv: X1 : Náchod; 4:00, Týniště nad Orlicí; 4:30
+5120: X : Týniště nad Orlicí; 4:46, Hronov; 5:44
+1871: 6 : Náchod; 6:20, Choceň; 7:21
+1873: X : Hronov; 6:10, Choceň; 7:21
+1870: X6 : Choceň; 8:39, Náchod; 9:38
+1875: T : Náchod; 8:22, Choceň; 9:21
+1872: T : Choceň; 10:39, Náchod; 11:39
+1877: : Náchod; 12:22, Choceň; 13:21
+1876: X : Choceň; 14:39, Hronov; 15:49
+1876: 25 : Choceň; 14:39, Náchod; 15:39
+1881: X : Hronov; 16:10, Choceň; 17:21
+1881: 25 : Náchod; 16:22, Choceň; 17:21
+1880: : Choceň; 18:39, Náchod; 19:39
+15117: XT : Náchod; 20:21, Starkoč; 20:37
+1868: XT : Starkoč; 20:42, Broumov; 21:57
+25155: XT : Broumov; 22:20, Meziměstí; 22:35
+
+125152pk: X : Meziměstí; 5:19, Broumov; 5:33
+1823: X : Broumov; 5:37, Hradec Králové hl.n; 7:36
+1889: 25 : Trutnov hl.n; 7:43, Hradec Králové hl.n; 8:56
+1888: : Hradec Králové hl.n; 11:03, Trutnov hl.n; 12:18
+1895: : Trutnov hl.n; 13:41, Hradec Králové hl.n; 8:56
+1896: XT : Hradec Králové hl.n; 19:03, Trutnov hl.n; 20:18
+
+1887: X : Trutnov hl.n; 5:42, Pardubice hl.n; 7:25
+6273: 6 : Jaroměř; 8:03, Hradec Králové hl.n; 8:25
+1886: X : Pardubice hl.n; 8:36, Trutnov hl.n; 10:17
+1886: 25 : Hradec Králové hl.n; 9:03, Svoboda nad Úpou; 10:43
+1808: X : Trutnov hl.n; 10:24, Kolín; 13:10
+1815: X : Kolín; 14:42, Trutnov hl.n; 17:37
+1893: 25 : Svoboda nad Úpou; 11:20, Hradec Králové hl.n; 12:56
+1892: 25 : Hradec Králové hl.n; 15:03, Svoboda nad Úpou; 16:42
+1899: 25 : Svoboda nad Úpou; 17:16, Hradec Králové hl.n; 18:55
+1899: X : Trutnov hl.n; 17:41, Hradec Králové hl.n; 18:55
+6276: XT : Hradec Králové hl.n; 19:33, Jaroměř; 19:57
+6276: 6 : Hradec Králové hl.n; 19:33, Náchod; 20:39
+
+5102: X : Jaroměř; 5:12, Trutnov hl.n; 6:20
+1806: X : Trutnov hl.n; 8:14, Kolín; 11:10
+1802: 25 : Trutnov hl.n; 6:14, Kolín; 9:10
+5957: 25 : Kolín; 11:40, Čáslav; 12:03
+1813: X : Kolín; 12:42, Trutnov hl.n; 15:50
+1813: 25 : Čáslav; 12:18, Trutnov hl.n; 15:50
+1816: 25 : Trutnov hl.n; 16:09, Kolín; 19:10 
+1818: X : Trutnov hl.n; 16:11, Kolín; 19:10
+
+9300: 25 : Kolín; 1:04, Praha hl.n; 2:15
+9303: 25 : Praha hl.n; 2:30, Kolín; 3:42
+1801: X : Kolín; 4:52, Trutnov hl.n; 7:41
+1803: 25 : Kolín; 6:52, Trutnov hl.n; 9:35 
+1891: : Trutnov hl.n; 9:42, Hradec Králové hl.n; 10:56
+1890: : Hradec Králové hl.n; 13:03, Trutnov hl.n; 14:17
+1814: : Trutnov hl.n; 14:24, Kolín; 17:10
+5923: X : Kolín; 17:40, Čáslav; 18:03
+1819: X : Čáslav; 18:22, Trutnov hl.n; 21:44
+1819: 25 : Kolín; 18:42, Trutnov hl.n; 21:44
+
+
+1:5:4
+1:6:8
+2:5:5
+2:6:6
+3:5:1
+3:67:5
+4:5:3
+4:6:2
+4:7:4
+5:6:3
+5:5:2
+6:5:6
+7:5:7
+7:6:1
+9:5:8
+9:6:4

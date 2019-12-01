@@ -1,0 +1,13 @@
+275: : Praha hl.n.;7:44, Budapest-Nyugati pu;14:20
+270: : Budapest-Nyugati pu;17:40, Praha hl.n.;0:13
+
+273: : Praha hl.n.;5:44, Budapest-Nyugati pu;12:20
+272: : Budapest-Nyugati pu;15:40, Praha hl.n.;22:13
+
+571: : Praha hl.n.;0:01, Brno hl.n.;2:44
+271: : Brno hl.n.;6:21, Budapest-Nyugati pu;10:20
+274: : Budapest-Nyugati pu;13:40, Praha hl.n.;20:13
+575: : Praha hl.n.;21:56, Břeclav;1:13
+
+477: : Břeclav;4:59, Budapest-Keleti pu;8:35
+276: : Budapest-Nyugati pu;11:40, Praha hl.n.;18:13

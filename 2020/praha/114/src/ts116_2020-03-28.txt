@@ -1,0 +1,31 @@
+9902: X: Praha hl.n.;5:32, Řevnice;6:08
+9917pk: X: Řevnice;6:22, Praha hl.n.;6:58
+9914: X: Praha hl.n.;7:09, Řevnice;7:39
+9929pk: X: Řevnice;7:52, Praha hl.n.;8:28
+9942: X: Praha hl.n.;13:32, Řevnice;14:08
+9945pk: X: Řevnice;14:22, Praha hl.n.;14:59
+9950: X: Praha hl.n.;15:32, Řevnice;16:08
+9953pk: X: Řevnice;16:22, Praha hl.n.;16:59
+9958: X: Praha hl.n.;17:32, Řevnice;18:08
+9961pk: X: Řevnice;18:22, Praha hl.n.;18:59
+9966: X: Praha hl.n.;19:32, Řevnice;20:08
+9995pksv: X5: Řevnice;20:26, Praha-Libeň;21:07
+
+9990sv: X1: Praha-Libeň;5:08, Řevnice;4:41
+9905pk: X: Řevnice;4:52, Praha hl.n.;5:28
+9904: X: Praha hl.n.;6:02, Řevnice;6:38
+9921pk: X: Řevnice;6:52, Praha hl.n.;7:28
+9918: X: Praha hl.n.;7:36, Praha-Radotín;7:55
+9927pk: X: Praha-Radotín;8:02, Praha hl.n.;8:22
+9922: X: Praha hl.n.;8:32, Řevnice;9:08
+9935pk: X: Řevnice;9:22, Praha hl.n.;9:59
+9944: X: Praha hl.n.;14:02, Řevnice;14:38
+9947pk: X: Řevnice;14:52, Praha hl.n.;15:28
+9952: X: Praha hl.n.;16:02, Řevnice;16:38
+9955pk: X: Řevnice;16:52, Praha hl.n.;17:28
+9960: X: Praha hl.n.;18:02, Řevnice;18:38
+9963pk: X: Řevnice;18:52, Praha hl.n.;19:28
+9968: X: Praha hl.n.;20:02, Praha-Radotín;20:21 
+9993sv: X: Praha-Radotín;20:41, Praha-Libeň;21:07
+71201: T: Praha hl.n.;15:27, Čerčany;16:39
+9216: T: Čerčany;16:58, Praha hl.n.;17:35

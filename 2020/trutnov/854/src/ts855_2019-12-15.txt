@@ -1,0 +1,59 @@
+5731: 25: Jilemnice;4:35, Trutnov hl.n.;5:29
+5491sv: X: Stará Paka;4:59, Horka u Staré Paky;5:07
+5735: X: Horka u Staré Paky;5:12, Trutnov hl.n.;6:38
+5734: X: Trutnov hl.n.;7:00, Vrchlabí;7:45
+25705: X: Vrchlabí;8:36, Kunčice nad Labem;8:43
+25708: X: Kunčice nad Labem;8:47, Vrchlabí;8:54
+25707: X: Vrchlabí;8:57, Kunčice nad Labem;9:04
+25710: X: Kunčice nad Labem;9:09, Vrchlabí;9:16
+5741: X: Vrchlabí;9:38, Trutnov hl.n.;10:20
+15761: : Trutnov hl.n.;13:25, Teplice nad Metují;14:26
+15786: : Teplice nad Metují;14:31, Teplice nad Metují město;14:34
+15791: : Teplice nad Metují město;15:23, Teplice nad Metují;15:26
+15762: : Teplice nad Metují;15:31, Trutnov hl.n.;16:33
+15765: : Trutnov hl.n.;17:25, Teplice nad Metují;18:26
+15794: : Teplice nad Metují;18:31, Teplice nad Metují město;18:34
+15797: : Teplice nad Metují město;19:23, Teplice nad Metují;19:26
+15768: : Teplice nad Metují;19:31, Trutnov hl.n.;20:33
+5748: : Trutnov hl.n.;21:21, Jilemnice;22:10
+
+15541: X: Jilemnice;4:54, Martinice v Krkonoších;5:00
+15500: X: Martinice v Krkonoších;5:04, Jablonec nad Jizerou;5:42
+15501: X: Jablonec nad Jizerou;6:15, Martinice v Krkonoších;6:55
+15501: 25: Jilemnice;6:49, Martinice v Krkonoších;6:55
+15503: : Jablonec nad Jizerou;8:15, Martinice v Krkonoších;8:55
+15504: X: Martinice v Krkonoších;8:58, Jablonec nad Jizerou;9:42
+15504: 25: Martinice v Krkonoších;8:58, Rokytnice nad Jizerou;9:49
+15505: 25: Rokytnice nad Jizerou;10:08, Martinice v Krkonoších;11:01
+15505: X: Jablonec nad Jizerou;10:15, Martinice v Krkonoších;11:01
+15506: : Martinice v Krkonoších;11:04, Jablonec nad Jizerou;11:43
+15507: : Jablonec nad Jizerou;12:15, Martinice v Krkonoších;12:55
+15508: : Martinice v Krkonoších;12:58, Jablonec nad Jizerou;13:42
+15509: : Jablonec nad Jizerou;14:15, Martinice v Krkonoších;15:01
+15510: : Martinice v Krkonoších;15:04, Jablonec nad Jizerou;15:42
+15511: : Jablonec nad Jizerou;16:15, Martinice v Krkonoších;16:55
+15512: : Martinice v Krkonoších;16:58, Jablonec nad Jizerou;17:42
+15513: : Jablonec nad Jizerou;18:15, Martinice v Krkonoších;19:01
+15514: : Martinice v Krkonoších;19:07, Jablonec nad Jizerou;19:45
+15515: : Jablonec nad Jizerou;20:13, Martinice v Krkonoších;20:51
+15542: : Martinice v Krkonoších;20:58, Jilemnice;21:04
+
+5768: X: Jilemnice;5:41, Stará Paka;6:08
+5467: : Stará Paka;6:33, Jaroměř;7:33
+5466: 25: Jaroměř;8:22, Stará Paka;9:25
+5468: X: Jaroměř;10:22, Stará Paka;11:25
+5471: 25: Stará Paka;10:33, Jaroměř;11:33
+5470: 25: Jaroměř;12:22, Stará Paka;13:25
+5475: : Stará Paka;14:33, Jaroměř;15:33
+5112: X: Jaroměř;15:44, Česká Skalice;15:56
+5111: X: Česká Skalice;16:01, Jaroměř;16:13
+5474: : Jaroměř;16:22, Stará Paka;17:25
+5720: 25: Stará Paka;18:28, Městec Králové;19:52
+5722: X: Stará Paka;18:28, Městec Králové;19:52
+5723: : Městec Králové;20:05, Stará Paka;21:31
+
+
+2: 5: 1
+2: 6: 1
+3: 5: 3
+3: 6: 3

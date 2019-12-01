@@ -1,0 +1,72 @@
+5730: X: Trutnov hl.n.;4:46, Vrchlabí;5:32
+25701: X: Vrchlabí;5:48, Kunčice nad Labem;5:55
+25702: X: Kunčice nad Labem;6:01, Vrchlabí;6:08
+5737: X: Vrchlabí;6:38, Trutnov hl.n.;7:27
+5738: X: Trutnov hl.n.;11:27, Vrchlabí;12:07
+25713: X: Vrchlabí;12:36, Kunčice nad Labem;12:43
+25716: X: Kunčice nad Labem;12:47, Vrchlabí;12:54
+25715: X: Vrchlabí;12:57, Kunčice nad Labem;13:04
+25718: X: Kunčice nad Labem;13:09, Vrchlabí;13:16
+5745: X: Vrchlabí;13:38, Trutnov hl.n.;14:20
+5742: X: Trutnov hl.n.;15:25, Vrchlabí;16:10
+101814pk: T: Trutnov hl.n.;14:24, Kunčice nad Labem;14:52
+25722: XT: Kunčice nad Labem;15:16, Vrchlabí;15:23
+25721: XT: Vrchlabí;16:36, Kunčice nad Labem;16:43
+25724: XT: Kunčice nad Labem;16:47, Vrchlabí;16:54
+25723: XT: Vrchlabí;16:57, Kunčice nad Labem;17:04
+25726: XT: Kunčice nad Labem;17:09, Vrchlabí;17:16
+5749: X: Vrchlabí;17:38, Trutnov hl.n.;18:20
+25725: T: Vrchlabí;18:44, Kunčice nad Labem;18:51
+25728: T: Kunčice nad Labem;18:57, Vrchlabí;19:04
+25727: T: Vrchlabí;19:06, Kunčice nad Labem;19:13
+25730: T: Kunčice nad Labem;19:17, Vrchlabí;19:24
+5746: X: Trutnov hl.n.;19:27, Vrchlabí;20:07
+25729: XT: Vrchlabí;20:54, Kunčice nad Labem;21:01
+25732: XT: Kunčice nad Labem;21:05, Vrchlabí;21:12
+25731: XT: Vrchlabí;21:45, Kunčice nad Labem;21:52
+25734: XT: Kunčice nad Labem;21:56, Vrchlabí;22:03
+
+5733: X: Vrchlabí;4:40, Trutnov hl.n.;5:29
+5733: 25: Vrchlabí;4:40, Kunčice nad Labem;4:47
+25700: 25: Kunčice nad Labem;4:53, Vrchlabí;5:00
+5732: X: Trutnov hl.n.;5:33, Vrchlabí;6:35
+105737pk: X: Vrchlabí;6:38, Trutnov hl.n.;7:27
+5737: 25: Vrchlabí;6:38, Kunčice nad Labem;6:45
+25704: : Kunčice nad Labem;6:50, Vrchlabí;6:57
+25703: X6: Vrchlabí;6:59, Kunčice nad Labem;7:06
+25706: X6: Kunčice nad Labem;7:11, Vrchlabí;7:18
+5739: X: Vrchlabí;7:52, Trutnov hl.n.;8:38
+25705: 25: Vrchlabí;8:36, Kunčice nad Labem;8:43
+25708: 25: Kunčice nad Labem;8:47, Vrchlabí;8:54
+25707: 25: Vrchlabí;8:57, Kunčice nad Labem;9:04
+25710: 25: Kunčice nad Labem;9:09, Vrchlabí;9:16
+5736: X: Trutnov hl.n.;9:39, Vrchlabí;10:21
+25709: : Vrchlabí;10:44, Kunčice nad Labem;10:51
+25712: : Kunčice nad Labem;10:55, Vrchlabí;11:02
+25711: : Vrchlabí;11:04, Kunčice nad Labem;11:11
+25714: : Kunčice nad Labem;11:16, Vrchlabí;11:23
+5743: X: Vrchlabí;11:50, Trutnov hl.n.;12:36
+25713: 25: Vrchlabí;12:36, Kunčice nad Labem;12:43
+25716: 25: Kunčice nad Labem;12:47, Vrchlabí;12:54
+25715: 25: Vrchlabí;12:57, Kunčice nad Labem;13:04
+25718: 25: Kunčice nad Labem;13:09, Vrchlabí;13:16
+5740: X: Trutnov hl.n.;13:41, Vrchlabí;14:21
+25717: : Vrchlabí;14:44, Kunčice nad Labem;14:51
+25720: : Kunčice nad Labem;14:55, Vrchlabí;15:02
+25719: : Vrchlabí;15:04, Kunčice nad Labem;15:11
+25722: X6: Kunčice nad Labem;15:16, Vrchlabí;15:23
+5747: X: Vrchlabí;15:50, Trutnov hl.n.;16:36
+25721: 6: Vrchlabí;16:36, Kunčice nad Labem;16:43
+25724: 6: Kunčice nad Labem;16:47, Vrchlabí;16:54
+25723: 6: Vrchlabí;16:57, Kunčice nad Labem;17:04
+25726: 6: Kunčice nad Labem;17:09, Vrchlabí;17:16
+5744: X: Trutnov hl.n.;17:41, Vrchlabí;18:21
+25725: X6: Vrchlabí;18:44, Kunčice nad Labem;18:51
+25728: X6: Kunčice nad Labem;18:57, Vrchlabí;19:04
+25727: X6: Vrchlabí;19:06, Kunčice nad Labem;19:13
+25730: X6: Kunčice nad Labem;19:17, Vrchlabí;19:24
+5751: X: Vrchlabí;19:50, Trutnov hl.n.;20:36
+25729: 6: Vrchlabí;20:54, Kunčice nad Labem;21:01
+25732: 6: Kunčice nad Labem;21:05, Vrchlabí;21:12
+25731: 6: Vrchlabí;21:45, Kunčice nad Labem;21:52
+25734: 6: Kunčice nad Labem;21:56, Vrchlabí;22:03

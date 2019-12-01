@@ -1,0 +1,36 @@
+6001: : Nový Bor;4:04, Mladá Boleslav hl.n.;5:12
+6002: : Mladá Boleslav hl.n.;5:21, Rumburk;7:25
+6007: : Rumburk;8:37, Mladá Boleslav hl.n.;10:34
+6008: X: Mladá Boleslav hl.n.;11:23, Rumburk;13:26
+6008: 25: Mladá Boleslav město;11:12, Rumburk;13:26
+6015: : Rumburk;14:37, Mladá Boleslav hl.n.;16:34
+6014: : Mladá Boleslav hl.n.;17:23, Rumburk;19:25
+6071: : Rumburk;20:37, Doksy;21:52
+6070: : Doksy;22:04, Rumburk;23:22
+
+6003: : Rumburk;4:17, Mladá Boleslav hl.n.;6:05
+6004: : Mladá Boleslav hl.n.;7:23, Rumburk;9:22
+6011: X: Rumburk;10:37, Mladá Boleslav město;12:44
+6010: X: Mladá Boleslav město;13:06, Rumburk;15:26
+6011: 25: Rumburk;10:37, Mladá Boleslav hl.n.;12:34
+6010: 25: Mladá Boleslav hl.n.;13:23, Rumburk;15:26
+6017: : Rumburk;16:37, Mladá Boleslav hl.n.;18:35
+6016: : Mladá Boleslav hl.n.;19:23, Rumburk;21:25
+
+6005: : Rumburk;6:37, Mladá Boleslav hl.n.;8:34
+6006: : Mladá Boleslav hl.n.;9:23, Rumburk;11:22
+6013: : Rumburk;12:37, Mladá Boleslav hl.n.;14:34
+9559: X: Mladá Boleslav hl.n.;14:41, Všetaty;15:18
+9558: X: Všetaty;16:23, Mladá Boleslav hl.n.;16:58
+8532: X: Mladá Boleslav hl.n.;19:23, Mladějov v Čechách;20:21
+8537: X: Mladějov v Čechách;20:34, Mladá Boleslav město;21:23
+6012: 25: Mladá Boleslav hl.n.;15:23, Rumburk;17:26
+6019: 25: Rumburk;18:37, Mladá Boleslav město;20:44
+6018: : Mladá Boleslav město;22:26, Nový Bor;23:42
+
+6601: : Česká Lípa střelnice;3:47, Liberec;5:04
+1371: X5,3001,0804,0904,3004,0705,2710,-2712,-0301: Liberec;14:03, Pardubice hl.n.;16:55
+101364|pk Pce-Jar|postrk Pardubice - Jaroměř: X5,3001,0804,0904,3004,0705,2710,-2712,-0301: Pardubice hl.n.;17:03, Jaroměř;17:39
+101373|pk Jar-Pce|postrk Jaroměř - Pardubice: X5,3001,0804,0904,3004,0705,2710,-2712,-0301: Jaroměř;18:19, Pardubice hl.n.;18:55
+1362: X5,3001,0804,0904,3004,0705,2710,-2712,-0301: Pardubice hl.n.;19:03, Liberec;21:55
+6618: : Liberec;22:47, Česká Lípa střelnice;0:04

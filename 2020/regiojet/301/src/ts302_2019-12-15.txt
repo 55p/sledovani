@@ -1,0 +1,2 @@
+1046: : Žilina;5:57, Bratislava hl.st.;8:30;8:47, Praha hl.n.;12:42
+1045: : Praha hl.n.;15:20, Bratislava hl.st.;19:12;19:15, Žilina;21:25

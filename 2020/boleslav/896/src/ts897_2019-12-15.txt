@@ -1,0 +1,12 @@
+18573: X: Mladá Boleslav hl.n.;6:51, Dolní Bousov;7:36
+18572: X: Dolní Bousov;7:55, Mladá Boleslav hl.n.;8:28
+8511: X: Mladá Boleslav hl.n.;8:41, Mšeno;9:24
+8512: X: Mšeno;9:47, Mladá Boleslav město;10:44
+18555: X: Mladá Boleslav město;11:12, Mladá Boleslav hl.n.;11:18
+18575: X: Mladá Boleslav město;12:29, Dolní Bousov;13:19
+18574: X: Dolní Bousov;13:23, Bakov nad Jizerou;13:46
+18577: X: Bakov nad Jizerou;14:18, Dolní Bousov;14:41
+18576: X: Dolní Bousov;15:06, Mladá Boleslav hl.n.;15:47
+18556: X: Mladá Boleslav hl.n.;16:38, Mladá Boleslav město;16:44
+8527: X: Mladá Boleslav město;17:14, Mělník;18:47
+8560: X: Mělník;19:51, Řepov;21:33

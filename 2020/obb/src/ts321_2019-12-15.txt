@@ -1,0 +1,29 @@
+73: : Praha hl.n.;6:44, Graz Hbf;13:33
+370pk: : Graz Hbf;14:26, Praha hl.n.;21:13
+
+71: X6: Praha hl.n.;4:44, Graz Hbf;11:33
+71: 7: Brno hl.n.;7:21, Graz Hbf;11:33
+78pk: : Graz Hbf;12:26, Praha hl.n.;19:13
+285: : Praha hl.n.;19:44, Bratislava hl.st.;23:44
+
+284pk: : Bratislava hl.st.;5:15, Praha hl.n.;9:13
+79: X1234: Praha hl.n.;12:44, Wien Hbf;16:49
+850pk: X1234: Graz Hbf;20:25, Wien Hbf;23:03
+573: X5,T: Praha hl.n.;10:20, Brno hl.n.;12:44
+572pk: X5,T: Brno hl.n.;15:11, Praha hl.n.;17:44
+375: X5,25: Praha hl.n.;18:44, Wien Hbf;22:49
+
+101041pk: : Wien Hbf;6:12, Flughafen Wien;6:27
+553: : Flughafen Wien;6:33, Graz Hbf;9:33
+256pk: : Graz Hbf;10:26, Praha hl.n.;17:13
+
+257: : Praha hl.n.;10:44, Graz Hbf;17:33
+374pk: : Graz Hbf;18:26, Brno hl.n.;22:37
+
+576pk: X6: Brno hl.n.;4:29, Praha hl.n.;7:13
+75: : Praha hl.n.;8:44, Graz Hbf;15:33
+372pk: : Graz Hbf;16:26, Praha hl.n.;23:15
+
+
+1:6:6
+5:6:2

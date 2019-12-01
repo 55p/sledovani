@@ -1,0 +1,59 @@
+16924pk: : Teplice v Čechách;1:24, Litvínov;1:51
+6855: X: Litvínov;4:36, Děčín hl.n.;5:53
+6854pk: X: Děčín hl.n.;6:00, Litvínov;7:22
+6862: X: Ústí nad Labem hl.n.;10:34, Litvínov;11:22
+6858pk: X: Ústí nad Labem hl.n.;8:34, Litvínov;9:22
+6865: X: Litvínov;9:40, Ústí nad Labem hl.n.;10:27
+6862pk: X: Ústí nad Labem hl.n.;10:34, Litvínov;11:22
+6869: X: Litvínov;11:40, Ústí nad Labem hl.n.;12:27
+6868pk: X: Ústí nad Labem hl.n.;13:34, Litvínov;14:22
+6875: X: Litvínov;14:40, Ústí nad Labem hl.n.;15:27
+6874pk: X: Ústí nad Labem hl.n.;16:34, Litvínov;17:22
+6881: X: Litvínov;17:40, Ústí nad Labem hl.n.;18:27
+6878pk: X: Ústí nad Labem hl.n.;18:34, Litvínov;19:22
+6885: X1234: Litvínov;19:40, Teplice v Čechách;20:07
+6885: X5: Litvínov;19:40, Děčín hl.n.;20:53
+6855: 25: Litvínov;4:36, Teplice v Čechách;5:03
+16928pk: 25: Teplice v Čechách;5:24, Litvínov;5:51
+16931: 25: Litvínov;6:25, Teplice v Čechách;6:52
+16930pk: 25: Teplice v Čechách;7:05, Litvínov;7:32
+16933: 25: Litvínov;8:25, Teplice v Čechách;8:52
+16932pk: 25: Teplice v Čechách;9:05, Litvínov;9:32
+16935: 25: Litvínov;10:25, Teplice v Čechách;10:52
+16934pk: 25: Teplice v Čechách;11:05, Litvínov;11:32
+16937: 25: Litvínov;12:25, Teplice v Čechách;12:52
+16936pk: 25: Teplice v Čechách;13:05, Litvínov;13:32
+16939: 25: Litvínov;14:25, Teplice v Čechách;14:52
+16938pk: 25: Teplice v Čechách;15:05, Litvínov;15:32
+16941: 25: Litvínov;16:25, Teplice v Čechách;16:52
+16940pk: 25: Teplice v Čechách;17:05, Litvínov;17:32
+16943: 25: Litvínov;18:25, Teplice v Čechách;18:52
+16942pk: 25: Teplice v Čechách;19:05, Litvínov;19:32
+16947: 25: Litvínov;20:25, Teplice v Čechách;20:52
+16944pk: 25: Teplice v Čechách;21:05, Litvínov;21:32
+16949: 25: Litvínov;21:59, Teplice v Čechách;22:26
+16946pk: 25: Teplice v Čechách;22:45, Litvínov;23:12
+16951: 25: Litvínov;23:25, Teplice v Čechách;23:52
+
+16926pk: X1: Děčín hl.n.;4:02, Litvínov;5:18
+16926pk: X2345: Teplice v Čechách;4:48, Litvínov;5:18
+6857: X: Litvínov;5:40, Děčín hl.n.;6:54
+6856pk: X: Děčín hl.n.;7:00, Litvínov;8:22
+6863: X: Litvínov;8:40, Ústí nad Labem hl.n.;9:27
+6860pk: X: Ústí nad Labem hl.n.;9:34, Litvínov;10:22
+6867: X: Litvínov;10:40, Ústí nad Labem hl.n.;11:27
+6864pk: X: Ústí nad Labem hl.n.;11:34, Litvínov;12:22
+6871: X: Litvínov;12:40, Ústí nad Labem hl.n.;13:27
+6870pk: X: Ústí nad Labem hl.n.;14:34, Litvínov;15:22
+6877: X: Litvínov;15:40, Děčín hl.n.;16:53
+6961sv: X: Děčín hl.n.;19:04, Ústí nad Labem hl.n.;19:20
+6880pk: X: Ústí nad Labem hl.n.;19:34, Litvínov;20:22
+16947: X: Litvínov;20:25, Teplice v Čechách;20:52
+16944pk: X: Teplice v Čechách;21:05, Litvínov;21:32
+16949: X: Litvínov;21:59, Teplice v Čechách;22:26
+16946pk: X: Teplice v Čechách;22:45, Litvínov;23:12
+16951: X: Litvínov;23:25, Teplice v Čechách;23:52
+
+
+1:5:0
+1:67:1

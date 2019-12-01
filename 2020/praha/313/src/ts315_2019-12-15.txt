@@ -1,0 +1,19 @@
+331: : Praha hl.n.;6:01, Linz Hbf;10:07
+332: : Linz Hbf;11:52, Praha-Holešovice;16:10
+541: XT: Praha-Holešovice;16:46, České Budějovice;19:02
+
+540: X6: České Budějovice;6:57, Praha-Holešovice;9:10
+333: X6: Praha-Holešovice;9:46, Linz Hbf;14:07
+333: T: Praha hl.n.;10:01, Linz Hbf;14:07
+334: : Linz Hbf;15:52, Praha hl.n.;19:56
+735: -2412,-2512,-3112: Praha hl.n.;22:01, České Budějovice;0:11
+
+538: -2512,-2612,-0101: České Budějovice;7:57, Praha-Holešovice;10:10
+535: -2512,-2612,-0101: Praha-Holešovice;11:46, České Budějovice;14:02
+531: 2512,2612,0101: Praha hl.n.;8:01, České Budějovice;10:05
+534: : České Budějovice;14:57, Praha-Holešovice;17:10
+337: : Praha-Holešovice;17:46, Linz Hbf;22:07
+
+330: : Linz Hbf;6:35, Praha-Holešovice;11:10
+335: : Praha-Holešovice;13:46, Linz Hbf;18:07
+336: : Linz Hbf;18:54, Praha hl.n.;23:02

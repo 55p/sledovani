@@ -1,0 +1,4 @@
+101374pk: X1,2909,2910,1811,-1611: Pardubice hl.n.;7:03, Liberec;9:55
+1373: T,-2709,-1511: Liberec;16:03, Pardubice hl.n.;18:55
+1369: X5,2710: Liberec;12:03, Pardubice hl.n.;14:55
+101366pk: X5,2710: Pardubice hl.n.;15:03, Liberec;17:55

@@ -1,0 +1,46 @@
+129403sv: X: Praha-Libeň;5:21, Praha Masarykovo nádraží;5:26
+9502: X: Praha Masarykovo nádraží;5:46, Mladá Boleslav město;7:29
+1545: X: Mladá Boleslav město;8:01, Praha Masarykovo nádraží;9:38
+229406pksv: X: Praha Masarykovo nádraží;10:08, Praha-Libeň;10:13
+129415sv: X: Praha-Libeň;13:52, Praha Masarykovo nádraží;13:57
+101542pk: X: Praha Masarykovo nádraží;14:19, Mladá Boleslav hl.n.;15:44
+1547: X: Turnov;15:24, Praha Masarykovo nádraží;17:38
+129421: T,-2412,-2512,-1004,-1104,-1204,-0105,-0805,-0507,-2709: Praha-Libeň;18:10, Praha Masarykovo nádraží;18:15
+101546pk: X: Praha Masarykovo nádraží;18:19, Všetaty;19:04
+9536: T,-2412,-2512,-1004,-1104,-1204,-0105,-0805,-0507,-2709: Praha Masarykovo nádraží;18:46, Mělník;19:49
+9517: X: Všetaty;19:23, Praha Masarykovo nádraží;20:20
+9537: T,-2412,-2512,-1004,-1104,-1204,-0105,-0805,-0507,-2709: Mělník;20:10, Praha Masarykovo nádraží;21:20
+9538: XT,-2412,-2512,-1004,-1104,-1204,-0105,-0805,-0507,-2709: Praha Masarykovo nádraží;21:46, Mělník;22:50
+109599sv: X5,2312,0904,3004,0705,2710,1611,-1004,-0105,-0805: Mělník;23:04, Všetaty;23:13
+9551: X5,2312,0904,3004,0705,2710,1611,-1004,-0105,-0805: Všetaty;23:23, Praha hl.n.;0:13
+
+209551sv: 6,2412,1004,0105,0805,2810,1711,-1104,-0205,-0905: Praha hl.n.;0:20, Praha-Libeň;0:25
+9543: X: Mělník;6:49, Praha Masarykovo nádraží;7:53
+9526: X: Praha Masarykovo nádraží;8:46, Mělník;9:51
+9527: X: Mělník;10:10, Praha Masarykovo nádraží;11:20
+129408sv: X: Praha Masarykovo nádraží;11:49, Praha-Libeň;11:54
+129413sv: 7,0811,-2212,-2312,-2412,-2512,-2612,-2712,-2812,-2912: Praha-Libeň;13:10, Praha Masarykovo nádraží;13:15
+109510pk: 7,0811,-2212,-2312,-2412,-2512,-2612,-2712,-2812,-2912: Praha Masarykovo nádraží;13:46, Mladá Boleslav hl.n.;15:21
+129417sv: X: Praha-Libeň;15:41, Praha Masarykovo nádraží;15:46
+109574pk: 7,0811,-2212,-2312,-2412,-2512,-2612,-2712,-2812,-2912: Mladá Boleslav hl.n.;15:44, Turnov;16:28
+1544: X: Praha Masarykovo nádraží;16:19, Turnov;18:28
+1488: 7,0811,-2212,-2312,-2412,-2512,-2612,-2712,-2812,-2912: Turnov;16:43, Praha Masarykovo nádraží;19:16
+9577: X: Turnov;19:27, Mladá Boleslav hl.n.;20:11
+129412sv: 7,-2212,-2312,-2412,-2512,-2612,-2712,-2812,-2912: Praha Masarykovo nádraží;19:49, Praha-Libeň;19:54
+9519: X,-3112: Mladá Boleslav hl.n.;20:37, Praha Masarykovo nádraží;22:20
+9540: X,-3112: Praha Masarykovo nádraží;22:46, Všetaty;23:39
+
+109598sv: X6,2412,1004,0105,0805,2810,1711,-1104,-0205,-0905: Všetaty;4:01, Byšice;4:05
+9523: X6,2412,1004,0105,0805,2810,1711,-1104,-0205,-0905: Byšice;4:21, Praha Masarykovo nádraží;5:20
+129400sv: 6,2412,1004,0105,0805,2810,1711,-1104,-0205,-0905: Praha Masarykovo nádraží;5:49, Praha-Libeň;5:54
+9524: X: Praha Masarykovo nádraží;6:46, Mělník;7:50
+9525: X: Mělník;8:10, Praha Masarykovo nádraží;9:20
+129406sv: X: Praha Masarykovo nádraží;10:08, Praha-Libeň;10:13
+129419sv: T,-2412,-2512,-0101,-1004,-1104,-1204,-0105,-0805,-0507,-2709: Praha-Libeň;17:08, Praha Masarykovo nádraží;17:13
+109514pk: T,-2412,-2512,-0101,-1004,-1104,-1204,-0105,-0805,-0507,-2709: Praha Masarykovo nádraží;17:46, Mladá Boleslav hl.n.;19:21
+9519: T,-2412,-2512,-0101,-1004,-1104,-1204,-0105,-0805,-0507,-2709: Mladá Boleslav hl.n.;20:37, Praha Masarykovo nádraží;22:20
+9540: T,-2412,-2512,-0101,-1004,-1104,-1204,-0105,-0805,-0507,-2709: Praha Masarykovo nádraží;22:46, Všetaty;23:39
+
+
+2:7:1
+3:7:3

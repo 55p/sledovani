@@ -1,0 +1,12 @@
+684: 2012: Praha hl.n.;14:47, Děčín hl.n.;16:33
+693: 2012: Děčín hl.n.;17:22, Praha hl.n.;19:10
+674: 2012: Praha hl.n.;19:47, Ústí nad Labem hl.n.;21:15
+6957: 2012: Ústí nad Labem hl.n.;22:11, Roudnice nad Labem;22:57
+6996sv: 2012: Hněvice;23:12, Děčín hl.n.;23:50
+6991sv: 1512,2112,2212: Děčín hl.n.;8:27, Ústí nad Labem hl.n.;8:43
+5276: 1512,2112,2212: Ústí nad Labem hl.n.;9:19, Dresden Hbf;10:21
+5277: 1512,2112,2212: Dresden Hbf;15:35, Ústí nad Labem hl.n.;16:42
+6992sv: 1512,2112,2212: Ústí nad Labem hl.n.;17:08, Děčín hl.n.;17:27
+6993sv: 1612,2312: Děčín hl.n.;4:16, Hněvice;5:06
+6930: 1612,2312: Hněvice;5:29, Děčín hl.n.;6:38
+677: 1612,2312: Děčín hl.n.;7:22, Praha hl.n.;9:10

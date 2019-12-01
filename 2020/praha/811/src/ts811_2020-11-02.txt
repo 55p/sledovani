@@ -1,0 +1,123 @@
+125990sv: X: Praha-Vršovice;6:20, Rudná u Prahy;6:49
+25905: X: Rudná u Prahy;7:11, Praha hl.n.;8:06
+125906sv: 25: Praha-Vršovice;7:32, Praha-Smíchov sev.n.;7:38
+25906: 25: Praha-Smíchov sev.n.;8:00, Rudná u Prahy;8:46
+25908: X: Praha hl.n.;8:39, Hostivice;9:26
+25911: 25: Rudná u Prahy;10:11, Praha hl.n.;11:04
+25911: X: Hostivice;10:31, Praha hl.n.;11:04
+25912: : Praha hl.n.;11:54, Rudná u Prahy;12:46
+25917: : Rudná u Prahy;14:11, Praha hl.n.;15:21
+25920: : Praha hl.n.;15:54, Rudná u Prahy;16:48
+25923: X: Rudná u Prahy;17:11, Praha hl.n.;18:22
+25925: 25: Rudná u Prahy;18:11, Praha hl.n.;19:22
+25926: X: Praha hl.n.;18:54, Rudná u Prahy;19:48
+25929: X: Rudná u Prahy;20:11, Praha hl.n.;21:22
+25930: 25: Praha hl.n.;20:54, Hostivice;21:26
+25931: 25: Hostivice;21:31, Praha hl.n.;22:22
+25932: X: Praha hl.n.;21:54, Rudná u Prahy;22:48
+125931sv: 25: Praha hl.n.;22:27, Praha-Vršovice;22:31
+25963: X: Rudná u Prahy;23:11, Hostivice;23:24
+119786sv: X: Hostivice;23:29, Kladno;23:41
+
+119884sv: 25: Kladno;4:27, Kladno-Ostrovec;4:32
+109841pk: 25: Kladno-Ostrovec;4:40, Hostivice;5:03
+119781sv: X: Kladno;4:48, Hostivice;5:00
+25953: 25: Hostivice;5:08, Praha-Zličín;5:14
+19742: X: Hostivice;5:12, Středokluky;5:26
+19743: X: Středokluky;5:28, Hostivice;5:43
+25900: 25: Praha-Zličín;5:43, Hostivice;5:50
+19744: X: Hostivice;5:56, Středokluky;6:10
+25955: 25: Hostivice;6:07, Praha-Zličín;6:13
+19745: X: Středokluky;6:19, Praha-Zličín;6:47
+25952: 25: Praha-Zličín;6:43, Hostivice;6:49
+19746: X: Praha-Zličín;6:50, Noutonice;7:36
+25903: 25: Hostivice;6:58, Praha-Zličín;7:03
+25904: 25: Praha-Zličín;7:19, Hostivice;7:26
+25905: 25: Hostivice;7:31, Praha-Zličín;7:36
+19747: X: Noutonice;7:58, Hostivice;8:19
+25908: 25: Praha-Zličín;9:19, Hostivice;9:26
+25909: 25: Hostivice;9:31, Praha-Zličín;9:36
+25954: 25: Praha-Zličín;11:19, Hostivice;11:26
+25957: 25: Hostivice;11:31, Praha-Zličín;11:37
+25914: 25: Praha-Zličín;13:19, Hostivice;13:26
+25915: 25: Hostivice;13:31, Praha-Zličín;13:36
+25918: 25: Praha-Zličín;15:19, Hostivice;15:26
+19758: X: Hostivice;15:31, Noutonice;15:52
+25919: 25: Hostivice;15:31, Praha-Zličín;15:36
+19757: X: Noutonice;15:58, Hostivice;16:19
+19760: X: Hostivice;16:31, Středokluky;16:45
+19759: X: Středokluky;16:47, Hostivice;17:02
+25922: 25: Praha-Zličín;17:19, Hostivice;17:26
+19762: X: Hostivice;17:31, Noutonice;17:52
+25923: 25: Hostivice;17:31, Praha-Zličín;17:36
+19761: X: Noutonice;17:58, Hostivice;18:19
+19764: X: Hostivice;18:31, Noutonice;18:52
+19763: X: Noutonice;18:58, Hostivice;19:19
+25926: 25: Praha-Zličín;19:19, Hostivice;19:26
+19766: X: Hostivice;19:31, Středokluky;19:45
+25927: 25: Hostivice;19:31, Praha-Zličín;19:36
+19765: X: Středokluky;20:04, Hostivice;20:19
+25928: 25: Praha-Zličín;20:19, Rudná u Prahy;20:48
+119782sv: X: Hostivice;20:41, Kladno;20:56
+25933: 25: Rudná u Prahy;22:11, Hostivice;22:23
+119784sv: X: Hostivice;22:41, Kladno;22:56
+
+119882sv: X: Kladno;3:52, Kladno-Ostrovec;3:57
+109839pk: X: Kladno-Ostrovec;4:04, Hostivice;4:27
+25951: X: Hostivice;4:32, Praha-Zličín;4:38
+25950: X: Praha-Zličín;4:55, Rudná u Prahy;5:16
+25901: X: Rudná u Prahy;5:35, Praha hl.n.;6:36
+25904: X: Praha hl.n.;6:54, Rudná u Prahy;7:46
+119783sv: 25: Kladno;7:58, Hostivice;8:13
+25907: X: Rudná u Prahy;8:11, Praha hl.n.;9:04
+19748: 25: Hostivice;8:35, Noutonice;8:56
+25910: X: Praha hl.n.;9:38, Rudná u Prahy;10:46
+19749: 25: Noutonice;9:54, Hostivice;10:19
+19750: 25: Hostivice;10:35, Slaný;11:27
+25913: X: Rudná u Prahy;12:11, Praha hl.n.;13:22
+19751: 25: Slaný;12:30, Hostivice;13:19
+19754: 25: Hostivice;13:31, Slaný;14:20
+25916: X: Praha hl.n.;13:54, Rudná u Prahy;14:48
+25919: X: Rudná u Prahy;15:11, Praha hl.n.;16:22
+19757: 25: Slaný;15:30, Hostivice;16:19
+19760: 25: Hostivice;16:31, Středokluky;16:45
+19759: 25: Středokluky;16:47, Hostivice;17:02
+25922: X: Praha hl.n.;16:54, Rudná u Prahy;17:48
+25925: X: Rudná u Prahy;18:11, Praha hl.n.;19:22
+19764: 25: Hostivice;18:31, Noutonice;18:52
+19763: 25: Noutonice;18:58, Hostivice;19:19
+25928: X: Praha hl.n.;19:54, Rudná u Prahy;20:48
+25959: 25: Hostivice;21:06, Praha-Zličín;21:12
+25956: 25: Praha-Zličín;21:44, Hostivice;21:50
+25961: 25: Hostivice;22:08, Praha-Zličín;22:14
+25933: X: Rudná u Prahy;22:11, Praha hl.n.;23:04
+25932: 25: Praha-Zličín;22:19, Hostivice;22:26
+119784pksv: 25: Hostivice;22:41, Kladno;22:56
+125933sv: X: Praha hl.n.;23:08, Praha-Vršovice;23:12
+
+125900sv: X: Praha-Vršovice;4:52, Praha hl.n.;4:56
+25900: X: Praha hl.n.;5:09, Rudná u Prahy;6:13
+125902sv: 25: Praha-Vršovice;5:43, Praha hl.n.;5:47
+25902: 25: Praha hl.n.;5:54, Rudná u Prahy;6:46
+25903: X: Rudná u Prahy;6:35, Praha-Smíchov sev.n.;7:29
+25906: X: Praha-Smíchov sev.n.;8:00, Rudná u Prahy;8:46
+25907: 25: Rudná u Prahy;8:11, Praha hl.n.;9:04
+25909: X: Rudná u Prahy;9:11, Praha hl.n.;10:06
+25910: 25: Praha hl.n.;9:38, Rudná u Prahy;10:46
+25913: 25: Rudná u Prahy;12:11, Praha hl.n.;13:22
+25914: X: Praha hl.n.;12:54, Hostivice;13:26
+25915: X: Hostivice;13:31, Praha hl.n.;14:22
+25916: 25: Praha hl.n.;13:54, Rudná u Prahy;14:48
+25918: X: Praha hl.n.;14:54, Rudná u Prahy;15:48
+25921: : Rudná u Prahy;16:11, Praha hl.n.;17:22
+25924: : Praha hl.n.;17:54, Rudná u Prahy;18:48
+25927: X: Rudná u Prahy;19:11, Praha hl.n.;20:22
+25929: 25: Rudná u Prahy;20:11, Praha hl.n.;21:22
+25930: X: Praha hl.n.;20:54, Hostivice;21:26
+125929sv: 25: Praha hl.n.;21:26, Praha-Vršovice;21:30
+25931: X: Hostivice;21:31, Praha hl.n.;22:22
+125931sv: X: Praha hl.n.;22:27, Praha-Vršovice;22:31
+
+
+1:67:4
+3:67:2

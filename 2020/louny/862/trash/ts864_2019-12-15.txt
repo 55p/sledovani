@@ -1,0 +1,25 @@
+126896sv: 6: Louny;5:56, Most;6:28
+126800| pk Dbí-MvK|postrk Dubí - Moldava v Kruš.horách: 25: Most;6:41, Moldava v Kruš.horách;7:56
+126801| pk Dbí-Mst|postrk Dubí - Most: 25: Moldava v Kruš.horách;8:14, Most;9:23
+126802| pk Dbí-MvK|postrk Dubí - Moldava v Kruš.horách: 25: Most;9:30, Moldava v Kruš.horách;10:42
+126803| pk Dbí-Mst|postrk Dubí - Most: 25: Moldava v Kruš.horách;12:00, Most;13:09
+126804| pk Dbí-MvK|postrk Dubí - Moldava v Kruš.horách: 25: Most;13:20, Moldava v Kruš.horách;14:31
+126805| pk Dbí-MvK|postrk Dubí - Most: 25: Moldava v Kruš.horách;15:00, Most;16:11
+126890sv: 6: Most;16:18, Most nové nádraží;16:24
+26806: T: Most;16:42, Moldava v Kruš.horách;17:49
+126891sv: 6: Most nové nádraží;17:03, Most;17:09
+26807: T: Moldava v Kruš.horách;18:00, Most;19:11
+126899sv: T: Most;19:29, Louny;20:08
+
+226896pksv: 6: Louny;5:56, Most;6:28
+226800pk| př Dbí-Mst|přípřež Dubí - Most: 25: Most;6:41, Moldava v Kruš.horách;7:56
+226801pk| př Dbí-MvK|přípřež Dubí - Moldava v Kruš.horách: 25: Moldava v Kruš.horách;8:14, Most;9:23
+226802pk| př Dbí-Mst|přípřež Dubí - Most: 25: Most;9:30, Moldava v Kruš.horách;10:42
+226803pk| př Dbí-MvK|přípřež Dubí - Moldava v Kruš.horách: 25: Moldava v Kruš.horách;12:00, Most;13:09
+226804pk| př Dbí-Mst|přípřež Dubí - Most: 25: Most;13:20, Moldava v Kruš.horách;14:31
+226805pk| př Dbí-MvK|přípřež Dubí - Moldava v Kruš.horách: 25: Moldava v Kruš.horách;15:00, Most;16:11
+126897sv: T: Most;16:22, Louny;16:55
+26806: 6: Most;16:42, Moldava v Kruš.horách;17:49
+26807: 6: Moldava v Kruš.horách;18:00, Most;19:11
+126892sv: 6: Most;19:18, Most nové nádraží;19:24
+126893sv: 6: Most nové nádraží;20:05, Most;20:10

@@ -1,0 +1,8 @@
+901: X6: Brno hl.n.;5:22, Šumperk;7:41
+912: : Šumperk;8:09, Brno hl.n.;10:42
+909: X: Brno hl.n.;13:18, Šumperk;15:41
+904: X: Šumperk;16:09, Brno hl.n.;18:43
+907: 25: Brno hl.n.;11:18, Šumperk;13:41
+906: 25: Šumperk;14:09, Brno hl.n.;16:43
+913: 25: Brno hl.n.;17:18, Šumperk;19:43
+900: T: Šumperk;20:15, Brno hl.n.;22:37

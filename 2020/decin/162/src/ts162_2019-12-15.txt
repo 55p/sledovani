@@ -1,0 +1,28 @@
+﻿6491sv: X: Děčín hl.n.;3:50, Litoměřice dolní n.;4:34
+6420: X: Litoměřice město;4:57, Ústí nad Labem západ;5:21
+6850: 25: Děčín hl.n.;4:48, Ústí nad Labem hl.n.;5:18
+783: : Ústí nad Labem hl.n.;6:33, Kolín;8:40
+792: : Kolín;9:14, Ústí nad Labem hl.n.;11:26
+789: : Ústí nad Labem hl.n.;12:33, Kolín;14:40
+786: : Kolín;15:14, Ústí nad Labem hl.n.;17:26
+795: -2412,-2512,-3112: Ústí nad Labem hl.n.;18:33, Kolín;20:40
+780: -2412,-2512,-3112: Kolín;21:14, Ústí nad Labem hl.n.;23:14
+
+781: -2512,-2612,-0101: Ústí nad Labem hl.n.;4:39, Kolín;6:40
+794: -2512,-2612,-0101: Kolín;7:14, Ústí nad Labem hl.n.;9:26
+787: : Ústí nad Labem hl.n.;10:33, Kolín;12:40
+788: : Kolín;13:14, Ústí nad Labem hl.n.;15:26
+793: : Ústí nad Labem hl.n.;16:33, Kolín;18:40
+782: : Kolín;19:14, Ústí nad Labem hl.n.;21:26
+602: -2512,-2612,-0101: Ústí nad Labem hl.n.;22:55, Teplice v Čechách;23:11
+29602sv: -2512,-2612,-0101: Teplice v Čechách;23:30, Ústí nad Labem západ;23:45
+
+1940: -2512,-2612,-0101: Ústí nad Labem hl.n.;1:00, Chomutov;2:11
+1943: 25,-2512,-2612,-0101: Chomutov;4:23, Ústí nad Labem hl.n.;5:35
+6842: X: Chomutov;5:31, Kadaň-Prunéřov;5:42
+1945: X: Kadaň-Prunéřov;6:08, Ústí nad Labem hl.n.;7:31
+785: : Ústí nad Labem hl.n.;8:33, Kolín;10:40
+790: : Kolín;11:14, Ústí nad Labem hl.n.;13:26
+791: : Ústí nad Labem hl.n.;14:33, Kolín;16:40
+784: : Kolín;17:14, Ústí nad Labem hl.n.;19:26
+29784sv: : Ústí nad Labem hl.n.;19:45, Děčín hl.n.;20:00

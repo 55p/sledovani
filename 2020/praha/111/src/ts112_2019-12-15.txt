@@ -1,0 +1,17 @@
+5993sv: X1,-2312,-3012: Praha jih;4:54, Kutná Hora hl.n.;6:00
+5995sv: X2345,-3112,-0201,-0301: Kolín;6:52, Kutná Hora hl.n.;7:02
+1524: X,-2312,-2712,-3012,-3112,-0201,-0301: Kutná Hora hl.n.;7:31, Praha hl.n.;8:33
+1525: X,-2312,-2712,-3012,-3112,-0201,-0301: Praha hl.n.;17:27, Kutná Hora hl.n.;18:22
+5994sv: X1234,-2312,-3012,-0201: Kutná Hora hl.n.;18:51, Kolín;19:01
+105994pksv: X5,-2712,-0301: Kutná Hora hl.n.;18:51, Kolín;19:01
+29601: 6: Ústí nad Labem západ;4:23, Teplice v Čechách;4:39
+100601: 6: Teplice v Čechách;4:57, Ústí nad Labem hl.n.;5:14
+603: 6: Ústí nad Labem hl.n.;6:22, Praha hl.n.;7:36
+
+105993pksv: X1,-2312,-3012: Kolín;5:50, Kutná Hora hl.n.;6:00
+5993sv: X2345,-3112,-0201,-0301: Kolín;5:50, Kutná Hora hl.n.;6:00
+1522: X,-2312,-2712,-3012,-3112,-0201,-0301: Kutná Hora hl.n.;6:31, Praha hl.n.;7:31
+1523: X,-2312,-2712,-3012,-3112,-0201,-0301: Praha hl.n.;16:27, Kutná Hora hl.n.;17:22
+5992sv: X1234,-2312,-3012,-0201: Kutná Hora hl.n.;17:51, Kolín;18:01
+5994pksv: X5,-2712,-0301: Kutná Hora hl.n.;18:51, Praha jih;20:06
+600: X5: Praha hl.n.;22:34, Ústí nad Labem hl.n.;23:49

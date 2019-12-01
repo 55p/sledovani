@@ -1,0 +1,66 @@
+5101: X: Trutnov hl.n.;5:19, Jaroměř;6:17
+5464: X: Jaroměř;6:22, Stará Paka;7:22
+5471: X: Stará Paka;10:33, Jaroměř;11:33
+5472: X: Jaroměř;14:22, Stará Paka;15:25
+105476|pk Hsp-Sp|postrk Horka u Staré Paky - Stará Paka: X: Jaroměř;18:22, Stará Paka;19:17
+5724: X1234: Stará Paka;20:32, Chlumec nad Cidlinou;2128
+105221pk: 6: Chlumec nad Cidlinou;9:49, Hradec Králové hl.n.;10:24
+105224pk: T: Hradec Králové hl.n.;14:34, Chlumec nad Cidlinou;15:09
+
+5701: X: Chlumec nad Cidlinou;4:25, Stará Paka;5:23
+5702: X: Stará Paka;6:10, Městec Králové;7:52
+5704: 25: Stará Paka;6:28, Městec Králové;7:52
+5707: X: Městec Králové;8:05, Chlumec nad Cidlinou;8:24
+15650: X: Chlumec nad Cidlinou;9:33, Městec Králové;9:52
+5709: X: Městec Králové;10:05, Stará Paka;11:29
+5712: X: Stará Paka;12:28, Městec Králové;13:52
+5715: X: Městec Králové;14:05, Lomnice nad Popelkou;15:49
+5718: X: Lomnice nad Popelkou;16:04, Městec Králové;17:52
+5721: X: Městec Králové;18:05, Stará Paka;19:29
+5707: 25: Městec Králové;8:05, Stará Paka;9:29
+5708: 25: Stará Paka;10:28, Městec Králové;11:52
+5713: 25: Městec Králové;12:05, Stará Paka;13:29
+5714: 25: Stará Paka;14:28, Městec Králové;15:52
+5719: 25: Městec Králové;16:05, Stará Paka;17:29
+5479: 25: Stará Paka;18:30, Horka u Staré Paky;18:39
+5476: 25: Jaroměř;18:22, Stará Paka;19:17
+
+105700|pk CnC-MKr|postrk Chlumec nad Cidlinou - Městec Králové: X: Stará Paka;4:24, Městec Králové;5:52
+5705: X: Městec Králové;6:05, Stará Paka;7:47
+5710: X: Stará Paka;10:28, Chlumec nad Cidlinou;11:25
+5711: X: Chlumec nad Cidlinou;12:32, Lomnice nad Popelkou;13:49
+5716: X: Lomnice nad Popelkou;14:04, Městec Králové;15:52
+5717: X: Městec Králové;16:05, Stará Paka;17:29
+5477: 25: Stará Paka;16:33, Jaroměř;17:31
+5479: X: Stará Paka;18:30, Horka u Staré Paky;18:39
+5476: X: Horka u Staré Paky;19:05, Stará Paka;19:17
+105476pk|pk Hsp-Sp|postrk Horka u Staré Paky - Stará Paka: 25: Horka u Staré Paky;19:05, Stará Paka;19:17
+5724: X5: Stará Paka;20:32, Chlumec nad Cidlinou;21:28
+
+5465: X: Stará Paka;4:43, Jaroměř;5:35
+15753: T: Trutnov hl.n.;7:25, Teplice nad Metují;8:26
+5106: X: Jaroměř;7:15, Trutnov hl.n.;8:19
+15770: T: Teplice nad Metují;8:31, Teplice nad Metují město;8:34
+15773: T: Teplice nad Metují město;9:23, Teplice nad Metují;9:26
+15757: 6: Trutnov hl.n.;9:25, Teplice nad Metují;10:26
+15774: 6: Teplice nad Metují;10:31, Teplice nad Metují město;10:34
+15779: 6: Teplice nad Metují město;11:23, Teplice nad Metují;11:26
+15758: 6: Teplice nad Metují;11:31, Trutnov hl.n.;12:33
+15756: T: Teplice nad Metují;9:31, Trutnov hl.n.;10:33
+15759: T: Trutnov hl.n.;11:25, Teplice nad Metují;12:26
+15780: T: Teplice nad Metují;12:31, Teplice nad Metují město;12:34
+15785: T: Teplice nad Metují město;13:23, Teplice nad Metují;13:26
+15760: T: Teplice nad Metují;13:31, Trutnov hl.n.;14:33
+15763: T: Trutnov hl.n.;15:25, Teplice nad Metují;16:26
+15792: T: Teplice nad Metují;16:31, Teplice nad Metují město;16:34
+15795: T: Teplice nad Metují město;17:23, Teplice nad Metují;17:26
+15766: T: Teplice nad Metují;17:31, Trutnov hl.n.;18:33
+
+
+1:6:1
+2:6:2
+3:5:1
+3:6:3
+4:5:4
+4:6:4
+

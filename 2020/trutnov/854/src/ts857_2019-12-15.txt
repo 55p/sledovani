@@ -1,0 +1,43 @@
+5100: X2345: Červený Kostelec;4:48, Trutnov hl.n;5:16
+15751: X: Trutnov hl.n.;6:25, Teplice nad Metují;7:26
+15754: X: Teplice nad Metují;7:31, Adršpach;7:43
+15753: X: Adršpach;8:14, Teplice nad Metují;8:26
+15753: 6: Trutnov hl.n.;7:25, Teplice nad Metují;8:26
+15770: X6: Teplice nad Metují;8:31, Teplice nad Metují město;8:34
+15773: X6: Teplice nad Metují město;9:23, Teplice nad Metují;9:26
+15756: X6: Teplice nad Metují;9:31, Trutnov hl.n.;10:33
+15759: 6: Trutnov hl.n.;11:25, Teplice nad Metují;12:26
+15780: 6: Teplice nad Metují;12:31, Teplice nad Metují město;12:34
+15785: 6: Teplice nad Metují město;13:23, Teplice nad Metují;13:26
+15760: 6: Teplice nad Metují;13:31, Trutnov hl.n.;14:33
+15763: 6: Trutnov hl.n.;15:25, Teplice nad Metují;16:26
+15792: 6: Teplice nad Metují;16:31, Teplice nad Metují město;16:34
+15795: 6: Teplice nad Metují město;17:23, Teplice nad Metují;17:26
+15766: 6: Teplice nad Metují;17:31, Trutnov hl.n.;18:33
+15767: X6: Trutnov hl.n.;19:25, Meziměstí;20:50
+25154: 6: Teplice nad Metují;20:30, Meziměstí;20:40
+15767: X: Trutnov hl.n.;19:25, Meziměstí;20:50
+
+105143|pk Hr-Nch|postrk Hronov - Náchod: X: Meziměstí;6:40, Náchod;7:18
+5142: X: Náchod;7:22, Hronov;7:31
+5145: X: Hronov;7:34, Náchod;7:43
+5144: X: Náchod;14:24, Meziměstí;15:09
+
+101843pk: X: Broumov;6:02, Starkoč;7:18
+15752: X: Teplice nad Metují;6:31, Trutnov hl.n.;7:33
+101845pk: T: Broumov;7:02, Starkoč;8:18
+15754: T: Teplice nad Metují;7:31, Trutnov hl.n.;8:33
+15757: XT: Trutnov hl.n.;9:25, Teplice nad Metují;10:26
+15774: XT: Teplice nad Metují;10:31, Teplice nad Metují město;10:34
+15779: XT: Teplice nad Metují město;11:23, Teplice nad Metují;11:26
+15758: X: Teplice nad Metují;11:31, Teplice nad Metují město;11:34
+15758: T: Teplice nad Metují;11:31, Trutnov hl.n.;12:33
+15759: X: Teplice nad Metují město;12:23, Teplice nad Metují;12:26
+15780: X: Teplice nad Metují;12:31, Teplice nad Metují město;12:34
+15785: X: Teplice nad Metují město;13:23, Teplice nad Metují;13:26
+15760: X: Teplice nad Metují;13:31, Trutnov hl.n.;14:33
+15763: X: Trutnov hl.n.;15:25, Teplice nad Metují;16:26
+15792: X: Teplice nad Metují;16:31, Teplice nad Metují město;16:34
+15766: X: Teplice nad Metují;17:31, Trutnov hl.n.;18:33
+5105: X: Trutnov hl.n.;19:41, Červený Kostelec;20:12
+5190sv: 5: Červený Kostelec;20:19, Trutnov hl.n;20:39

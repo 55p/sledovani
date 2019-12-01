@@ -1,0 +1,18 @@
+﻿553: : Plzeň hl.n.;7:00, Praha hl.n.;8:17
+358: : Praha hl.n.;9:43, Plzeň hl.n.;10:59
+355: : Plzeň hl.n.;13:00, Praha hl.n.;14:17
+352: : Praha hl.n.;15:43, Plzeň hl.n.;16:59
+361: : Plzeň hl.n.;19:00, Praha hl.n.;20:17
+
+362: : Praha hl.n.;5:43, Plzeň hl.n.;6:59
+351: : Plzeň hl.n.;9:00, Praha hl.n.;10:17
+356: : Praha hl.n.;11:43, Plzeň hl.n.;12:59
+357: : Plzeň hl.n.;15:00, Praha hl.n.;16:17
+350: : Praha hl.n.;17:43, Plzeň hl.n.;18:59
+363: : Plzeň hl.n.;21:00, Praha hl.n.;22:17
+
+360: : Praha hl.n.;7:43, Plzeň hl.n.;8:59
+353: : Plzeň hl.n.;11:00, Praha hl.n.;12:17
+354: : Praha hl.n.;13:43, Plzeň hl.n.;14:59
+359: : Plzeň hl.n.;17:00, Praha hl.n.;18:17
+554: : Praha hl.n.;19:43, Plzeň hl.n.;20:59

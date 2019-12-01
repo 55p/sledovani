@@ -1,0 +1,41 @@
+﻿941: X: Praha hl.n.;5:07, Hradec Králové hl.n.;6:50
+932: X: Hradec Králové hl.n.;8:08, Praha hl.n.;9:49
+927: X: Praha hl.n.;12:11, Hradec Králové hl.n.;13:50
+944: X: Hradec Králové hl.n.;15:08, Praha hl.n.;16:49
+933: X: Praha hl.n.;18:11, Hradec Králové hl.n.;19:50
+943: T: Praha hl.n.;7:11, Hradec Králové hl.n.;8:50
+930: T: Hradec Králové hl.n.;10:08, Praha hl.n.;11:49
+929: T: Praha hl.n.;14:11, Hradec Králové hl.n.;15:50
+942: T: Hradec Králové hl.n.;17:08, Praha hl.n.;18:49
+953: T: Praha hl.n.;20:11, Hradec Králové hl.n.;21:51
+
+952: X: Hradec Králové hl.n.;4:08, Praha hl.n.;5:49
+943: X: Praha hl.n.;7:11, Hradec Králové hl.n.;8:50
+930: X: Hradec Králové hl.n.;10:08, Praha hl.n.;11:49
+929: X: Praha hl.n.;14:11, Hradec Králové hl.n.;15:50
+5619: X: Hradec Králové hl.n.;16:19, Týniště nad Orlicí;16:48
+
+5610: X: Týniště nad Orlicí;4:33, Hradec Králové hl.n.;4:59
+934: : Hradec Králové hl.n.;6:06, Praha hl.n.;7:49
+945: : Praha hl.n.;9:11, Hradec Králové hl.n.;10:50
+928: : Hradec Králové hl.n.;12:08, Praha hl.n.;13:49
+937: : Praha hl.n.;15:11, Hradec Králové hl.n.;16:50
+922: : Hradec Králové hl.n.;18:08, Praha hl.n.;19:49
+955: : Praha hl.n.;22:11, Hradec Králové hl.n.;23:50
+
+5601pk: X: Hradec Králové hl.n.;5:03, Týniště nad Orlicí;5:27
+5614: X: Týniště nad Orlicí;6:07, Hradec Králové hl.n.;6:32
+936: X6: Hradec Králové hl.n.;7:08, Praha hl.n.;8:49
+925: X6: Praha hl.n.;10:11, Hradec Králové hl.n.;11:50
+946: X6: Hradec Králové hl.n.;13:08, Praha hl.n.;14:49
+931: X6: Praha hl.n.;16:11, Hradec Králové hl.n.;17:50
+940: X6: Hradec Králové hl.n.;19:08, Praha hl.n.;20:49
+
+
+1:5:3
+2:5:0
+3:6:3
+4:5:2
+2:6:1
+4:6:2
+2:7:1

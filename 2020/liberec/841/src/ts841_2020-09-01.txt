@@ -1,0 +1,61 @@
+1361: : Liberec;4:03, Pardubice hl.n.;6:55
+1372: : Pardubice hl.n.;9:03, Liberec;11:55
+101371pk: X5,2710: Liberec;14:03, Pardubice hl.n.;16:55
+1364: X5,2710: Pardubice hl.n.;17:03, Liberec;19:55
+1380: X5,2710: Liberec;20:28, Ústí nad Labem hl.n.;22:25
+1371: X1234,25,-2710: Liberec;14:03, Pardubice hl.n.;16:55
+1362: X1234,25,-2710: Pardubice hl.n.;19:03, Liberec;21:55
+
+1363||vlož Hradec-Pardubice v X: : Liberec;6:03, Pardubice hl.n.;8:56
+1370: : Pardubice hl.n.;11:03, Liberec;13:56
+1373: X6,2709,1511: Liberec;16:03, Pardubice hl.n.;18:55
+101373pk: T,-2709,-1511: Liberec;16:03, Pardubice hl.n.;18:55
+1360: : Pardubice hl.n.;21:03, Liberec;23:57
+
+1365: : Liberec;8:03, Pardubice hl.n.;10:55
+1368: : Pardubice hl.n.;13:03, Liberec;15:55
+1375: : Liberec;18:03, Pardubice hl.n.;20:55
+
+1374: : Pardubice hl.n.;7:03, Liberec;9:55
+101369pk: X5,2710: Liberec;12:03, Pardubice hl.n.;14:55
+1366: X5,2710: Pardubice hl.n.;15:03, Liberec;17:55
+1369: X1234,25,-2710: Liberec;12:03, Pardubice hl.n.;14:55
+1364: X1234,25,-2710: Pardubice hl.n.;17:03, Liberec;19:55
+1380: X1234,25,-2710: Liberec;20:28, Ústí nad Labem hl.n.;22:25
+
+1381: X6,2810,1711: Ústí nad Labem hl.n.;5:27, Liberec;7:28
+1392: : Liberec;8:28, Ústí nad Labem hl.n.;10:33
+1387: : Ústí nad Labem hl.n.;11:27, Liberec;13:28
+1386: : Liberec;14:28, Ústí nad Labem hl.n.;16:33
+1393: -2412: Ústí nad Labem hl.n.;17:27, Liberec;19:28
+1377: -2412: Liberec;20:03, Pardubice hl.n.;22:52
+
+1376: : Pardubice hl.n.;5:03, Liberec;7:55
+1367: : Liberec;10:03, Pardubice hl.n.;12:55
+1366: X1234,25,-2710: Pardubice hl.n.;15:03, Liberec;17:55
+101368pk: X5,2710: Pardubice hl.n.;13:03, Liberec;15:55
+
+1396: X6,2810,1711: Liberec;4:24, Ústí nad Labem hl.n.;6:33
+1383: : Ústí nad Labem hl.n.;7:27, Liberec;9:28
+1390: : Liberec;10:28, Ústí nad Labem hl.n.;12:33
+1389: : Ústí nad Labem hl.n.;13:27, Liberec;15:28
+1384: : Liberec;16:28, Ústí nad Labem hl.n.;18:33
+1395: : Ústí nad Labem hl.n.;19:27, Liberec;21:28
+
+1394: : Liberec;6:28, Ústí nad Labem hl.n.;8:33
+1385: : Ústí nad Labem hl.n.;9:27, Liberec;11:28
+1388: : Liberec;12:28, Ústí nad Labem hl.n.;14:33
+1391: : Ústí nad Labem hl.n.;15:27, Liberec;17:28
+1382: : Liberec;18:28, Ústí nad Labem hl.n.;20:33
+1397: : Ústí nad Labem hl.n.;21:22, Liberec;23:28
+
+101374pk: X1,1404,2909,2910,1811,-2312,-3012,-1611: Pardubice hl.n.;7:03, Liberec;9:55
+1373: 7: Liberec;16:03, Pardubice hl.n.;18:55
+1369: 5: Liberec;12:03, Pardubice hl.n.;14:55
+101366pk: 5: Pardubice hl.n.;15:03, Liberec;17:55
+
+
+1:5:5
+4:5:2
+4:6:6
+6:6:5

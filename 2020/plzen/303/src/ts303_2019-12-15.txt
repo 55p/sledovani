@@ -1,0 +1,133 @@
+﻿7530: X: Plzeň hl.n.;5:20, Přeštice;5:49
+7523: X: Přeštice;6:09, Plzeň hl.n.;6:39
+663: : Plzeň hl.n.;8:03, České Budějovice;9:54
+712: : České Budějovice;15:08, Praha-Holešovice;17:46
+729: : Praha-Holešovice;18:18, České Budějovice;20:51
+
+542: : České Budějovice;5:57, Praha-Holešovice;8:10
+533: : Praha-Holešovice;8:46, České Budějovice;11:02
+536: : České Budějovice;11:57, Praha-Holešovice;14:10
+537: X: Praha-Holešovice;14:46, České Budějovice;17:02
+539: 25: Praha-Holešovice;15:46, České Budějovice;18:02
+702: : České Budějovice;19:08, Praha hl.n.;21:27
+
+531: 25: Praha hl.n.;8:01, České Budějovice;10:02
+539: X: Praha-Holešovice;15:46, České Budějovice;18:02
+532: 25: České Budějovice;15:57, Praha-Holešovice;18:10
+543: T: Praha-Holešovice;18:46, České Budějovice;21:02
+545: 6: Praha-Holešovice;19:46, České Budějovice;22:03
+
+544: X: České Budějovice;4:57, Praha hl.n.;6:57
+531: X: Praha hl.n.;8:01, České Budějovice;10:02
+720: X: České Budějovice;11:08, Praha-Holešovice;13:46
+721: X: Praha-Holešovice;14:09, České Budějovice;16:51
+716: 6: České Budějovice;13:08, Praha-Holešovice;15:46
+725: 6: Praha-Holešovice;16:18, České Budějovice;18:51
+700: 6: České Budějovice;20:08, Praha hl.n.;22:27
+737: 6: Praha hl.n.;23:42, Tábor;1:03
+
+734: X: České Budějovice;4:12, Praha-Holešovice;6:46
+707: X: Praha-Holešovice;7:18, Veselí nad Lužnicí;9:22
+29730sv: T: Tábor;5:50, Veselí nad Lužnicí;6:07
+730: 25: Veselí nad Lužnicí;6:36, Praha-Holešovice;8:46
+711: 25: Praha-Holešovice;9:18, Veselí nad Lužnicí;11:22
+718: : Veselí nad Lužnicí;12:36, Praha-Holešovice;14:46
+723: : Praha-Holešovice;15:18, Veselí nad Lužnicí;17:22
+704: : Veselí nad Lužnicí;18:36, Praha hl.n.;20:27
+967: zX: Praha hl.n.;22:04, Čáslav;23:04
+
+966: X: Čáslav;4:51, Praha hl.n.;5:54
+705: : Praha hl.n.;6:31, České Budějovice;8:51
+722: : České Budějovice;10:08, Praha-Holešovice;12:46
+719: 6: Praha-Holešovice;13:18, Veselí nad Lužnicí;15:22
+708: 6: Veselí nad Lužnicí;16:36, Praha hl.n.;18:27
+719: XT: Praha-Holešovice;13:18, České Budějovice;15:51
+706: XT: České Budějovice;17:08, Praha-Holešovice;19:46
+733: XT: Praha-Holešovice;20:18, České Budějovice;22:47
+
+728: : České Budějovice;7:08, Praha-Holešovice;9:46
+713: : Praha-Holešovice;10:09, České Budějovice;12:51
+714: X: České Budějovice;14:08, Praha-Holešovice;16:46
+727: X: Praha-Holešovice;17:18, Veselí nad Lužnicí;19:22
+706: 6: České Budějovice;17:08, Praha-Holešovice;19:46
+733: 6: Praha-Holešovice;20:18, České Budějovice;22:47
+530: T: České Budějovice;16:57, Praha-Holešovice;19:10
+545: T: Praha-Holešovice;19:46, České Budějovice;22:03
+
+8252: X: Tábor;4:17, Benešov u Prahy;5:10
+8257: X: Benešov u Prahy;6:16, Tábor;7:15
+71821: X: Tábor;7:15, Veselí nad Lužnicí;8:09
+8308: X: Veselí nad Lužnicí;9:43, Jindřichův Hradec;10:18
+8313: X: Jindřichův Hradec;11:46, Veselí nad Lužnicí;12:18
+8232: X: Veselí nad Lužnicí;12:59, Tábor;13:28
+8274: X: Tábor;15:10, Benešov u Prahy;16:06
+8271: X: Benešov u Prahy;17:20, Tábor;18:23
+8223: X1234: Tábor;22:31, České Budějovice;23:55
+734: 6: Tábor;5:05, Praha-Holešovice;6:46
+707: 6: Praha-Holešovice;7:18, Veselí nad Lužnicí;9:22
+
+8202: X: České Budějovice;5:28, Tábor;6:46
+8207: X: Tábor;7:22, Veselí nad Lužnicí;7:50
+726: : Veselí nad Lužnicí;8:36, Praha-Holešovice;10:46
+715: : Praha-Holešovice;11:18, Veselí nad Lužnicí;13:22
+714: 25: Veselí nad Lužnicí;14:36, Praha-Holešovice;16:46
+727: 25: Praha-Holešovice;17:18, Veselí nad Lužnicí;19:22
+
+730: X: Veselí nad Lužnicí;6:36, Praha-Holešovice;8:46
+711: X: Praha-Holešovice;9:18, České Budějovice;11:51
+716: XT: České Budějovice;13:08, Praha-Holešovice;15:46
+725: XT: Praha-Holešovice;16:18, České Budějovice;18:51
+700: XT: České Budějovice;20:08, Praha hl.n.;22:27
+737: XT: Praha hl.n.;23:42, Tábor;1:03
+
+1502: X: Tábor;5:15, Kutná Hora hl.n.;7:59
+1502: 6: Tábor;5:15, Praha hl.n.;7:02
+1503: 6: Praha hl.n.;8:22, Tábor;10:15
+1526: X: Kutná Hora hl.n.;8:31, Praha hl.n.;9:31
+1521: X: Praha hl.n.;15:27, Kutná Hora hl.n.;16:22
+1528: X: Kutná Hora hl.n.;16:48, Praha-Holešovice;17:50
+1511: X: Praha hl.n.;18:57, Benešov u Prahy;19:47
+101511sv: X5: Benešov u Prahy;20:46, Tábor;21:37
+
+101500sv: X1: Tábor;3:57, Benešov u Prahy;4:52
+108293sv: X: Benešov u Prahy;6:26, Olbramovice;6:36
+1504: X: Olbramovice;6:57, Praha hl.n.;8:02
+1507: X: Praha hl.n.;16:55, Tábor;18:50
+
+732: T: České Budějovice;5:08, Praha-Holešovice;7:46
+703: X6: Tábor;7:01, České Budějovice;7:51
+724: X6: České Budějovice;9:08, Praha-Holešovice;11:46
+717: X: Praha-Holešovice;12:18, České Budějovice;14:51
+532: X: České Budějovice;15:57, Praha-Holešovice;18:10
+545: X: Praha-Holešovice;19:46, České Budějovice;22:03
+721: 25: Praha-Holešovice;14:09, České Budějovice;16:51
+
+732: X6: České Budějovice;5:08, Praha-Holešovice;7:46
+707: T: Praha hl.n.;7:31, Veselí nad Lužnicí;9:22
+709: X6: Praha-Holešovice;8:18, České Budějovice;10:51
+708: X: České Budějovice;16:08, Praha-Holešovice;18:46
+710: T: Veselí nad Lužnicí;16:36, Praha-Holešovice;18:46
+731: XT: Praha-Holešovice;19:18, Tábor;20:56
+8223: X5: Tábor;22:31, České Budějovice;23:55
+
+8202: 25: České Budějovice;5:28, Tábor;6:46
+701: X: Tábor;6:01, České Budějovice;6:52
+8207: 25: Tábor;7:22, České Budějovice;8:45
+668: : České Budějovice;12:04, Plzeň hl.n.;13:57
+655: : Plzeň hl.n.;16:03, České Budějovice;17:54
+660: : České Budějovice;20:04, Plzeň hl.n.;21:57
+
+
+6:6:6
+5:6:14
+7:5:5
+8:5:8
+7:6:10
+9:56:9
+7:7:9
+13:6:13
+4:5:10
+10:6:7
+8:6:4
+4:7:8
+12:67:12

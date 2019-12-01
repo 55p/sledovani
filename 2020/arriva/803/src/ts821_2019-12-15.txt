@@ -1,0 +1,41 @@
+101186sv: : Praha-Malešice;6:16, Kolín;6:56
+1186: : Kolín;7:45, Šluknov;10:51
+1195: : Šluknov;12:58, Kolín;16:10
+1196: : Kolín;17:45, Rumburk;20:37
+
+16000: 25: Česká Lípa hl.n.;5:14, Svor;5:35
+1187: 25: Svor;5:56, Kolín;8:10
+1187: X: Rumburk;5:21, Kolín;8:10
+1188: : Kolín;9:45, Nový Bor;11:54
+1193: : Nový Bor;12:01, Kolín;14:10
+1194: : Kolín;15:45, Rumburk;18:36
+16001: 10: Rumburk;19:13, Mladá Boleslav hl.n.;21:24
+
+16002: X: Mladá Boleslav hl.n.;6:27, Svor;8:01
+16004: 25,-2512,-0101: Mladá Boleslav hl.n.;6:35, Svor;8:01
+1191: : Svor;9:47, Kolín;12:10
+1192: X1234: Kolín;13:45, Nový Bor;15:54
+1197: X1234: Nový Bor;15:57, Kolín;18:10
+1198: X1234: Kolín;19:45, Svor;21:57
+16003: X1234,-3112: Svor;22:00, Česká Lípa hl.n.;22:21
+1192: X5,25: Kolín;13:45, Šluknov;16:51
+1199: X5,25: Šluknov;16:58, Kolín;20:10
+101199sv: X5,25: Kolín;20:55, Praha-Malešice;21:32
+
+16041sv: X: Česká Lípa hl.n.;4:28, Doksy;4:41
+16000: X: Doksy;4:49, Rumburk;6:05
+1189: : Rumburk;7:13, Kolín;10:10
+1190: : Kolín;11:45, Šluknov;14:51
+1197: X5,25: Šluknov;14:58, Kolín;18:10
+1198: X5,25: Kolín;19:45, Svor;21:57
+16003: X5,25,-2412: Svor;22:00, Česká Lípa hl.n.;22:21
+16011: X1234: Šluknov;14:58, Rumburk;15:10
+16010: X1234: Rumburk;16:39, Šluknov;16:51
+1199: X1234: Šluknov;16:58, Kolín;20:10
+101199sv: X1234: Kolín;20:55, Praha-Malešice;21:32
+
+
+1:67:4
+3:567:1
+4:5:4
+4:67:2

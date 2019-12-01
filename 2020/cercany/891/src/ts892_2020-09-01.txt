@@ -1,0 +1,134 @@
+9048: 25: Čerčany;0:02, Praha hl.n.;2:15
+9049: 25: Praha hl.n.;2:30, Čerčany;3:55
+119101sv: X: Čerčany;3:57, Benešov u Prahy;4:06
+19101: X: Benešov u Prahy;4:18, Trhový Štěpánov;5:34
+9030: 25: Čerčany;4:35, Jílové u Prahy;5:03
+9035: 25: Jílové u Prahy;5:21, Čerčany;5:55
+19104: X: Trhový Štěpánov;5:53, Benešov u Prahy;6:45
+19143: X,-2312,-2412,-2512,-2612,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301: Benešov u Prahy;7:04, Vlašim;7:41
+19142: X,-2312,-2412,-2512,-2612,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301: Vlašim;9:09, Benešov u Prahy;9:45
+19111: X: Benešov u Prahy;10:14, Trhový Štěpánov;11:07
+19116: X: Trhový Štěpánov;11:53, Benešov u Prahy;12:45
+126118sv: 25: Čerčany;13:48, Olbramovice;14:19
+19115: X: Benešov u Prahy;14:14, Trhový Štěpánov;15:07
+26118: 25: Olbramovice;14:23, Sedlčany;14:52
+26125: 25: Sedlčany;15:04, Olbramovice;15:34
+19122: X: Trhový Štěpánov;15:53, Benešov u Prahy;16:45
+26120: 25: Olbramovice;16:23, Sedlčany;16:52
+26129: 25: Sedlčany;17:04, Olbramovice;17:34
+19119: X: Benešov u Prahy;17:14, Trhový Štěpánov;18:07
+26124: 25: Olbramovice;18:23, Sedlčany;18:52
+19128: X: Trhový Štěpánov;18:30, Benešov u Prahy;19:45
+26135: 25: Sedlčany;19:04, Olbramovice;19:34
+26130: 6: Olbramovice;19:41, Sedlčany;20:10
+119128sv: X: Benešov u Prahy;19:59, Čerčany;20:08
+26132: T: Olbramovice;20:23, Sedlčany;20:52
+119125sv: X: Čerčany;20:55, Benešov u Prahy;21:04
+26139: 25: Sedlčany;21:04, Olbramovice;21:34
+19125: X: Benešov u Prahy;21:14, Trhový Štěpánov;22:07
+26134: 25: Olbramovice;22:53, Sedlčany;23:22
+
+19102: : Trhový Štěpánov;4:53, Benešov u Prahy;5:45
+19103: : Benešov u Prahy;6:14, Trhový Štěpánov;7:07
+19108: X: Trhový Štěpánov;7:30, Benešov u Prahy;8:45
+19110: 25: Trhový Štěpánov;7:53, Benešov u Prahy;8:45
+226115pksv: X: Benešov u Prahy;8:46, Čerčany;9:06
+19111: 25: Benešov u Prahy;10:14, Trhový Štěpánov;11:07
+19116: 25: Trhový Štěpánov;11:53, Benešov u Prahy;12:45
+19115: 25: Benešov u Prahy;14:14, Trhový Štěpánov;15:07
+126171sv: X: Čerčany;14:24, Benešov u Prahy;14:33
+26171: X,-2312,-2412,-2512,-2612,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301: Benešov u Prahy;14:50, Heřmaničky;15:16
+26171: 2312,2712,3012,3112,0201,0301: Benešov u Prahy;14:50, Olbramovice;15:04
+26150: X,-2312,-2412,-2512,-2612,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301: Heřmaničky;15:19, Sedlčany;16:03
+26150: 2312,2712,3012,3112,0201,0301: Olbramovice;15:32, Sedlčany;16:03
+19122: 25: Trhový Štěpánov;15:53, Benešov u Prahy;16:45
+26127: X: Sedlčany;16:36, Olbramovice;17:07
+26122: X: Olbramovice;17:23, Sedlčany;17:54
+19121: 25: Benešov u Prahy;18:14, Trhový Štěpánov;19:07
+26133: X: Sedlčany;18:27, Olbramovice;18:58
+26128: X: Olbramovice;19:23, Sedlčany;19:54
+19130: 25: Trhový Štěpánov;19:53, Benešov u Prahy;20:45
+119130sv: 25: Benešov u Prahy;20:57, Čerčany;21:06
+119127sv: 7: Čerčany;21:54, Benešov u Prahy;22:04
+19127: 7: Benešov u Prahy;22:14, Trhový Štěpánov;23:05
+119129sv: 6: Čerčany;22:26, Benešov u Prahy;22:36
+19129: 6: Benešov u Prahy;22:44, Trhový Štěpánov;23:35
+
+26103: X: Sedlčany;5:03, Olbramovice;5:34
+26105: 6: Sedlčany;5:22, Olbramovice;5:52
+26102: X: Olbramovice;5:42, Sedlčany;6:13
+26109: X: Sedlčany;6:22, Olbramovice;6:53
+26106: 6: Olbramovice;6:28, Sedlčany;6:57
+26108: X: Olbramovice;7:00, Sedlčany;7:30
+26111: 25: Sedlčany;7:00, Olbramovice;7:30
+26115: X: Sedlčany;7:59, Benešov u Prahy;8:46
+26110: 25: Olbramovice;8:23, Sedlčany;8:52
+126115sv: X: Benešov u Prahy;8:57, Čerčany;9:06
+26117: 25: Sedlčany;9:04, Olbramovice;9:34
+126114sv: X: Čerčany;9:51, Benešov u Prahy;10:00
+26114: X: Benešov u Prahy;10:03, Sedlčany;10:52
+26114: 25: Olbramovice;10:23, Sedlčany;10:52
+26119: : Sedlčany;11:04, Olbramovice;11:34
+26116: : Olbramovice;12:23, Sedlčany;12:52
+26121: 25: Sedlčany;13:04, Olbramovice;13:34
+126121sv: 25: Olbramovice;13:42, Čerčany;14:22
+26123: X: Sedlčany;13:50, Olbramovice;14:20
+26118: X: Olbramovice;14:23, Sedlčany;14:52
+26151: X,-2312,-2412,-2512,-2612,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301: Sedlčany;15:36, Votice;16:15
+26151: 2312,2712,3012,3112,0201,0301: Sedlčany;15:36, Olbramovice;16:07
+26152: X,-2312,-2412,-2512,-2612,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301: Votice;16:24, Sedlčany;17:03
+26152: 2312,2712,3012,3112,0201,0301: Olbramovice;16:28, Sedlčany;17:03
+26131: X: Sedlčany;17:27, Olbramovice;17:58
+26126: X: Olbramovice;18:23, Sedlčany;18:54
+26137: X: Sedlčany;19:27, Olbramovice;19:58
+26132: X: Olbramovice;20:23, Sedlčany;20:52
+26139: X: Sedlčany;21:04, Olbramovice;21:34
+26134: X: Olbramovice;22:53, Sedlčany;23:22
+
+26101: X: Sedlčany;4:22, Olbramovice;4:52
+26100: X: Olbramovice;5:00, Sedlčany;5:30
+26107: X: Sedlčany;5:46, Olbramovice;6:17
+26104: X: Olbramovice;6:20, Sedlčany;6:49
+26113: X: Sedlčany;7:03, Olbramovice;7:34
+26112: X: Olbramovice;8:32, Sedlčany;9:01
+26117: X: Sedlčany;9:04, Benešov u Prahy;9:57
+126117sv: X: Benešov u Prahy;10:13, Čerčany;10:21
+119145sv: X: Čerčany;12:55, Benešov u Prahy;13:04
+19145: X: Benešov u Prahy;13:14, Vlašim;13:51
+19144: X: Vlašim;15:09, Benešov u Prahy;15:45
+19117: X: Benešov u Prahy;16:14, Trhový Štěpánov;17:07
+19124: X: Trhový Štěpánov;17:30, Benešov u Prahy;18:45
+19149: X: Benešov u Prahy;19:14, Vlašim;19:51
+19148: X: Vlašim;21:09, Benešov u Prahy;21:45
+19127: X1234: Benešov u Prahy;22:14, Trhový Štěpánov;23:05
+19129: X5: Benešov u Prahy;22:44, Trhový Štěpánov;23:35
+
+19100: X: Trhový Štěpánov;3:57, Benešov u Prahy;4:49
+19141: X: Benešov u Prahy;5:14, Vlašim;5:51
+19104: 25: Trhový Štěpánov;5:53, Benešov u Prahy;6:45
+19140: X: Vlašim;6:59, Benešov u Prahy;7:35
+19107: : Benešov u Prahy;8:14, Trhový Štěpánov;9:07
+19114: : Trhový Štěpánov;9:53, Benešov u Prahy;10:45
+119114sv: X: Benešov u Prahy;10:56, Čerčany;11:04
+119113sv: X: Čerčany;11:50, Benešov u Prahy;11:59
+19113: : Benešov u Prahy;12:14, Trhový Štěpánov;13:07
+19118: : Trhový Štěpánov;13:53, Benešov u Prahy;14:45
+19147: X: Benešov u Prahy;15:14, Vlašim;15:51
+19117: 25: Benešov u Prahy;16:14, Trhový Štěpánov;17:07
+19146: X: Vlašim;17:09, Benešov u Prahy;17:45
+19126: 25: Trhový Štěpánov;17:53, Benešov u Prahy;18:45
+19121: X: Benešov u Prahy;18:14, Trhový Štěpánov;19:07
+119126sv: 25: Benešov u Prahy;18:59, Čerčany;19:08
+19130: X: Trhový Štěpánov;19:53, Benešov u Prahy;20:45
+119123sv: 25: Čerčany;19:55, Benešov u Prahy;20:04
+19123: 25: Benešov u Prahy;20:14, Trhový Štěpánov;21:07
+119130sv: X: Benešov u Prahy;20:57, Čerčany;21:06
+
+
+1:7:4
+1:6:3
+2:67:5
+2:5:3
+3:67:1
+3:5:3
+5:67:2

@@ -1,0 +1,50 @@
+618: 25: Praha hl.n.;5:17, Ústí nad Labem hl.n.;6:37
+605: 25: Ústí nad Labem hl.n.;7:22, Praha hl.n.;8:36
+442: X: Bohumín;3:28, Praha hl.n.;8:13
+115: : Praha hl.n.;10:23, Bohumín;13:57
+112: : Bohumín;18:05, Praha hl.n.;21:39
+
+113: : Praha hl.n.;6:23, Bohumín;9:57
+114: : Bohumín;14:05, Praha hl.n.;17:40
+604: 10: Praha hl.n.;19:26, Ústí nad Labem hl.n.;20:37
+619: 10: Ústí nad Labem hl.n.;21:22, Praha hl.n.;22:36
+
+524: 25: Přerov;3:55, Praha hl.n.;6:39
+618: X: Praha hl.n.;5:17, Ústí nad Labem hl.n.;6:37
+605: X: Ústí nad Labem hl.n.;7:22, Praha hl.n.;8:36
+614: : Praha hl.n.;9:26, Ústí nad Labem hl.n.;10:37
+609: : Ústí nad Labem hl.n.;11:22, Praha hl.n.;12:36
+610: : Praha hl.n.;13:26, Ústí nad Labem hl.n.;14:37
+613: : Ústí nad Labem hl.n.;15:22, Praha hl.n.;16:36
+606: : Praha hl.n.;17:26, Ústí nad Labem hl.n.;18:37
+617: : Ústí nad Labem hl.n.;19:22, Praha hl.n.;20:36
+899: : Praha hl.n.;23:14, Pardubice hl.n.;0:17
+
+898: : Pardubice hl.n.;6:00, Praha hl.n.;7:02
+141: : Praha hl.n.;8:23, Žilina;13:33
+140: : Žilina;14:27, Praha hl.n.;19:39
+525: : Praha hl.n.;21:26, Přerov;0:11
+
+524: X: Přerov;3:55, Praha hl.n.;6:39
+511: X: Praha hl.n.;14:40, Bohumín;17:52
+508: 6: Bohumín;11:07, Praha hl.n.;14:19
+502: T: Opava východ;16:00, Praha hl.n.;19:19
+519: 25: Praha hl.n.;23:40, Bohumín;2:52
+
+341: : Ostrava-Svinov;6:50, Žilina;8:33
+142: : Žilina;10:27, Praha hl.n.;15:39
+549: 6: Praha hl.n.;18:23, Bohumín;22:03
+549: XT: Praha hl.n.;18:23, Návsí;22:58
+
+548: X6: Návsí;5:02, Praha hl.n.;9:39
+548: T: Bohumín;5:55, Praha hl.n.;9:39
+513: : Praha hl.n.;16:40, Opava východ;19:59
+
+514: : Opava východ;6:00, Praha hl.n.;9:19
+143: : Praha hl.n.;12:23, Žilina;17:33
+340: : Žilina;19:27, Ostrava-Svinov;21:10
+
+
+8:56:5
+4:56:3
+2:56:1

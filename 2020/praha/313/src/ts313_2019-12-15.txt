@@ -1,0 +1,23 @@
+277: : Praha hl.n.;9:44, Budapest-Nyugati pu;16:20
+476: : Budapest-Keleti pu;19:25, Břeclav;23:01
+
+574: : Břeclav;5:02, Praha hl.n.;8:13
+279: : Praha hl.n.;11:44, Budapest-Nyugati pu;18:20
+
+280: : Budapest-Nyugati pu;5:40, Praha hl.n.;12:13
+281: : Praha hl.n.;15:44, Budapest-Nyugati pu;22:20
+
+130: : Budapest-Nyugati pu;8:40, Bohumín;14:09
+409: 5: Bohumín;18:00, Břeclav;19:45
+70201: 5: Břeclav;20:05, Bohumín;22:36
+
+70200: 1: Bohumín;4:52, Břeclav;6:43
+408: 1: Břeclav;7:28, Bohumín;9:19
+105: : Bohumín;16:51, Břeclav;18:45
+817: : Břeclav;21:25, Hodonín;21:37
+
+816: : Hodonín;6:21, Břeclav;6:35
+104: : Břeclav;9:12, Bohumín;11:09
+131: : Bohumín;13:51, Budapest-Nyugati pu;19:20
+
+278: : Budapest-Nyugati pu;9:40, Praha hl.n.;16:13

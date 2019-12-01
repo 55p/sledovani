@@ -1,0 +1,13 @@
+9061: 6: Praha hl.n.;10:54, Čerčany;12:55
+9064: 6: Čerčany;14:05, Praha-Vršovice;15:59
+9067: 6: Praha-Vršovice;16:30, Čerčany;18:05
+9215: 7: Čerčany;11:10, Ledeč nad Sázavou;13:30
+9216: 7: Ledeč nad Sázavou;14:33, Čerčany;16:46
+
+9211: 6,7: Čerčany;9:09, Zruč nad Sázavou;11:05
+9216: 6: Zruč nad Sázavou;15:07, Čerčany;16:46
+1598: 7: Zruč nad Sázavou;16:04, Čerčany;17:47
+
+
+1:7:0
+2:7:0

@@ -1,0 +1,50 @@
+7140:X:Letohrad;4:04, Ústí nad Orlicí;4:23
+7143:X:Ústí nad Orlicí; 5:07, Lichkov;5:52
+1290: X: Lichkov;6:05, Praha hl.n.;8:27
+1233: X: Praha hl.n.;9:08, Staré Město u Uherského Hradiště;12:07
+1240: X: Staré Město u Uherského Hradiště;12:25, Praha hl.n.;15:27
+413: 1,2,3,4,-2412,-3112: Praha hl.n.;16:08, Bohumín;19:51
+413: 5: Praha hl.n.;16:08, Kraków Główny;22:45
+1292: 1512: Letohrad;8:39, Praha hl.n.;10:27
+1292: 25,-1512,-2512,-0101: Wrocław Główny;6:00, Praha hl.n.;10:27
+1235: 25: Praha hl.n.;11:08, Staré Město u Uherského Hradiště;14:10
+1226: 25: Staré Město u Uherského Hradiště;14:25, Praha hl.n.;17:27
+1293: 25,-2412,-2902: Praha hl.n.;18:08, Wrocław Główny;22:38
+
+410: 1,6: Kraków Główny;4:13, Praha hl.n.;11:27
+410: 2,3,4,5,7: Bohumín;7:56, Praha hl.n.;11:27
+1255: : Praha hl.n.;12:08, Bohumín;15:44
+1260: 10: Bohumín;15:56, Praha hl.n.;19:27
+1263: 10: Praha hl.n.;20:08, Košice;4:29
+
+1254: 11: Košice;5:07, Praha hl.n.;13:27
+1254: 2512,0101: Bohumín;9:56, Praha hl.n.;13:27
+1257: 2412,3112: Praha hl.n.;14:08, Bohumín;17:59
+1257: 10: Praha hl.n.;14:08, Košice;22:42
+101250: 10: Košice;23:11, Spišská Nová Ves;0:33
+
+1250: 11: Spišská Nová Ves;0:33, Praha hl.n.;7:27
+1251: X: Praha hl.n.;8:08, Karviná;11:57
+1256: X: Karviná;12:40, Praha hl.n.;16:27
+1241: X,-3112: Praha hl.n.;17:08, Staré Město u Uherského Hradiště;20:07
+1251: 25,-2512,-0101: Praha hl.n.;8:08, Bohumín;11:44
+1224: 25: Bohumín;11:54, Praha hl.n.;15:27
+413: 6: Praha hl.n.;16:08, Bohumín;19:51
+413: 7: Praha hl.n.;16:08, Kraków Główny;22:45
+
+1232: 11: Staré Město u Uherského Hradiště;6:25, Praha hl.n.;9:27
+1253: X: Praha hl.n.;10:08, Bohumín;13:47
+1258: X,-3112: Bohumín;13:56, Praha hl.n.;17:27
+1293: X1234,-3112: Praha hl.n.;18:08, Letohrad;19:57
+1293: X5: Praha hl.n.;18:08, Wrocław Główny;22:38
+1253: 25: Praha hl.n.;10:08, Karviná;13:57
+1228: 25,-2412: Karviná;14:44, Praha hl.n.;18:27
+1243: 25,-3112: Praha hl.n.;19:08, Staré Město u Uherského Hradiště;22:06
+
+
+1:6:1
+1:7:1
+5:67:5
+4:67:2
+
+

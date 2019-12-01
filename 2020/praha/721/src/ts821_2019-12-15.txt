@@ -1,0 +1,56 @@
+9520pk: XT,-2512: Praha hl.n.;0:18, Mělník;1:19
+9521: 7,2612,1104,1204,1304,0205,0905,0607,2809: Mělník;1:24, Praha hl.n.;2:22
+9522pk: 7,2612,1104,1204,1304,0205,0905,0607,2809: Praha hl.n.;2:33, Mělník;3:34
+109593sv: 7,2612,1104,1204,1304,0205,0905,0607,2809: Mělník;3:40, Všetaty;3:49
+9501: 6,2412,1004,0105,0805,2810,1711,-1104,-0205,-0905: Mladá Boleslav hl.n.;4:44, Praha Masarykovo nádraží;6:20
+9501: 7,2612,1104,1204,1304,0205,0905,0607,2809: Všetaty;5:23, Praha Masarykovo nádraží;6:20
+9541: X: Mělník;5:47, Praha Masarykovo nádraží;6:53
+9524pk: 25: Praha Masarykovo nádraží;6:46, Mělník;7:50
+129402pksv: X: Praha Masarykovo nádraží;7:08, Praha-Libeň;7:13
+9525: 25: Mělník;8:10, Praha Masarykovo nádraží;9:20
+9506pk: 25: Praha Masarykovo nádraží;9:46, Mladá Boleslav město;11:31
+129411sv: X: Praha-Libeň;11:22, Praha Masarykovo nádraží;11:27
+9508pk: X: Praha Masarykovo nádraží;11:46, Mladá Boleslav hl.n.;13:21
+9511: 25: Mladá Boleslav město;12:29, Praha Masarykovo nádraží;14:20
+9572pk: X: Mladá Boleslav hl.n.;13:44, Turnov;14:28
+9532pk: 25: Praha Masarykovo nádraží;14:46, Mělník;15:51
+101547 |vlož MBh-PMa|vložený Mladá Boleslav hl.n. - Praha Masarykovo nádraží: X: Turnov;15:24, Praha Masarykovo nádraží;17:38
+9533: 25: Mělník;16:10, Praha Masarykovo nádraží;17:20
+9514pk: 6: Praha Masarykovo nádraží;17:46, Mladá Boleslav hl.n.;19:21
+9514vlož: T: Praha Masarykovo nádraží;17:46, Mladá Boleslav hl.n.;19:21
+1546vlož |pk Vše-MBm|postrk Všetaty - Mladá Boleslav město: X: Praha Masarykovo nádraží;18:19, Mladá Boleslav město;19:55
+8545: X: Mladá Boleslav město;20:29, Mladá Boleslav hl.n.;20:35
+9519: 6,2412,2512,3112,1004,1104,1204,0105,0805,0507,2709: Mladá Boleslav hl.n.;20:37, Praha Masarykovo nádraží;22:20
+9540pk: 6,2412,2512,3112,1004,1104,1204,0105,0805,0507,2709: Praha Masarykovo nádraží;22:46, Všetaty;23:39
+9548pk: 6,2412,2512,3112,1004,1104,1204,0105,0805,0507,2709: Všetaty;23:42, Mělník;23:53
+
+109595sv: 7,2612,1104,1204,1304,0205,0905,0607,2809: Mělník;0:00, Všetaty;0:09
+9520pk: 6,-2512: Praha hl.n.;0:18, Mělník;1:19
+9521: 6,2412,2512,0101,1004,0105,0805,2810,1711,-1104,-0205,-0905: Mělník;1:24, Praha hl.n.;2:22
+9522: 6,2412,2512,0101,1004,0105,0805,2810,1711,-1104,-0205,-0905: Praha hl.n.;2:33, Mělník;3:34
+109591sv: 6,2412,2512,0101,1004,0105,0805,2810,1711,-1104,-0205,-0905: Mělník;3:40, Neratovice;4:05
+9550: 6,2412,2512,0101,1004,0105,0805,2810,1711,-1104,-0205,-0905: Neratovice;4:21, Mladá Boleslav hl.n.;5:10
+9501: X: Mladá Boleslav hl.n.;4:44, Praha Masarykovo nádraží;6:20
+9503: 6,2412,2512,0101,1004,0105,0805,2810,1711,-1104,-0205,-0905: Mladá Boleslav hl.n.;5:29, Praha Masarykovo nádraží;7:20
+9503: 7,2612,1104,1204,1304,0205,0905,0607,2809: Všetaty;6:23, Praha Masarykovo nádraží;7:20
+109524pk: X: Praha Masarykovo nádraží;6:46, Všetaty;7:39
+9545: X: Všetaty;7:42, Praha Masarykovo nádraží;8:53
+9504pk: 25: Praha Masarykovo nádraží;7:46, Mladá Boleslav hl.n.;9:21
+129404pksv: X: Praha Masarykovo nádraží;9:08, Praha-Libeň;9:13
+9509: 25: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
+9530pk: 25: Praha Masarykovo nádraží;12:46, Mělník;13:51
+229415vložsv: X: Praha-Libeň;13:52, Praha Masarykovo nádraží;13:57
+9531: 25: Mělník;14:10, Praha Masarykovo nádraží;15:20
+1542vlož |pk MBh-Tur|postrk Mladá Boleslav hl.n. - Turnov|: X: Praha Masarykovo nádraží;14:19, Turnov;16:32
+9512pk: 25: Praha Masarykovo nádraží;15:46, Mladá Boleslav hl.n.;17:21
+9575: X: Turnov;17:27, Mladá Boleslav hl.n.;18:11
+109517 |vlož Vše-PMa|vložený Všetaty - Praha Masarykovo nádraží: X: Mladá Boleslav hl.n.;18:37, Praha Masarykovo nádraží;20:20
+9517: 25: Mladá Boleslav hl.n.;18:37, Praha Masarykovo nádraží;20:20
+9518pk: -2412: Praha Masarykovo nádraží;20:46, Mladá Boleslav hl.n.;22:18
+9551: X1234,-2312,-2412,-2512,-2612,-3112,-0101,-0904,-1004,-1104,-1204,-1304,-3004,-0705,-0607,-2809,-2710,-2810,-1611,-1711: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
+109551 |vlož Vše-Phn|vložený Všetaty - Praha hl.n.: X5,2312,3112,0904,3004,0705,2710,1611,-1004,-0105,-0805: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
+9551: 25,-2412: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
+
+
+1:5:1
+2:5:2

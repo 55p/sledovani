@@ -1,0 +1,76 @@
+4686: X: Břeclav;4:30, Brno hl.n.;5:28
+4926: X: Brno hl.n.;13:23, Tišnov;13:59
+4935pk: X: Tišnov;14:45, Židlochovice;15:49
+4938: X: Židlochovice;16:10, Tišnov;17:14
+4947pk: X: Tišnov;17:45, Židlochovice;18:49
+4950: X: Židlochovice;19:22, Hrušovany u Brna;19:25
+4663pk: X: Hrušovany u Brna;20:05, Břeclav;20:42
+4634: 6: Brno hl.n.;6:53, Tišnov;7:29
+4661pk: 25: Tišnov;18:30, Brno hl.n.;19:07
+
+4201: X: Břeclav;4:35, Přerov;6:21
+4230pk: X: Přerov;6:43, Staré Město u Uherského Hradiště;7:30
+4237: X: Staré Město u Uherského Hradiště;12:29, Přerov;13:14
+4214pk: X: Přerov;13:37, Břeclav;15:25
+4217: X: Břeclav;15:35, Přerov;17:14
+4220pk: X: Přerov;17:37, Břeclav;19:25
+4223: X: Břeclav;20:35, Otrokovice;21:39
+4238pk: X: Otrokovice;22:09, Staré Město u Uherského Hradiště;22:24
+4205: 25: Břeclav;6:35, Přerov;8:21
+4208pk: 25: Přerov;9:37, Břeclav;11:25
+4211: 25: Břeclav;12:35, Přerov;14:21
+4218pk: 25: Přerov;15:37, Břeclav;17:25
+4221: 25: Břeclav;18:35, Přerov;20:14
+1652pk: 6: Přerov;21:24, Staré Město u Uherského Hradiště;21:53
+
+1651: X: Staré Město u Uherského Hradiště;3:20, Přerov;3:50
+4200pk: X: Přerov;4:00, Břeclav;5:25
+4203: X: Břeclav;5:35, Přerov;7:15
+4206pk: X: Přerov;7:37, Břeclav;9:25
+4209: X: Břeclav;10:35, Přerov;12:21
+4212pk: X: Přerov;12:43, Břeclav;14:25
+4215: X: Břeclav;14:35, Přerov;16:21
+4232pk: X: Přerov;16:43, Staré Město u Uherského Hradiště;17:30
+1651: 6: Staré Město u Uherského Hradiště;3:20, Přerov;3:50
+4200pk: 6: Přerov;4:00, Staré Město u Uherského Hradiště;4:29
+4201: 6: Staré Město u Uherského Hradiště;5:29, Přerov;6:21
+4220pk: T: Přerov;17:37, Břeclav;19:25
+4223: T: Břeclav;20:35, Otrokovice;21:39
+4238pk: T: Otrokovice;22:09, Staré Město u Uherského Hradiště;22:24
+
+4233: X: Staré Město u Uherského Hradiště;4:29, Přerov;5:13
+4204pk: X: Přerov;5:40, Břeclav;7:25
+4207: X: Břeclav;8:35, Přerov;10:21
+4210pk: X: Přerov;11:37, Břeclav;13:25
+4213: X: Břeclav;13:35, Přerov;15:14
+4218pk: X: Přerov;15:37, Břeclav;17:25
+4221: X: Břeclav;18:35, Přerov;20:14
+4233: 25: Staré Město u Uherského Hradiště;4:29, Přerov;5:13
+4204pk: 25: Přerov;5:40, Břeclav;7:25
+4207: 25: Břeclav;8:35, Přerov;10:21
+4210pk: 25: Přerov;11:37, Břeclav;13:25
+4215: 25: Břeclav;14:35, Přerov;16:21
+4220pk: 6: Přerov;17:37, Břeclav;19:25
+4223: 6: Břeclav;20:35, Otrokovice;21:39
+4238pk: 6: Otrokovice;22:09, Staré Město u Uherského Hradiště;22:24
+4232pk: T: Přerov;16:43, Staré Město u Uherského Hradiště;17:30
+
+4202pk: X: Přerov;4:43, Břeclav;6:25
+4205: X: Břeclav;6:35, Přerov;8:21
+4208pk: X: Přerov;9:37, Břeclav;11:25
+4211: X: Břeclav;12:35, Přerov;14:21
+4216pk: X: Přerov;14:43, Břeclav;16:25
+4219: X: Břeclav;16:35, Přerov;18:21
+4222pk: X: Přerov;19:08, Břeclav;21:25
+1651: T: Staré Město u Uherského Hradiště;3:20, Přerov;3:50
+4202pk: 25: Přerov;4:43, Staré Město u Uherského Hradiště;5:26
+4203: 25: Staré Město u Uherského Hradiště;6:30, Přerov;7:15
+4206pk: 25: Přerov;7:37, Břeclav;9:25
+4209: 25: Břeclav;10:35, Přerov;12:21
+4214pk: 25: Přerov;13:37, Břeclav;15:25
+4219: 25: Břeclav;16:35, Přerov;18:21
+4222pk: 25: Přerov;19:08, Břeclav;21:25
+4688: 6: Břeclav;22:38, Vranovice;23:15
+4676: 6: Vranovice;23:23, Brno hl.n.;23:50
+
+

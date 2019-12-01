@@ -1,0 +1,4 @@
+8961pk: X: Horažďovice předměstí;4:35, Strakonice;4:52
+1696: X: Strakonice;5:42, Plzeň hl.n.;7:02
+1697pk: X: Plzeň hl.n.;14:58, Strakonice;16:18
+8962: X: Strakonice;17:51, Horažďovice předměstí;18:10

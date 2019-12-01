@@ -1,0 +1,8 @@
+601: -2512,-2612,-0101: Ústí nad Labem hl.n.;5:22, Praha hl.n.;6:36
+616: : Praha hl.n.;7:26, Ústí nad Labem hl.n.;8:37
+607: : Ústí nad Labem hl.n.;9:22, Praha hl.n.;10:36
+612: : Praha hl.n.;11:26, Ústí nad Labem hl.n.;12:37
+611: : Ústí nad Labem hl.n.;13:22, Praha hl.n.;14:36
+608: : Praha hl.n.;15:26, Ústí nad Labem hl.n.;16:37
+615: : Ústí nad Labem hl.n.;17:22, Praha hl.n.;18:36
+602: -2412,-2512,-3112: Praha hl.n.;21:34, Ústí nad Labem hl.n.;22:49

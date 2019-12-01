@@ -1,0 +1,58 @@
+6421: X: Děčín hl.n.;4:50, Litoměřice město;5:45
+6422pk: X: Litoměřice město;5:57, Ústí nad Labem západ;6:21
+6423: X: Ústí nad Labem západ;6:28, Litoměřice město;6:49
+6424pk: X: Litoměřice město;7:03, Ústí nad Labem západ;7:27
+6407: X: Ústí nad Labem západ;8:03, Litoměřice město;8:29
+6426pk: X: Litoměřice město;12:26, Ústí nad Labem západ;12:51
+6455: X: Ústí nad Labem západ;13:03, Štětí;13:50
+6456pk: X: Štětí;14:05, Ústí nad Labem západ;14:51
+6457: X: Ústí nad Labem západ;15:03, Štětí;15:50
+6458pk: X: Štětí;16:05, Ústí nad Labem západ;16:51
+6417: X: Ústí nad Labem západ;18:03, Lysá nad Labem;19:36
+6418pk: X: Lysá nad Labem;20:16, Ústí nad Labem západ;21:51
+6969pk: 25: Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:51
+6433: : Ústí nad Labem západ;22:54, Mělník;23:54
+
+6430pk: : Mělník;4:51, Ústí nad Labem západ;5:51
+6403: : Ústí nad Labem západ;6:03, Lysá nad Labem;7:36
+6406pk: : Lysá nad Labem;8:17, Ústí nad Labem západ;9:51
+6409: : Ústí nad Labem západ;10:03, Lysá nad Labem;11:36
+6410pk: : Lysá nad Labem;12:16, Ústí nad Labem západ;13:51
+6413: : Ústí nad Labem západ;14:03, Lysá nad Labem;15:36
+6414pk: : Lysá nad Labem;16:16, Ústí nad Labem západ;17:51
+6427: X: Ústí nad Labem západ;19:03, Litoměřice město;19:29
+6432pk: X: Litoměřice město;19:58, Ústí nad Labem západ;20:22
+1973pk: : Ústí nad Labem hl.n.;21:00, Roudnice nad Labem;21:37
+1972: : Roudnice nad Labem;22:24, Ústí nad Labem hl.n.;23:01
+1975pk: : Ústí nad Labem hl.n.;23:08, Roudnice nad Labem;23:43
+
+6940: : Roudnice nad Labem;4:40, Ústí nad Labem hl.n.;5:20
+6852pk: X: Ústí nad Labem hl.n.;5:34, Litvínov;6:22
+6859: X: Litvínov;6:40, Ústí nad Labem hl.n.;7:27
+1942pk: X: Ústí nad Labem hl.n.;7:41, Chomutov;8:51
+1949: X: Chomutov;9:07, Ústí nad Labem hl.n.;10:17
+6411: : Ústí nad Labem západ;12:03, Lysá nad Labem;13:36
+6412pk: : Lysá nad Labem;14:16, Ústí nad Labem západ;15:51
+6415: : Ústí nad Labem západ;16:03, Lysá nad Labem;17:36
+6416pk: : Lysá nad Labem;18:16, Ústí nad Labem západ;19:51
+6419: : Ústí nad Labem západ;20:03, Lysá nad Labem;21:36
+
+6400pk: X: Lysá nad Labem;4:56, Ústí nad Labem západ;6:51
+6405: X: Ústí nad Labem západ;7:03, Lysá nad Labem;8:36
+6402pk: 25: Lysá nad Labem;6:17, Ústí nad Labem západ;7:51
+6407: 25: Ústí nad Labem západ;8:03, Lysá nad Labem;9:36
+6408pk: : Lysá nad Labem;10:16, Ústí nad Labem západ;11:51
+6866pk: X: Ústí nad Labem hl.n.;12:34, Litvínov;13:22
+6873: X: Litvínov;13:40, Děčín hl.n.;14:53
+6872pk: X: Děčín hl.n.;15:08, Litvínov;16:22
+6879: X: Litvínov;16:40, Ústí nad Labem hl.n.;17:27
+6876pk: X: Ústí nad Labem hl.n.;17:34, Litvínov;18:22
+6883: X: Litvínov;18:40, Ústí nad Labem hl.n.;19:27
+6894sv: X: Ústí nad Labem hl.n.;19:30, Děčín hl.n.;19:48
+6969pk: X: Děčín hl.n.;21:24, Ústí nad Labem hl.n.;21:51
+6417: 25: Ústí nad Labem západ;18:03, Lysá nad Labem;19:36
+6418pk: 25: Lysá nad Labem;20:16, Ústí nad Labem západ;21:51
+6966: : Ústí nad Labem hl.n.;22:57, Děčín hl.n.;23:25
+
+
+4::0

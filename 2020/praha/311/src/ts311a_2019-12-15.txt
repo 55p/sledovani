@@ -1,0 +1,5 @@
+171: : Berlin Hbf (tief);6:56, Praha hl.n.;11:36
+378: : Praha hl.n.;12:26, Kiel Hbf;20:18
+
+379: : Kiel Hbf;7:42, Praha hl.n.;15:36
+170: : Praha hl.n.;16:26, Berlin Hbf (tief);20:42

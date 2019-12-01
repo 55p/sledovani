@@ -1,0 +1,31 @@
+6941: X: Děčín hl.n.;4:56, Roudnice nad Labem;6:09
+6942: X: Roudnice nad Labem;6:36, Ústí nad Labem hl.n.;7:22
+1948: X: Ústí nad Labem hl.n.;15:41, Chomutov;16:51
+
+1941: X: Chomutov;3:14, Ústí nad Labem hl.n.;4:32
+6401: X: Ústí nad Labem západ;5:03, Kolín;7:58
+5872: X: Kolín;8:29, Nymburk hl.n.;8:56
+
+6402: X: Nymburk hl.n.;5:31, Ústí nad Labem západ;7:51
+1971: X: Ústí nad Labem hl.n.;12:39, Roudnice nad Labem;13:10
+1970: X: Roudnice nad Labem;14:26, Ústí nad Labem hl.n.;14:54
+6425: X: Ústí nad Labem západ;15:27, Litoměřice město;15:50
+6428: X: Litoměřice město;16:12, Ústí nad Labem západ;16:34
+6431: X: Ústí nad Labem západ;17:03, Mělník;18:03
+
+6443: X: Mělník;5:03, Kolín;6:58
+5870: X: Kolín;7:29, Nymburk hl.n.;7:56
+5877pk: X: Nymburk hl.n.;8:01, Kolín;8:28
+5874: X: Kolín;9:29, Nymburk hl.n.;9:56
+
+6404: X: Nymburk hl.n.;6:31, Ústí nad Labem západ;8:51
+1946: X: Ústí nad Labem hl.n.;13:41, Chomutov;14:51
+1953: X: Chomutov;17:07, Ústí nad Labem hl.n.;18:17
+6964: X: Ústí nad Labem hl.n.;18:30, Děčín hl.n.;18:54
+
+
+1:5:0
+2:5:0
+3:5:0
+4:5:0
+5:5:0
