@@ -1,0 +1,52 @@
+﻿9801: X: Rakovník;5:42, Praha-Bubny;7:30
+1582: X: Praha-Bubny Vltavská;18:21, Kladno-Ostrovec;19:17
+
+1563: X: Kladno-Dubí;6:17, Praha-Bubny Vltavská;7:18
+19700: 6: Kladno;4:42, Rakovník západ;5:44
+101565| pk Kdn-PhB|postrk Kladno - Praha-Bubny Vltavská: 6: Rakovník západ;6:13, Praha-Bubny Vltavská;7:50
+101565| pk Kdn-PhB|postrk Kladno - Praha-Bubny Vltavská: T: Rakovník;6:18, Praha-Bubny Vltavská;7:50
+1562: : Praha-Bubny Vltavská;8:05, Kladno-Ostrovec;8:49
+101569pk: : Kladno-Ostrovec;9:05, Praha-Bubny Vltavská;9:49
+1564: : Praha-Bubny Vltavská;10:05, Kladno-Ostrovec;10:49
+101571pk: : Kladno-Ostrovec;11:05, Praha-Bubny Vltavská;11:49
+1568: : Praha-Bubny Vltavská;12:05, Kladno-Ostrovec;12:49
+101575pk: : Kladno-Ostrovec;13:05, Praha-Bubny Vltavská;13:49
+1570: : Praha-Bubny Vltavská;14:05, Kladno-Ostrovec;14:49
+101577pk: : Kladno-Ostrovec;15:05, Praha-Bubny Vltavská;15:49
+1574: : Praha-Bubny Vltavská;16:05, Kladno-Ostrovec;16:49
+101579pk: : Kladno-Ostrovec;17:03, Praha-Bubny Vltavská;17:49
+1580: : Praha-Bubny Vltavská;18:05, Kladno-Ostrovec;18:49
+101581pk: : Kladno-Ostrovec;19:03, Praha-Bubny Vltavská;19:49
+1584: : Praha-Bubny Vltavská;20:05, Kladno-Ostrovec;20:49
+119865pk: : Kladno-Ostrovec;21:21, Kladno;21:27
+
+19700: X: Kladno;4:42, Rakovník;5:38
+201565| vlož Kdn-PhB|vložený Kladno - Praha-Bubny Vltavská: X: Rakovník západ;6:13, Praha-Bubny Vltavská;7:50
+1565: 25: Kladno;7:13, Praha-Bubny Vltavská;7:50
+101562pk: : Praha-Bubny Vltavská;8:05, Kladno-Ostrovec;8:49
+1569: : Kladno-Ostrovec;9:05, Praha-Bubny Vltavská;9:49
+101564pk: : Praha-Bubny Vltavská;10:05, Kladno-Ostrovec;10:49
+1571: : Kladno-Ostrovec;11:05, Praha-Bubny Vltavská;11:49
+101568pk: : Praha-Bubny Vltavská;12:05, Kladno-Ostrovec;12:49
+1575: : Kladno-Ostrovec;13:05, Praha-Bubny Vltavská;13:49
+101570pk: : Praha-Bubny Vltavská;14:05, Kladno-Ostrovec;14:49
+1577: : Kladno-Ostrovec;15:05, Praha-Bubny Vltavská;15:49
+101574pk: : Praha-Bubny Vltavská;16:05, Kladno-Ostrovec;16:49
+1579: : Kladno-Ostrovec;17:03, Praha-Bubny Vltavská;17:49
+101580pk: : Praha-Bubny Vltavská;18:05, Kladno-Ostrovec;18:49
+1581: : Kladno-Ostrovec;19:03, Praha-Bubny Vltavská;19:49
+101584pk: : Praha-Bubny Vltavská;20:05, Kladno-Ostrovec;20:49
+19865: : Kladno-Ostrovec;21:21, Kladno;21:27
+
+19861: X: Kladno-Dubí;6:55, Kladno;7:08
+1565: X: Kladno;7:13, Praha-Bubny Vltavská;7:50
+1576: X: Praha-Bubny Vltavská;16:21, Rakovník;18:02
+109845pk: T: Kladno-Ostrovec;5:39, Praha-Bubny Vltavská;6:30
+1560: T: Praha-Bubny Vltavská;7:05, Rakovník;8:31
+
+
+2:6:4
+3:5:3
+2:5:2
+1:5:4
+1:7:2

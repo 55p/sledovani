@@ -2,7 +2,7 @@
 370pk: : Graz Hbf;14:26, Praha hl.n.;21:13
 
 71: X6: Praha hl.n.;4:44, Graz Hbf;11:33
-71: 7: Brno hl.n.;7:21, Graz Hbf;11:33
+71: T: Brno hl.n.;7:21, Graz Hbf;11:33
 78pk: : Graz Hbf;12:26, Praha hl.n.;19:13
 285: : Praha hl.n.;19:44, Bratislava hl.st.;23:44
 

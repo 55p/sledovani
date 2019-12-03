@@ -1,0 +1,4 @@
+776: : Klatovy;8:40, Železná Ruda-Alžbětín;9:39
+763: : Železná Ruda-Alžbětín;10:17, Klatovy;11:16
+768: : Klatovy;14:40, Železná Ruda-Alžbětín;15:39
+775: : Železná Ruda-Alžbětín;16:17, Klatovy;17:16

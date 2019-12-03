@@ -1,0 +1,186 @@
+665|Pl: : Plzeň hl.n.;10:03, České Budějovice;11:54
+100667|Ji: : České Budějovice;14:02, Jihlava;16:18
+100660|Ji: : Jihlava;17:40, České Budějovice;19:56
+1740: X: České Budějovice;22:02, Jindřichův Hradec;23:08
+8220: 25: České Budějovice;23:02, Tábor;0:10
+
+1731: X: Jindřichův Hradec;4:40, České Budějovice;5:49
+1730: X: České Budějovice;7:02, Jindřichův Hradec;8:12
+8311: X: Jindřichův Hradec;9:46, Veselí nad Lužnicí;10:18
+8310: X: Veselí nad Lužnicí;11:43, Jindřichův Hradec;12:18
+1737: X: Jindřichův Hradec;13:44, České Budějovice;14:58
+8060: X: České Budějovice;15:29, Dívčice;15:49
+8061: X: Dívčice;16:09, České Budějovice;16:30
+1738: X1234: České Budějovice;17:02, Jindřichův Hradec;1802
+8323: X1234: Jindřichův Hradec;1943, Veselí nad Lužnicí;20:15
+1738: X5: České Budějovice;17:02, Počátky-Žirovnice;18:41
+8303: 25: Jindřichův Hradec;5:00, Veselí nad Lužnicí;5:32
+8304: 25: Veselí nad Lužnicí;6:54, Jindřichův Hradec;7:30
+8407: 25: Ražice;11:21, Tábor;12:44
+8308: 25: Veselí nad Lužnicí;9:43, Jindřichův Hradec;10:18
+8313: 25: Jindřichův Hradec;11:46, Veselí nad Lužnicí;12:18
+8312: 25: Veselí nad Lužnicí;13:43, Počátky-Žirovnice;14:55
+8317: 25: Počátky-Žirovnice;15:11, Veselí nad Lužnicí;16:18
+8316: 25: Veselí nad Lužnicí;17:43, Počátky-Žirovnice;18:55
+8323: X5,25: Počátky-Žirovnice;19:11, Veselí nad Lužnicí;20:15
+8322: X: Veselí nad Lužnicí;21:40, Jindřichův Hradec;22:15
+8320: 25: Veselí nad Lužnicí;20:39, Jindřichův Hradec;21:15
+8329: : Jindřichův Hradec;22:33, Veselí nad Lužnicí;23:09
+8324: : Veselí nad Lužnicí;23:47, Jindřichův Hradec;0:19
+
+8301: X: Jindřichův Hradec;3:47, Veselí nad Lužnicí;4:20
+8300: X: Veselí nad Lužnicí;4:58, Jindřichův Hradec;5:33
+1733: X: Jindřichův Hradec;5:55, České Budějovice;6:58
+8026: X5: České Budějovice;10:13, Písek;11:06
+8028: X1234: České Budějovice;11:13, Písek;12:02
+8031: X: Písek;12:38, České Budějovice;13:27
+1736: X: České Budějovice;15:02, Jindřichův Hradec;16:02
+8305: 25: Jindřichův Hradec;5:46, Veselí nad Lužnicí;6:18
+8306: 25: Veselí nad Lužnicí;7:45, Počátky-Žirovnice;8:55
+8311: 25: Počátky-Žirovnice;9:11, Veselí nad Lužnicí;10:18
+8310: 25: Veselí nad Lužnicí;11:43, Jindřichův Hradec;12:18
+8315: 25: Jindřichův Hradec;13:46, Veselí nad Lužnicí;14:18
+8314: 25: Veselí nad Lužnicí;15:43, Jindřichův Hradec;16:18
+8321: : Jindřichův Hradec;17:44, Veselí nad Lužnicí;18:20
+1740: 25: Veselí nad Lužnicí;22:35, Jindřichův Hradec;23:08
+
+8304: X: Veselí nad Lužnicí;6:54, Jindřichův Hradec;7:30
+1735: X: Jindřichův Hradec;7:55, České Budějovice;8:58
+100663|Ji: X: České Budějovice;10:02, Jihlava;12:18
+100665|Ji: X: Jihlava;13:40, České Budějovice;15:56
+8216: X: České Budějovice;17:14, Tábor;18:22
+8219: X: Tábor;19:30, České Budějovice;20:48
+8240: X: České Budějovice;21:10, Veselí nad Lužnicí;21:48
+8234: X: Veselí nad Lužnicí;22:33, Tábor;23:03
+
+8201: : Tábor;3:55, České Budějovice;5:03
+8203: X: Tábor;5:04, České Budějovice;6:33
+8209: X: Tábor;9:30, České Budějovice;10:48
+18804: X: České Budějovice;11:03, Rybník;11:56
+18802: 25: České Budějovice;9:05, Rybník;9:59
+18805: : Rybník;12:04, České Budějovice;12:57
+8212: : České Budějovice;13:12, Tábor;14:20
+8215: : Tábor;15:30, České Budějovice;16:48
+3885: X: České Budějovice;17:02, Horní Dvořiště;18:06
+3888: X: Horní Dvořiště;21:20, České Budějovice;22:23
+8220: X: České Budějovice;23:02, Tábor;0:10
+8216: 25: České Budějovice;17:14, Tábor;18:22
+8219: 25: Tábor;19:30, Veselí nad Lužnicí;20:00
+8234: 25: Veselí nad Lužnicí;22:33, Tábor;23:03
+
+8203: : Tábor;5:04, České Budějovice;6:33
+8206: : České Budějovice;7:15, Tábor;8:46
+108209pk: X: Tábor;9:30, České Budějovice;10:48
+8209: 25: Tábor;9:30, České Budějovice;10:48
+8210: X: České Budějovice;11:12, Tábor;12:20
+8213: X: Tábor;13:30, České Budějovice;14:48
+8214: X: České Budějovice;15:12, Tábor;16:20
+8217: X: Tábor;17:30, České Budějovice;18:45
+8218: X: České Budějovice;19:12, Tábor;20:20
+8221: X: Tábor;21:30, České Budějovice;22:45
+3889: : České Budějovice;22:59, Horní Dvořiště;23:59
+
+3882: : Horní Dvořiště;5:28, České Budějovice;6:30
+665|Pl: : České Budějovice;8:04, Plzeň hl.n.;9:57
+667|Pl: : Plzeň hl.n.;12:03, České Budějovice;13:54
+100669|Ji: : České Budějovice;16:02, Jihlava;18:18
+100652|Ji: : Jihlava;19:40, České Budějovice;21:56
+
+99989|záloha za ř. 650: : České Budějovice;0:05;23:55
+
+100653|Ji: : České Budějovice;6:02, Jihlava;8:18
+100668|Ji: : Jihlava;9:40, České Budějovice;11:56
+666|Pl: : České Budějovice;14:04, Plzeň hl.n.;15:57
+657|Pl: : Plzeň hl.n.;18:03, České Budějovice;19:54
+3887: zX: České Budějovice;21:10, Horní Dvořiště;22:12
+
+3880: X: Horní Dvořiště;4:24, České Budějovice;5:24
+658|Pl: X: České Budějovice;6:04, Plzeň hl.n.;7:57
+7510: X: Plzeň hl.n.;15:20, Klatovy;16:19
+
+658|Pl: 25: České Budějovice;6:04, Plzeň hl.n.;7:57
+7511: X: Klatovy;6:39, Rokycany;7:56
+7838: X: Rokycany;14:03, Přeštice;14:49
+7533: X: Přeštice;15:09, Plzeň hl.n.;15:39
+7532: : Plzeň hl.n.;16:20, Přeštice;16:49
+7535: : Přeštice;17:25, Plzeň hl.n.;17:58
+7534: : Plzeň hl.n.;18:20, Přeštice;18:49
+7537: z25: Přeštice;19:25, Plzeň hl.n.;19:58
+
+7521: X: Přeštice;5:09, Plzeň hl.n.;5:39
+661|Pl: : Plzeň hl.n.;6:03, České Budějovice;7:54
+654|Pl: : České Budějovice;10:04, Plzeň hl.n.;11:57
+669|Pl: : Plzeň hl.n.;14:03, České Budějovice;15:54
+100655|Ji: : České Budějovice;18:02, Jihlava;20:18
+
+100656|Ji: X6: Jihlava;5:40, České Budějovice;7:56
+8032: X: České Budějovice;14:13, Písek;15:06
+8472: X: Písek;15:20, Ražice;15:29
+8475: X: Ražice;16:19, Písek;16:28
+8039: X: Písek;16:54, České Budějovice;17:48
+100663|Ji: 25: České Budějovice;10:02, Jihlava;12:18
+100664|Ji: 25: Jihlava;13:40, České Budějovice;15:56
+8218: 25: České Budějovice;19:12, Tábor;20:20
+8223: 25: Tábor;22:31, České Budějovice;23:55
+
+100651|Ji: X6: České Budějovice;4:02, Jihlava;6:18
+100654|Ji: : Jihlava;7:40, České Budějovice;9:56
+100665|Ji: : České Budějovice;12:02, Jihlava;14:18
+100662|Ji: : Jihlava;15:40, České Budějovice;17:56
+
+8200: X: České Budějovice;4:15, Tábor;5:22
+8205: X: Tábor;6:10, České Budějovice;7:38
+100661|Ji: : České Budějovice;8:02, Jihlava;10:18
+100666|Ji: : Jihlava;11:40, České Budějovice;13:56
+664|Pl: : České Budějovice;16:04, Plzeň hl.n.;17:57
+659|Pl: : Plzeň hl.n.;20:03, České Budějovice;21:54
+8016: : České Budějovice;22:57, Strakonice;23:58
+
+8071: 25: Strakonice;4:50, České Budějovice;5:52
+8001: X: Strakonice;4:54, České Budějovice;5:54
+8208: : České Budějovice;9:25, Tábor;10:46
+8211: X: Tábor;11:30, České Budějovice;12:45
+3881: X: České Budějovice;13:02, Horní Dvořiště;14:05
+3884: X: Horní Dvořiště;15:54, České Budějovice;16:57
+8036: X: České Budějovice;18:13, Písek;19:03
+8213: 25: Tábor;13:30, České Budějovice;14:48
+8214: 25: České Budějovice;15:12, Tábor;16:20
+8217: 25: Tábor;17:30, České Budějovice;18:45
+8038: 25: České Budějovice;21:07, Protivín;21:44
+7975: 25: Písek;23:38, Protivín;23:53
+
+7973: X: Protivín;4:25, Písek;4:39
+8023: X: Písek;4:57, České Budějovice;5:45
+8000: X: České Budějovice;6:13, Strakonice;7:30
+8005: X: Strakonice;8:06, České Budějovice;9:11
+8030: X: České Budějovice;12:13, Písek;13:07
+8470: X: Písek;13:20, Ražice;13:29
+8473: X: Ražice;14:19, Písek;14:28
+8035: X: Písek;14:38, České Budějovice;15:27
+8034: X: České Budějovice;16:13, Písek;17:03
+8474: X: Písek;17:20, Ražice;17:29
+8477: X: Ražice;18:24, Písek;18:33
+8041: X: Písek;19:17, České Budějovice;20:30
+8038: X: České Budějovice;21:07, Písek;21:59
+7972: X: Písek;22:15, Protivín;22:29
+
+8021: X: Písek;3:57, České Budějovice;4:50
+8022: X: České Budějovice;5:18, Písek;6:30
+8027: : Písek;6:51, České Budějovice;7:45
+8024: : České Budějovice;9:13, Písek;10:08
+8029: X: Písek;10:38, České Budějovice;11:29
+1734: X1234: České Budějovice;13:02, Jindřichův Hradec;1402
+1739: X1234: Jindřichův Hradec;1544, České Budějovice;16:58
+1734: X5: České Budějovice;13:02, Počátky-Žirovnice;14:41
+1739: X5: Počátky-Žirovnice;15:11, České Budějovice;16:58
+8033: 25: Písek;13:59, České Budějovice;14:52
+662|Pl: : České Budějovice;18:04, Plzeň hl.n.;19:57
+
+
+1:67:5
+3:5:0
+3:67:2
+9:56:11
+10:5:0
+12:6:14
+13:6:13

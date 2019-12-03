@@ -1,0 +1,33 @@
+4903pk: X: Tišnov;4:44, Židlochovice;5:49
+4906: X: Židlochovice;6:10, Tišnov;7:14
+4915pk: X: Tišnov;7:45, Brno hl.n.;8:25
+4927pk: X: Brno hl.n.;13:27, Židlochovice;13:49
+4930: X: Židlochovice;14:07, Tišnov;15:13
+4939pk: X: Tišnov;15:45, Židlochovice;16:49
+4942: X: Židlochovice;17:10, Tišnov;18:14
+4661pk: X: Tišnov;18:30, Vranovice;19:40
+4672: X: Vranovice;21:18, Tišnov;22:29
+4633pk: 25: Tišnov;4:30, Brno hl.n.;5:07
+4961pk: 25: Brno hl.n.;5:40, Židlochovice;6:03
+4964.4917pk: 25: Židlochovice;6:54, Kuřim;7:47
+4918: 25: Židlochovice;9:54, Kuřim;10:47
+4923pk: 25: Kuřim;11:12, Židlochovice;12:02
+4924: 25: Židlochovice;12:54, Brno hl.n.;13:19
+4926: 25: Brno hl.n.;13:23, Kuřim;13:47
+4969pk: 25: Kuřim;14:12, Židlochovice;15:07
+4974: 25: Židlochovice;15:54, Kuřim;16:47
+4975pk: 25: Kuřim;17:12, Židlochovice;18:03
+4980: 25: Židlochovice;18:54, Kuřim;19:47
+4665pk: 25: Kuřim;20:12, Brno hl.n.;20:37
+4674: 25: Brno hl.n.;23:01, Tišnov;23:37
+
+4905pk: X: Tišnov;5:15, Židlochovice;6:23
+4908: X: Židlochovice;6:34, Tišnov;7:44
+4917pk: X: Tišnov;8:00, Židlochovice;9:03
+4918: X: Židlochovice;9:54, Tišnov;10:59
+4925pk: X: Tišnov;12:00, Židlochovice;13:03
+4928: X: Židlochovice;13:54, Tišnov;14:59
+4937pk: X: Tišnov;15:15, Židlochovice;16:23
+4940: X: Židlochovice;16:36, Tišnov;17:44
+4953pk: X: Tišnov;19:00, Židlochovice;20:02
+4956: X: Židlochovice;20:54, Tišnov;21:59

@@ -1,0 +1,44 @@
+2921:: Bohumín;4:49, Mosty u Jablunkova;5:53
+2924:: Mosty u Jablunkova;6:07, Ostrava-Svinov;7:28
+2929:: Ostrava-Svinov;8:30, Mosty u Jablunkova;9:53
+2932:: Mosty u Jablunkova;10:07, Ostrava-Svinov;11:28
+2937:: Ostrava-Svinov;12:34, Mosty u Jablunkova;13:53
+2940:: Mosty u Jablunkova;14:07, Studénka;15:51
+2947:: Studénka;16:12, Mosty u Jablunkova;17:53
+2948:: Mosty u Jablunkova;18:07, Studénka;19:51
+2955:: Studénka;20:12, Mosty u Jablunkova;21:53
+2956:: Mosty u Jablunkova;22:07, Bohumín;23:11
+
+2925:: Bohumín;6:49, Mosty u Jablunkova;7:53
+2928:: Mosty u Jablunkova;8:07, Ostrava-Svinov;9:28
+2933:: Ostrava-Svinov;10:30, Mosty u Jablunkova;11:53
+2936:: Mosty u Jablunkova;12:07, Studénka;13:51
+2943:: Studénka;14:12, Mosty u Jablunkova;15:53
+2944:: Mosty u Jablunkova;16:07, Studénka;17:51
+2951:: Studénka;18:12, Mosty u Jablunkova;19:53
+2952:: Mosty u Jablunkova;20:07, Ostrava-Svinov;21:28
+2957:: Ostrava-Svinov;22:25, Návsí;23:55
+
+2898sv:0307,0407,0507,0607,1607,1707,1807,1907: Návsví;0:16, Ostrava střed;0:57
+2899:0307,0407,0507,0607,1607,1707,1807,1907: Ostrava střed;2:13, Návsí;3:11
+2959:X6: Návsí;3:48, Mosty u Jablunkova;3:58
+2958:X6: Mosty u Jablunkova;4:02, Návsí;4:10
+3302:X: Návsí;4:12, Bohumín;5:11
+2927:: Bohumín;7:49, Mosty u Jablunkova;8:53
+2930:: Mosty u Jablunkova;9:04, Ostrava-Svinov;10:28
+2935:: Ostrava-Svinov;11:34, Mosty u Jablunkova;12:53
+2938:: Mosty u Jablunkova;13:07, Ostrava-Svinov;14:28
+2945:: Ostrava-Svinov;15:34, Mosty u Jablunkova;16:53
+2946:: Mosty u Jablunkova;17:07, Ostrava-Svinov;18:28
+2953:: Ostrava-Svinov;19:34, Mosty u Jablunkova;20:53
+2954:: Mosty u Jablunkova;21:07, Bohumín;22:11
+
+2923:: Bohumín;5:50, Mosty u Jablunkova;6:53
+2926:: Mosty u Jablunkova;7:07, Ostrava-Svinov;8:28
+2931:: Ostrava-Svinov;9:34, Mosty u Jablunkova;10:53
+2934:: Mosty u Jablunkova;11:07, Ostrava-Svinov;12:28
+2939:: Ostrava-Svinov;13:34, Mosty u Jablunkova;14:53
+2942:: Mosty u Jablunkova;15:07, Ostrava-Svinov;16:28
+2949:: Ostrava-Svinov;17:34, Mosty u Jablunkova;18:58
+2950:: Mosty u Jablunkova;19:07, Ostrava-Svinov;20:28
+28915sv:: Ostrava-Svinov;21:00, Bohumín;21:12

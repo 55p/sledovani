@@ -1,0 +1,25 @@
+4700: X: Brno hl.n.;4:32, Letovice;5:30
+4741: X: Letovice;6:20, Brno hl.n.;7:31
+4710: X: Brno hl.n.;9:00, Letovice;10:01
+4719: X: Letovice;10:58, Křenovice horní n.;12:33
+4746: X: Křenovice horní n.;12:54, Skalice nad Svitavou;14:18
+4749: X: Skalice nad Svitavou;14:42, Sokolnice-Telnice;15:51
+4726: X: Sokolnice-Telnice;16:35, Letovice;18:01
+4735: X: Letovice;18:58, Křenovice horní n.;20:37
+4022: X: Křenovice horní n.;20:54, Brno hl.n.;21:26
+4716: 6: Brno hl.n.;12:00, Letovice;13:01
+4725: 6: Letovice;13:58, Křenovice horní n.;15:33
+4752: 6: Křenovice horní n.;15:54, Brno hl.n.;16:26
+4726: 6: Brno hl.n.;17:00, Letovice;18:01
+4735: 6: Letovice;18:58, Brno hl.n.;19:59
+4738: 6: Brno hl.n.;23:04, Letovice;0:03
+4705: T: Letovice;5:00, Křenovice horní n.;6:33
+4006: T: Křenovice horní n.;6:54, Brno hl.n.;7:26
+4708: T: Brno hl.n.;8:00, Letovice;9:01
+4717: T: Letovice;9:58, Křenovice horní n.;11:33
+4744: T: Křenovice horní n.;11:54, Brno hl.n.;12:26
+4718: T: Brno hl.n.;13:00, Letovice;14:01
+4727: T: Letovice;14:58, Brno hl.n.;15:59
+4728: T: Brno hl.n.;18:00, Letovice;19:01
+4737: T: Letovice;19:58, Křenovice horní n.;21:33
+4024: T: Křenovice horní n.;21:59, Brno hl.n.;22:26

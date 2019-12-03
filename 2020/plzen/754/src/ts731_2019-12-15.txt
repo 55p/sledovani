@@ -1,0 +1,23 @@
+﻿730: X6: České Velenice;5:30, Veselí nad Lužnicí;6:25
+71801: X6: Veselí nad Lužnicí;6:35, České Budějovice;7:06
+533: : České Budějovice;11:15, Český Krumlov;11:52;11:56, Kájov;12:04
+534: : Kájov;13:57, Český Krumlov;14:04;14:07, České Budějovice;14:44
+71800: X6: České Budějovice;16:26, Veselí nad Lužnicí;17:15
+723: X6: Veselí nad Lužnicí;17:34, České Velenice;18:33
+71810: 6: České Velenice;19:23, Veselí nad Lužnicí;20:01
+71811: T: České Budějovice;15:20, České Velenice;16:26
+704: T: České Velenice;17:27, Veselí nad Lužnicí;18:25
+727: T: Veselí nad Lužnicí;19:32, České Velenice;20:23
+
+726: : České Velenice;7:36, Veselí nad Lužnicí;8:25
+707: : Veselí nad Lužnicí;9:32, České Velenice;10:23
+718: : České Velenice;11:36, Veselí nad Lužnicí;12:25
+715: : Veselí nad Lužnicí;13:32, České Velenice;14:23
+704: X6: České Velenice;17:27, Veselí nad Lužnicí;18:25
+727: X6: Veselí nad Lužnicí;19:32, České Velenice;20:23
+710: T: České Velenice;15:36, Veselí nad Lužnicí;16:25
+723: T: Veselí nad Lužnicí;17:34, České Velenice;18:33
+
+
+1:67:1
+2:67:2

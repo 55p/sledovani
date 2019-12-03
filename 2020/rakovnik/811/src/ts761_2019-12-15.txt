@@ -1,0 +1,13 @@
+﻿1495: X: Louny;5:27, Praha-Libeň;7:39
+121818sv: X: Praha-Libeň;14:29, Hostivice;15:07;15:35, Praha-Dejvice;15:56
+19736: X: Praha-Dejvice;16:51, Středokluky;17:30
+19735: X: Středokluky;17:46, Praha-Dejvice;18:24
+119735sv: X: Praha-Dejvice;18:50, Praha-Bubny;18:55
+1586: X: Praha-Bubny Vltavská;21:05, Kladno;21:44
+
+119791sv: X: Kladno;3:23, Hostivice;3:36
+119790sv: X: Hostivice;3:47, Středokluky;3:59
+19731: X: Středokluky;4:23, Praha-Dejvice;4:56
+19732: X: Praha-Dejvice;6:08, Noutonice;7:04
+19733: X: Noutonice;7:22, Praha hl.n.;8:37
+1494: X: Praha-Libeň;16:17, Louny;18:28

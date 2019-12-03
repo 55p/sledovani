@@ -1,0 +1,3 @@
+4021: X: Brno hl.n.;3:06, Křenovice horní n.;3:33
+4042: X: Křenovice horní n.;4:23, Rájec-Jestřebí;5:45
+4043: X: Rájec-Jestřebí;6:10, Brno hl.n.;6:44
