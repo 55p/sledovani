@@ -1,0 +1,8 @@
+6621: : Děčín hl.n.;1:19, Česká Lípa hl.n.;2:00
+6624: : Česká Lípa hl.n.;5:10, Děčín hl.n.;5:54
+6605: : Děčín hl.n.;6:43, Liberec;8:54
+6604: : Liberec;9:01, Děčín hl.n.;11:12
+6611: : Děčín hl.n.;12:45, Liberec;14:54
+6610: : Liberec;15:01, Děčín hl.n.;17:12
+6617: : Děčín hl.n.;18:45, Liberec;20:54
+6616: : Liberec;21:01, Děčín hl.n.;23:09

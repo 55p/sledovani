@@ -1,0 +1,36 @@
+116191sv: X: Most;3:28, Radejčín;4:13
+16100: X: Radejčín;4:19, Teplice v Čechách;5:07
+16103: X: Teplice v Čechách;5:34, Radejčín;6:23
+16104: X: Radejčín;6:31, Teplice v Čechách;7:20
+106623pk: T: Děčín hl.n.;5:11, Česká Lípa hl.n.;5:54
+6626: 25: Česká Lípa hl.n.;5:57, Děčín hl.n.;6:42
+116193sv: 25: Děčín hl.n.;7:42, Teplice v Čechách;8:24
+16107: : Teplice v Čechách;8:34, Radejčín;9:23
+16108: : Radejčín;10:31, Teplice v Čechách;11:20
+16111: : Teplice v Čechách;12:34, Radejčín;13:23
+16112: : Radejčín;14:31, Teplice v Čechách;15:20
+16115: : Teplice v Čechách;16:34, Radejčín;17:23
+16116: : Radejčín;18:31, Teplice v Čechách;19:20
+
+16101: X: Teplice v Čechách;4:21, Radejčín;5:08
+16102: X: Radejčín;5:31, Teplice v Čechách;6:20
+16105: X: Teplice v Čechách;6:34, Radejčín;7:23
+116195sv: 25: Teplice v Čechách;7:47, Radejčín;8:23
+16106: : Radejčín;8:31, Teplice v Čechách;9:20
+16109: : Teplice v Čechách;10:34, Radejčín;11:23
+16110: : Radejčín;12:31, Teplice v Čechách;13:20
+16113: : Teplice v Čechách;14:34, Radejčín;15:23
+16114: : Radejčín;16:31, Teplice v Čechách;17:20
+16117: : Teplice v Čechách;18:34, Radejčín;19:23
+116190sv: zX: Radejčín;19:28, Most nové nádraží;20:35
+116192sv: z25: Radejčín;19:28, Děčín hl.n.;20:41
+
+121861sv: X1: Děčín hl.n.;3:36, Česká Lípa hl.n.;4:10
+6622: X: Česká Lípa hl.n.;4:24, Děčín hl.n.;5:07
+6623: X: Děčín hl.n.;5:11, Česká Lípa hl.n.;5:54
+6626: X: Česká Lípa hl.n.;5:57, Děčín hl.n.;6:42
+6625: X: Děčín hl.n.;15:20, Česká Lípa hl.n.;16:02
+
+
+2:123467:1
+3:123467:3

@@ -1,0 +1,133 @@
+14941: X: Nedvědice;4:01, Tišnov;4:25
+14942: X: Tišnov;4:33, Nedvědice;4:56
+14943: X: Nedvědice;5:01, Tišnov;5:25
+14900: X: Tišnov;5:33, Žďár nad Sázavou;7:22
+14900: T: Bystřice nad Pernštejnem;6:32, Žďár nad Sázavou;7:22
+14963: XT: Žďár nad Sázavou;7:38, Nové Město na Moravě;7:57
+14964: XT: Nové Město na Moravě;8:02, Žďár nad Sázavou;8:22
+14905: XT: Žďár nad Sázavou;8:38, Tišnov;10:25
+14906: XT: Tišnov;11:33, Žďár nad Sázavou;13:22
+14969: XT: Žďár nad Sázavou;13:38, Nové Město na Moravě;13:57
+14970: XT: Nové Město na Moravě;14:02, Žďár nad Sázavou;14:22
+14911: XT: Žďár nad Sázavou;14:38, Tišnov;16:25
+14954: XT: Tišnov;16:33, Nedvědice;16:56
+14955: XT: Nedvědice;17:01, Tišnov;17:25
+14912: XT: Tišnov;17:33, Žďár nad Sázavou;19:22
+14975: XT: Žďár nad Sázavou;19:38, Nové Město na Moravě;19:57
+14976: XT: Nové Město na Moravě;20:02, Žďár nad Sázavou;20:22
+14977: XT: Žďár nad Sázavou;20:38, Nové Město na Moravě;20:57
+14978: XT: Nové Město na Moravě;21:02, Žďár nad Sázavou;21:22
+14979: XT: Žďár nad Sázavou;21:38, Nové Město na Moravě;21:57
+14980: XT: Nové Město na Moravě;22:02, Žďár nad Sázavou;22:22
+14981: XT: Žďár nad Sázavou;22:45, Nové Město na Moravě;23:04
+14992sv: zX: Nové Město na Moravě;23:09, Havlíčkův Brod;23:59
+14944: 6: Tišnov;6:33, Nedvědice;6:56
+14945: 6: Nedvědice;7:01, Tišnov;7:25
+14902: 6: Tišnov;7:33, Žďár nad Sázavou;9:22
+14907: 6: Žďár nad Sázavou;10:38, Tišnov;12:25
+14908: 6: Tišnov;13:33, Žďár nad Sázavou;15:22
+14971: 6: Žďár nad Sázavou;15:38, Nové Město na Moravě;15:57
+14972: 6: Nové Město na Moravě;16:02, Žďár nad Sázavou;16:22
+14913: 6: Žďár nad Sázavou;16:38, Tišnov;18:25
+14914: 6: Tišnov;19:33, Bystřice nad Pernštejnem;20:21
+
+14991sv: X: Havlíčkův Brod;4:17, Nové Město na Moravě;5:00
+14901: X: Nové Město na Moravě;5:11, Tišnov;6:25
+14944: X: Tišnov;6:33, Nedvědice;6:56
+14945: X: Nedvědice;7:01, Tišnov;7:25
+4678: T: Brno hl.n.;0:47, Tišnov;1:24
+14902: XT: Tišnov;7:33, Žďár nad Sázavou;9:22
+14965: X: Žďár nad Sázavou;9:38, Nové Město na Moravě;9:57
+14966: X: Nové Město na Moravě;10:02, Žďár nad Sázavou;10:22
+14907: XT: Žďár nad Sázavou;10:38, Tišnov;12:25
+14950: X: Tišnov;12:33, Nedvědice;12:56
+14951: X: Nedvědice;13:01, Tišnov;13:25
+14908: X: Tišnov;13:33, Žďár nad Sázavou;15:22
+14971: X: Žďár nad Sázavou;15:38, Nové Město na Moravě;15:57
+14972: X: Nové Město na Moravě;16:02, Žďár nad Sázavou;16:22
+14913: X: Žďár nad Sázavou;16:38, Tišnov;18:25
+14956: X: Tišnov;18:33, Nedvědice;18:56
+14957: X: Nedvědice;19:01, Tišnov;19:25
+14914: X: Tišnov;19:33, Bystřice nad Pernštejnem;20:21
+14993sv: X: Bystřice nad Pernštejnem;20:32, Tišnov;21:12
+14930: 6: Nové Město na Moravě;5:01, Žďár nad Sázavou;5:20
+14961: 6: Žďár nad Sázavou;5:38, Nové Město na Moravě;5:57
+14962: 6: Nové Město na Moravě;6:02, Žďár nad Sázavou;6:22
+14903: 6: Žďár nad Sázavou;6:38, Tišnov;8:25
+14904: 6: Tišnov;9:33, Žďár nad Sázavou;11:22
+14967: 6: Žďár nad Sázavou;11:38, Nové Město na Moravě;11:57
+14968: 6: Nové Město na Moravě;12:02, Žďár nad Sázavou;12:22
+14909: 6: Žďár nad Sázavou;12:38, Tišnov;14:25
+14910: 6: Tišnov;15:33, Žďár nad Sázavou;17:22
+14915: 6: Žďár nad Sázavou;18:38, Tišnov;20:25
+14958: 6: Tišnov;21:33, Nedvědice;21:56
+14959: 6: Nedvědice;22:01, Tišnov;22:25
+104669: 6: Tišnov;22:30, Brno hl.n.;23:07
+
+114930sv: X: Tišnov;3:38, Bystřice nad Pernštejnem;4:19
+14930: X: Bystřice nad Pernštejnem;4:32, Žďár nad Sázavou;5:20
+14930: T: Nové Město na Moravě;5:01, Žďár nad Sázavou;5:20
+14961: XT: Žďár nad Sázavou;5:38, Nové Město na Moravě;5:57
+14962: XT: Nové Město na Moravě;6:02, Žďár nad Sázavou;6:22
+14903: XT: Žďár nad Sázavou;6:38, Tišnov;8:25
+14946: X: Tišnov;8:33, Nedvědice;8:56
+14947: X: Nedvědice;9:01, Tišnov;9:25
+14904: XT: Tišnov;9:33, Žďár nad Sázavou;11:22
+14967: XT: Žďár nad Sázavou;11:38, Nové Město na Moravě;11:57
+14968: XT: Nové Město na Moravě;12:02, Žďár nad Sázavou;12:22
+14909: XT: Žďár nad Sázavou;12:38, Tišnov;14:25
+14952: X: Tišnov;14:33, Nedvědice;14:56
+14953: X: Nedvědice;15:01, Tišnov;15:25
+14910: XT: Tišnov;15:33, Žďár nad Sázavou;17:22
+14973: X: Žďár nad Sázavou;17:38, Nové Město na Moravě;17:57
+14974: X: Nové Město na Moravě;18:02, Žďár nad Sázavou;18:22
+14915: XT: Žďár nad Sázavou;18:38, Tišnov;20:25
+14958: X5: Tišnov;21:33, Nedvědice;21:56
+14959: X5: Nedvědice;22:01, Tišnov;22:25
+4677: X5: Tišnov;23:35, Brno hl.n.;0:10
+14942: 6: Tišnov;4:33, Nedvědice;4:56
+14943: 6: Nedvědice;5:01, Tišnov;5:25
+114900sv: 6: Tišnov;5:33, Bystřice nad Pernštejnem;6:27
+14900: 6: Bystřice nad Pernštejnem;6:32, Žďár nad Sázavou;7:22
+14963: 6: Žďár nad Sázavou;7:38, Nové Město na Moravě;7:57
+14964: 6: Nové Město na Moravě;8:02, Žďár nad Sázavou;8:22
+14905: 6: Žďár nad Sázavou;8:38, Tišnov;10:25
+4997sv: 6: Tišnov;10:42, Brno-Maloměřice;11:06
+
+4909: X: Tišnov;6:15, Židlochovice;7:23
+4912: X: Židlochovice;7:33, Brno-Židenice;8:09
+4048: X: Brno hl.n.;14:14, Rájec-Jestřebí;14:54
+4049: X: Rájec-Jestřebí;15:04, Brno hl.n.;15:43
+4054: X: Brno hl.n.;16:14, Rájec-Jestřebí;16:54
+4055: X: Rájec-Jestřebí;17:04, Brno hl.n.;17:43
+4060: X: Brno hl.n.;18:14, Rájec-Jestřebí;18:54
+4061: X: Rájec-Jestřebí;19:04, Brno hl.n.;19:43
+4668: X: Brno hl.n.;20:23, Tišnov;21:02
+4678: 6: Brno hl.n.;0:47, Tišnov;1:24
+4685: 6: Tišnov;5:56, Brno-Královo Pole;6:21
+114906sv: 6: Brno-Maloměřice;10:55, Tišnov;11:19
+14906: 6: Tišnov;11:33, Žďár nad Sázavou;13:22
+14969: 6: Žďár nad Sázavou;13:38, Nové Město na Moravě;13:57
+14970: 6: Nové Město na Moravě;14:02, Žďár nad Sázavou;14:22
+14911: 6: Žďár nad Sázavou;14:38, Tišnov;16:25
+14912: 6: Tišnov;17:33, Žďár nad Sázavou;19:22
+14975: 6: Žďár nad Sázavou;19:38, Nové Město na Moravě;19:57
+14976: 6: Nové Město na Moravě;20:02, Žďár nad Sázavou;20:22
+14977: 6: Žďár nad Sázavou;20:38, Nové Město na Moravě;20:57
+14978: 6: Nové Město na Moravě;21:02, Žďár nad Sázavou;21:22
+14979: 6: Žďár nad Sázavou;21:38, Nové Město na Moravě;21:57
+14980: 6: Nové Město na Moravě;22:02, Žďár nad Sázavou;22:22
+14981: 6: Žďár nad Sázavou;22:45, Nové Město na Moravě;23:04
+114908sv: T: Brno-Maloměřice;12:44, Tišnov;13:08
+14908: T: Tišnov;13:33, Žďár nad Sázavou;15:22
+14971: T: Žďár nad Sázavou;15:38, Nové Město na Moravě;15:57
+14972: T: Nové Město na Moravě;16:02, Žďár nad Sázavou;16:22
+14913: T: Žďár nad Sázavou;16:38, Tišnov;18:25
+14914: T: Tišnov;19:33, Bystřice nad Pernštejnem;20:21
+14993sv: T: Bystřice nad Pernštejnem;20:32, Tišnov;21:12
+14958: zX: Tišnov;21:33, Nedvědice;21:56
+
+
+1:6:1
+2:6:2
+4:6:3

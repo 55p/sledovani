@@ -1,0 +1,14 @@
+6651: X: Rumburk;4:11, Děčín hl.n.;5:19
+6670: X: Děčín hl.n.;5:23, Česká Kamenice;5:52
+6671: X: Česká Kamenice;7:49, Děčín hl.n.;8:19
+6672: X: Děčín hl.n.;13:27, Česká Kamenice;13:57
+6673: X: Česká Kamenice;14:04, Děčín hl.n.;14:34
+6674: X: Děčín hl.n.;15:35, Jedlová;16:24
+6675: X: Jedlová;17:28, Děčín hl.n.;18:19
+6664: X: Děčín hl.n.;18:35, Rumburk;19:50
+6667: X5: Rumburk;20:02, Děčín hl.n.;21:19
+1980: 25: Děčín hl.n.;7:56, Moldava v Krušných horách;9:59
+1981: 25: Moldava v Krušných horách;10:51, Ústí nad Labem hl.n.;12:27
+1982: 25: Ústí nad Labem hl.n.;13:15, Moldava v Krušných horách;14:53
+1983: 25: Moldava v Krušných horách;15:51, Děčín hl.n.;17:59
+106668pk: T: Děčín hl.n.;22:35, Rumburk;23:53

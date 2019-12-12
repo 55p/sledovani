@@ -1,0 +1,28 @@
+8702: -2512,-2612,-0101: České Velenice;4:15, Veselí nad Lužnicí;5:16
+8705: : Veselí nad Lužnicí;5:38, České Velenice;6:39
+8706: : České Velenice;6:43, Veselí nad Lužnicí;7:42
+8715: : Veselí nad Lužnicí;13:45, České Velenice;14:49
+8714: : České Velenice;15:06, Veselí nad Lužnicí;16:09
+8723: -2412,-2512,-3112: Veselí nad Lužnicí;20:39, České Velenice;21:43
+8722: X,-3112: České Velenice;22:06, Veselí nad Lužnicí;23:06
+
+108704pk: X1: České Velenice;5:48, Třeboň;6:27
+108705pk: X2345: Veselí nad Lužnicí;5:38, Třeboň;5:59
+8731: X,-2312,-2412,-2512,-2612,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-3101,-0904: Třeboň;6:40, České Velenice;7:23
+108717pk: 6,-2812: Veselí nad Lužnicí;15:43, České Velenice;16:46
+8718: : České Velenice;19:10, Veselí nad Lužnicí;20:13
+8725: -2412,-2512,-3112: Veselí nad Lužnicí;21:42, České Velenice;22:46
+
+8700: X: České Velenice;3:20, Veselí nad Lužnicí;4:20
+8701: X: Veselí nad Lužnicí;4:32, České Velenice;5:42
+8704: : České Velenice;5:48, Veselí nad Lužnicí;6:51
+8707: X,-2312,-2412,-2512,-2612,-2712,-2812,-2912,-3012,-3112,-0101,-0201,-0301,-3101,-0904: Veselí nad Lužnicí;6:57, České Velenice;8:11
+8709: 25,2312,2412,2512,2612,2712,2812,2912,3012,3112,0101,0201,0301,3101,0904: Veselí nad Lužnicí;7:43, České Velenice;8:47
+8708: : České Velenice;9:10, Veselí nad Lužnicí;10:12
+8713: : Veselí nad Lužnicí;11:43, České Velenice;12:47
+8712: : České Velenice;13:10, Veselí nad Lužnicí;14:12
+8717: : Veselí nad Lužnicí;15:43, České Velenice;16:46
+8716: : České Velenice;17:06, Veselí nad Lužnicí;18:14
+8721: : Veselí nad Lužnicí;18:45, České Velenice;19:49
+8720: -2412,-2512,-3112: České Velenice;21:04, Veselí nad Lužnicí;22:07
+8727: -2412,-2512,-3112: Veselí nad Lužnicí;22:40, České Velenice;23:42

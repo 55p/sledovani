@@ -1,4 +1,4 @@
-5100pk: X1 : Náchod; 4:23, Trutnov hl.n; 5:16
+﻿5100pk: X1 : Náchod; 4:23, Trutnov hl.n; 5:16
 1802pk: X : Trutnov hl.n; 6:14, Chlumec nad Cidlinou; 8:25
 1807: X : Chlumec nad Cidlinou; 9:32, Trutnov hl.n; 11:50
 1812pk: X : Trutnov hl.n; 12:11, Kolín; 15:10
@@ -6,7 +6,7 @@
 1817: X : Čáslav; 16:22, Trutnov hl.n; 19:50
 1800pk: 6 : Trutnov hl.n; 4:17, Kolín; 7:10
 1807: 6 : Kolín; 8:42, Trutnov hl.n; 11:50
-1810pk: 25 : Trutnov hl.n; 12:09; Kolín; 15:10
+1810pk: 25 : Trutnov hl.n; 12:09, Kolín; 15:10
 1817: 25 : Kolín; 16:42, Trutnov hl.n; 19:50
 5107: : Trutnov hl.n; 20:42, Náchod; 21:39
 5146pk: zX : Náchod; 22:21, Meziměstí; 23:01

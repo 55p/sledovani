@@ -1,0 +1,27 @@
+﻿7601: X6: Žihle;4:00, Plzeň hl.n.;5:02
+7601: T: Plasy;4:22, Plzeň hl.n.;5:02
+7660: X: Plzeň hl.n.;5:18, Plasy;5:59
+7661: X: Plasy;6:03, Plzeň hl.n.;6:44
+7662: X: Plzeň hl.n.;6:57, Plasy;7:37
+7641: X: Plasy;8:59, Plzeň hl.n.;9:39
+7512: : Plzeň hl.n.;21:10, Klatovy;22:07
+
+7560: X: Klatovy;4:57, Nýrsko;5:17
+7561: X: Nýrsko;6:00, Klatovy;6:16
+7540: : Klatovy;6:40, Železná Ruda-Alžbětín;7:38
+7545: : Železná Ruda-Alžbětín;8:16, Klatovy;9:16
+7542: : Klatovy;10:40, Železná Ruda-Alžbětín;11:38
+7547: : Železná Ruda-Alžbětín;12:17, Klatovy;13:16
+17513: 25: Klatovy;13:33, Horažďovice předměstí;14:49
+7562: X: Klatovy;13:40, Nýrsko;13:56
+7563: X: Nýrsko;14:00, Klatovy;14:16
+17516: 25: Horažďovice předměstí;15:10, Klatovy;16:23
+17517: X1234: Klatovy;15:33, Horažďovice předměstí;16:49
+17517| pk Sše-Hžp|postrk Sušice - Horažďovice předměstí: X5: Klatovy;15:33, Horažďovice předměstí;16:49
+17582: X: Horažďovice předměstí;16:53, Horažďovice;16:56
+17583: X: Horažďovice;17:01, Horažďovice předměstí;17:04
+17518: X: Horažďovice předměstí;17:10, Klatovy;18:23
+7550: : Klatovy;18:40, Železná Ruda-Alžbětín;19:38
+7501: : Železná Ruda-Alžbětín;19:53, Plzeň hl.n.;21:54
+7616: XT: Plzeň hl.n.;22:50, Žihle;23:51
+7616: 6: Plzeň hl.n.;22:50, Plasy;23:30

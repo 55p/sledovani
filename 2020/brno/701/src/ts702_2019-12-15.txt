@@ -1,0 +1,38 @@
+892: : Veselí nad Moravou;7:12, Staré Město u Uherského Hradiště;7:32
+883: : Staré Město u Uherského Hradiště;8:26, Luhačovice;9:18
+888: : Luhačovice;10:31, Staré Město u Uherského Hradiště;11:32
+887: : Staré Město u Uherského Hradiště;12:26, Luhačovice;13:18
+884: : Luhačovice;14:31, Staré Město u Uherského Hradiště;15:32
+891: : Staré Město u Uherského Hradiště;16:27, Luhačovice;17:18
+880: : Luhačovice;18:07, Staré Město u Uherského Hradiště;18:54
+895: : Staré Město u Uherského Hradiště;20:26, Veselí nad Moravou;20:46
+
+1760: X: Veselí nad Moravou;6:01, Brno hl.n.;7:33
+4145: X: Brno hl.n.;13:48, Nemotice;14:52
+4150: X: Nemotice;15:11, Brno-Židenice;16:10
+1773: XT: Brno hl.n.;17:28, Bojkovice;20:03
+
+1762: X6: Bojkovice město;5:55, Brno hl.n.;8:33
+1771: XT: Brno hl.n.;15:28, Staré Město u Uherského Hradiště;17:25
+893: XT: Staré Město u Uherského Hradiště;18:26, Luhačovice;19:13
+858: XT: Luhačovice;19:33, Staré Město u Uherského Hradiště;20:19
+897: XT: Otrokovice;22:14, Zlín;22:27
+
+894: : Zlín;5:30, Otrokovice;5:43
+881: X6: Staré Město u Uherského Hradiště;6:56, Luhačovice;7:41
+890: X6: Luhačovice;8:31, Staré Město u Uherského Hradiště;9:32
+885: : Staré Město u Uherského Hradiště;10:26, Luhačovice;11:18
+886: : Luhačovice;12:31, Staré Město u Uherského Hradiště;13:32
+889: : Staré Město u Uherského Hradiště;14:27, Luhačovice;15:18
+882: : Luhačovice;16:31, Staré Město u Uherského Hradiště;17:32
+1774: XT: Staré Město u Uherského Hradiště;18:33, Brno hl.n.;20:33
+1777: zX: Brno hl.n.;21:28, Veselí nad Moravou;22:58
+893: 6: Staré Město u Uherského Hradiště;18:26, Luhačovice;19:13
+858: 6: Luhačovice;19:33, Staré Město u Uherského Hradiště;20:19
+897: 6: Otrokovice;22:14, Zlín;22:27
+
+
+1:56:1
+3:6:2
+4:5:2
+4:6:4

@@ -1,0 +1,16 @@
+109900sv: X: Praha jih;4:40, Praha hl.n.;4:48
+9900: X: Praha hl.n.;5:02, Řevnice;5:38
+9913: X: Řevnice;5:52, Praha hl.n.;6:28
+9910: X: Praha hl.n.;6:37, Praha-Radotín;6:55
+9919: X: Praha-Radotín;7:02, Praha hl.n.;7:22
+9916: X: Praha hl.n.;7:32, Řevnice;8:08
+9931: X: Řevnice;8:22, Praha hl.n.;8:59
+129200sv: X: Praha hl.n.;9:12, Praha-Smíchov;9:18
+129209sv: X: Praha-Smíchov;13:59, Praha hl.n.;14:06
+9946: X: Praha hl.n.;14:32, Řevnice;15:08
+9949: X: Řevnice;15:22, Praha hl.n.;15:59
+9954: X: Praha hl.n.;16:32, Řevnice;17:08
+9957: X: Řevnice;17:22, Praha hl.n.;17:59
+9962: X: Praha hl.n.;18:32, Řevnice;19:08
+9965: X: Řevnice;19:22, Praha hl.n.;19:58
+109965sv: X: Praha hl.n.;20:09, Praha jih;20:17

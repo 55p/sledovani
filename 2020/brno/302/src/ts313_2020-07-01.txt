@@ -1,0 +1,4 @@
+4632: X: Břeclav;5:15, Tišnov;6:59
+4647: X: Tišnov;13:00, Břeclav;14:45
+4658: X: Břeclav;15:15, Tišnov;16:59
+4659: X: Tišnov;18:00, Břeclav;19:45

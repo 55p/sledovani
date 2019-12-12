@@ -1,0 +1,59 @@
+8420: X: Tábor;4:21, Písek;5:34
+8402: 25: Tábor;5:08, Ražice;6:31
+8423: X: Písek;5:56, Tábor;7:22
+8403: 25: Ražice;7:21, Tábor;8:44
+8424: X: Tábor;8:10, Písek;9:28
+8406: 25: Tábor;9:08, Ražice;10:31
+8427: X: Písek;10:20, Tábor;11:39
+8407: 25: Ražice;11:21, Tábor;12:44
+8428: X: Tábor;12:10, Písek;13:28
+8410: 25: Tábor;13:08, Ražice;14:31
+8431: X: Písek;14:20, Tábor;15:39
+8411: 25: Ražice;15:21, Tábor;16:44
+8432: X: Tábor;16:10, Písek;17:28
+8414: 25: Tábor;17:08, Ražice;18:31
+8415: 25: Ražice;19:21, Tábor;20:44
+8435: X: Písek;18:20, Tábor;19:39
+8418: X: Tábor;20:10, Ražice;21:53
+8436: 25: Tábor;21:24, Písek;22:36
+8479: X: Ražice;22:47, Písek;22:56
+7974: : Písek;23:01, Protivín;23:15
+
+8421: X: Protivín;3:51, Tábor;5:39
+8422: X: Tábor;5:46, Písek;7:13
+8425: X: Písek;8:20, Tábor;9:39
+8426: X: Tábor;10:10, Písek;11:28
+8429: X: Písek;12:20, Tábor;13:39
+8430: X: Tábor;14:10, Písek;15:28
+8433: X: Písek;16:20, Tábor;17:39
+8434: X: Tábor;18:10, Písek;19:28
+7960: X: Písek;21:08, Protivín;21:22
+8046: X: Protivín;21:50, Strakonice;22:12
+8045: X: Strakonice;22:30, Protivín;22:52
+
+108421: X: Protivín;3:51, Písek;4:06
+7971: 25: Protivín;4:11, Písek město;4:31
+7971: X: Písek;4:26, Písek město;4:31
+8450: 25: Písek město;4:40, Ražice;4:55
+8450: X: Písek město;4:40, Strakonice;5:10
+8401: 25: Ražice;5:21, Tábor;6:44
+1711: X: Strakonice;5:19, Tábor;6:46
+1712: X: Tábor;7:05, Strakonice;8:32
+8404: 25: Tábor;7:08, Ražice;8:31
+8405: 25: Ražice;9:21, Tábor;10:44
+1715: X: Strakonice;9:19, Tábor;10:46
+1716: X: Tábor;11:05, Strakonice;12:32
+8408: 25: Tábor;11:08, Ražice;12:31
+8409: 25: Ražice;13:21, Tábor;14:44
+1719: X: Strakonice;13:22, Tábor;14:47
+1720: X: Tábor;15:05, Strakonice;16:32
+8412: 25: Tábor;15:08, Ražice;16:31
+8413: 25: Ražice;17:21, Tábor;18:44
+1723: X: Strakonice;17:19, Tábor;18:46
+1724: X: Tábor;19:05, Strakonice;20:32
+8416: 25: Tábor;19:08, Ražice;20:31
+8417: X1234: Strakonice;21:20, Tábor;23:19
+108417| pk Mlo-Tbr|postrk Milevsko - Tábor: X5: Strakonice;21:20, Tábor;23:19
+8419: 25: Ražice;21:34, Tábor;23:19
+
+99900 |Údržba OCÚ: : Tábor;0:00;23:59

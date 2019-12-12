@@ -1,0 +1,40 @@
+﻿300614vlož: X: Žilina;3:01, Púchov;3:44
+3340: X: Púchov;4:42, Trenčín;5:19
+1734: X: Trenčín;5:33, Bratislava-N.Mesto;7:19
+1735: X: Bratislava hl.st.;15:36, Trenčín;17:22
+3329: X: Trenčín;17:40, Žilina;19:18
+100704|nč|nečinná: 25: Žilina;5:20, Bratislava hl.st.;7:47
+100717|nč|nečinná: 6: Bratislava hl.st.;20:13, Žilina;22:40
+100713|nč|nečinná: 7: Bratislava hl.st.;17:13, Žilina;19:40
+
+3960: X: Žilina;5:23, Čadca;6:02
+3905: X: Čadca;6:35, Žilina;7:14
+708: X: Žilina;8:20, Púchov;9:00
+79500: 25: Žilina;8:20, Púchov;9:00
+128: : Púchov;10:08, Praha hl.n.;14:39
+521: : Praha hl.n.;17:23, Vsetín;21:13
+
+522: : Vsetín;4:52, Praha hl.n.;8:39
+127: : Praha hl.n.;11:23, Púchov;15:52
+120: : Púchov;18:08, Praha hl.n.;22:41
+
+123: : Praha hl.n.;7:23, Púchov;11:52
+124: : Púchov;14:08, Praha hl.n.;18:39
+443: : Praha hl.n. ;22:15, Žilina;4:17
+
+220: : Žilina;7:28, Praha hl.n.;12:39
+221: : Praha hl.n.;15:23, Žilina;20:32
+
+442: X: Žilina;1:41, Bohumín;2:58
+442: 25: Žilina;1:41, Praha hl.n.;7:56
+518: X: Bohumín;4:03, Praha hl.n.;7:19
+125: : Praha hl.n.;9:23, Púchov;13:52
+122: : Púchov;16:08, Praha hl.n.;20:39
+
+121: : Praha hl.n.;5:23, Púchov;9:52
+126: : Púchov;12:08, Praha hl.n.;16:39
+523: : Praha hl.n.;19:23, Vsetín;23:08
+
+520: : Vsetín;6:51, Praha hl.n.;10:39
+129: : Praha hl.n.;13:23, Púchov;17:52
+79501: : Púchov;18:00, Žilina;19:00

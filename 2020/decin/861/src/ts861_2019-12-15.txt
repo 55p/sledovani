@@ -1,0 +1,14 @@
+1960: 25: Děčín hl.n.;1:15, Česká Kamenice;1:40
+6651: 25: Česká Kamenice;4:50, Děčín hl.n.;5:19
+1963: X: Rumburk;5:15, Děčín hl.n.;6:19
+6650: : Děčín hl.n.;6:34, Rumburk;7:50
+6655: : Rumburk;8:05, Děčín hl.n.;9:19
+6654: : Děčín hl.n.;10:35, Rumburk;11:50
+6659: : Rumburk;12:05, Děčín hl.n.;13:19
+6658: : Děčín hl.n.;14:35, Rumburk;15:50
+6663: : Rumburk;16:02, Děčín hl.n.;17:19
+6662: X: Děčín hl.n.;17:35, Rumburk;18:50
+6664: 25: Děčín hl.n.;18:35, Rumburk;19:50
+6667: 1,2,3,4,25: Rumburk;20:02, Děčín hl.n.;21:19
+106667pk: 5: Rumburk;20:02, Děčín hl.n.;21:19
+6668: 1,2,3,4,T: Děčín hl.n.;22:35, Rumburk;23:53

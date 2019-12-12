@@ -1,0 +1,13 @@
+601: : Bratislava hl.st.;6:13, Košice;11:53
+610: : Košice;14:07, Bratislava hl.st.;19:47
+615: : Bratislava hl.st.;22:53, Košice;4:44
+
+602: : Košice;6:07, Bratislava hl.st.;11:47
+607: : Bratislava hl.st.;12:13;k;17:53
+
+604: : Košice;8:07, Bratislava hl.st.;13:47
+611: : Bratislava hl.st.;16:13, Košice;21:53
+614: : Košice;23:45, Bratislava hl.st.;5:49
+
+603: : Bratislava hl.st.;8:13, Košice;13:53
+612: : Košice;16:07, Bratislava hl.st.;21:47

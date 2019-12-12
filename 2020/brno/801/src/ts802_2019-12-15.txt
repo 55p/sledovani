@@ -1,0 +1,12 @@
+4040: X1: Brno hl.n.;4:00, Rájec-Jestřebí;4:39
+104041sv: X2345: Skalice nad Svitavou;4:55, Rájec-Jestřebí;5:03
+4041: X: Rájec-Jestřebí;5:05, Brno hl.n.;5:44
+4044: X: Brno hl.n.;6:15, Rájec-Jestřebí;6:54
+4045: X: Rájec-Jestřebí;7:04, Brno hl.n.;7:43
+4052: X: Brno hl.n.;15:14, Rájec-Jestřebí;15:54
+4053: X: Rájec-Jestřebí;16:04, Brno hl.n.;16:43
+4058: X: Brno hl.n.;17:14, Rájec-Jestřebí;17:54
+4059: X: Rájec-Jestřebí;18:04, Brno hl.n.;18:43
+4062: X: Brno hl.n.;20:29, Rájec-Jestřebí;21:11
+104062sv: X1234: Rájec-Jestřebí;21:13, Skalice nad Svitavou;21:22
+4099sv: X5: Rájec-Jestřebí;21:15, Brno-Maloměřice;21:38

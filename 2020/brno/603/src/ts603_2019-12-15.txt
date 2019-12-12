@@ -1,0 +1,33 @@
+870: : Brno hl.n.;8:56, Praha-Smíchov;12:12
+871: : Praha-Smíchov;13:44, Brno hl.n.;17:02
+860: : Brno hl.n.;18:56, Praha-Smíchov;22:12
+
+9907: X: Praha-Radotín;5:32, Praha hl.n.;5:52
+863: : Praha hl.n.;5:57, Brno hl.n.;9:02
+868: : Brno hl.n.;10:56, Praha-Smíchov;14:12
+873: : Praha-Smíchov;15:44, Brno hl.n.;19:02
+
+874|pk Pce-Pha|postrk Pardubice - Praha: X: Brno hl.n.;5:00, Praha-Smíchov;8:13
+874: 25: Česká Třebová;6:14, Praha-Smíchov;8:13
+867: : Praha-Smíchov;9:44, Brno hl.n.;13:02
+864: X1234,6: Brno hl.n.;14:56, Praha-Smíchov;18:12
+864pk: X5,T: Brno hl.n.;14:56, Praha-Smíchov;18:12
+877: : Praha-Smíchov;20:01, Česká Třebová;22:09
+
+861: X: Česká Třebová;4:56, Brno hl.n.;6:13
+872: : Brno hl.n.;6:56, Praha-Smíchov;10:13
+869: : Praha-Smíchov;11:44, Brno hl.n.;15:02
+862: : Brno hl.n.;16:56, Praha hl.n.;20:02
+879: : Praha hl.n.;20:56, Brno hl.n.;23:31
+
+876: : Brno hl.n.;3:18, Praha-Smíchov;6:12
+9915: X: Praha-Radotín;6:32, Praha hl.n.;6:52
+9912: X: Praha hl.n.;6:59, Praha-Radotín;7:16
+9923: X: Praha-Radotín;7:32, Praha hl.n.;7:51
+865: : Praha hl.n.;7:57, Brno hl.n.;11:02
+866: : Brno hl.n.;12:56, Praha-Smíchov;16:30
+875: : Praha-Smíchov;17:44, Brno hl.n.;21:03
+
+
+2:56:4
+3:56:3

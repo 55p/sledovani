@@ -1,1 +1,1 @@
-99998::záloha Česká Třebová;500,1900
+99998::záloha Česká Třebová;5:00;19:00

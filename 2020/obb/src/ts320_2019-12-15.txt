@@ -2,6 +2,6 @@
 102: : Wien Hbf;14:10, Bohumín;17:09
 107: : Bohumín;18:51, Wien Hbf;21:49
 
-106: : Wien Hbf;1:06, Bohumín;9:09
+106: : Wien Hbf;6:06, Bohumín;9:09
 103: : Bohumín;10:51, Wien Hbf;13:49
 100: : Wien Hbf;18:10, Bohumín;21:09

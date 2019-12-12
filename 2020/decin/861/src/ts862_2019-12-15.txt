@@ -1,0 +1,10 @@
+6653: X6: Dolní Poustevna;5:18, Děčín hl.n.;7:19
+6653: T: Rumburk;6:05, Děčín hl.n.;7:19
+6652: : Děčín hl.n.;8:35, Rumburk;9:50
+6657: : Rumburk;10:02, Děčín hl.n.;11:19
+6656: : Děčín hl.n.;12:35, Rumburk;13:50
+6661: : Rumburk;14:02, Děčín hl.n.;15:19
+6660: : Děčín hl.n.;16:35, Rumburk;17:50
+6665: : Rumburk;18:02, Děčín hl.n.;19:19
+6666: : Děčín hl.n.;20:35, Rumburk;21:50
+6684: XT: Rumburk;22:26, Dolní Poustevna;23:06

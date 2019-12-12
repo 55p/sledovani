@@ -1,0 +1,7 @@
+820: X: Hodonín;5:26, Brno hl.n.;6:24
+803: X: Brno hl.n.;6:36, Olomouc hl.n.;8:51
+812: X: Olomouc hl.n.;9:09, Brno hl.n.;11:24
+811: X: Brno hl.n.;14:36, Olomouc hl.n.;16:49
+827: zX: Brno hl.n.;19:36, Hodonín;20:33
+827|s|sólo: X5: Brno hl.n.;19:36, Hodonín;20:33
+100822|s|1x 660 + 1x 660.1: 6: Hodonín;7:26, Brno hl.n.;8:24

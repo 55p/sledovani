@@ -1,0 +1,7 @@
+14163sv: X: Brno-Horní Heršpice;5:37, Brno hl.n.;5:40
+14165sv: 25: Brno-Horní Heršpice;6:36, Brno hl.n.;6:39
+99999|PSM|Pohotovostní souprava motorová: X: Brno hl.n.;6:00;21:00
+99999|PSM|Pohotovostní souprava motorová: 25: Brno hl.n.;7:00;19:00
+14162: 6: Brno hl.n.;19:20, Brno-Horní Heršpice;19:29
+14164: T: Brno hl.n.;19:25, Brno-Horní Heršpice;19:29
+14166: X: Brno hl.n.;21:18, Brno-Horní Heršpice;21:21

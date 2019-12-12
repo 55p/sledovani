@@ -1,0 +1,127 @@
+109196sv: vX: Říčany;0:11, Praha jih;0:37
+309401pksv: X: Praha jih;4:47, Praha hl.n.;4:56
+2509: X: Praha hl.n.;5:05, Benešov u Prahy;6:08
+2512: X: Benešov u Prahy;6:22, Praha hl.n.;7:22
+2514: 7: Benešov u Prahy;6:52, Praha hl.n.;7:52
+102519pk: X: Praha hl.n.;7:35, Benešov u Prahy;8:38
+2521: 7: Praha hl.n.;8:05, Benešov u Prahy;9:08
+2522: X: Benešov u Prahy;8:52, Praha hl.n.;9:52
+2524: 7: Benešov u Prahy;9:22, Praha hl.n.;10:22
+2529: X: Praha hl.n.;10:05, Benešov u Prahy;11:08
+2531: 7: Praha hl.n.;10:35, Benešov u Prahy;11:38
+2534: X7: Benešov u Prahy;11:52, Praha hl.n.;12:52
+2541: X7: Praha hl.n.;13:05, Benešov u Prahy;14:08
+2544: X7: Benešov u Prahy;14:22, Praha hl.n.;15:22
+2551: X7: Praha hl.n.;15:35, Benešov u Prahy;16:38
+102554pk: X: Benešov u Prahy;16:52, Praha hl.n.;17:52
+2554: 7: Benešov u Prahy;16:52, Praha hl.n.;17:52
+2561: X7: Praha hl.n.;18:05, Benešov u Prahy;19:08
+102564pk: X: Benešov u Prahy;19:22, Praha hl.n.;20:22
+2564: 7: Benešov u Prahy;19:22, Praha hl.n.;20:22
+9165: X7: Praha hl.n.;20:35, Strančice;21:10
+9160: X7: Strančice;21:48, Praha hl.n.;22:22
+2575: X: Praha hl.n.;22:35, Strančice;23:10
+2575: 7: Praha hl.n.;22:35, Benešov u Prahy;23:38
+102592sv: X: Strančice;23:17, Praha hl.n.;23:44
+
+2501: vX: Praha hl.n.;0:30, Benešov u Prahy;1:33
+102590sv: X: Benešov u Prahy;4:11, Čerčany;4:19
+2581: X: Čerčany;4:29, Benešov u Prahy;4:38
+2506: X6: Benešov u Prahy;4:52, Praha hl.n.;5:52
+2513: X6: Praha hl.n.;6:05, Benešov u Prahy;7:08
+2516: X6: Benešov u Prahy;7:22, Praha hl.n.;8:22
+2523: 6: Praha hl.n.;8:35, Benešov u Prahy;9:38
+129006sv: X: Praha hl.n.;8:39, Praha jih;8:49
+2526: 6: Benešov u Prahy;9:52, Praha hl.n.;10:52
+2533: 6: Praha hl.n.;11:05, Benešov u Prahy;12:08
+2536: 6: Benešov u Prahy;12:22, Praha hl.n.;13:22
+2543: 6: Praha hl.n.;13:35, Benešov u Prahy;14:38
+129009sv: X: Praha jih;14:31, Praha hl.n.;14:39
+9141: X: Praha hl.n.;14:47, Strančice;15:22
+2546: 6: Benešov u Prahy;14:52, Praha hl.n.;15:52
+9142: X: Strančice;15:38, Praha hl.n.;16:12
+2553: 6: Praha hl.n.;16:05, Benešov u Prahy;17:08
+9149: X: Praha hl.n.;16:47, Strančice;17:22
+2556: 6: Benešov u Prahy;17:22, Praha hl.n.;18:22
+9150: X: Strančice;17:38, Praha hl.n.;18:13
+2563: 6: Praha hl.n.;18:35, Benešov u Prahy;19:38
+9157: X: Praha hl.n.;18:47, Strančice;19:22
+9158: X: Strančice;19:38, Praha hl.n.;20:12
+2566: 6: Benešov u Prahy;19:52, Praha hl.n.;20:52
+129020sv: X: Praha hl.n.;20:27, Praha jih;20:37
+2571: 6: Praha hl.n.;21:05, Benešov u Prahy;22:08
+2574: 6: Benešov u Prahy;22:52, Milovice;0:36
+
+25600: 7: Milovice;0:55, Lysá nad Labem;1:01
+25603: 7: Lysá nad Labem;1:09, Milovice;1:15
+25602: 7: Milovice;1:31, Lysá nad Labem;1:37
+25605: 7: Lysá nad Labem;3:11, Milovice;3:17
+129001sv: X: Praha jih;3:50, Praha hl.n.;3:59
+25604: 7: Milovice;4:00, Lysá nad Labem;4:06
+2505: X: Praha hl.n.;4:05, Benešov u Prahy;5:08
+9101: 7: Lysá nad Labem;4:10, Praha hl.n.;4:45
+2509: 7: Praha hl.n.;5:05, Benešov u Prahy;6:08
+2508: X: Benešov u Prahy;5:22, Praha hl.n.;6:22
+2512: 7: Benešov u Prahy;6:22, Praha hl.n.;7:22
+2515: X: Praha hl.n.;6:35, Benešov u Prahy;7:38
+2519: 7: Praha hl.n.;7:35, Strančice;8:10
+102518pk: X: Benešov u Prahy;7:52, Praha hl.n.;8:52
+2520: 7: Strančice;8:48, Praha hl.n.;9:22
+2525: X: Praha hl.n.;9:05, Benešov u Prahy;10:08
+2527: 7: Praha hl.n.;9:35, Benešov u Prahy;10:38
+2530: 7: Benešov u Prahy;10:52, Praha hl.n.;11:52
+2537: 7: Praha hl.n.;12:05, Benešov u Prahy;13:08
+102538pk: X: Benešov u Prahy;12:52, Praha hl.n.;13:52
+2540: 7: Benešov u Prahy;13:22, Praha hl.n.;14:22
+2545: X: Praha hl.n.;14:05, Benešov u Prahy;15:08
+2547: 7: Praha hl.n.;14:35, Benešov u Prahy;15:38
+102548pk: X: Benešov u Prahy;15:22, Praha hl.n.;16:22
+2550: 7: Benešov u Prahy;15:52, Praha hl.n.;16:52
+2555: X: Praha hl.n.;16:35, Benešov u Prahy;17:38
+2557: 7: Praha hl.n.;17:05, Benešov u Prahy;18:08
+102558pk: X: Benešov u Prahy;17:52, Praha hl.n.;18:52
+2560: 7: Benešov u Prahy;18:22, Praha hl.n.;19:22
+2565: X: Praha hl.n.;19:05, Benešov u Prahy;20:08
+2567: 7: Praha hl.n.;19:35, Benešov u Prahy;20:38
+221810pksv: X5: Benešov u Prahy;20:15, Říčany;20:35
+409192pksv| př PhV-Phj|přípřež Praha-Vršovice - Praha jih: X5: Říčany;20:51, Praha-Vršovice;21:04;21:13, Praha jih;21:19
+2570: 7: Benešov u Prahy;20:52, Praha hl.n.;21:52
+2573: 7: Praha hl.n.;22:05, Benešov u Prahy;23:08
+
+129001sv: 7: Praha jih;3:50, Praha hl.n.;3:59
+405803pksv: 6: Praha jih;4:03, Praha hl.n.;4:12
+2505: 7: Praha hl.n.;4:05, Benešov u Prahy;5:08
+2507: 6: Praha hl.n.;4:35, Benešov u Prahy;5:38
+2510: 25: Benešov u Prahy;5:52, Praha hl.n.;6:52
+2517: 25: Praha hl.n.;7:05, Benešov u Prahy;8:08
+102516pk: X: Benešov u Prahy;7:22, Praha hl.n.;8:22
+2520: 6: Benešov u Prahy;8:22, Praha hl.n.;9:22
+2523: X: Praha hl.n.;8:35, Strančice;9:10
+2522: 7: Benešov u Prahy;8:52, Praha hl.n.;9:52
+2527: 6: Praha hl.n.;9:35, Benešov u Prahy;10:38
+2524: X: Strančice;9:48, Praha hl.n.;10:22
+2529: 7: Praha hl.n.;10:05, Benešov u Prahy;11:08
+2531: X: Praha hl.n.;10:35, Strančice;11:10
+2530: 6: Benešov u Prahy;10:52, Praha hl.n.;11:52
+2532: 7: Benešov u Prahy;11:22, Praha hl.n.;12:22
+2532: X: Strančice;11:48, Praha hl.n.;12:22
+2537: 6: Praha hl.n.;12:05, Benešov u Prahy;13:08
+2539: X7: Praha hl.n.;12:35, Benešov u Prahy;13:38
+2540: 6: Benešov u Prahy;13:22, Praha hl.n.;14:22
+2542: X7: Benešov u Prahy;13:52, Praha hl.n.;14:52
+2547: 6: Praha hl.n.;14:35, Benešov u Prahy;15:38
+102549pk: X: Praha hl.n.;15:05, Benešov u Prahy;16:08
+2549: 7: Praha hl.n.;15:05, Benešov u Prahy;16:08
+2550: 6: Benešov u Prahy;15:52, Praha hl.n.;16:52
+2557: 6: Praha hl.n.;17:05, Benešov u Prahy;18:08
+102559pk: X: Praha hl.n.;17:35, Benešov u Prahy;18:38
+2559: 7: Praha hl.n.;17:35, Benešov u Prahy;18:38
+2560: 6: Benešov u Prahy;18:22, Praha hl.n.;19:22
+2562: X7: Benešov u Prahy;18:52, Praha hl.n.;19:52
+2567: 6: Praha hl.n.;19:35, Benešov u Prahy;20:38
+2569: X7: Praha hl.n.;20:05, Benešov u Prahy;21:08
+2570: 6: Benešov u Prahy;20:52, Praha hl.n.;21:52
+2572: X7: Benešov u Prahy;21:52, Praha hl.n.;22:52
+2573: 6: Praha hl.n.;22:05, Benešov u Prahy;23:08
+129022sv: 7: Praha hl.n.;22:58, Praha jih;23:08
+9171: X: Praha hl.n.;23:35, Říčany;0:03

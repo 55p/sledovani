@@ -1,0 +1,55 @@
+102443sv: X1: Nymburk předj.n.;4:36, Kolín;4:58
+2443: X: Kolín;5:25, Kutná Hora město;5:44
+2450: X: Kutná Hora město;6:17, Kutná Hora hl.n.;6:25
+2415: X: Kutná Hora hl.n.;6:37, Malešov;6:58
+2418: X: Malešov;7:03, Kutná Hora hl.n.;7:25
+2445: X: Kutná Hora hl.n.;7:41, Kutná Hora město;7:48
+2452: X: Kutná Hora město;8:17, Kutná Hora hl.n.;8:25
+2451: X: Kutná Hora hl.n.;8:28, Kutná Hora město;8:35
+2454: X: Kutná Hora město;9:40, Kutná Hora hl.n.;9:48
+2453: X: Kutná Hora hl.n.;9:55, Kutná Hora město;10:02
+2456: X: Kutná Hora město;11:40, Kutná Hora hl.n.;11:48
+2457: X: Kutná Hora hl.n.;11:55, Kutná Hora město;12:02
+2460: X: Kutná Hora město;14:17, Kutná Hora hl.n.;14:25
+2461: X: Kutná Hora hl.n.;15:15, Kutná Hora město;15:22
+2464: X: Kutná Hora město;16:17, Kutná Hora hl.n.;16:25
+2465: X: Kutná Hora hl.n.;16:34, Kutná Hora město;16:41
+2466: X: Kutná Hora město;17:36, Kolín;17:56
+5927: X: Kolín;19:40, Čáslav;20:03
+21843sv: 6: Nymburk předj.n.;19:43, Čáslav;20:41
+15931: : Čáslav;21:13, Třemošnice;21:46
+
+15900: X6: Třemošnice;4:12, Čáslav;4:44
+15903: X6: Čáslav;5:23, Třemošnice;5:59
+15904: : Třemošnice;6:12, Čáslav;6:44
+15909: : Čáslav;7:13, Třemošnice;7:49
+15908: : Třemošnice;8:12, Čáslav;8:44
+15913: : Čáslav;9:13, Třemošnice;9:46
+15910: : Třemošnice;10:12, Čáslav;10:44
+15915: : Čáslav;11:13, Třemošnice;11:46
+15912: : Třemošnice;12:11, Čáslav;12:44
+15917: : Čáslav;13:13, Třemošnice;13:46
+15914: X: Třemošnice;14:02, Čáslav;14:34
+15916: 25: Třemošnice;14:12, Čáslav;14:44
+15921: : Čáslav;15:13, Třemošnice;15:49
+15920: X: Třemošnice;16:02, Čáslav;16:34
+15922: 25: Třemošnice;16:12, Čáslav;16:44
+15925: : Čáslav;17:13, Třemošnice;17:49
+15926: X: Třemošnice;18:02, Čáslav;18:34
+15928: 25: Třemošnice;18:12, Čáslav;18:44
+15929: : Čáslav;19:13, Třemošnice;19:49
+15932: : Třemošnice;20:12, Čáslav;20:44
+5952: : Čáslav;22:06, Kolín;22:29
+5961: : Kolín;23:55, Čáslav;0:18
+
+15901: X: Čáslav;4:23, Třemošnice;4:59
+15902: X: Třemošnice;5:12, Čáslav;5:44
+15907: X: Čáslav;6:23, Třemošnice;6:59
+15906: X: Třemošnice;7:02, Čáslav;7:34
+21840sv: X2: Čáslav;7:42, Nymburk předj.n.;8:34
+21842sv: X2: Nymburk předj.n.;13:11, Čáslav;13:53
+5950: X: Čáslav;20:34, Kolín;20:57
+105951sv: X5: Kolín;21:04, Nymburk předj.n.;21:27
+5900: T: Čáslav;4:57, Kolín;5:20
+5951: T: Kolín;5:33, Čáslav;5:56
+21842sv: T: Čáslav;6:06, Nymburk předj.n.;7:07

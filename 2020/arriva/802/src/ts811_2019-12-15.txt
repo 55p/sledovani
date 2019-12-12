@@ -1,0 +1,28 @@
+1145: : Tanvald;7:59, Praha hl.n.;10:39
+1144: 25: Praha hl.n.;11:20, Tanvald;13:58
+1144: X: Praha hl.n.;11:20, Železný Brod;13:32
+26210: X: Železný Brod;14:14, Tanvald;14:41
+1153: : Tanvald;15:59, Praha hl.n.;18:39
+1152: : Praha hl.n.;19:20, Turnov;21:10
+
+1147: : Turnov;10:44, Praha hl.n.;12:39
+1146: : Praha hl.n.;13:20, Tanvald;15:58
+1155: : Tanvald;17:59, Praha hl.n.;20:39
+1154: XT: Praha hl.n.;21:20, Mladá Boleslav hl.n.;22:31
+
+1141: X6: Mladá Boleslav hl.n.;5:22, Praha hl.n.;6:39
+1140: : Praha hl.n.;7:20, Tanvald;9:58
+1149: 25: Tanvald;11:59, Praha hl.n.;14:39
+1148: T: Praha hl.n.;15:20, Tanvald;17:58
+1148: 6: Praha hl.n.;15:20, Turnov;17:10
+1151: X: Tanvald;13:44, Praha hl.n.;16:39
+1150: X: Praha hl.n.;17:20, Tanvald;19:58
+
+1143: X6: Tanvald;5:53, Praha hl.n.;8:39
+1143: T: Turnov;6:44, Praha hl.n.;8:39
+1142: X: Praha hl.n.;9:20, Turnov;11:10
+1149: X: Turnov;12:44, Praha hl.n.;14:39
+1148: X: Praha hl.n.;15:20, Tanvald;17:58
+1142: 25: Praha hl.n.;9:20, Tanvald;11:58
+1151: 25: Tanvald;13:44, Praha hl.n.;16:39
+1150: 25: Praha hl.n.;17:20, Tanvald;19:58

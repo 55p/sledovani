@@ -1,0 +1,22 @@
+346: : Zvolen;5:02, Žilina;7:05
+341: : Žilina;8:55, Banská Bystrica;10:26
+342: : Banská Bystrica;13:34, Žilina;15:05
+345: : Žilina;16:55, Zvolen;18:57
+
+7362: X: Zvolen;7:32, Banská Bystrica;8:03
+7380: 25: Zvolen;8:00, Banská Bystrica;8:30
+344: : Banská Bystrica;9:34, Žilina;11:05
+951: : Žilina;12:55, Banská Bystrica;14:26
+823: : Banská Bystrica;15:35, Margecany;19:16
+
+820: : Margecany;6:48, Banská Bystrica;10:26
+7319: : Banská Bystrica;13:29, Zvolen;13:59
+952: : Zvolen;15:02, Žilina;17:05
+347: : Žilina;18:55, Zvolen;20:55
+
+7300: X: Zvolen;4:35, Banská Bystrica;5:13
+821: X: Banská Bystrica;5:36, Margecany;9:15
+7306: 25: Zvolen;6:58, Banská Bystrica;7:30
+825: 25: Banská Bystrica;7:36, Margecany;11:19
+822: : Margecany;14:48, Banská Bystrica;18:14
+7329: : Banská Bystrica;18:16, Zvolen;18:51

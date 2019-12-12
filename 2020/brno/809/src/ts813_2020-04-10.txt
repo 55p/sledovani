@@ -1,0 +1,18 @@
+4295sv: 6: Brno-Horní Heršpice;6:30, Břeclav;7:11
+4253: : Břeclav;7:35, Hodonín;7:55
+4254: : Hodonín;8:06, Břeclav;8:25
+4255: : Břeclav;9:35, Hodonín;9:55
+4256: : Hodonín;10:06, Břeclav;10:25
+4257: : Břeclav;11:35, Hodonín;11:55
+4258: : Hodonín;12:06, Břeclav;12:25
+4259: 25: Břeclav;13:35, Hodonín;13:55
+4260: 25: Hodonín;14:06, Břeclav;14:25
+4261: 25: Břeclav;15:35, Hodonín;15:55
+4262: 25: Hodonín;16:06, Břeclav;16:25
+4263: : Břeclav;17:35, Hodonín;17:55
+4264: : Hodonín;18:06, Břeclav;18:25
+4265: : Břeclav;19:35, Hodonín;19:55
+4266: : Hodonín;20:06, Břeclav;20:25
+4294sv: X5: Břeclav;20:37, Brno-Horní Heršpice;21:25
+4554| CL|jede 10.IV. - 27.IX.: 6: Břeclav;20:40, Mikulov na Moravě;21:02
+4555| CL|jede 10.IV. - 27.IX.: 6: Mikulov na Moravě;21:50, Břeclav;22:10

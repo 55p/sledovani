@@ -1,0 +1,21 @@
+4191sv: X1: Brno-Horní Heršpice;2:50, Nesovice;3:36
+4140: X: Nesovice;3:52, Brno hl.n.;4:50
+4103: X: Brno hl.n.;5:12, Staré Město u Uherského Hradiště;7:38
+4105: T: Kyjov;6:36, Veselí nad Moravou;7:02
+4103: T: Veselí nad Moravou;7:03, Staré Město u Uherského Hradiště;7:38
+1764: XT: Staré Město u Uherského Hradiště;8:33, Brno hl.n.;10:33
+4050: X: Brno hl.n.;14:44, Rájec-Jestřebí;15:18
+4051: X: Rájec-Jestřebí;15:32, Brno hl.n.;16:11
+4056: X: Brno hl.n.;16:44, Rájec-Jestřebí;17:18
+4057: X: Rájec-Jestřebí;17:33, Brno hl.n.;18:11
+4155: X: Brno hl.n.;18:48, Nesovice;19:43
+4158: X5: Nesovice;20:52, Brno hl.n.;21:48
+4127: X5: Brno hl.n.;22:25, Veselí nad Moravou;0:12
+1760: 6: Veselí nad Moravou;6:01, Brno hl.n.;7:33
+4111: 6: Brno hl.n.;8:12, Uherské Hradiště;10:27
+4114: 6: Uherské Hradiště;11:30, Brno hl.n.;13:48
+4119: 6: Brno hl.n.;14:14, Uherské Hradiště;16:31
+4120: 6: Uherské Hradiště;17:30, Brno hl.n.;19:48
+4125: 6: Brno hl.n.;20:15, Veselí nad Moravou;22:04
+4184: 6: Veselí nad Moravou;22:57, Kyjov;23:22
+4127: 6: Brno hl.n.;22:25, Veselí nad Moravou;0:12

@@ -1,0 +1,84 @@
+6800: X: Děčín hl.n.;4:27, Kadaň-Prunéřov;6:36
+6807: X: Kadaň-Prunéřov;7:23, Děčín hl.n.;9:24
+6849: 25: Teplice v Čechách;0:30, Ústí nad Labem hl.n.;0:49
+6800: 25: Ústí nad Labem hl.n.;4:58, Chomutov;6:26
+6807: 25: Chomutov;7:33, Děčín hl.n.;9:24
+6810: : Děčín hl.n.;9:30, Kadaň-Prunéřov;11:36
+6817: : Kadaň-Prunéřov;12:23, Děčín hl.n.;14:24
+6820: X: Děčín hl.n.;14:30, Kadaň-Prunéřov;16:36
+6827: X: Kadaň-Prunéřov;17:23, Děčín hl.n.;19:24
+6820: 25: Děčín hl.n.;14:30, Chomutov;16:26
+6827: 25: Chomutov;17:33, Děčín hl.n.;19:24
+6830: : Děčín hl.n.;19:30, Kadaň-Prunéřov;21:36
+6837: : Kadaň-Prunéřov;22:25, Most;22:54
+
+6843: X: Most;5:05, Teplice v Čechách;5:40
+6844: X: Teplice v Čechách;5:58, Most;6:33
+6805: X: Most;6:53, Děčín hl.n.;8:24
+6808: X: Děčín hl.n.;8:30, Kadaň-Prunéřov;10:36
+6815: X: Kadaň-Prunéřov;11:23, Děčín hl.n.;13:24
+6818: X: Děčín hl.n.;13:30, Kadaň-Prunéřov;15:36
+6825: X: Kadaň-Prunéřov;16:23, Děčín hl.n.;18:24
+6828: X: Děčín hl.n.;18:30, Kadaň-Prunéřov;20:36
+6835: X: Kadaň-Prunéřov;21:23, Ústí nad Labem hl.n.;22:54
+6848: X: Ústí nad Labem hl.n.;23:53, Teplice v Čechách;0:12
+6842: 25: Chomutov;5:31, Kadaň-Prunéřov;5:42
+6805: 25: Kadaň-Prunéřov;6:23, Děčín hl.n.;8:24
+6808: 25: Děčín hl.n.;8:30, Chomutov;10:26
+6815: 25: Chomutov;11:33, Děčín hl.n.;13:24
+
+6841: X: Teplice v Čechách;4:32, Děčín hl.n.;5:19
+6802: : Děčín hl.n.;5:30, Kadaň-Prunéřov;7:36
+6809: : Kadaň-Prunéřov;8:23, Děčín hl.n.;10:24
+6814: X: Děčín hl.n.;11:30, Kadaň-Prunéřov;13:36
+6821: X: Kadaň-Prunéřov;14:23, Děčín hl.n.;16:24
+6824: X: Děčín hl.n.;16:30, Kadaň-Prunéřov;18:36
+6831: X: Kadaň-Prunéřov;19:23, Děčín hl.n.;21:24
+6812: 25: Děčín hl.n.;10:30, Chomutov;12:21
+6819: 25: Chomutov;13:33, Děčín hl.n.;15:24
+6822: 25: Děčín hl.n.;15:30, Kadaň-Prunéřov;17:36
+6829: 25: Kadaň-Prunéřov;18:23, Děčín hl.n.;20:26
+6832: 25: Děčín hl.n.;20:40, Chomutov;22:38
+
+6812: X: Děčín hl.n.;10:30, Kadaň-Prunéřov;12:31
+6819: X: Kadaň-Prunéřov;13:23, Děčín hl.n.;15:24
+6822: X: Děčín hl.n.;15:30, Kadaň-Prunéřov;17:36
+6829: X: Kadaň-Prunéřov;18:23, Děčín hl.n.;20:26
+6832: X: Děčín hl.n.;20:40, Kadaň-Prunéřov;22:48
+6818: 25: Děčín hl.n.;13:30, Kadaň-Prunéřov;15:36
+6825: 25: Kadaň-Prunéřov;16:23, Děčín hl.n.;18:24
+6828: 25: Děčín hl.n.;18:30, Chomutov;20:26
+6835: 25: Chomutov;21:33, Ústí nad Labem hl.n.;22:54
+6848: T: Ústí nad Labem hl.n.;23:53, Teplice v Čechách;0:12
+
+6803: X: Kadaň-Prunéřov;5:23, Děčín hl.n.;7:24
+6803: 25: Chomutov;5:33, Děčín hl.n.;7:24
+6806: : Děčín hl.n.;7:30, Kadaň-Prunéřov;9:36
+6813: : Kadaň-Prunéřov;10:23, Děčín hl.n.;12:24
+6816: X: Děčín hl.n.;12:30, Kadaň-Prunéřov;14:31
+6823: X: Kadaň-Prunéřov;15:23, Děčín hl.n.;17:24
+6816: 25: Děčín hl.n.;12:30, Chomutov;14:21
+6823: 25: Chomutov;15:33, Děčín hl.n.;17:24
+6826: : Děčín hl.n.;17:30, Kadaň-Prunéřov;19:36
+6833: : Kadaň-Prunéřov;20:23, Ústí nad Labem hl.n.;21:57
+6846: : Ústí nad Labem hl.n.;22:20, Chomutov;23:38
+
+6801: X: Chomutov;4:29, Děčín hl.n.;6:24
+6804: X: Děčín hl.n.;6:30, Kadaň-Prunéřov;8:36
+6811: X: Kadaň-Prunéřov;9:23, Děčín hl.n.;11:24
+6801: 25: Most;4:47, Děčín hl.n.;6:24
+6804: 25: Děčín hl.n.;6:30, Chomutov;8:26
+6811: 25: Chomutov;9:33, Děčín hl.n.;11:24
+6814: 25: Děčín hl.n.;11:30, Kadaň-Prunéřov;13:36
+6821: 25: Kadaň-Prunéřov;14:23, Děčín hl.n.;16:24
+6824: 25: Děčín hl.n.;16:30, Chomutov;18:26
+6831: 25: Chomutov;19:33, Děčín hl.n.;21:24
+
+
+1:56:6
+2:7:1
+3:67:5
+4:6:1
+4:7:3
+5:56:2
+6:67:4

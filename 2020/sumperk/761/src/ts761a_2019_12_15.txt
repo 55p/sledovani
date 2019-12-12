@@ -1,0 +1,7 @@
+70361:X6: Šumperk;6:54, Zábřeh na Moravě;7:06
+13053:T: Šumperk;6:11, Zábřeh na Moravě;6:30
+1401:: Zábřeh na Moravě;7:31, Jeseník;8:58
+1408:: Jeseník;11:01, Zábřeh na Moravě;12:25
+1407:: Zábřeh na Moravě;13:31, Jeseník;14:58
+1402:: Jeseník;17:01, Zábřeh na Moravě;18:25
+70360:: Zábřeh na Moravě;18:50, Jeseník;19:10

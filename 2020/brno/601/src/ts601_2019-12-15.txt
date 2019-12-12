@@ -1,0 +1,40 @@
+809: X: Brno hl.n.;12:36, Olomouc hl.n.;14:49
+806: X: Olomouc hl.n.;15:09, Brno hl.n.;17:24
+825: X: Brno hl.n.;17:36, Hodonín;18:33
+822|pk Bv-Br|postrk Břeclav - Brno: 6: Hodonín;7:26, Brno hl.n.;8:24
+805: 25: Brno hl.n.;8:36, Olomouc hl.n.;10:49
+810: 25: Olomouc hl.n.;11:09, Brno hl.n.;13:24
+811: 25: Brno hl.n.;14:36, Olomouc hl.n.;16:49
+804: 25: Olomouc hl.n.;17:09, Brno hl.n.;19:24
+827|pk Bv-H|postrk Břeclav - Hodonín: T: Brno hl.n.;19:36, Hodonín;20:33
+
+828: X: Hodonín;4:10, Břeclav;4:25
+801: X: Břeclav;5:30, Olomouc hl.n.;6:51
+814: X: Olomouc hl.n.;7:09, Brno hl.n.;9:24
+807: X: Brno hl.n.;10:36, Olomouc hl.n.;12:49
+808: X: Olomouc hl.n.;13:09, Brno hl.n.;15:24
+823: X: Brno hl.n.;15:36, Hodonín;16:33
+826: X: Hodonín;17:26, Brno hl.n.;18:24
+803: 25: Brno hl.n.;6:36, Olomouc hl.n.;8:51
+812: 25: Olomouc hl.n.;9:09, Brno hl.n.;11:24
+809: 25: Brno hl.n.;12:36, Olomouc hl.n.;14:49
+806: 25: Olomouc hl.n.;15:09, Brno hl.n.;17:24
+815: : Brno hl.n.;18:36, Olomouc hl.n.;20:49
+800: XT: Olomouc hl.n.;21:09, Břeclav;22:27
+
+801: 6: Břeclav;5:30, Olomouc hl.n.;6:51
+814: 25: Olomouc hl.n.;7:09, Brno hl.n.;9:24
+807: 25: Brno hl.n.;10:36, Olomouc hl.n.;12:49
+808: 25: Olomouc hl.n.;13:09, Brno hl.n.;15:24
+829: X: Břeclav;6:10, Hodonín;6:24
+822: X: Hodonín;7:26, Brno hl.n.;8:24
+805: X: Brno hl.n.;8:36, Olomouc hl.n.;10:49
+810: X: Olomouc hl.n.;11:09, Brno hl.n.;13:24
+821: X: Brno hl.n.;13:36, Hodonín;14:33
+824: X: Hodonín;15:26, Brno hl.n.;16:24
+813: : Brno hl.n.;16:36, Olomouc hl.n.;18:49
+802: : Olomouc hl.n.;19:09, Brno hl.n.;21:24
+
+
+3:56:2
+1:56:1

@@ -1,0 +1,35 @@
+8254: 6,2412,1004,0105,0805,2810,1711,-1104,-0205,-0905: Střezimíř;4:40, Benešov u Prahy;5:19
+8255: 25: Benešov u Prahy;6:11, Tábor;7:17
+8264: 25: Tábor;8:05, Benešov u Prahy;9:08
+8262: X: Tábor;7:05, Benešov u Prahy;8:08
+8263: : Benešov u Prahy;10:47, Tábor;11:53
+8270: : Tábor;12:05, Benešov u Prahy;13:09
+8267: : Benešov u Prahy;14:15, Tábor;15:24
+8276: : Tábor;16:05, Benešov u Prahy;17:09
+8273: : Benešov u Prahy;18:28, Tábor;19:42
+8282: -2412: Tábor;20:05, Benešov u Prahy;21:09
+8277: X,-3112: Benešov u Prahy;22:21, Střezimíř;23:02
+
+8291sv: X1,-2412,-2512,-2612,-2712,-0101,-0201,-1004,-1104,-1204,-1304,-1404,-0105,-0805,-0707,-2909,-2810,-2910,-1711,-1811: Benešov u Prahy;3:00, Heřmaničky;3:21
+8250: X2345,-2412,-2512,-2612,-2712,-0101,-0201,-1004,-1104,-1204,-1304,-1404,-0105,-0805,-0707,-2909,-2810,-2910,-1711,-1811: Střezimíř;3:11, Benešov u Prahy;3:50
+8250: X1,2412,2512,2612,2712,0101,0201,1004,1104,1204,1304,1404,0105,0805,0707,2909,2810,2910,1711,1811: Heřmaničky;3:23, Benešov u Prahy;3:50
+8251: X: Benešov u Prahy;3:57, Tábor;5:00
+8256: X: Tábor;5:31, Chotoviny;5:40
+8253: X: Chotoviny;5:48, Tábor;5:56
+8260: X: Tábor;6:05, Benešov u Prahy;7:45
+8261: X: Benešov u Prahy;8:15, Tábor;9:19
+8266: X: Tábor;9:42, Benešov u Prahy;10:44
+8258: 25: Tábor;6:05, Benešov u Prahy;7:07
+8259: 25: Benešov u Prahy;7:15, Tábor;8:19
+8268: 25: Tábor;10:05, Benešov u Prahy;11:08
+8265: : Benešov u Prahy;12:15, Tábor;13:19
+8272: : Tábor;14:05, Benešov u Prahy;15:09
+8269: : Benešov u Prahy;16:15, Tábor;17:19
+8278: 25: Tábor;18:05, Benešov u Prahy;19:08
+8280: X: Tábor;18:05, Benešov u Prahy;19:17
+8275: -2412: Benešov u Prahy;20:15, Tábor;21:19
+
+
+1:5:1
+1:6:1
+2:5,6:2

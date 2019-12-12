@@ -1,0 +1,27 @@
+8900: 6: Horažďovice předměstí;3:41, Plzeň-Jižní Předměstí;4:54
+108902pk: X: Horažďovice předměstí;4:45, Plzeň hl.n.;5:47
+108901pk: 6: Plzeň-Jižní Předměstí;6:03, Horažďovice předměstí;7:17
+8908: 25: Horažďovice předměstí;8:45, Plzeň-Jižní Předměstí;9:54
+108907pk: 25: Plzeň-Jižní Předměstí;10:03, Horažďovice předměstí;11:14
+8912: 25: Horažďovice předměstí;12:45, Plzeň-Jižní Předměstí;13:54
+8912: X: Plzeň hl.n.;13:51, Plzeň-Jižní Předměstí;13:54
+108913pk: : Plzeň-Jižní Předměstí;14:03, Horažďovice předměstí;15:14
+8916: : Horažďovice předměstí;16:45, Plzeň-Jižní Předměstí;17:54
+108919pk: : Plzeň-Jižní Předměstí;18:03, Horažďovice předměstí;19:14
+
+108900pk: 6: Horažďovice předměstí;3:41, Plzeň-Jižní Předměstí;4:54
+8902: X: Horažďovice předměstí;4:45, Plzeň-Jižní Předměstí;5:54
+8901: X6: Plzeň-Jižní Předměstí;6:03, Horažďovice předměstí;7:17
+1698: X: Horažďovice předměstí;8:07, Plzeň hl.n.;9:00
+208907sv: X: Plzeň hl.n.;9:45, Plzeň-Jižní Předměstí;9:50
+108908pk: 25: Horažďovice předměstí;8:45, Plzeň-Jižní Předměstí;9:54
+8907: : Plzeň-Jižní Předměstí;10:03, Horažďovice předměstí;11:14
+108912| pk Pzh-PzJ|postrk Plzeň hl.n. - Plzeň-Jižní Předměstí: X: Horažďovice předměstí;12:45, Plzeň-Jižní Předměstí;13:54
+108912pk: 25: Horažďovice předměstí;12:45, Plzeň-Jižní Předměstí;13:54
+8913: : Plzeň-Jižní Předměstí;14:03, Horažďovice předměstí;15:14
+108916pk: : Horažďovice předměstí;16:45, Plzeň-Jižní Předměstí;17:54
+8919: : Plzeň-Jižní Předměstí;18:03, Horažďovice předměstí;19:14
+
+
+1:56:1
+2:56:2

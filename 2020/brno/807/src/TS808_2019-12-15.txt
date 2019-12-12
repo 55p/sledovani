@@ -1,0 +1,77 @@
+4822| přední|přední část: X: Brno hl.n.;14:44, Náměšť nad Oslavou;15:42
+4839: X: Náměšť nad Oslavou;17:09, Brno hl.n.;18:09
+4832: X: Brno hl.n.;18:43, Třebíč;20:16
+4801: T: Náměšť nad Oslavou;4:17, Brno hl.n.;5:12
+4808: 25: Brno hl.n.;8:44, Náměšť nad Oslavou;9:42
+4861: 25: Jihlava;12:45, Náměšť nad Oslavou;14:07
+4833: 25: Náměšť nad Oslavou;14:13, Brno hl.n.;15:09
+4824: 25: Brno hl.n.;15:46, Rapotice;16:29
+4839: 25: Rapotice;17:25, Brno hl.n.;18:09
+4832| přední|přední část: X: Brno hl.n.;18:43, Třebíč;20:16
+4889: X: Jihlava;22:37, Třebíč;23:27
+
+4801: X: Třebíč;3:55, Brno hl.n.;5:12
+4802: X: Brno hl.n.;5:44, Náměšť nad Oslavou;6:45
+4815: X: Kralice nad Oslavou;6:55, Brno hl.n.;7:40
+4806: X: Brno hl.n.;7:46, Rapotice;8:29
+4821: X: Rapotice;9:27, Brno hl.n.;10:09
+4812: X: Brno hl.n.;10:44, Náměšť nad Oslavou;11:42
+4805: 25: Třebíč;4:50, Brno hl.n.;6:06
+4804: 25: Brno hl.n.;6:44, Náměšť nad Oslavou;7:42
+4866: 25: Náměšť nad Oslavou;7:51, Jihlava;9:11
+4859: 25: Jihlava;10:45, Náměšť nad Oslavou;12:07
+4827: : Náměšť nad Oslavou;12:13, Brno hl.n.;13:09
+104822| zadní|zadní část: X: Brno hl.n.;14:44, Náměšť nad Oslavou;15:42
+4837: X: Náměšť nad Oslavou;16:13, Brno hl.n.;17:09
+104830| zadní|zadní část: X: Brno hl.n.;17:46, Rapotice;18:29
+4843: X: Rapotice;19:25, Brno hl.n.;20:09
+4836: X: Brno hl.n.;20:44, Třebíč;22:05
+4818: 25: Brno hl.n.;13:46, Rapotice;14:29
+4835: 25: Rapotice;15:25, Brno hl.n.;16:09
+4828: 25: Brno hl.n.;16:44, Jihlava;19:11
+4885: 25: Jihlava;20:45, Třebíč;21:42
+4887: : Třebíč;22:25, Náměšť nad Oslavou;22:46
+
+4805: X: Náměšť nad Oslavou;5:13, Brno hl.n.;6:06
+4804: X: Brno hl.n.;6:44, Náměšť nad Oslavou;7:42
+4850: 25: Třebíč;4:12, Jihlava;5:05
+4855: 25: Jihlava;6:45, Náměšť nad Oslavou;8:07
+4819: : Náměšť nad Oslavou;8:13, Brno hl.n.;9:09
+4810: : Brno hl.n.;9:46, Rapotice;10:29
+4825: : Rapotice;11:27, Brno hl.n.;12:09
+4816: : Brno hl.n.;12:44, Náměšť nad Oslavou;13:42
+4833: X: Náměšť nad Oslavou;14:13, Brno hl.n.;15:09
+4830| přední|přední část: X: Brno hl.n.;17:46, Náměšť nad Oslavou;18:42
+4847: : Náměšť nad Oslavou;21:11, Brno hl.n.;22:09
+4872: 25: Náměšť nad Oslavou;13:51, Jihlava;15:11
+4873: 25: Jihlava;16:45, Náměšť nad Oslavou;18:07
+4841: 25: Náměšť nad Oslavou;18:13, Brno hl.n.;19:09
+4834: 6: Brno hl.n.;19:46, Zastávka u Brna;20:17
+4834: T: Brno hl.n.;19:46, Rapotice;20:29
+4847: XT: Náměšť nad Oslavou;21:11, Brno hl.n.;22:09
+4840: zX: Brno hl.n.;22:44, Náměšť nad Oslavou;23:36
+4840: X5: Brno hl.n.;22:44, Třebíč;23:57
+
+4803: X: Náměšť nad Oslavou;4:47, Brno hl.n.;5:37
+4802: X: Brno hl.n.;5:44, Náměšť nad Oslavou;6:45
+4817: X: Náměšť nad Oslavou;7:13, Brno hl.n.;8:09
+4808: X: Brno hl.n.;8:44, Náměšť nad Oslavou;9:42
+4823: X: Náměšť nad Oslavou;10:13, Brno hl.n.;11:09
+4814: X: Brno hl.n.;11:46, Rapotice;12:29
+4829: X: Rapotice;13:27, Brno hl.n.;14:09
+24854: X: Brno hl.n.;14:16, Zastávka u Brna;14:53
+24855: X: Zastávka u Brna;15:13, Brno hl.n.;15:39
+24858: X: Brno hl.n.;16:16, Zastávka u Brna;16:53
+24859: X: Zastávka u Brna;17:13, Brno hl.n.;17:39
+104832| zadní| zadní část: X: Brno hl.n.;18:43, Zastávka u Brna;19:11
+24893sv: X: Zastávka u Brna;19:22, Brno-Horní Heršpice;19:39
+4801: 6: Náměšť nad Oslavou;4:17, Brno hl.n.;5:12
+4802: 6: Brno hl.n.;5:44, Rapotice;6:27
+4817: 6: Rapotice;7:25, Brno hl.n.;8:09
+4817: T: Zastávka u Brna;7:36, Brno hl.n.;8:09
+
+
+2: 5: 4
+3: 5: 3
+2: 6: 1
+4: 6: 3

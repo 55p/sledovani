@@ -1,0 +1,102 @@
+17541: X: Domažlice;4:20, Klatovy;5:13
+17542: X: Klatovy;5:18, Domažlice;6:10
+17547: X: Domažlice;6:15, Klatovy;7:09
+17552: X: Klatovy;14:33, Domažlice;15:25
+17557: X: Domažlice;15:29, Klatovy;16:22
+17558: X: Klatovy;16:49, Domažlice;17:48
+7214: X: Domažlice;18:15, Planá u Mariánských Lázní;20:49
+7215: X: Planá u Mariánských Lázní;21:08, Bělá nad Radbuzou;22:30
+17543: 6: Domažlice;5:34, Klatovy;6:25
+17546: 6: Klatovy;6:46, Domažlice;7:38
+17549: 6: Domažlice;8:03, Klatovy;8:57
+17548: 6: Klatovy;9:34, Domažlice;10:26
+17553: 6: Domažlice;11:30, Klatovy;12:21
+17554: 6: Klatovy;15:34, Domažlice;16:26
+17561: 6: Domažlice;17:30, Klatovy;18:21
+17562: 6: Klatovy;19:01, Domažlice;19:53
+17565: 6: Domažlice;20:02, Janovice nad Úhlavou;20:44
+17521: T: Klatovy;19:33, Horažďovice předměstí;20:49
+17538: T: Horažďovice předměstí;21:16, Sušice;21:39
+
+7221: X: Bělá nad Radbuzou;4:36, Domažlice;5:27
+7204: X: Domažlice;6:13, Planá u Mariánských Lázní;8:49
+7257: X: Planá u Mariánských Lázní;9:08, Tachov;9:26
+7258: X: Tachov;13:32, Planá u Mariánských Lázní;13:49
+7209: X: Planá u Mariánských Lázní;14:08, Bělá nad Radbuzou;15:41
+7204: 25: Bělá nad Radbuzou;7:20, Planá u Mariánských Lázní;8:49
+7203: 25: Planá u Mariánských Lázní;9:08, Domažlice;11:52
+7222: 25: Domažlice;12:07, Bělá nad Radbuzou;12:58
+7210: 25: Bělá nad Radbuzou;13:20, Planá u Mariánských Lázní;14:49
+7211: 25: Planá u Mariánských Lázní;15:08, Bělá nad Radbuzou;16:28
+
+7291sv: X: Bělá nad Radbuzou;5:33, Horšovský Týn;6:04
+17421: X: Horšovský Týn;6:44, Staňkov;7:00
+17420: X: Staňkov;7:10, Horšovský Týn;7:26
+7290sv: X: Horšovský Týn;7:28, Bělá nad Radbuzou;7:59
+7203: X: Bělá nad Radbuzou;11:01, Domažlice;11:52
+7210: X: Domažlice;12:15, Planá u Mariánských Lázní;14:49
+7211: X: Planá u Mariánských Lázní;15:08, Domažlice;17:47
+17563: X: Domažlice;18:08, Klatovy;19:03
+17521: X: Klatovy;19:33, Horažďovice předměstí;20:49
+17538: X: Horažďovice předměstí;21:16, Sušice;21:39
+107235pk: T: Bělá nad Radbuzou;19:01, Poběžovice;19:20
+17449: T: Poběžovice;19:35, Holýšov;20:13
+17448: T: Holýšov;21:07, Poběžovice;21:45
+
+17531: X: Sušice;4:09, Horažďovice předměstí;4:32
+17502: X: Horažďovice předměstí;5:05, Klatovy;6:23
+17548: X: Klatovy;9:34, Domažlice;10:26
+17555: X: Domažlice;14:15, Klatovy;15:11
+107546pk: X: Klatovy;15:35, Janovice n. Ú.;15:43
+17556: X: Janovice nad Úhlavou;15:48, Domažlice;16:33
+17559: X: Domažlice;16:38, Klatovy;17:28
+17560: X: Klatovy;18:46, Domažlice;19:38
+17565: X: Domažlice;20:02, Janovice nad Úhlavou;20:44
+17564: X: Janovice nad Úhlavou;20:48, Domažlice;21:31
+7246: X: Domažlice;22:35, Poběžovice;23:06
+17502: 25: Sušice;5:29, Klatovy;6:23
+17521: 6: Klatovy;19:33, Horažďovice předměstí;20:49
+17538: 6: Horažďovice předměstí;21:16, Sušice;21:39
+17546: T: Klatovy;6:46, Domažlice;7:38
+17549: T: Domažlice;8:03, Klatovy;8:57
+17548: T: Klatovy;9:34, Domažlice;10:26
+17553: T: Domažlice;11:30, Klatovy;12:21
+17554: T: Klatovy;15:34, Domažlice;16:26
+17561: T: Domažlice;17:30, Klatovy;18:21
+17562: T: Klatovy;19:01, Domažlice;19:53
+17564: T: Janovice nad Úhlavou;20:48, Domažlice;21:31
+
+17401: X: Poběžovice;5:10, Staňkov;5:41
+17400: X: Staňkov;6:00, Poběžovice;6:38
+17403: X: Poběžovice;6:55, Staňkov;7:50
+17402: X: Staňkov;7:57, Poběžovice;8:44
+17443: X: Poběžovice;9:35, Holýšov;10:13
+17442: X: Holýšov;11:46, Poběžovice;12:24
+17405: X: Poběžovice;13:00, Staňkov;13:39
+17404: X: Staňkov;14:19, Poběžovice;14:50
+17407: X: Poběžovice;15:00, Staňkov;15:39
+17406: X: Staňkov;16:19, Poběžovice;16:50
+17409: X: Poběžovice;17:23, Staňkov;17:54
+17408: X: Staňkov;18:19, Poběžovice;18:50
+17411: X: Poběžovice;19:19, Staňkov;19:50
+17410: X: Staňkov;20:19, Poběžovice;20:50
+7245: X: Poběžovice;20:56, Domažlice;21:27
+7221: 6: Poběžovice;4:56, Domažlice;5:27
+7240: 6: Domažlice;6:13, Poběžovice;6:45
+17441: 25: Poběžovice;7:35, Holýšov;8:13
+17440: 25: Holýšov;9:46, Poběžovice;10:24
+17445: 25: Poběžovice;11:35, Holýšov;12:13
+17444: 25: Holýšov;13:46, Poběžovice;14:24
+17447: 25: Poběžovice;15:35, Holýšov;16:13
+17446: 25: Holýšov;17:46, Poběžovice;18:24
+17449: 6: Poběžovice;19:35, Holýšov;20:13
+17448: 6: Holýšov;21:07, Poběžovice;21:45
+
+
+1:6:1
+1:7:4
+3:6:2
+3:7:5
+4:6:4
+5:6:5
+5:7:2

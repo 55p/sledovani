@@ -1,0 +1,9 @@
+6620: X: Česká Lípa hl.n.;3:32, Děčín hl.n.;4:11
+6603: : Děčín hl.n.;4:26, Liberec;6:25
+6602: : Liberec;7:02, Děčín hl.n.;9:12
+6609: : Děčín hl.n.;10:45, Liberec;12:54
+6608: : Liberec;13:01, Děčín hl.n.;15:12
+6615: : Děčín hl.n.;16:45, Liberec;18:54
+6614: : Liberec;19:01, Děčín hl.n.;21:14
+6627: : Děčín hl.n.;22:40, Česká Lípa hl.n.;23:20
+6628: z25: Česká Lípa hl.n.;23:32, Děčín hl.n.;0:11

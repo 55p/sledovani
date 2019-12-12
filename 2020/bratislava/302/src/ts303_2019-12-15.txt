@@ -1,0 +1,7 @@
+600: : Košice;4:07, Bratislava hl.st.;9:47
+607: : Bratislava hl.st.;12:13, Košice;17:53
+100442: : Košice;22:07, Žilina;1:28
+
+100443: : Žilina;4:43, Košice;8:23
+606: : Košice;10:07, Bratislava hl.st.;15:47
+613: : Bratislava hl.st.;18:13, Košice;23:53

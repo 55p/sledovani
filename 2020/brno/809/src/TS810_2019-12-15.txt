@@ -1,0 +1,39 @@
+4188: X2345: Nemotice;0:25, Nesovice;0:33
+4142: X: Nesovice;4:22, Brno hl.n.;5:20
+1767: X1234: Brno hl.n.;13:28, Staré Město u Uherského Hradiště;15:25
+1772: X1234: Staré Město u Uherského Hradiště;16:33, Brno hl.n.;18:33
+1769: X5: Brno hl.n.;14:11, Vlárský průsmyk;17:03
+21990sv: X5: Vlárský průsmyk;17:06, Veselí nad Moravou;20:32
+4102: 6: Veselí nad Moravou;3:57, Brno hl.n.;5:50
+4102: T: Kyjov;4:26, Brno hl.n.;5:50
+4107: 25: Brno hl.n.;6:12, Veselí nad Moravou;8:04
+1764: T: Staré Město u Uherského Hradiště;8:33, Brno hl.n.;10:33
+1765: T: Brno hl.n.;11:28, Staré Město u Uherského Hradiště;13:25
+1770: T: Staré Město u Uherského Hradiště;14:33, Brno hl.n.;16:33
+4182: 6: Veselí nad Moravou;20:05, Kyjov;20:32
+4127: zX: Brno hl.n.;22:25, Kyjov;23:46
+
+4144: X: Kyjov;4:55, Brno hl.n.;6:20
+1761: X: Brno hl.n.;7:35, Staré Město u Uherského Hradiště;9:25
+1766: X: Staré Město u Uherského Hradiště;10:33, Brno hl.n.;12:33
+104434| zadní|zadní část: X: Brno hl.n.;13:54, Moravské Bránice;14:26
+4458: X: Moravské Bránice;14:31, Ivančice;14:41
+14423: X: Ivančice;14:46, Moravské Bránice;14:56
+14422: X: Moravské Bránice;15:01, Ivančice;15:11
+4461: X: Ivančice;15:16, Moravské Bránice;15:26
+101747| přední|přední část: X: Moravské Bránice;16:00, Brno hl.n.;16:26
+104412| zadní|zadní část: X: Brno hl.n.;16:54, Moravské Bránice;17:26
+14430: X: Moravské Bránice;17:31, Ivančice;17:41
+14431: X5: Ivančice;17:46, Moravské Bránice;17:56
+114431sv: X5: Moravské Bránice;18:01, Brno-Horní Heršpice;18:20
+14433: X1234: Ivančice;18:16, Moravské Bránice;18:26
+104441| přední|přední část: X1234: Moravské Bránice;18:31, Brno hl.n.;19:04
+1777: X5: Brno hl.n.;21:28, Veselí nad Moravou;22:58
+21991sv: T: Veselí nad Moravou;16:23, Vlárský průsmyk;18:25
+1776: T: Vlárský průsmyk;18:33, Brno hl.n.;21:45
+4159: X1234: Brno hl.n.;23:10, Nemotice;0:10
+4159: T: Brno hl.n.;23:10, Nesovice;0:01
+
+
+1: 6: 1
+2: 6: 2

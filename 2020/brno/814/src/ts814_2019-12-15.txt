@@ -1,0 +1,74 @@
+1743: X: Hrušovany nad Jevišovkou-Šanov;6:09, Brno hl.n.;7:25
+1765: X: Brno hl.n.;11:28, Staré Mìsto u Uherského Hradištì;13:25
+1770: X: Staré Mìsto u Uherského Hradištì;14:33, Brno hl.n.;16:33
+4419: X5: Hrušovany nad Jevišovkou-Šanov;20:37, Brno hl.n.;22:04
+4418: T: Brno hl.n.;20:54, Hrušovany nad Jevišovkou-Šanov;22:13
+
+4560: X: Hrušovany nad Jevišovkou-Šanov;4:54, Znojmo;5:22
+4505: X: Znojmo;5:58, Bøeclav;7:15
+4506: X: Bøeclav;7:40, Znojmo;8:54
+4511: X: Znojmo;10:56, Bøeclav;12:13
+4514: X: Bøeclav;13:36, Znojmo;14:54
+4521: X: Znojmo;15:56, Bøeclav;17:12
+4524: X1234: Bøeclav;18:40, Hrušovany nad Jevišovkou-Šanov;19:25
+4524: X5: Bøeclav;18:40, Znojmo;19:54
+4500: 6: Hrušovany nad Jevišovkou-Šanov;5:54, Znojmo;6:22
+4507: 6: Znojmo;6:56, Bøeclav;8:15
+4508: 6: Bøeclav;9:38, Znojmo;10:54
+4515: 6: Znojmo;12:56, Bøeclav;14:14
+4518: 6: Bøeclav;15:37, Znojmo;16:54
+4527: 6: Znojmo;18:56, Bøeclav;20:14
+4528: 6: Bøeclav;21:36, Hrušovany nad Jevišovkou-Šanov;22:25
+
+4501: X1: Znojmo;4:08, Bøeclav;5:24
+4501: X2345: Hrušovany nad Jevišovkou-Šanov;4:34, Bøeclav;5:24
+4502: X: Bøeclav;5:57, Znojmo;7:20
+4509: X: Znojmo;8:56, Bøeclav;10:11
+4510: X: Bøeclav;11:38, Znojmo;12:54
+4517: X: Znojmo;13:56, Bøeclav;15:12
+4520: X: Bøeclav;16:42, Znojmo;17:54
+4500: T: Hrušovany nad Jevišovkou-Šanov;5:54, Znojmo;6:22
+4507: T: Znojmo;6:56, Bøeclav;8:15
+4508: T: Bøeclav;9:38, Znojmo;10:54
+4515: T: Znojmo;12:56, Bøeclav;14:14
+4518: T: Bøeclav;15:37, Znojmo;16:54
+4527: XT: Znojmo;18:56, Bøeclav;20:14
+4528: XT: Bøeclav;21:36, Znojmo;22:54
+
+4503: X: Znojmo;4:58, Bøeclav;6:25
+4550: X: Bøeclav;6:47, Mikulov na Moravì;7:14
+4551: X: Mikulov na Moravì;8:48, Bøeclav;9:09
+4512: X: Bøeclav;12:40, Znojmo;13:54
+4519: X: Znojmo;14:56, Bøeclav;16:14
+4522: X: Bøeclav;17:37, Znojmo;18:54
+4505: 6: Znojmo;5:58, Bøeclav;7:15
+4506: 6: Bøeclav;7:40, Znojmo;8:54
+4511: 6: Znojmo;10:56, Bøeclav;12:13
+4514: 6: Bøeclav;13:36, Znojmo;14:54
+4523: 25: Znojmo;16:56, Bøeclav;18:14
+4526: 25: Bøeclav;19:36, Znojmo;20:54
+
+4515: X: Znojmo;12:56, Bøeclav;14:14
+4518: X: Bøeclav;15:37, Znojmo;16:54
+4525: X: Znojmo;17:56, Bøeclav;19:12
+
+4500: X: Bøeclav;4:57, Znojmo;6:22
+4507: X: Znojmo;6:56, Bøeclav;8:15
+4508: X: Bøeclav;9:38, Znojmo;10:54
+4513: X: Znojmo;11:56, Bøeclav;13:11
+4516: X: Bøeclav;14:40, Znojmo;15:54
+4523: X: Znojmo;16:56, Bøeclav;18:14
+4526: X: Bøeclav;19:36, Znojmo;20:54
+4563: X: Znojmo;22:31, Hrušovany nad Jevišovkou-Šanov;23:08
+4509: T: Znojmo;8:56, Bøeclav;10:11
+4510: T: Bøeclav;11:38, Znojmo;12:54
+4519: T: Znojmo;14:56, Bøeclav;16:14
+4522: T: Bøeclav;17:37, Znojmo;18:54
+4561: T: Znojmo;21:06, Hrušovany nad Jevišovkou-Šanov;21:33
+
+
+1:56:1
+3:6:2
+4:6:4
+6:5:2
+6:6:5

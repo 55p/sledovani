@@ -1,0 +1,281 @@
+229391pksv| př PhL-PhM|přípřež Praha-Libeň - Praha Masarykovo nádraží: X1: Praha jih;3:05, Praha-Libeň;3:18;3:25, Praha Masarykovo nádraží;3:30
+129391sv: vX: Praha jih;3:05, Praha-Libeň;3:18;3:25, Praha Masarykovo nádraží;3:30
+109305pk: X1: Praha Masarykovo nádraží;3:38, Kolín;4:48
+9305: vX: Praha Masarykovo nádraží;3:38, Kolín;4:48
+9310: T: Řečany nad Labem;4:52, Praha Masarykovo nádraží;6:35
+9314: X: Kolín;6:20, Praha Masarykovo nádraží;7:35
+9317: T: Praha Masarykovo nádraží;7:00, Kolín;8:11
+9319: X: Praha Masarykovo nádraží;8:00, Kolín;9:14
+9322: T: Kolín;8:20, Praha Masarykovo nádraží;9:35
+9324: X: Kolín;9:20, Praha Masarykovo nádraží;10:34
+9323: T: Praha Masarykovo nádraží;10:00, Kolín;11:11
+9325: X: Praha Masarykovo nádraží;11:00, Kolín;12:11
+9328: T: Kolín;11:20, Praha Masarykovo nádraží;12:34
+9330: X: Kolín;12:20, Praha Masarykovo nádraží;13:34
+9329: T: Praha Masarykovo nádraží;13:00, Kolín;14:11
+109333pk: X: Praha Masarykovo nádraží;14:00, Kolín;15:11
+9334: T: Kolín;14:20, Praha Masarykovo nádraží;15:34
+9338: X: Kolín;15:20, Praha Masarykovo nádraží;16:34
+9341: T: Praha Masarykovo nádraží;16:00, Kolín;17:14
+109345pk: X: Praha Masarykovo nádraží;17:00, Kolín;18:14
+9346: T: Kolín;17:20, Praha Masarykovo nádraží;18:34
+9353: T: Praha Masarykovo nádraží;19:00, Kolín;20:11
+9358: T: Kolín;20:20, Praha Masarykovo nádraží;21:34
+9361: T: Praha Masarykovo nádraží;22:00, Kolín;23:06
+
+9310: X: Kolín;5:20, Praha Masarykovo nádraží;6:35
+9317: X: Praha Masarykovo nádraží;7:00, Kolín;8:11
+9322: X: Kolín;8:20, Praha Masarykovo nádraží;9:35
+9323: X: Praha Masarykovo nádraží;10:00, Kolín;11:11
+9328: X: Kolín;11:20, Praha Masarykovo nádraží;12:34
+109329pk: X: Praha Masarykovo nádraží;13:00, Kolín;14:11
+9334: X: Kolín;14:20, Praha Masarykovo nádraží;15:34
+109341pk: X: Praha Masarykovo nádraží;16:00, Kolín;17:14
+9346: X: Kolín;17:20, Praha Masarykovo nádraží;18:34
+109353pk: X: Praha Masarykovo nádraží;19:00, Kolín;20:11
+121802sv| pk PhE-Phj|postrk Praha-Eden - Praha jih: X5: Kolín;20:18, Praha-Eden;21:05;21:12, Praha jih;21:16
+
+9304: X: Kolín;3:57, Praha Masarykovo nádraží;5:04
+129393sv: 6: Praha jih;4:27, Praha Masarykovo nádraží;4:53
+9309: 6: Praha Masarykovo nádraží;5:00, Kolín;6:11
+9311: X: Praha Masarykovo nádraží;5:30, Kolín;6:41
+5035: 6: Kolín;6:40, Pardubice hl.n.;7:29
+109318pk: X: Kolín;7:20, Praha Masarykovo nádraží;8:35
+9321: X: Praha Masarykovo nádraží;9:00, Kolín;10:11
+9326: X: Kolín;10:20, Praha Masarykovo nádraží;11:34
+9327: X: Praha Masarykovo nádraží;12:00, Kolín;13:11
+9332: X: Kolín;13:20, Praha Masarykovo nádraží;14:34
+109337pk: X: Praha Masarykovo nádraží;15:00, Kolín;16:14
+9342: X: Kolín;16:20, Praha Masarykovo nádraží;17:34
+109349pk: X: Praha Masarykovo nádraží;18:00, Přelouč;20:11
+5020: 6: Pardubice hl.n.;18:34, Kolín;19:22
+9354: X: Kolín;19:20, Praha Masarykovo nádraží;20:34
+9359: X: Praha Masarykovo nádraží;21:00, Řečany nad Labem;23:11
+9360: 6: Kolín;21:20, Praha Masarykovo nádraží;22:34
+9365: 6: Praha Masarykovo nádraží;23:00, Kolín;0:06
+108692sv: X: Řečany nad Labem;23:20, Kolín;23:33
+
+9308: 25: Kolín;4:55, Praha Masarykovo nádraží;6:04
+9315: 25: Praha Masarykovo nádraží;6:30, Český Brod;7:05
+109316pk: X: Kolín;6:52, Praha Masarykovo nádraží;8:04
+9316: 25: Český Brod;7:28, Praha Masarykovo nádraží;8:04
+8603: 25: Praha Masarykovo nádraží;8:30, Český Brod;9:07
+8600: 25: Český Brod;9:28, Praha Masarykovo nádraží;10:04
+8607: 25: Praha Masarykovo nádraží;10:30, Český Brod;11:07
+8604: 25: Český Brod;11:28, Praha Masarykovo nádraží;12:04
+8611: 25: Praha Masarykovo nádraží;12:30, Český Brod;13:07
+8608: 25: Český Brod;13:28, Praha Masarykovo nádraží;14:04
+9331: X: Praha Masarykovo nádraží;13:30, Kolín;14:41
+9335: 25: Praha Masarykovo nádraží;14:30, Český Brod;15:05
+9336: X: Kolín;14:52, Praha Masarykovo nádraží;16:04
+9336: 25: Český Brod;15:28, Praha Masarykovo nádraží;16:04
+9343: X: Praha Masarykovo nádraží;16:30, Kolín;17:41
+9343: 25: Praha Masarykovo nádraží;16:30, Český Brod;17:05
+9344: 25: Český Brod;17:28, Praha Masarykovo nádraží;18:04
+9350: X: Kolín;18:20, Praha Masarykovo nádraží;19:34
+9351: 25: Praha Masarykovo nádraží;18:30, Český Brod;19:05
+9352: 25: Český Brod;19:28, Praha Masarykovo nádraží;20:04
+9357: X: Praha Masarykovo nádraží;20:00, Pardubice hl.n.;22:00
+8613: 25: Praha Masarykovo nádraží;20:30, Český Brod;21:07
+8612: 25: Český Brod;21:28, Praha Masarykovo nádraží;22:04
+9363: 6: Praha Masarykovo nádraží;22:30, Český Brod;23:05
+9363: T: Praha Masarykovo nádraží;22:30, Kolín;23:36
+5044: X: Pardubice hl.n.;22:48, Kolín;23:30
+109390sv: 6: Český Brod;23:13, Praha jih;23:51
+
+5031: X6: Kolín;4:13, Pardubice hl.n.;4:56
+108899sv: T: Praha jih;4:31, Úvaly;4:56
+109312| pk Kon-PhM|postrk Kolín - Praha Masarykovo nádraží: X: Pardubice hl.n.;5:03, Praha Masarykovo nádraží;7:04
+9312: 6: Pardubice hl.n.;5:03, Praha Masarykovo nádraží;7:04
+9306: T: Úvaly;5:09, Praha Masarykovo nádraží;5:34
+9313: T: Praha Masarykovo nádraží;6:00, Kolín;7:11
+9318: T: Kolín;7:20, Praha Masarykovo nádraží;8:35
+8601: 6: Praha Masarykovo nádraží;7:30, Český Brod;8:07
+9320: 6: Český Brod;8:28, Praha Masarykovo nádraží;9:04
+9321: T: Praha Masarykovo nádraží;9:00, Kolín;10:11
+8605: 6: Praha Masarykovo nádraží;9:30, Český Brod;10:07
+9326: T: Kolín;10:20, Praha Masarykovo nádraží;11:34
+8602: 6: Český Brod;10:28, Praha Masarykovo nádraží;11:04
+8609: 6: Praha Masarykovo nádraží;11:30, Český Brod;12:07
+9327: T: Praha Masarykovo nádraží;12:00, Kolín;13:11
+8606: 6: Český Brod;12:28, Praha Masarykovo nádraží;13:04
+9332: T: Kolín;13:20, Praha Masarykovo nádraží;14:34
+9331: 6: Praha Masarykovo nádraží;13:30, Český Brod;14:05
+8610: 6: Český Brod;14:28, Praha Masarykovo nádraží;15:04
+9337: XT: Praha Masarykovo nádraží;15:00, Kolín;16:14
+9339: 6: Praha Masarykovo nádraží;15:30, Český Brod;16:05
+109342pk: X: Kolín;16:20, Praha Masarykovo nádraží;17:34
+9342: T: Kolín;16:20, Praha Masarykovo nádraží;17:34
+9340: 6: Český Brod;16:28, Praha Masarykovo nádraží;17:04
+9347: 6: Praha Masarykovo nádraží;17:30, Český Brod;18:05
+9349: X: Praha Masarykovo nádraží;18:00, Přelouč;20:11
+9349: T: Praha Masarykovo nádraží;18:00, Kolín;19:14
+9348: 6: Český Brod;18:28, Praha Masarykovo nádraží;19:04
+9354: T: Kolín;19:20, Praha Masarykovo nádraží;20:34
+9355: 6: Praha Masarykovo nádraží;19:30, Český Brod;20:05
+9356: 6: Český Brod;20:28, Praha Masarykovo nádraží;21:04
+9359: T: Praha Masarykovo nádraží;21:00, Přelouč;23:20
+8615: 6: Praha Masarykovo nádraží;21:30, Český Brod;22:07
+8614: 6: Český Brod;22:28, Praha Masarykovo nádraží;23:04
+8619: 6: Praha Masarykovo nádraží;23:30, Nymburk hl.n.;0:32
+
+109308| pk Kon-PhM|postrk Kolín - Praha Masarykovo nádraží: X: Přelouč;4:15, Praha Masarykovo nádraží;6:04
+9310: 6: Přelouč;4:45, Praha Masarykovo nádraží;6:35
+9403: X: Praha Masarykovo nádraží;6:22, Milovice;7:06
+9317: 6: Praha Masarykovo nádraží;7:00, Kolín;8:11
+125614pk: X: Milovice;7:14, Lysá nad Labem;7:20
+25617: X: Lysá nad Labem;7:33, Milovice;7:39
+109408pk: X: Milovice;7:47, Praha Masarykovo nádraží;8:30
+9322: 6: Kolín;8:20, Praha Masarykovo nádraží;9:35
+5815: X: Praha Masarykovo nádraží;8:52, Kolín;10:28
+9323: 6: Praha Masarykovo nádraží;10:00, Kolín;11:11
+9328: 6: Kolín;11:20, Praha Masarykovo nádraží;12:34
+5820: X: Kolín;11:29, Praha Masarykovo nádraží;13:00
+9329: 6: Praha Masarykovo nádraží;13:00, Kolín;14:11
+9417: X: Praha Masarykovo nádraží;13:22, Milovice;14:06
+25628: X: Milovice;14:14, Lysá nad Labem;14:20
+9334: 6: Kolín;14:20, Praha Masarykovo nádraží;15:34
+25631: X: Lysá nad Labem;14:33, Milovice;14:39
+9422: X: Milovice;14:47, Praha Masarykovo nádraží;15:30
+105833pk: X: Praha Masarykovo nádraží;15:52, Nymburk hl.n.;16:49
+9341: 6: Praha Masarykovo nádraží;16:00, Kolín;17:14
+9346: 6: Kolín;17:20, Praha Masarykovo nádraží;18:34
+5836: X: Nymburk hl.n.;18:06, Praha Masarykovo nádraží;19:00
+9353: 6: Praha Masarykovo nádraží;19:00, Kolín;20:11
+109429pk: X: Praha Masarykovo nádraží;19:22, Milovice;20:06
+25640: X: Milovice;20:14, Lysá nad Labem;20:20
+9358: 6: Kolín;20:20, Praha Masarykovo nádraží;21:34
+9467: X: Lysá nad Labem;21:07, Nymburk hl.n.;21:25
+9361: 6: Praha Masarykovo nádraží;22:00, Kolín;23:06
+
+5850: X: Nymburk hl.n.;4:36, Praha Masarykovo nádraží;5:30
+5807: X: Praha Masarykovo nádraží;5:52, Nymburk hl.n.;6:49
+5035: T: Kolín;6:40, Pardubice hl.n.;7:29
+5806: X: Nymburk hl.n.;7:06, Praha Masarykovo nádraží;8:00
+5006: T: Pardubice hl.n.;9:34, Kolín;10:22
+5009: T: Kolín;11:40, Česká Třebová;13:57
+9335: X: Praha Masarykovo nádraží;14:30, Kolín;15:41
+109340pk: X: Kolín;15:52, Praha Masarykovo nádraží;17:04
+5018: T: Česká Třebová;16:08, Pardubice hl.n.;17:17
+9347: X: Praha Masarykovo nádraží;17:30, Kolín;18:41
+5020: T: Pardubice hl.n.;18:34, Kolín;19:22
+9360: T: Kolín;21:20, Praha Masarykovo nádraží;22:34
+9365: T: Praha Masarykovo nádraží;23:00, Kolín;0:06
+
+9308: X: Přelouč;4:15, Praha Masarykovo nádraží;6:04
+109403pk: X: Praha Masarykovo nádraží;6:22, Milovice;7:06
+25614: X: Milovice;7:14, Lysá nad Labem;7:20
+125617pk: X: Lysá nad Labem;7:33, Milovice;7:39
+9408: X: Milovice;7:47, Praha Masarykovo nádraží;8:30
+105815pk: X: Praha Masarykovo nádraží;8:52, Nymburk hl.n.;9:49
+5816: X: Nymburk hl.n.;10:06, Praha Masarykovo nádraží;11:00
+9413: X: Praha Masarykovo nádraží;11:22, Milovice;12:06
+25624: X: Milovice;12:14, Lysá nad Labem;12:20
+25627: X: Lysá nad Labem;12:33, Milovice;12:39
+9418: X: Milovice;12:47, Praha Masarykovo nádraží;13:30
+105829pk: X: Praha Masarykovo nádraží;13:52, Nymburk hl.n.;14:49
+5832: X: Kolín;15:29, Praha Masarykovo nádraží;17:00
+109425pk: X: Praha Masarykovo nádraží;17:22, Milovice;18:06
+25636: X: Milovice;18:14, Lysá nad Labem;18:20
+9465: X: Lysá nad Labem;19:07, Nymburk hl.n.;19:25
+305892sv| vlož LnL-Pji|vložená Lysá nad Labem - Praha jih: X5: Nymburk hl.n.;20:15, Lysá nad Labem;20:27;20:43, Praha jih;21:31
+
+306902pksv| př PhL-PhM|přípřež Praha-Libeň - Praha Masarykovo nádraží: 6: Praha jih;3:50, Praha-Libeň;4:03;4:10, Praha Masarykovo nádraží;4:15
+5873: X: Nymburk hl.n.;4:25, Kolín;4:52
+9307: 6: Praha Masarykovo nádraží;4:30, Kolín;5:41
+105804| pk Nbh-PhM|postrk Nymburk hl.n. - Praha Masarykovo nádraží: X: Kolín;5:29, Praha Masarykovo nádraží;7:00
+9314: 6: Kolín;6:20, Praha Masarykovo nádraží;7:35
+9319: 6: Praha Masarykovo nádraží;8:00, Kolín;9:14
+9324: 6: Kolín;9:20, Praha Masarykovo nádraží;10:34
+9325: 6: Praha Masarykovo nádraží;11:00, Kolín;12:11
+9330: 6: Kolín;12:20, Praha Masarykovo nádraží;13:34
+9333: X6: Praha Masarykovo nádraží;14:00, Kolín;15:11
+109338pk: X: Kolín;15:20, Praha Masarykovo nádraží;16:34
+9338: 6: Kolín;15:20, Praha Masarykovo nádraží;16:34
+9345: X6: Praha Masarykovo nádraží;17:00, Kolín;18:14
+9350: 6: Kolín;18:20, Praha Masarykovo nádraží;19:34
+9357: 6: Praha Masarykovo nádraží;20:00, Pardubice hl.n.;22:00
+5044: 6: Pardubice hl.n.;22:48, Kolín;23:30
+
+9304: 25: Kolín;3:57, Praha Masarykovo nádraží;5:04
+129390sv: 25: Praha Masarykovo nádraží;5:10, Praha jih;5:38
+109310pk: X: Kolín;5:20, Praha Masarykovo nádraží;6:35
+109197sv: X: Praha Masarykovo nádraží;6:57, Praha-Hor.Počernice;7:14
+9113: X: Praha-Hor.Počernice;7:30, Strančice;8:22
+9114: X: Strančice;8:38, Praha hl.n.;9:12
+129008sv: X: Praha hl.n.;9:27, Praha jih;9:37
+99999| Údržba SÚ|Údržba SÚ: : Praha jih-hala 512;13:00, Praha jih-hala 512;23:59
+
+99998| Údržba SÚ|Údržba SÚ: : Praha jih-hala 512;0:00, Praha jih-hala 512;12:30
+129303sv| pk PhE-PhM|postrk Praha-Eden - Praha Masarykovo nádraží: X: Praha jih;14:02, Praha-Eden;14:05;14:12, Praha Masarykovo nádraží;14:37
+9339: X: Praha Masarykovo nádraží;15:30, Kolín;16:41
+109344pk: X: Kolín;16:52, Praha Masarykovo nádraží;18:04
+9351: X: Praha Masarykovo nádraží;18:30, Kolín;19:41
+9358: X: Kolín;20:20, Praha Masarykovo nádraží;21:34
+9361: X: Praha Masarykovo nádraží;22:00, Kolín;23:06
+
+129391sv| pk PhL-PhM|postrk Praha-Libeň - Praha Masarykovo nádraží: X1: Praha jih;3:05, Praha-Libeň;3:18;3:25, Praha Masarykovo nádraží;3:30
+9305: X1: Praha Masarykovo nádraží;3:38, Kolín;4:48
+129393sv: T: Praha jih;4:27, Praha Masarykovo nádraží;4:53
+9309: T: Praha Masarykovo nádraží;5:00, Kolín;6:11
+109314pk: X: Kolín;6:20, Praha Masarykovo nádraží;7:35
+9314: T: Kolín;6:20, Praha Masarykovo nádraží;7:35
+9319: T: Praha Masarykovo nádraží;8:00, Kolín;9:14
+9324: T: Kolín;9:20, Praha Masarykovo nádraží;10:34
+9325: T: Praha Masarykovo nádraží;11:00, Kolín;12:11
+9330: T: Kolín;12:20, Praha Masarykovo nádraží;13:34
+9329: X: Praha Masarykovo nádraží;13:00, Kolín;14:11
+9333: T: Praha Masarykovo nádraží;14:00, Kolín;15:11
+109334pk: X: Kolín;14:20, Praha Masarykovo nádraží;15:34
+9338: T: Kolín;15:20, Praha Masarykovo nádraží;16:34
+9341: X: Praha Masarykovo nádraží;16:00, Kolín;17:14
+9345: T: Praha Masarykovo nádraží;17:00, Kolín;18:14
+109346pk: X: Kolín;17:20, Praha Masarykovo nádraží;18:34
+9350: T: Kolín;18:20, Praha Masarykovo nádraží;19:34
+9353: X: Praha Masarykovo nádraží;19:00, Kolín;20:11
+9357: T: Praha Masarykovo nádraží;20:00, Pardubice hl.n.;22:00
+221802sv| př PhE-Phj|přípřež Praha-Eden - Praha jih: X5: Kolín;20:18, Praha-Eden;21:05;21:12, Praha jih;21:16
+5044: T: Pardubice hl.n.;22:48, Kolín;23:30
+
+9306: X: Kolín;4:27, Praha Masarykovo nádraží;5:34
+9313: X: Praha Masarykovo nádraží;6:00, Kolín;7:11
+9318: X: Kolín;7:20, Praha Masarykovo nádraží;8:35
+8605: X: Praha Masarykovo nádraží;9:30, Český Brod;10:07
+8602: X: Český Brod;10:28, Praha Masarykovo nádraží;11:04
+8609: X: Praha Masarykovo nádraží;11:30, Český Brod;12:07
+8606: X: Český Brod;12:28, Praha Masarykovo nádraží;13:04
+109331pk: X: Praha Masarykovo nádraží;13:30, Kolín;14:41
+9336: X: Kolín;14:52, Praha Masarykovo nádraží;16:04
+109343pk: X: Praha Masarykovo nádraží;16:30, Kolín;17:41
+9348: X: Kolín;17:52, Praha Masarykovo nádraží;19:04
+9355: X: Praha Masarykovo nádraží;19:30, Kolín;20:39
+9360: X: Kolín;21:20, Praha Masarykovo nádraží;22:34
+9365: X: Praha Masarykovo nádraží;23:00, Kolín;0:06
+
+9302: X: Kolín;3:27, Praha Masarykovo nádraží;4:34
+9306: 6: Kolín;4:27, Praha Masarykovo nádraží;5:34
+9309: X: Praha Masarykovo nádraží;5:00, Kolín;6:11
+9313: 6: Praha Masarykovo nádraží;6:00, Kolín;7:11
+9316: X: Kolín;6:52, Praha Masarykovo nádraží;8:04
+9318: 6: Kolín;7:20, Praha Masarykovo nádraží;8:35
+8603: X: Praha Masarykovo nádraží;8:30, Český Brod;9:07
+9321: 6: Praha Masarykovo nádraží;9:00, Kolín;10:11
+8600: X: Český Brod;9:28, Praha Masarykovo nádraží;10:04
+9326: 6: Kolín;10:20, Praha Masarykovo nádraží;11:34
+8607: X: Praha Masarykovo nádraží;10:30, Český Brod;11:07
+8604: X: Český Brod;11:28, Praha Masarykovo nádraží;12:04
+9327: 6: Praha Masarykovo nádraží;12:00, Kolín;13:11
+8611: X: Praha Masarykovo nádraží;12:30, Český Brod;13:07
+9332: 6: Kolín;13:20, Praha Masarykovo nádraží;14:34
+8608: X: Český Brod;13:28, Praha Masarykovo nádraží;14:04
+109335pk: X: Praha Masarykovo nádraží;14:30, Kolín;15:41
+9337: 6: Praha Masarykovo nádraží;15:00, Kolín;16:14
+9340: X: Kolín;15:52, Praha Masarykovo nádraží;17:04
+9342: 6: Kolín;16:20, Praha Masarykovo nádraží;17:34
+109347pk: X: Praha Masarykovo nádraží;17:30, Kolín;18:41
+9349: 6: Praha Masarykovo nádraží;18:00, Kolín;19:14
+9352: X: Kolín;18:52, Praha Masarykovo nádraží;20:04
+9354: 6: Kolín;19:20, Praha Masarykovo nádraží;20:34
+8613: X: Praha Masarykovo nádraží;20:30, Český Brod;21:07
+9359: 6: Praha Masarykovo nádraží;21:00, Řečany nad Labem;23:11
+108690sv: X: Český Brod;21:20, Praha jih;21:58

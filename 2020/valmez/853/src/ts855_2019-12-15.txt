@@ -1,0 +1,23 @@
+3901: X6: Kroměříž;3:58, Valašské Meziříčí;5:23
+3931: T: Kroměříž;3:58, Valašské Meziříčí;5:23
+3924: : Valašské Meziříčí;22:23, Kroměříž;23:30
+
+13901: X: Kroměříž;4:20, Zborovice;4:47
+13900: X: Zborovice;4:50, Kroměříž;5:17
+13903: X: Kroměříž;5:25, Zborovice;5:52
+13902: X: Zborovice;6:00, Kroměříž;6:27
+13905: : Kroměříž;6:38, Zborovice;7:05
+13904: : Zborovice;7:08, Hulín;7:53
+13907: : Hulín;8:02, Zborovice;9:05
+13906: : Zborovice;9:08, Hulín;9:53
+13909: : Hulín;10:02, Zborovice;11:05
+13908: : Zborovice;11:08, Hulín;11:53
+13911: : Hulín;12:02, Zborovice;13:05
+13910: : Zborovice;13:08, Hulín;13:53
+13913: : Hulín;14:02, Zborovice;15:05
+13912: : Zborovice;15:08, Hulín;15:53
+13915: : Hulín;16:02, Zborovice;17:05
+13914: : Zborovice;17:08, Hulín;17:53
+13917: : Hulín;18:02, Zborovice;19:05
+13916: : Zborovice;19:08, Holešov;20:08
+3948: : Holešov;20:11, Kroměříž;20:34

@@ -1,0 +1,27 @@
+4070: X: Vyškov na Moravě;4:34, Nezamyslice;4:49
+4071: X: Nezamyslice;4:55, Vyškov na Moravě;5:10
+4072: X: Vyškov na Moravě;5:17, Nezamyslice;5:32
+4073: X: Nezamyslice;5:38, Vyškov na Moravě;5:56
+4076: X: Vyškov na Moravě;6:20, Nezamyslice;6:35
+4079: X: Nezamyslice;7:09, Vyškov na Moravě;7:24
+3872: X: Vyškov na Moravě;8:59, Přerov;9:51
+3873: X: Přerov;9:57, Vyškov na Moravě;10:55
+3874: X: Vyškov na Moravě;10:59, Přerov;11:51
+3875: X: Přerov;11:57, Vyškov na Moravě;12:55
+4074: 25: Vyškov na Moravě;5:47, Nezamyslice;6:02
+4077: 6: Nezamyslice;6:15, Vyškov na Moravě;6:30
+4075: T: Nezamyslice;6:05, Vyškov na Moravě;6:20
+21980sv: T: Vyškov na Moravě;6:23, Brno-Horní Heršpice;7:12
+21981sv: T: Brno-Horní Heršpice;11:57, Vyškov na Moravě;12:45
+4078: : Vyškov na Moravě;12:59, Nezamyslice;13:16
+4081: X: Nezamyslice;13:20, Vyškov na Moravě;13:37
+4082: X: Vyškov na Moravě;14:19, Nezamyslice;14:35
+4083: : Nezamyslice;14:38, Vyškov na Moravě;14:55
+4084: : Vyškov na Moravě;14:59, Nezamyslice;15:16
+104084sv: X: Nezamyslice;15:21, Prostějov hl.n.;15:43
+104085sv: X: Prostějov hl.n.;16:15, Nezamyslice;16:36
+4085: : Nezamyslice;16:38, Vyškov na Moravě;16:55
+4086: : Vyškov na Moravě;16:59, Nezamyslice;17:16
+4087: : Nezamyslice;18:38, Vyškov na Moravě;18:55
+3876: : Vyškov na Moravě;18:59, Přerov;20:01
+3877: : Přerov;20:57, Vyškov na Moravě;21:40

@@ -1,0 +1,80 @@
+﻿107798sv: X: Rakovník;6:25, Roztoky u Křivoklátu;6:41
+207705: X: Roztoky u Křivolátu;6:59, Rakovník;7:20
+107706pk: X: Rakovník;8:08, Beroun;9:03
+127712sv: X5: Beroun;14:14, Zadní Třebaň;14:27
+27712|L|čelem k Litni: X5: Zadní Třebaň;14:33, Lochovice;15:18
+27713|L|čelem k Litni: X5: Lochovice;15:41, Zadní Třebaň;16:25
+27714|L|čelem k Litni: X5: Zadní Třebaň;16:33, Lochovice;17:18
+27715|L|čelem k Litni: X5: Lochovice;17:41, Zadní Třebaň;18:25
+27716|L|čelem k Litni: X5: Zadní Třebaň;18:33, Lochovice;19:18
+
+127728sv: X: Beroun;4:45, Zadní Třebaň;4:57
+27728: X: Zadní Třebaň;5:03, Liteň;5:12
+27731: X: Liteň;5:17, Zadní Třebaň;5:25
+27730: X: Zadní Třebaň;5:33, Liteň;5:42
+27733: X: Liteň;5:47, Zadní Třebaň;5:55
+27732: X: Zadní Třebaň;6:03, Liteň;6:12
+27721: 25: Lochovice;6:11, Zadní Třebaň;6:55
+27702: 25: Zadní Třebaň;7:03, Lochovice;7:48
+27737: X: Liteň;7:17, Zadní Třebaň;7:25
+27736: X: Zadní Třebaň;7:33, Liteň;7:42
+27739: X: Liteň;7:47, Zadní Třebaň;7:55
+27738: X: Zadní Třebaň;8:03, Liteň;8:12
+27741: X: Liteň;8:17, Zadní Třebaň;8:25
+127741sv: X: Zadní Třebaň;8:33, Beroun;8:45
+127723|Z|čelem k Zadní Třebani: 25: Lochovice;8:41, Zadní Třebaň;9:25
+127708|Z|čelem k Zadní Třebani: 25: Zadní Třebaň;9:33, Lochovice;10:18
+27709: 25: Lochovice;10:41, Zadní Třebaň;11:25
+27722: 25: Zadní Třebaň;11:33, Lochovice;12:18
+127711|Z|čelem k Zadní Třebani: 25: Lochovice;12:41, Zadní Třebaň;13:25
+227712sv: X1234: Beroun;14:14, Zadní Třebaň;14:27
+327712pksv: X5: Beroun;14:14, Zadní Třebaň;14:27
+27712: X1234: Zadní Třebaň;14:33, Lochovice;15:18
+127712|Z|čelem k Zadní Třebani: X5,25: Zadní Třebaň;14:33, Lochovice;15:18
+27713: X1234: Lochovice;15:41, Zadní Třebaň;16:25
+127713|Z|čelem k Zadní Třebani: X5,25: Lochovice;15:41, Zadní Třebaň;16:25
+27714: X1234: Zadní Třebaň;16:33, Lochovice;17:18
+127714|Z|čelem k Zadní Třebani: X5,25: Zadní Třebaň;16:33, Lochovice;17:18
+27715: X1234: Lochovice;17:41, Zadní Třebaň;18:25
+127715|Z|čelem k Zadní Třebani: X5,25: Lochovice;17:41, Zadní Třebaň;18:25
+27716: X1234,T: Zadní Třebaň;18:33, Lochovice;19:18
+127716|Z|čelem k Zadní Třebani: X5,6: : Zadní Třebaň;18:33, Lochovice;19:18
+27717: : Lochovice;20:11, Zadní Třebaň;20:55
+27718: : Zadní Třebaň;21:03, Lochovice;21:48
+27719: : Lochovice;22:11, Zadní Třebaň;22:55
+27720: : Zadní Třebaň;23:03, Lochovice;23:48
+
+27701: X: Lochovice;3:41, Zadní Třebaň;4:25
+27700: X: Zadní Třebaň;4:33, Lochovice;5:18
+27703: X: Lochovice;5:36, Zadní Třebaň;6:25
+27734: X: Zadní Třebaň;6:33, Liteň;6:42
+27721: X: Liteň;6:47, Zadní Třebaň;6:55
+27702: X: Zadní Třebaň;7:03, Lochovice;7:48
+27705: X: Lochovice;8:11, Zadní Třebaň;8:55
+27723|L|čelem k Litni: 25: Lochovice;8:41, Zadní Třebaň;9:25
+27706: X: Zadní Třebaň;9:03, Lochovice;9:48
+27708|L|čelem k Litni: 25: Zadní Třebaň;9:33, Lochovice;10:18
+27707: X: Lochovice;10:11, Zadní Třebaň;10:55
+27710: X: Zadní Třebaň;11:03, Lochovice;11:48
+27711: X: Lochovice;12:41, Zadní Třebaň;13:25
+27711|L|čelem k Litni: 25: Lochovice;12:41, Zadní Třebaň;13:25
+27740: X: Zadní Třebaň;13:33, Liteň;13:42
+27712|L|čelem k Litni: 25: Zadní Třebaň;14:33, Lochovice;15:18
+27743: X: Liteň;15:17, Zadní Třebaň;15:25
+27742: X: Zadní Třebaň;15:33, Liteň;15:42
+27713|L|čelem k Litni: 25: Lochovice;15:41, Zadní Třebaň;16:25
+27714|L|čelem k Litni: 25: Zadní Třebaň;16:33, Lochovice;17:18
+27745: X: Liteň;17:17, Zadní Třebaň;17:25
+27744: X: Zadní Třebaň;17:33, Liteň;17:42
+27715|L|čelem k Litni: 25: Lochovice;17:41, Zadní Třebaň;18:25
+27716|L|čelem k Litni: 6: Zadní Třebaň;18:33, Lochovice;19:18
+227715sv: T: Zadní Třebaň;18:37, Beroun;18:49
+27747: X: Liteň;19:17, Zadní Třebaň;19:25
+27746: X: Zadní Třebaň;19:33, Liteň;19:42
+27749: X: Liteň;20:17, Zadní Třebaň;20:25
+127749sv: X: Zadní Třebaň;20:33, Beroun;20:45
+7727: X: Beroun;23:14, Rakovník;0:06
+
+
+1:67:1
+3:67:2

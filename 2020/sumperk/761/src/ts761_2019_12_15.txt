@@ -1,0 +1,21 @@
+3680:2712,3012,3112: Šumperk;4:32, Uničov;5:15
+13722:2712,3012,3112: Uničov;5:37, Olomouc hl.n.;6:20
+3680:X,-2712,-3012,-3112: Šumperk;4:32, Olomouc hl.n.;5:54
+3683:X: Olomouc hl.n.;14:54, Šumperk;16:10
+13021:X: Šumperk;16:50, Zábřeh na Moravě;17:07
+1411:X: Zábřeh na Moravě;17:31, Jeseník;18:58
+
+1412:: Jeseník;7:00, Zábřeh na Moravě;8:25
+1403:: Zábřeh na Moravě;9:31, Jeseník;10:58
+1406:: Jeseník;13:01, Zábřeh na Moravě;14:25
+1409:: Zábřeh na Moravě;15:31, Jeseník;16:58
+
+1410:: Jeseník;9:01, Zábřeh na Moravě;10:25
+1405:: Zábřeh na Moravě;11:31, Jeseník;12:58
+1404:: Jeseník;15:01, Zábřeh na Moravě;16:25
+13020:X: Zábřeh na Moravě;18:26, Šumperk;18:44
+1411:25: Zábřeh na Moravě;17:31, Jeseník;18:58
+
+
+3:67:2
+3:5:1

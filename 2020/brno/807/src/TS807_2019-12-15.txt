@@ -1,0 +1,50 @@
+4101: X: Brno hl.n.;4:14, Uherské Hradiště;6:24
+4131: X: Uherské Hradiště;6:30, Kunovice;6:33
+4132: X: Kunovice;6:37, Uherské Hradiště;6:40
+4110: X: Uherské Hradiště;7:36, Brno hl.n.;9:48
+4115: X: Brno hl.n.;10:15, Uherské Hradiště;12:31
+4116: X: Uherské Hradiště;13:30, Brno hl.n.;15:48
+4121: X: Brno hl.n.;16:14, Staré Město u Uherského Hradiště;18:46
+4122: X: Staré Město u Uherského Hradiště;19:04, Veselí nad Moravou;19:48
+1773: 6: Brno hl.n.;17:28, Bojkovice;20:03
+4111: T: Brno hl.n.;8:12, Uherské Hradiště;10:27
+4114: T: Uherské Hradiště;11:30, Brno hl.n.;13:48
+4119: T: Brno hl.n.;14:14, Uherské Hradiště;16:31
+4120: T: Uherské Hradiště;17:30, Brno hl.n.;19:48
+4125: T: Brno hl.n.;20:15, Veselí nad Moravou;22:04
+
+1758: X: Veselí nad Moravou;4:50, Brno hl.n.;6:33
+4147: X: Brno hl.n.;14:48, Nemotice;15:53
+4152: X: Nemotice;16:11, Brno-Židenice;17:10
+4153: X1234: Brno hl.n.;17:48, Nemotice;18:52
+4156: X1234: Nemotice;19:11, Nesovice;19:20
+4153: X5: Brno hl.n.;17:48, Kyjov;19:05
+1762: T: Bojkovice město;5:55, Brno hl.n.;8:33
+1763: T: Brno hl.n.;9:28, Staré Město u Uherského Hradiště;11:25
+1768: T: Staré Město u Uherského Hradiště;12:33, Brno hl.n.;14:33
+
+4193sv: X1: Brno hl.n.;4:46, Nesovice;5:31
+4104: X: Nesovice;5:52, Brno hl.n.;6:50
+4111: X: Brno hl.n.;8:12, Uherské Hradiště;10:27
+4114: X: Uherské Hradiště;11:30, Brno hl.n.;13:48
+4119: X: Brno hl.n.;14:14, Uherské Hradiště;16:31
+4120: X: Uherské Hradiště;17:30, Brno hl.n.;19:48
+4125: X: Brno hl.n.;20:15, Veselí nad Moravou;22:04
+4101: 6: Kyjov;5:32, Uherské Hradiště;6:24
+4101: T: Veselí nad Moravou;6:03, Uherské Hradiště;6:24
+4131: 25: Uherské Hradiště;6:30, Kunovice;6:33
+4132: 25: Kunovice;6:37, Uherské Hradiště;6:40
+4110: 25: Uherské Hradiště;7:36, Brno hl.n.;9:48
+4115: 25: Brno hl.n.;10:15, Uherské Hradiště;12:31
+4116: 25: Uherské Hradiště;13:30, Brno hl.n.;15:48
+4121: 25: Brno hl.n.;16:14, Staré Město u Uherského Hradiště;18:46
+4122: 25: Staré Město u Uherského Hradiště;19:04, Veselí nad Moravou;19:48
+
+4102: X: Veselí nad Moravou;3:57, Brno hl.n.;5:50
+4107: X: Brno hl.n.;6:12, Uherské Hradiště;8:31
+4107: 25: Brno hl.n.;6:12, Veselí nad Moravou;8:04
+4112: : Uherské Hradiště;9:30, Brno hl.n.;11:48
+4117: : Brno hl.n.;12:15, Uherské Hradiště;14:31
+4118: : Uherské Hradiště;15:30, Brno hl.n.;17:48
+4123: : Brno hl.n.;18:15, Uherské Hradiště;20:31
+1778: : Uherské Hradiště;20:41, Brno hl.n.;22:33

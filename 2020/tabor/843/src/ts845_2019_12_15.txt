@@ -1,0 +1,75 @@
+18440: X: Horní Cerekev;4:37, Dobronín;5:39
+18440: 6: Horní Cerekev;4:37, Jihlava;5:18
+18409: 6: Jihlava;6:37, Tábor;8:52
+18443: X: Dobronín;6:22, Pelhřimov;7:37
+18409: X: Pelhřimov;7:46, Tábor;8:52
+18412: X: Tábor;14:19, Pelhřimov;15:27
+18417: X5: Pelhřimov;15:46, Tábor;16:52
+18416: X5: Tábor;17:05, Jihlava;19:20
+18449: X5: Jihlava;20:40, Horní Cerekev;21:21
+
+18403: X2345: Pelhřimov;3:46, Tábor;4:52
+118402: X1: Tábor;5:05, Horní Cerekev;6:38
+18402: X2345: Tábor;5:05, Horní Cerekev;6:34
+18442: X: Horní Cerekev;6:42, Jihlava;7:23
+18404: T: Tábor;7:05, Jihlava;9:20
+18413: T: Jihlava;10:37, Tábor;12:52
+18410: T: Tábor;13:05, Pacov;13:45
+18415: X: Jihlava;12:37, Tábor;14:52
+18415: T: Pacov;14:13, Tábor;14:52
+18414: XT: Tábor;15:06, Jihlava;17:20
+18421: XT: Jihlava;18:37, Tábor;20:52
+18422: XT: Tábor;21:23, Pelhřimov;22:30
+
+218402vlož: 1: Tábor;5:05, Pelhřimov;6:12
+18405: 25: Pelhřimov;5:46, Tábor;6:52
+18404: 6: Tábor;7:05, Jihlava;9:20
+18407: X: Pelhřimov;6:31, Tábor;7:37
+18406: X: Tábor;9:05, Pacov;9:45
+18411: X: Pacov;10:13, Tábor;10:52
+18408: X: Tábor;11:05, Dobronín;13:41
+118408|pk Jih-Dob|pk Jihlava - Dobronín: X: Jihlava;13:30, Dobronín;13:41
+18417: X: Dobronín;14:19, Tábor;16:52
+18416: X1234: Tábor;17:05, Jihlava;19:20
+18449: X1234: Jihlava;20:40, Horní Cerekev;21:21
+18410: 6: Tábor;13:05, Pacov;13:45
+18415: 6: Pacov;14:13, Tábor;14:52
+18414: 6: Tábor;15:05, Jihlava;17:20
+18421: 6: Jihlava;18:37, Tábor;20:52
+18422: 6: Tábor;21:23, Pelhřimov;22:30
+
+18403: X1: Pelhřimov;3:46, Tábor;4:52
+18402: X1: Tábor;5:05, Horní Cerekev;6:38
+18402: 6: Horní Cerekev;6:40, Jihlava;7:20
+18442: X: Horní Cerekev;6:42, Jihlava;7:23
+18411: 25: Jihlava;8:37, Tábor;10:52
+18408: 25: Tábor;11:05, Jihlava;13:20
+18408: X: Jihlava;13:30, Dobronín;13:41
+118417pk: X1234: Dobronín;14:19, Horní Cerekev;15:17
+118417pk: 5: Dobronín;14:19, Tábor;16:52
+18417: 25: Jihlava;14:37, Tábor;16:52
+18416: 25: Tábor;17:05, Jihlava;19:20
+18449: T: Jihlava;20:40, Horní Cerekev;21:21
+
+18440: X: Horní Cerekev;4:37, Batelov;4:44
+18440: T: Horní Cerekev;4:37, Jihlava;5:18
+18405: X: Batelov;5:03, Tábor;6:52
+18404: X: Tábor;7:05, Jihlava;9:20
+18413: X: Jihlava;10:37, Tábor;12:52
+18410: X: Tábor;13:05, Jihlava;15:21
+18409: T: Jihlava;6:37, Tábor;8:52
+18406: 25: Tábor;9:05, Jihlava;11:20
+18419: : Jihlava;16:37, Tábor;18:52
+18418: : Tábor;19:05, Kostelec u Jihlavy;21:13
+18451: : Kostelec u Jihlavy;22:58, Horní Cerekev;23:16
+
+
+1:5:4
+2:7:4
+3:7:2
+3:6:3
+3:5:2
+2:6:1
+1:7:3
+4:6:4
+5:6:5

@@ -1,0 +1,44 @@
+17540: X: Klatovy;4:36, Domažlice;5:28
+17545: X: Domažlice;5:34, Klatovy;6:27
+17544: X: Klatovy;6:31, Domažlice;7:23
+7206: X: Domažlice;8:28, Planá u Mariánských Lázní;10:49
+7205: X: Planá u Mariánských Lázní;11:08, Domažlice;13:20
+7244: X: Domažlice;13:28, Poběžovice;14:00
+7243: X: Poběžovice;14:13, Domažlice;14:51
+7226: X: Domažlice;15:28, Bělá nad Radbuzou;16:19
+
+7223: X: Bělá nad Radbuzou;5:51, Domažlice;6:48
+7242: X: Domažlice;7:23, Poběžovice;7:53
+7241: X: Poběžovice;7:56, Domažlice;8:27
+17553: X: Domažlice;11:30, Klatovy;12:21
+17515: X: Klatovy;14:38, Horažďovice předměstí;15:58
+17534: X: Horažďovice předměstí;16:02, Sušice;16:25
+17537: X: Sušice;17:35, Horažďovice předměstí;17:58
+17536: X: Horažďovice předměstí;18:16, Sušice;18:39
+117520pk: X5: Sušice;19:34, Klatovy;20:23
+
+17505: X1: Klatovy;6:33, Strakonice;8:19
+17514: X1: Strakonice;13:55, Klatovy;15:27
+17533: X2345: Sušice;6:41, Strakonice;7:28
+17570: X2345: Strakonice;7:40, Horažďovice;8:05
+117510pk: X5: Horažďovice předměstí;11:10, Sušice;11:33
+117513pk: X5: Sušice;14:26, Horažďovice předměstí;14:49
+17532: X2345: Horažďovice předměstí;14:53, Sušice;15:15
+17517: X5: Sušice;16:26, Horažďovice předměstí;16:49
+117518pk: X5: Horažďovice předměstí;17:10, Klatovy;18:23
+117519pk: T: Klatovy;17:33, Horažďovice předměstí;18:49
+117584pk: T: Horažďovice předměstí;18:53, Horažďovice;18:56
+117585pk: T: Horažďovice;19:01, Horažďovice předměstí;19:04
+117520pk: T: Horažďovice předměstí;19:10, Sušice;19:33
+
+17500: X: Sušice;4:34, Klatovy;5:23
+117503|nč|nečinná: X1: Klatovy;5:30, Horažďovice předměstí;6:42
+17533: X1: Sušice;6:41, Strakonice;7:28
+17570: X1: Strakonice;7:40, Horažďovice;8:05
+17532: X1: Horažďovice předměstí;14:53, Sušice;15:15
+17505: X2345: Klatovy;6:33, Strakonice;8:19
+17514: X2345: Strakonice;13:55, Klatovy;15:27
+
+
+4:1:4
+3:1:1

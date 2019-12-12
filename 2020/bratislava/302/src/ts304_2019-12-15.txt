@@ -1,0 +1,8 @@
+702: X: Žilina;4:20, Bratislava hl.st.;6:47
+704: 25: Žilina;5:20, Bratislava hl.st.;7:47
+605: : Bratislava hl.st.;10:13, Košice;15:53
+764: : Košice;18:07, Trenčín;22:43
+
+767: : Trenčín;5:14, Košice;9:53
+608: : Košice;12:07, Bratislava hl.st.;17:47
+717: : Bratislava hl.st.;20:13, Žilina;22:40

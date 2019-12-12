@@ -1,0 +1,42 @@
+18872: X: Vyšší Brod klášter;5:07, Lipno nad Vltavou;5:26
+18801: X: Lipno nad Vltavou;5:40, Èeské Budìjovice;7:31
+18801: 25: Vyšší Brod klášter;5:58, Èeské Budìjovice;7:31
+18801: : Vyšší Brod klášter;5:58, Rybník;6:20
+3883: X: Èeské Budìjovice;15:01, Horní Dvoøištì;16:10
+3886: X: Horní Dvoøištì;17:51, Èeské Budìjovice;18:59
+3887: z25: Èeské Budìjovice;21:10, Horní Dvoøištì;22:12
+
+71831: X: Èeské Budìjovice;4:04, Horní Dvoøištì;4:59
+18820: : Horní Dvoøištì;6:11, Lipno nad Vltavou;7:51
+18823: : Lipno nad Vltavou;8:14, Rybník;8:54
+18824: : Rybník;9:04, Lipno nad Vltavou;9:45
+18825: : Lipno nad Vltavou;10:13, Rybník;10:55
+18828: : Rybník;11:05, Lipno nad Vltavou;11:47
+18829: : Lipno nad Vltavou;12:11, Rybník;12:54
+18832: : Rybník;13:05, Lipno nad Vltavou;13:48
+18833: : Lipno nad Vltavou;14:11, Rybník;14:55
+18836: : Rybník;15:12, Lipno nad Vltavou;15:53
+18837: : Lipno nad Vltavou;16:13, Rybník;16:54
+18840: : Rybník;17:05, Lipno nad Vltavou;17:46
+18841: : Lipno nad Vltavou;18:12, Rybník;18:54
+18844: : Rybník;19:12, Lipno nad Vltavou;19:55
+18845: : Lipno nad Vltavou;20:42, Rybník;21:22
+18860: : Rybník;22:10, Vyšší Brod klášter;22:31
+
+18861: : Vyšší Brod klášter;5:08, Rybník;5:30
+18822: : Rybník;6:23, Lipno nad Vltavou;7:04
+18821: : Lipno nad Vltavou;7:14, Rybník;8:00
+18826: : Rybník;10:07, Lipno nad Vltavou;10:50
+18827: : Lipno nad Vltavou;11:10, Rybník;11:51
+18830: : Rybník;12:05, Lipno nad Vltavou;12:48
+18831: X: Lipno nad Vltavou;13:11, Rybník;13:52
+18834: X: Rybník;14:07, Lipno nad Vltavou;14:48
+18835: X: Lipno nad Vltavou;15:15, Rybník;15:56
+18838: X: Rybník;16:07, Lipno nad Vltavou;16:50
+18839: X: Lipno nad Vltavou;17:09, Rybník;17:50
+18842: X: Rybník;18:05, Lipno nad Vltavou;18:49
+18831: 25: Lipno nad Vltavou;13:11, Vyšší Brod klášter;13:28
+18842: 25: Vyšší Brod klášter;18:30, Lipno nad Vltavou;18:49
+18843: : Lipno nad Vltavou;19:18, Rybník;19:59
+18846: : Rybník;20:57, Lipno nad Vltavou;21:40
+18871: : Lipno nad Vltavou;21:50, Vyšší Brod klášter;22:07

@@ -1,0 +1,8 @@
+5032: X1: Pardubice hl.n.;4:32, Kolín;5:14
+5033: X: Kolín;6:06, Pardubice hl.n.;6:52
+100874: X: Pardubice hl.n.;7:00, Praha-Smíchov;8:13
+100873pk: X1234: Praha-Smíchov;15:44, Pardubice hl.n.;17:02
+100873pk: X5: Praha-Smíchov;15:44, Brno hl.n.;19:02
+5042: X1234: Pardubice hl.n.;20:34, Kolín;21:22
+100864: T: Brno hl.n.;14:56, Praha-Smíchov;18:12
+100877pk: T: Praha-Smíchov;20:01, Pardubice hl.n.;21:30

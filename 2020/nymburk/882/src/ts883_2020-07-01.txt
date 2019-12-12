@@ -1,0 +1,67 @@
+15811: X: Nymburk hl.n.;10:04, Jičín;11:29
+15812: X: Jičín;12:37, Nymburk hl.n.;13:51
+115819pk: X: Nymburk hl.n.;15:09, Křinec;15:27
+15609: X: Křinec;15:34, Městec Králové;15:55
+15608: X: Městec Králové;15:58, Křinec;16:19
+115818: X: Křinec;16:27, Nymburk hl.n.;16:47
+115823pk: X: Nymburk hl.n.;17:09, Křinec;17:27
+15611: X: Křinec;17:35, Městec Králové;17:56
+15610: X: Městec Králové;18:07, Křinec;18:28
+115822: X: Křinec;18:40, Nymburk hl.n.;18:58
+15840: 25: Nymburk hl.n.;3:57, Poříčany;4:17
+15841: 25: Poříčany;4:24, Nymburk hl.n.;4:44
+15846: 25: Nymburk hl.n.;5:20, Poříčany;5:41
+15849: 25: Poříčany;5:49, Nymburk hl.n.;6:10
+15850: 25: Nymburk hl.n.;6:13, Poříčany;6:34
+15851: 25: Poříčany;6:50, Nymburk hl.n.;7:11
+15607: 25: Nymburk hl.n.;11:09, Městec Králové;11:49
+15624: 25: Městec Králové;13:03, Křinec;13:24
+115812: 25: Křinec;13:32, Nymburk hl.n.;13:51
+15609: 25: Nymburk hl.n.;15:09, Městec Králové;15:55
+15608: 25: Městec Králové;15:58, Nymburk hl.n.;16:47
+15611: 25: Nymburk hl.n.;17:09, Městec Králové;17:56
+15610: 25: Městec Králové;18:07, Nymburk hl.n.;18:58
+15613: : Nymburk hl.n.;19:09, Městec Králové;19:49
+
+15620: X: Městec Králové;4:28, Křinec;4:49
+15621: X: Křinec;5:00, Městec Králové;5:21
+15622: X: Městec Králové;5:36, Křinec;5:57
+15623: X: Křinec;6:12, Městec Králové;6:33
+15833: X: Městec Králové;6:37, Rožďalovice;7:14
+15834: X: Rožďalovice;7:35, Nymburk hl.n.;7:59
+15607: X: Nymburk hl.n.;11:09, Městec Králové;11:49
+15653: X: Městec Králové;13:05, Chlumec nad Cidlinou;13:24
+15654: X: Chlumec nad Cidlinou;14:36, Městec Králové;14:55
+15655: X: Městec Králové;15:05, Chlumec nad Cidlinou;15:24
+15656: X: Chlumec nad Cidlinou;16:36, Městec Králové;16:55
+15657: X: Městec Králové;17:05, Chlumec nad Cidlinou;17:24
+15600: 25: Městec Králové;6:09, Nymburk hl.n.;6:50
+115807pk: 25: Nymburk hl.n.;7:13, Křinec;7:31
+15603: 25: Křinec;7:38, Městec Králové;7:59
+15602: 25: Městec Králové;8:03, Křinec;8:24
+115806: 25: Křinec;8:27, Nymburk hl.n.;8:46
+15878: 25: Nymburk hl.n.;19:16, Poříčany;19:37
+15879: 25: Poříčany;19:50, Nymburk hl.n.;20:11
+15882: 25: Nymburk hl.n.;20:16, Poříčany;20:37
+15883: 25: Poříčany;20:50, Nymburk hl.n.;21:11
+15884: 25: Nymburk hl.n.;21:20, Poříčany;21:41
+15885: 25: Poříčany;21:50, Nymburk hl.n.;22:11
+
+15648: X: Chlumec nad Cidlinou;4:41, Městec Králové;5:00
+15651: X: Městec Králové;5:05, Chlumec nad Cidlinou;5:24
+15652: X: Chlumec nad Cidlinou;11:33, Městec Králové;11:52
+15624: X: Městec Králové;13:03, Křinec;13:24
+115812: X: Křinec;13:32, Nymburk hl.n.;13:51
+15878: X: Nymburk hl.n.;19:16, Poříčany;19:37
+15879: X: Poříčany;19:50, Nymburk hl.n.;20:11
+15882: X: Nymburk hl.n.;20:16, Poříčany;20:37
+15883: X: Poříčany;20:50, Nymburk hl.n.;21:11
+15883: X: Poříčany;20:50, Nymburk hl.n.;21:11
+15884: X: Nymburk hl.n.;21:20, Poříčany;21:41
+15885: X: Poříčany;21:50, Nymburk hl.n.;22:11
+15886: X: Nymburk hl.n.;22:16, Poříčany;22:37
+15887: X: Poříčany;22:46, Nymburk hl.n.;23:06
+
+
+2:5:0
+2:67:1

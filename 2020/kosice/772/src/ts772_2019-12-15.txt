@@ -1,0 +1,17 @@
+931: : Zvolen;9:13, Košice;12:37
+814: : Košice;;13:23, Zvolen;16:47
+815: : Zvolen;19:13, Košice;22:35
+
+812: : Košice;;9:23, Zvolen;12:47
+7322: X6: Zvolen;15:11, Banská Bystrica;15:42
+7382: T: Zvolen;15:21, Banská Bystrica;15:54
+340: : Banská Bystrica;17:34, Žilina;19:05
+
+941: : Žilina;4:55, Banská Bystrica;6:26
+942: : Banská Bystrica;7:34, Žilina;9:05
+343: : Žilina;10:55, Zvolen;12:55
+813: : Zvolen;15:13, Košice;;18:37
+
+810: : Košice;;5:23, Zvolen;8:47
+811: : Zvolen;11:13, Košice;;14:37
+816: : Košice;;15:23, Zvolen;18:47
